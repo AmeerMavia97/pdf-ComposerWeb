@@ -40,7 +40,7 @@
       ]
     },
     "whyChoose": {
-      "title": "Neden GabungPDF.id’i Seçmelisiniz?",
+      "title": "Neden GabungPDF.id i Seçmelisiniz?",
       "points": [
         {
           "title": "<strong>Kurulum Gerektirmez:</strong>",
@@ -91,7 +91,7 @@
         },
         {
           "title": "2. Meta Verileri Ekleyin",
-          "desc": "PDF’ye başlık, yazar ve anahtar kelimeler ekleyin."
+          "desc": "PDF ye başlık, yazar ve anahtar kelimeler ekleyin."
         },
         {
           "title": "3. Metin Kullanın, Görsel Değil",
@@ -115,14 +115,14 @@
         },
         {
           "title": "8. PDF'yi Web Sitesinde Barındırın",
-          "desc": "Birleştirilmiş PDF’yi açıklama ve bağlantı ile ayrı bir sayfada yayınlayın."
+          "desc": "Birleştirilmiş PDF yi açıklama ve bağlantı ile ayrı bir sayfada yayınlayın."
         },
         {
           "title": "9. PDF Görüntülemelerini Takip Edin",
           "desc": "Google Analytics veya benzeri servisleri kullanın."
         },
         {
-          "title": "10. PDF’yi Tanıtın",
+          "title": "10. PDF yi Tanıtın",
           "desc": "Sosyal medya ve e-posta yoluyla paylaşın — harekete geçirici mesaj ekleyin."
         }
       ]
@@ -132,7 +132,7 @@
       "items": [
         {
           "title": "<strong>İş Raporları:</strong>",
-          "desc": "Metin, grafik ve fotoğrafları tek bir PDF’de birleştirin."
+          "desc": "Metin, grafik ve fotoğrafları tek bir PDF de birleştirin."
         },
         {
           "title": "<strong>Eğitim Projeleri:</strong>",
@@ -148,7 +148,7 @@
         },
         {
           "title": "<strong>Kişisel Arşivleme:</strong>",
-          "desc": "Tarama dosyaları, makbuzlar ve fotoğrafları tek PDF’de saklayın."
+          "desc": "Tarama dosyaları, makbuzlar ve fotoğrafları tek PDF de saklayın."
         }
       ]
     },
@@ -190,7 +190,7 @@
         },
         {
           "title": "<strong>Sonucu Kontrol Edin:</strong>",
-          "desc": "Birleştirilmiş PDF’yi açıp düzen ve içeriği kontrol edin."
+          "desc": "Birleştirilmiş PDF yi açıp düzen ve içeriği kontrol edin."
         }
       ]
     },
@@ -209,8 +209,8 @@
     "S1P1": "Modern dijital dünyada PDF dosyaları (Portable Document Format), belge paylaşımı ve saklamada vazgeçilmez hale gelmiştir. Microsoft Word veya Google Docs gibi geleneksel DOC dosyalarının aksine, PDF'ler her cihazda ve işletim sisteminde tasarımını korur. Bu da onları raporlar, sunumlar veya formlar gibi hem profesyonel hem kişisel kullanım için ideal yapar.",
     "S1P2": "Ancak, birden fazla dosyayı birleştirmeniz gerektiğinde PDF ile çalışmak zor olabilir. Bu rehberde, neden PDF dosyalarını birleştirmeniz gerektiğini, bunu ücretsiz ve kolayca nasıl yapabileceğinizi ve belge yönetiminizi sonsuza kadar nasıl kolaylaştıracağınızı göstereceğiz.",
     "S2H1": "PDF dosyalarının benzersizliği ve evrenselliği",
-    "S2P1": "PDF dosyaları, belge tasarımını cihaz veya yazılımdan bağımsız olarak doğru şekilde korumak için tasarlanmıştır. Sistem ayarlarına bağlı olan DOC dosyalarının aksine (örneğin yazı tipleri veya işletim sistemi), PDF sabit bir formata sahiptir. Bu, yazı tiplerinin, düzenin ve grafiklerin değişmeden kalmasını garanti eder ve PDF’yi sözleşmeler, özgeçmişler veya e-kitaplar gibi profesyonel belgeler için ideal kılar.",
-    "S2P2": "Bu kararlılık, PDF’yi internet üzerinden belge paylaşımı için popüler yapar. Ticari teklifler gönderirken veya önemli verileri arşivlerken, PDF belgelerin tam olarak oluşturulduğu şekilde görüntülenmesini sağlar. Ancak bu da PDF’lerin düzenlenmesini veya birleştirilmesini özel yazılımlar olmadan zorlaştırır. Neyse ki, ücretsiz online aracımız bu işlemi kolaylaştırır ve PDF’leri zahmetsizce birleştirmenize olanak tanır.",
+    "S2P1": "PDF dosyaları, belge tasarımını cihaz veya yazılımdan bağımsız olarak doğru şekilde korumak için tasarlanmıştır. Sistem ayarlarına bağlı olan DOC dosyalarının aksine (örneğin yazı tipleri veya işletim sistemi), PDF sabit bir formata sahiptir. Bu, yazı tiplerinin, düzenin ve grafiklerin değişmeden kalmasını garanti eder ve PDF yi sözleşmeler, özgeçmişler veya e-kitaplar gibi profesyonel belgeler için ideal kılar.",
+    "S2P2": "Bu kararlılık, PDF yi internet üzerinden belge paylaşımı için popüler yapar. Ticari teklifler gönderirken veya önemli verileri arşivlerken, PDF belgelerin tam olarak oluşturulduğu şekilde görüntülenmesini sağlar. Ancak bu da PDF lerin düzenlenmesini veya birleştirilmesini özel yazılımlar olmadan zorlaştırır. Neyse ki, ücretsiz online aracımız bu işlemi kolaylaştırır ve PDF leri zahmetsizce birleştirmenize olanak tanır.",
     "combine_pdf_files": {
       "intro": "Neden PDF dosyalarını birleştirmelisiniz?",
       "para": "PDF birleştirme, profesyoneller, öğrenciler ve çok sayıda belgeyle çalışan herkes için yaygın bir ihtiyaçtır. İşte işe yarayabileceği durumlar:",
@@ -225,14 +225,14 @@
         },
         {
           "title": "Sunumları kolaylaştırma:",
-          "desc": "Farklı PDF’lerden slaytları veya bölümleri birleştirmek sunumunuzu iyileştirir ve daha profesyonel yapar."
+          "desc": "Farklı PDF lerden slaytları veya bölümleri birleştirmek sunumunuzu iyileştirir ve daha profesyonel yapar."
         },
         {
           "title": "Paylaşımı kolaylaştırma:",
           "desc": "Birden fazla dosya göndermek yerine, tek bir birleşik PDF ile tüm bilgileri bir kerede paylaşabilirsiniz."
         }
       ],
-      "para2": "DOC dosyalarının aksine, PDF’ye kopyala-yapıştır yapmak zordur — taranmış belgelerden OCR olmadan metin kopyalamak genellikle mümkün değildir. Ücretsiz aracımız bu zorlukları ortadan kaldırır: aynı anda 20 dosyaya kadar birleştirme yapabilirsiniz — ücretli yazılıma veya özel bilgiye gerek yoktur."
+      "para2": "DOC dosyalarının aksine, PDF ye kopyala-yapıştır yapmak zordur — taranmış belgelerden OCR olmadan metin kopyalamak genellikle mümkün değildir. Ücretsiz aracımız bu zorlukları ortadan kaldırır: aynı anda 20 dosyaya kadar birleştirme yapabilirsiniz — ücretli yazılıma veya özel bilgiye gerek yoktur."
     },
     "stepbystep": {
       "intro": "PDF dosyaları nasıl birleştirilir – adım adım rehber",
@@ -248,7 +248,7 @@
         },
         {
           "title": "Adım 3: Birleştirin ve indirin",
-          "desc": "Her şey hazır olduğunda \"PDF’leri Birleştir\" butonuna tıklayın. Sistem dosyaları birleştirir ve son belgeyi otomatik olarak indirir. Hepsi hızlı, güvenli ve ek yazılım gerektirmez."
+          "desc": "Her şey hazır olduğunda \"PDF leri Birleştir\" butonuna tıklayın. Sistem dosyaları birleştirir ve son belgeyi otomatik olarak indirir. Hepsi hızlı, güvenli ve ek yazılım gerektirmez."
         }
       ],
       "intro2": "Daha fazla dosya birleştirmek ister misiniz?",
@@ -288,7 +288,7 @@
       "items": [
         {
           "title": "Profesyoneller için:",
-          "desc": "Faturalar, sözleşmeler ve teklifleri tek bir PDF’de toplayarak müşterilere veya iş arkadaşlarına kolayca gönderebilirsiniz."
+          "desc": "Faturalar, sözleşmeler ve teklifleri tek bir PDF de toplayarak müşterilere veya iş arkadaşlarına kolayca gönderebilirsiniz."
         },
         {
           "title": "Öğrenciler ve öğretmenler için:",
@@ -296,11 +296,11 @@
         },
         {
           "title": "Hukuki ve idari belgeler için:",
-          "desc": "Taranmış formlar veya sözleşmeleri arşivlemek veya yasal işlemler için tek bir PDF’de birleştirin."
+          "desc": "Taranmış formlar veya sözleşmeleri arşivlemek veya yasal işlemler için tek bir PDF de birleştirin."
         },
         {
           "title": "Yaratıcı projeler için:",
-          "desc": "Tasarım eskizleri, portföyler veya storyboard’ları sunum veya değerlendirme için tek bir belgede toplayın."
+          "desc": "Tasarım eskizleri, portföyler veya storyboard ları sunum veya değerlendirme için tek bir belgede toplayın."
         }
       ]
     },
@@ -314,7 +314,7 @@
         },
         {
           "title": "Boyutu optimize edin:",
-          "desc": "PDF’de büyük resimler veya grafikler varsa, toplam dosya boyutunu küçültmek için önceden sıkıştırın."
+          "desc": "PDF de büyük resimler veya grafikler varsa, toplam dosya boyutunu küçültmek için önceden sıkıştırın."
         },
         {
           "title": "Anlamlı isimler kullanın:",

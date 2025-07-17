@@ -9,7 +9,7 @@
     "title": "PDF fayllarni onlayn birlashtirish – bepul, tez va xavfsiz",
     "description": "PDF fayllarni osonlik bilan birlashtiring! GabungPDF.id bilan bepul, tez va xavfsiz onlayn vosita. Ro‘yxatdan o‘tish shart emas.",
     "mergeNow": "PDFlarni hoziroq birlashtirish",
-    "sec1Para": "Bugungi tezkor raqamli dunyoda hujjatlarni samarali boshqarish shaxsiy va professional ishlar uchun juda muhimdir. Ko‘p hollarda <strong>PDF fayllarni birlashtirish</strong> talab etiladi. Hisobot tayyorlash, hisob-fakturalarni yig‘ish yoki bir nechta fayllarni ulashish uchun PDFlarni birlashtirish vaqtdan tejaydi hamda hujjatlarni tartibli saqlashga yordam beradi. Ushbu qo‘llanmada PDF fayllarni onlayn va bepul qanday birlashtirish, buning afzalliklari va gabungPDF.id kabi vositalar yordamida jarayonni qanday osonlashtirish haqida batafsil ma’lumot beriladi. Shuningdek, PDFlarni qidiruv tizimlari uchun optimallashtirish bo‘yicha maslahatlar ham keltiriladi.",
+    "sec1Para": "Bugungi tezkor raqamli dunyoda hujjatlarni samarali boshqarish shaxsiy va professional ishlar uchun juda muhimdir. Ko‘p hollarda <strong>PDF fayllarni birlashtirish</strong> talab etiladi. Hisobot tayyorlash, hisob-fakturalarni yig‘ish yoki bir nechta fayllarni ulashish uchun PDFlarni birlashtirish vaqtdan tejaydi hamda hujjatlarni tartibli saqlashga yordam beradi. Ushbu qo‘llanmada PDF fayllarni onlayn va bepul qanday birlashtirish, buning afzalliklari va gabungPDF.id kabi vositalar yordamida jarayonni qanday osonlashtirish haqida batafsil ma lumot beriladi. Shuningdek, PDFlarni qidiruv tizimlari uchun optimallashtirish bo‘yicha maslahatlar ham keltiriladi.",
     "SecH1": "Nega PDF fayllarni birlashtirish kerak?",
     "SecH1P1": "Bir nechta PDF fayllarni bitta hujjatga birlashtirishning ko‘plab foydalari bor. Quyida PDF birlashtiruvchi vositalardan foydalanish sabablarini ko‘rib chiqamiz:",
     "SecH1UlLi1": "<strong>Tashkiliy va samarali:</strong> Bir nechta faylni yuborish o‘rniga, yagona birlashtirilgan PDF ulashish va ko‘rib chiqishni soddalashtiradi. Bu hisobotlar, shartnomalar yoki taqdimotlar yuborayotgan mutaxassislar uchun ayniqsa qulay.",
@@ -48,7 +48,7 @@
         },
         {
           "title": "<strong>Bepul va xavfsiz:</strong>",
-          "desc": "Vosita foydalanish uchun bepul, yashirin to‘lovlar yo‘q. Fayllaringiz qayta ishlashdan so‘ng serverdan o‘chiriladi, shaxsiy ma’lumotlaringiz himoyalangan."
+          "desc": "Vosita foydalanish uchun bepul, yashirin to‘lovlar yo‘q. Fayllaringiz qayta ishlashdan so‘ng serverdan o‘chiriladi, shaxsiy ma lumotlaringiz himoyalangan."
         },
         {
           "title": "<strong>Har qanday qurilmada ishlaydi:</strong>",
@@ -90,8 +90,8 @@
           "desc": "GabungPDF.id saytiga yuklashdan oldin fayllarni kalit so‘zlarga boy va tavsiflovchi nomlar bilan nomlang. Masalan, \"document1.pdf\" o‘rniga \"biznes-hisobot-2025.pdf\" deb nomlang. Bu qidiruv tizimlariga fayl mazmunini tushunishga yordam beradi."
         },
         {
-          "title": "2. Metama’lumotlarni qo‘shing",
-          "desc": "PDFga sarlavha, muallif va kalit so‘zlar kabi metama’lumotlarni kiriting. Adobe Acrobat yoki boshqa PDF tahrir qiluvchi vositalar yordamida bu ma’lumotlarni qo‘shishingiz mumkin."
+          "title": "2. Metama lumotlarni qo‘shing",
+          "desc": "PDFga sarlavha, muallif va kalit so‘zlar kabi metama lumotlarni kiriting. Adobe Acrobat yoki boshqa PDF tahrir qiluvchi vositalar yordamida bu ma lumotlarni qo‘shishingiz mumkin."
         },
         {
           "title": "3. Matnni optimallashtiring",
@@ -106,8 +106,8 @@
           "desc": "PDFni H1, H2 kabi sarlavhalar bilan to‘g‘ri tashkil qiling, bu o‘qishni osonlashtiradi va qidiruv tizimlariga mazmunni yaxshiroq tushunishga yordam beradi."
         },
         {
-          "title": "6. Hajmini siqib tezroq yuklanishini ta’minlang",
-          "desc": "Katta hajmdagi PDFlar yuklanish vaqtini sekinlashtiradi, bu SEOga salbiy ta’sir ko‘rsatadi. GabungPDF.id’da birlashtirgandan so‘ng, PDFni siqish vositalaridan foydalaning."
+          "title": "6. Hajmini siqib tezroq yuklanishini ta minlang",
+          "desc": "Katta hajmdagi PDFlar yuklanish vaqtini sekinlashtiradi, bu SEOga salbiy ta sir ko‘rsatadi. GabungPDF.id da birlashtirgandan so‘ng, PDFni siqish vositalaridan foydalaning."
         },
         {
           "title": "7. Rasmlarga alt matn qo‘shing",
@@ -207,14 +207,14 @@
     "combineButton": "PDFlarni birlashtirish",
     "filesCount": "PDFlar",
     "S1H1": "PDF birlashtirish: PDF fayllarni qanday birlashtirish mumkin — bepul maslahatlar",
-    "S1P1": "Zamonaviy raqamli dunyoda PDF fayllar (Portable Document Format) hujjatlarni almashish va saqlash uchun ajralmas bo‘lib qolgan. Microsoft Word yoki Google Docs kabi an’anaviy DOC fayllardan farqli o‘laroq, PDF har qanday qurilmada va operatsion tizimda o‘z tartibini saqlab qoladi, bu esa uni professional va shaxsiy foydalanish uchun ideal qiladi — xoh hisobotlar bo‘lsin, taqdimotlar yoki shakllar.",
-    "S1P2": "Biroq, PDF bilan ishlash ba’zida qiyin bo‘lishi mumkin, ayniqsa ko‘p fayllarni birlashtirish kerak bo‘lsa. Ushbu qo‘llanmada biz sizga nima uchun PDFlarni birlashtirish muhimligini, bizning oson va bepul vositamiz yordamida qanday qilib buni amalga oshirishni ko‘rsatamiz hamda hujjatlaringizni boshqarishni soddalashtirish usullarini tushuntiramiz.",
+    "S1P1": "Zamonaviy raqamli dunyoda PDF fayllar (Portable Document Format) hujjatlarni almashish va saqlash uchun ajralmas bo‘lib qolgan. Microsoft Word yoki Google Docs kabi an anaviy DOC fayllardan farqli o‘laroq, PDF har qanday qurilmada va operatsion tizimda o‘z tartibini saqlab qoladi, bu esa uni professional va shaxsiy foydalanish uchun ideal qiladi — xoh hisobotlar bo‘lsin, taqdimotlar yoki shakllar.",
+    "S1P2": "Biroq, PDF bilan ishlash ba zida qiyin bo‘lishi mumkin, ayniqsa ko‘p fayllarni birlashtirish kerak bo‘lsa. Ushbu qo‘llanmada biz sizga nima uchun PDFlarni birlashtirish muhimligini, bizning oson va bepul vositamiz yordamida qanday qilib buni amalga oshirishni ko‘rsatamiz hamda hujjatlaringizni boshqarishni soddalashtirish usullarini tushuntiramiz.",
     "S2H1": "Nima uchun PDF fayllar noyob va ko‘p funksiyalidir",
-    "S2P1": "PDF fayllar har qanday qurilmada yoki dasturda ochilganda hujjatning aniq ko‘rinishini saqlash uchun yaratilgan. DOC fayllardan farqli o‘laroq, ular tizim sozlamalari (masalan, shriftlar yoki operatsion tizim) ta’sirida o‘zgarishsiz qoladi. Bu shriftlar, tartib va grafikalarni o‘zgartirmasdan saqlaydi, shuning uchun PDF professional hujjatlar, masalan, shartnomalar, rezyume yoki elektron kitoblar uchun juda mos keladi.",
-    "S2P2": "Ushbu barqarorlik PDFlarni internet orqali hujjat almashishda juda mashhur qiladi. Biznes takliflarini yuborishda yoki muhim ma’lumotlarni arxivlashda, PDF hujjat aynan tayyorlangan ko‘rinishda saqlanadi. Biroq, bu xususiyat PDFni tahrirlash yoki birlashtirishni maxsus dasturlarsiz qiyinlashtiradi. Baxtimizga, bizning bepul onlayn vositamiz ushbu jarayonni osonlashtiradi va siz qimmat dasturlarsiz PDFlarni birlashtira olasiz.",
+    "S2P1": "PDF fayllar har qanday qurilmada yoki dasturda ochilganda hujjatning aniq ko‘rinishini saqlash uchun yaratilgan. DOC fayllardan farqli o‘laroq, ular tizim sozlamalari (masalan, shriftlar yoki operatsion tizim) ta sirida o‘zgarishsiz qoladi. Bu shriftlar, tartib va grafikalarni o‘zgartirmasdan saqlaydi, shuning uchun PDF professional hujjatlar, masalan, shartnomalar, rezyume yoki elektron kitoblar uchun juda mos keladi.",
+    "S2P2": "Ushbu barqarorlik PDFlarni internet orqali hujjat almashishda juda mashhur qiladi. Biznes takliflarini yuborishda yoki muhim ma lumotlarni arxivlashda, PDF hujjat aynan tayyorlangan ko‘rinishda saqlanadi. Biroq, bu xususiyat PDFni tahrirlash yoki birlashtirishni maxsus dasturlarsiz qiyinlashtiradi. Baxtimizga, bizning bepul onlayn vositamiz ushbu jarayonni osonlashtiradi va siz qimmat dasturlarsiz PDFlarni birlashtira olasiz.",
     "combine_pdf_files": {
       "intro": "Nega PDF fayllarni birlashtirish kerak?",
-      "para": "PDFlarni birlashtirish ko‘plab sohalarda, jumladan professional, talabalar va boshqa foydalanuvchilar uchun juda muhim. Mana ba’zi misollar:",
+      "para": "PDFlarni birlashtirish ko‘plab sohalarda, jumladan professional, talabalar va boshqa foydalanuvchilar uchun juda muhim. Mana ba zi misollar:",
       "items": [
         {
           "title": "Katta hisobotlarni yaratish:",
@@ -255,7 +255,7 @@
       "intro2": "Ko‘proq fayllarni birlashtirmoqchimisiz?",
       "para2": "Muammo yo‘q! Bizning vosita to‘plamli ishlov berishni qo‘llab-quvvatlaydi. Birinchi guruhni birlashtirib, natijani yuklab oling va uni boshqa PDFlar bilan yana yuklang. Jarayonni takrorlang, to‘liq hujjat hosil bo‘lguncha.",
       "intro3": "Muhim: faylni 1 soat ichida yuklab oling",
-      "para3": "Xavfsizlik uchun birlashtirilgan fayl faqat 1 soat davomida mavjud bo‘ladi. Keyin u serverdan o‘chiriladi. Bu sizning ma’lumotlaringiz xavfsizligini ta’minlaydi va boshqa foydalanuvchilar uchun joy bo‘shatadi."
+      "para3": "Xavfsizlik uchun birlashtirilgan fayl faqat 1 soat davomida mavjud bo‘ladi. Keyin u serverdan o‘chiriladi. Bu sizning ma lumotlaringiz xavfsizligini ta minlaydi va boshqa foydalanuvchilar uchun joy bo‘shatadi."
     },
     "benefits": {
       "intro": "Bizning bepul PDF birlashtiruvchi vositamizning afzalliklari",
@@ -263,7 +263,7 @@
       "items": [
         {
           "title": "Hech qanday o‘rnatish shart emas:",
-          "desc": "An’anaviy PDF muharrirlardan farqli o‘laroq, bizning xizmatimiz butunlay onlayn ishlaydi — har qanday internetga ulangan qurilmada."
+          "desc": "An anaviy PDF muharrirlardan farqli o‘laroq, bizning xizmatimiz butunlay onlayn ishlaydi — har qanday internetga ulangan qurilmada."
         },
         {
           "title": "Bepul va cheklovsiz:",
@@ -285,7 +285,7 @@
     },
     "should_you": {
       "intro": "Qachon PDF fayllarni birlashtirish kerak?",
-      "para": "PDFlarni birlashtirish turli holatlarda foydali bo‘ladi. Mana ba’zi misollar:",
+      "para": "PDFlarni birlashtirish turli holatlarda foydali bo‘ladi. Mana ba zi misollar:",
       "items": [
         {
           "title": "Professional foydalanuvchilar uchun:",
@@ -296,7 +296,7 @@
           "desc": "Eslatmalar, tadqiqot ishlar yoki maqolalarni bitta faylda birlashtiring, o‘qish yoki topshirish uchun qulay bo‘lsin."
         },
         {
-          "title": "Yuridik va ma’muriy hujjatlar uchun:",
+          "title": "Yuridik va ma muriy hujjatlar uchun:",
           "desc": "Skanner qilingan shakllar yoki shartnomalarni bitta PDFda birlashtiring, arxivlash yoki yuridik ishlar uchun foydalaning."
         },
         {

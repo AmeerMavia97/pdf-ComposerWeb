@@ -258,7 +258,7 @@
       "para3": "Amnigaaga dartii, faylka isku dhafan wuxuu heli karaa hal saac oo kaliya. Kadib waqtigaas, faylka waxaa laga tirtiraa server-ka. Tani waxay caawisaa ilaalinta xogtaada iyo in meesha loo banaaneeyo isticmaaleyaasha kale."
     },
     "benefits": {
-      "intro": "Faa’iidooyinka aaladeena bilaashka ah ee isku darka PDF",
+      "intro": "Faa iidooyinka aaladeena bilaashka ah ee isku darka PDF",
       "para": "Adeeggeenna waxaa loogu talagalay fudayd, helitaan iyo waxtar. Waa sababta ay u tahay doorashada ugu fiican:",
       "items": [
         {
@@ -285,7 +285,7 @@
     },
     "should_you": {
       "intro": "Goorma ayaa la isku daraa faylasha PDF?",
-      "para": "Isku darka PDF waa mid faa’iido leh xaalado badan. Waa tusaalooyin:",
+      "para": "Isku darka PDF waa mid faa iido leh xaalado badan. Waa tusaalooyin:",
       "items": [
         {
           "title": "Xirfadlayaasha:",

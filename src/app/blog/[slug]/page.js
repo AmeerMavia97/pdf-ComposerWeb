@@ -356,7 +356,7 @@ const blogDetail = () => {
                           )}
                         </ul>
                         <p>
-                          It’s that easy! Whether you’re combining two files or
+                          It s that easy! Whether you re combining two files or
                           dozens, GabungPDF.id ensures a smooth, hassle-free
                           experience.
                         </p>
