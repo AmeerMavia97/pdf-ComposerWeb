@@ -1,0 +1,360 @@
+{
+  "nav": {
+    "home": "Hem",
+    "combinePdf": "Slå ihop PDF",
+    "blog": "Blogg",
+    "selectLanguage": "Välj språk"
+  },
+  "home": {
+    "title": "Slå ihop PDF-filer online - Gratis, snabbt och säkert",
+    "description": "Slå enkelt ihop PDF-filer med GabungPDF.id! Gratis, snabbt och säkert onlineverktyg för att slå ihop PDF-filer på några sekunder. Ingen registrering krävs.",
+    "mergeNow": "Slå ihop PDF nu",
+    "sec1Para": "I dagens snabba digitala värld är effektiv dokumenthantering avgörande för både personliga och professionella uppgifter. Ett vanligt behov är att <strong>slå ihop PDF-filer</strong> till ett enda, strömlinjeformat dokument. Oavsett om du förbereder en rapport, sammanställer fakturor eller delar flera filer kan sammanslagning av PDF-filer spara tid och hålla dina dokument organiserade. I denna omfattande guide utforskar vi hur du gratis slår ihop PDF-filer online, varför det är fördelaktigt och hur verktyg som gabungPDF.id gör processen smidig. Vi går också igenom tips för att optimera dina PDF-filer för sökmotorer, så att ditt innehåll rankas bra och når rätt publik.",
+    "SecH1": "Varför slå ihop PDF-filer?",
+    "SecH1P1": "Att slå ihop flera PDF-filer till ett dokument erbjuder många fördelar. Här är varför du bör överväga att använda ett verktyg för PDF-sammanslagning:",
+    "SecH1UlLi1": "<strong>Organisation och effektivitet:</strong> Istället för att skicka flera filer förenklar en enda sammanslagen PDF delning och granskning. Detta är särskilt användbart för yrkesverksamma som skickar rapporter, kontrakt eller presentationer.",
+    "SecH1UlLi2": "<strong>Mindre filröran:</strong> Att slå ihop PDF-filer minskar antalet filer du behöver hantera, vilket gör det lättare att lagra och hitta dokument.",
+    "SecH1UlLi3": "<strong>Professionellt intryck:</strong> En enhetlig PDF ser polerad och professionell ut, oavsett om du delar den med kollegor, kunder eller intressenter.",
+    "SecH1UlLi4": "<strong>Plattformsoberoende kompatibilitet:</strong> PDF-filer är universellt kompatibla, vilket garanterar att ditt sammanslagna dokument kan visas på vilken enhet som helst, från Windows till Mac till mobila enheter.",
+    "SecH1EndPara": "Med ett verktyg som <strong>gabungPDF.id</strong> kan du snabbt slå ihop PDF-filer utan att behöva installera programvara eller registrera ett konto. Låt oss utforska hur man gör det.",
+    "steps": {
+      "title": "Hur man slår ihop PDF-filer online gratis",
+      "intro": "Att använda ett onlineverktyg som gabungPDF.id gör sammanslagning av PDF-filer enkelt och tillgängligt. Här är en steg-för-steg-guide för att <strong>slå ihop PDF</strong> filer utan ansträngning:",
+      "items": [
+        {
+          "title": "Steg 1: Besök gabungPDF.id",
+          "desc": "Navigera till gabungPDF.id, ett gratis onlineverktyg designat för att hjälpa dig <strong>slå ihop PDF</strong> filer på några sekunder. Webbplatsen är användarvänlig med ett rent gränssnitt som inte kräver teknisk expertis."
+        },
+        {
+          "title": "Steg 2: Ladda upp dina PDF-filer",
+          "desc": "Klicka på knappen \"Ladda upp filer\" för att välja de PDF-filer du vill kombinera. Du kan ladda upp flera filer samtidigt, och gabungPDF.id stöder olika filformat, inklusive PDF och bilder. Verktyget låter dig <strong>slå ihop PDF</strong> filer utan att oroa dig för filstorlek eller antal begränsningar."
+        },
+        {
+          "title": "Steg 3: Ordna filerna",
+          "desc": "När du har laddat upp kan du dra och släppa filerna för att ordna dem i önskad ordning. Denna funktion är särskilt användbar för att skapa en logisk följd, som att ordna kapitel i en rapport eller sektioner i en presentation."
+        },
+        {
+          "title": "Steg 4: Slå ihop och ladda ner",
+          "desc": "Efter att du har ordnat dina filer klickar du på knappen \"Slå ihop\". Verktyget slår ihop PDF-filer till ett enda dokument, med bibehållen originalkvalitet och layout. När processen är klar laddar du ner din sammanslagna PDF med ett enda klick. Så enkelt är det!"
+        }
+      ]
+    },
+    "whyChoose": {
+      "title": "Varför välja gabungPDF.id?",
+      "points": [
+        {
+          "title": "<strong>Ingen installation krävs:</strong>",
+          "desc": "Till skillnad från skrivbordsprogram fungerar gabungPDF.id helt online, vilket sparar lagringsutrymme och installationstid."
+        },
+        {
+          "title": "<strong>Gratis och säkert:</strong>",
+          "desc": "Verktyget är gratis att använda utan dolda avgifter. Dina filer raderas från servern efter bearbetning för att säkerställa integritet."
+        },
+        {
+          "title": "<strong>Kompatibilitet för flera enheter:</strong>",
+          "desc": "Oavsett om du använder Mac, Windows, iOS eller Android kan du enkelt <strong>slå ihop PDF</strong> filer."
+        },
+        {
+          "title": "<strong>Flerspråkigt stöd:</strong>",
+          "desc": "Plattformen stöder användare över hela världen, inklusive de som söker efter \"<strong>gabung PDF</strong>\" på indonesiska eller andra språk."
+        }
+      ]
+    },
+    "benefits": {
+      "title": "Fördelar med att använda en online PDF-sammanslagare",
+      "items": [
+        {
+          "title": "<strong>Tillgänglighet:</strong>",
+          "desc": "Du kan <strong>slå ihop PDF</strong> filer från vilken enhet som helst med internetuppkoppling, vilket är idealiskt för distansarbetare eller de som är på språng."
+        },
+        {
+          "title": "<strong>Hastighet:</strong>",
+          "desc": "Sammanslagningsprocessen tar bara några sekunder, även för stora filer, så att du kan fokusera på viktigare uppgifter."
+        },
+        {
+          "title": "<strong>Kostnadsfritt:</strong>",
+          "desc": "Många onlineverktyg, inklusive gabungPDF.id, är helt gratis till skillnad från premiumprogram som Adobe Acrobat."
+        },
+        {
+          "title": "<strong>Användarvänligt:</strong>",
+          "desc": "Ingen teknisk kunskap krävs, vilket gör det tillgängligt för både nybörjare och proffs."
+        }
+      ]
+    },
+    "seoTips": {
+      "title": "Optimera dina sammanslagna PDF-filer för SEO",
+      "intro": "Om du skapar PDF-filer för professionella eller marknadsföringsändamål kan optimering för sökmotorer öka deras synlighet. PDF-filer har stor potential att rankas på sökmotorernas resultatsidor (SERP), vilket experter inom området påpekar. Här är 10 tips för att optimera dina PDF-filer för SEO samtidigt som du använder nyckelord som <strong>slå ihop PDF</strong>, <strong>merge PDF</strong> och <strong>gabung PDF</strong>:",
+      "items": [
+        {
+          "title": "1. Använd beskrivande filnamn",
+          "desc": "Innan du laddar upp din PDF till gabungPDF.id, byt namn på dina filer med beskrivande, nyckelordsrika namn. Till exempel, istället för \"document1.pdf\", använd \"foretagsrapport-2025.pdf.\" Detta hjälper sökmotorer att förstå innehållet."
+        },
+        {
+          "title": "2. Lägg till metadata",
+          "desc": "Inkludera metadata såsom titel, författare och nyckelord i din PDF. Verktyg som Adobe Acrobat eller PDF-redigerare låter dig bädda in metadata, vilket sökmotorer använder för att indexera din fil."
+        },
+        {
+          "title": "3. Optimera textinnehållet",
+          "desc": "Se till att din PDF innehåller sökbar text istället för skannade bilder. Sökmotorer kan genomsöka textbaserade PDF-filer, så använd nyckelord som <strong>merge PDF</strong> eller <strong>gabung PDF</strong> naturligt i dokumentet."
+        },
+        {
+          "title": "4. Inkludera interna länkar",
+          "desc": "Om din PDF är en del av en webbplats, inkludera länkar till relevanta sidor. Till exempel, länka till din webbplats startsida eller ett relaterat blogginlägg om hur man <strong>slår ihop PDF-filer</strong>."
+        },
+        {
+          "title": "5. Använd rubriker och struktur",
+          "desc": "Organisera din PDF med tydliga rubriker (H1, H2 etc.) och en logisk struktur. Detta förbättrar läsbarheten och hjälper sökmotorer att förstå innehållets uppbyggnad."
+        },
+        {
+          "title": "6. Komprimera för snabbare laddning",
+          "desc": "Stora PDF-filer kan fördröja laddningstider, vilket påverkar SEO negativt. Efter att ha slagit ihop dina filer på gabungPDF.id, använd en PDF-kompressor för att minska filstorleken utan att försämra kvaliteten."
+        },
+        {
+          "title": "7. Lägg till alt-text till bilder",
+          "desc": "Om din PDF innehåller bilder, lägg till alt-textbeskrivningar med relevanta nyckelord. Detta gör din PDF mer tillgänglig och förbättrar dess SEO."
+        },
+        {
+          "title": "8. Host PDF-filer på din webbplats",
+          "desc": "Ladda upp din sammanslagna PDF till din webbplats och skapa en dedikerad landningssida för den. Inkludera en beskrivning med nyckelord som <strong>slå ihop PDF</strong> och en nedladdningslänk för att driva trafik."
+        },
+        {
+          "title": "9. Spåra PDF-visningar",
+          "desc": "Använd verktyg som Google Analytics för att spåra hur användare interagerar med dina PDF-filer. Denna data kan hjälpa dig att förbättra ditt innehåll och dess prestanda."
+        },
+        {
+          "title": "10. Marknadsför din PDF",
+          "desc": "Dela din PDF på sociala medier, nyhetsbrev via e-post och relevanta onlinecommunityn. Inkludera en uppmaning till handling som uppmuntrar användare att ladda ner och dela ditt sammanslagna dokument."
+        }
+      ]
+    },
+    "useCases": {
+      "title": "Vanliga användningsområden för att slå ihop PDF-filer",
+      "items": [
+        {
+          "title": "<strong>Företagsrapporter:</strong>",
+          "desc": "Kombinera flera delar av en rapport, som text, diagram och bilder, till en enda PDF för enkel delning."
+        },
+        {
+          "title": "<strong>Akademiska projekt:</strong>",
+          "desc": "Studenter kan <strong>gabung PDF</strong> för att sammanställa forskningspapper, anteckningar och referenser i ett dokument."
+        },
+        {
+          "title": "<strong>Juridiska dokument:</strong>",
+          "desc": "Advokater slår ofta ihop kontrakt, avtal och bilagor till en enda PDF för enklare granskning."
+        },
+        {
+          "title": "<strong>Marknadsföringsmaterial:</strong>",
+          "desc": "Skapa professionella broschyrer genom att kombinera bilder och textfiler till en sammanhängande PDF."
+        },
+        {
+          "title": "<strong>Personligt bruk:</strong>",
+          "desc": "Slå ihop skannade dokument, kvitton eller foton till en PDF för arkivering eller delning."
+        }
+      ]
+    },
+    "comparison": {
+      "title": "Jämförelse mellan gabungPDF.id och andra verktyg",
+      "intro": "Medan gabungPDF.id är ett förstahandsval för att slå ihop PDF-filer erbjuder även andra verktyg som Adobe Acrobat, iLovePDF och PDF2Go liknande funktioner. Så här står sig gabungPDF.id:",
+      "items": [
+        {
+          "title": "<strong>gabungPDF.id:</strong>",
+          "desc": "Gratis, ingen registrering krävs, stödjer flera filformat och raderar filer efter bearbetning för integritet."
+        },
+        {
+          "title": "<strong>Adobe Acrobat:</strong>",
+          "desc": "Erbjuder en gratis online-sammanslagare men kräver inloggning för avancerade funktioner. Perfekt för användare som redan är i Adobe-ekosystemet."
+        },
+        {
+          "title": "<strong>iLovePDF:</strong>",
+          "desc": "Ett kraftfullt verktyg med extra funktioner som komprimering och konvertering, men vissa funktioner kräver premiumprenumeration."
+        },
+        {
+          "title": "<strong>PDF2Go:</strong>",
+          "desc": "Stöder komplexa filer och stora sidantal, men kan ha filstorleksbegränsningar i gratisversionen."
+        }
+      ]
+    },
+    "tips": {
+      "title": "Tips för en smidig PDF-sammanslagningsupplevelse",
+      "items": [
+        {
+          "title": "<strong>Kontrollera filkompatibilitet:</strong>",
+          "desc": "Se till att alla filer är i PDF eller stödja format (t.ex. JPG, PNG) innan uppladdning."
+        },
+        {
+          "title": "<strong>Förhandsgranska dina filer:</strong>",
+          "desc": "Granska ordningen och innehållet i dina filer innan sammanslagning för att undvika misstag."
+        },
+        {
+          "title": "<strong>Använd säkra plattformar:</strong>",
+          "desc": "Välj verktyg som gabungPDF.id som prioriterar integritet och raderar filer efter bearbetning."
+        },
+        {
+          "title": "<strong>Testa resultatet:</strong>",
+          "desc": "Öppna den sammanslagna PDF-filen för att bekräfta att layout och innehåll är korrekt innan du delar."
+        }
+      ]
+    },
+    "ConclusionH1": "Slutsats",
+    "conclusion": "Att slå ihop PDF-filer är ett enkelt men kraftfullt sätt att effektivisera din dokumenthantering. Oavsett om du är en professionell som organiserar rapporter, en student som sammanställer forskning eller någon som arkiverar personliga dokument, gör verktyg som gabungPDF.id det enkelt att <strong>slå ihop PDF</strong> filer online gratis. Genom att följa våra SEO-tips kan du också säkerställa att dina PDF-filer rankas väl på sökmotorer och når en bredare publik. Börja använda gabungPDF.id idag för att <strong>slå ihop PDF</strong> filer enkelt och ta kontroll över dina digitala dokument! Med dess användarvänliga gränssnitt, kompatibilitet över flera enheter och registreringsfri policy är <strong>gabungPDF.id</strong> den perfekta lösningen för alla som vill <strong>gabung PDF</strong> snabbt och säkert. Prova det nu och upplev bekvämligheten med att slå ihop PDF-filer på några sekunder!"
+  },
+  "combinePdf": {
+    "title": "Slå ihop PDF-filer",
+    "dragDrop": "Dra och släpp PDF-filer här",
+    "clickBrowse": "eller klicka för att välja",
+    "selectFiles": "Välj filer",
+    "maxSize": "Maximal storlek per fil: 50 MB",
+    "combineButton": "Slå ihop PDF",
+    "filesCount": "PDF",
+    "S1H1": "Slå ihop PDF: hur man kombinerar PDF-filer – gratis tips",
+    "S1P1": "I den moderna digitala världen har PDF-filer (Portable Document Format) blivit oumbärliga för att dela och lagra dokument. Till skillnad från traditionella DOC-filer från Microsoft Word eller Google Docs behåller PDF sitt format på alla enheter och operativsystem, vilket gör dem perfekta för både professionellt och personligt bruk – vare sig det gäller rapporter, presentationer eller formulär.",
+    "S1P2": "Att arbeta med PDF kan dock vara komplicerat, särskilt när man behöver slå ihop flera filer. I denna guide visar vi varför det är viktigt att kombinera PDF-filer, hur man gör det gratis med vårt användarvänliga verktyg, och hur du kan förenkla din dokumenthantering för alltid.",
+    "S2H1": "Varför PDF-filer är unika och universella",
+    "S2P1": "PDF-filer är designade för att exakt bevara dokumentets layout oavsett enhet eller programvara. Till skillnad från DOC-filer som är beroende av systeminställningar som typsnitt eller operativsystem, har PDF ett fast format. Detta säkerställer att typsnitt, layout och grafik förblir oförändrade, vilket gör PDF idealiskt för professionella dokument som kontrakt, CV:n eller e-böcker.",
+    "S2P2": "Denna stabilitet gör PDF populärt för dokumentdelning på internet. När du skickar ett affärsförslag eller arkiverar viktig data visar PDF-dokumentet exakt som det skapades. Men detta gör också redigering eller sammanslagning av PDF svårare utan specialprogram. Lyckligtvis förenklar vårt gratis onlineverktyg denna uppgift, så att du enkelt kan slå ihop PDF-filer utan att installera dyr programvara.",
+    "combine_pdf_files": {
+      "intro": "Varför slå ihop PDF-filer?",
+      "para": "Att slå ihop PDF är ett vanligt behov för yrkesverksamma, studenter och alla som arbetar med många dokument. Här är exempel på när det kan vara användbart:",
+      "items": [
+        {
+          "title": "Skapa stora rapporter:",
+          "desc": "Har du flera rapporter eller kapitel i separata PDF-filer? Slå ihop dem till ett dokument för enklare delning och visning."
+        },
+        {
+          "title": "Arkivering av skannade dokument:",
+          "desc": "Skannade dokument som kvitton eller formulär behöver ofta samlas i en fil för enkelhetens skull."
+        },
+        {
+          "title": "Förenkla presentationer:",
+          "desc": "Att slå ihop bilder eller sektioner från olika PDF-filer gör presentationen mer professionell."
+        },
+        {
+          "title": "Enkelt att dela:",
+          "desc": "Istället för att skicka flera filer kan du dela all information i en enda sammanslagen PDF."
+        }
+      ],
+      "para2": "Till skillnad från DOC-filer är det svårare att kopiera och klistra in från PDF – ofta är det omöjligt att kopiera text från skannade dokument utan OCR. Vårt gratisverktyg löser dessa problem: du kan slå ihop upp till 20 filer samtidigt – utan betalprogram och särskilda kunskaper."
+    },
+    "stepbystep": {
+      "intro": "Så här slår du ihop PDF-filer – steg för steg",
+      "para": "Vårt användarvänliga onlineverktyg gör att du snabbt och effektivt kan kombinera PDF. Slå ihop två eller tjugo filer – enkelt, utan installation och registrering. Följ dessa steg:",
+      "items": [
+        {
+          "title": "Steg 1: Ladda upp PDF-filer",
+          "desc": "Hitta knappen \"Ladda upp filer\" på vår plattform. Klicka och välj filer på din enhet eller använd dra-och-släpp-funktionen – smidigt när du arbetar med flera dokument."
+        },
+        {
+          "title": "Steg 2: Ordna filerna",
+          "desc": "Efter uppladdning visas filerna i den ordning de ska slås ihop. Den första är överst, följt av nästa. Du kan dra och släppa dem för att ändra ordningen."
+        },
+        {
+          "title": "Steg 3: Slå ihop och ladda ner",
+          "desc": "När allt är klart klickar du på \"Slå ihop PDF\". Systemet sammanställer filerna och laddar automatiskt ner den färdiga filen. Snabbt, säkert och utan extra program."
+        }
+      ],
+      "intro2": "Vill du slå ihop fler filer?",
+      "para2": "Inga problem! Vårt verktyg stödjer batchbearbetning. Efter att ha slagit ihop en grupp, ladda ner resultatet och ladda upp det tillsammans med andra PDF-filer. Upprepa tills alla dina dokument är sammanslagna.",
+      "intro3": "Viktigt: ladda ner filen inom 1 timme",
+      "para3": "För din säkerhet finns den sammanslagna filen tillgänglig endast i en timme. Efter detta tas den bort från servern. Detta skyddar din data och frigör utrymme för andra användare."
+    },
+    "benefits": {
+      "intro": "Fördelar med vårt gratisverktyg för att slå ihop PDF",
+      "para": "Vår tjänst är skapad med fokus på enkelhet, tillgänglighet och effektivitet. Här är varför det är det bästa valet:",
+      "items": [
+        {
+          "title": "Ingen installation:",
+          "desc": "Till skillnad från traditionella PDF-redigerare fungerar vår tjänst helt online – på vilken enhet som helst med internet."
+        },
+        {
+          "title": "Gratis och utan begränsningar:",
+          "desc": "Slå ihop upp till 20 PDF-filer samtidigt – gratis, utan prenumerationer."
+        },
+        {
+          "title": "Intuitivt gränssnitt:",
+          "desc": "Dra-och-släpp-funktionen och ett kompakt design gör det enkelt för alla användare."
+        },
+        {
+          "title": "Snabb bearbetning:",
+          "desc": "Sammanslagning tar bara några sekunder, vilket sparar din tid."
+        },
+        {
+          "title": "Säkerhet:",
+          "desc": "Dina filer behandlas säkert och tas bort efter en timme – vilket skyddar din integritet."
+        }
+      ]
+    },
+    "should_you": {
+      "intro": "När bör du slå ihop PDF-filer?",
+      "para": "Att slå ihop PDF är användbart i många situationer. Här är exempel:",
+      "items": [
+        {
+          "title": "För yrkesverksamma:",
+          "desc": "Samla fakturor, kontrakt och erbjudanden i en PDF för enkel delning med kunder eller kollegor."
+        },
+        {
+          "title": "För studenter och lärare:",
+          "desc": "Slå ihop anteckningar, uppsatser eller artiklar i en fil för enkelhet i studier eller inlämning."
+        },
+        {
+          "title": "För juridiska och administrativa dokument:",
+          "desc": "Slå ihop skannade formulär eller avtal i en PDF för arkivering eller juridiskt bruk."
+        },
+        {
+          "title": "För kreativa projekt:",
+          "desc": "Samla skisser, portföljer eller storyboard i ett dokument för presentation eller bedömning."
+        }
+      ]
+    },
+    "Tips": {
+      "intro": "Tips för arbete med PDF",
+      "para": "För bästa resultat när du slår ihop PDF, tänk på följande:",
+      "items": [
+        {
+          "title": "Kontrollera filordningen:",
+          "desc": "Se till att filerna är i rätt ordning för att undvika förvirring."
+        },
+        {
+          "title": "Optimera storleken:",
+          "desc": "Om PDF innehåller stora bilder eller grafik, komprimera dem först för att minska slutfilens storlek."
+        },
+        {
+          "title": "Använd tydliga filnamn:",
+          "desc": "Byt namn på filer (t.ex. Rapport_Huvud1.pdf) för enkel identifiering."
+        },
+        {
+          "title": "Gör säkerhetskopior av originalen:",
+          "desc": "Spara kopior av original-PDF-filer ifall du behöver redigera eller slå ihop igen."
+        },
+        {
+          "title": "Utforska andra verktyg:",
+          "desc": "Om du behöver redigera, konvertera eller komprimera PDF, prova även andra gratis tjänster på vår plattform."
+        }
+      ]
+    },
+    "why_choose": "Varför välja vårt verktyg istället för betalda?",
+    "why_choose_para": "Betalda PDF-redigerare, som Adobe Acrobat, erbjuder avancerade funktioner. Men vår gratis tjänst uppfyller de flesta användares behov. Utan kostnad eller prenumeration kan du enkelt slå ihop dokument. Gabung PDF.id är tillgängligt för alla – från småföretag till studenter – och levererar professionella resultat utan krångel.",
+    "why_choose_para2": "Vår plattform är optimerad för snabbhet och användarvänlighet. Oavsett om du använder dator, surfplatta eller smartphone kan du slå ihop PDF från var som helst utan kompatibilitetsproblem. Det gör vårt verktyg perfekt för dem som värdesätter snabbhet och pålitlighet utan inlärning.",
+    "conclusion": "Slutsats",
+    "conclusion_para": "Att slå ihop PDF-filer behöver inte vara svårt eller dyrt. Med vårt gratis onlineverktyg kan du kombinera upp till 20 filer samtidigt, enkelt hantera deras ordning och ladda ner den färdiga PDF-filen på några sekunder. Oavsett om du förbereder rapporter, arkiverar skannade dokument eller skapar presentationer, förenklar vår tjänst processen utan installation eller särskilda kunskaper."
+  },
+  "blog": {
+    "title": "PDF Tips, Tutorials & Guider",
+    "description": "Behärska PDF-hantering med expertråd, praktiska tips och steg-för-steg handledningar. Lär dig hur du arbetar mer effektivt med dokument.",
+    "searchPlaceholder": "Sök artiklar, tutorials och guider...",
+    "articles": "Artiklar",
+    "readers": "Läsare",
+    "available": "Tillgänglig",
+    "featuredArticle": "Utvald Artikel",
+    "mostPopular": "Mest Populär Denna Vecka",
+    "readArticle": "Läs Artikel",
+    "readFull": "Läs Fullständig Artikel",
+    "minRead": "min lästid"
+  },
+  "footer": {
+    "about": "Om oss",
+    "privacyPolicy": "Integritetspolicy",
+    "termsOfService": "Användarvillkor",
+    "contact": "Kontakt",
+    "copyright": "© 2025 GabungPDF.id. Alla rättigheter förbehållna."
+  }
+}

@@ -1,0 +1,360 @@
+{
+  "nav": {
+    "home": "Domů",
+    "combinePdf": "Sloučit PDF",
+    "blog": "Blog",
+    "selectLanguage": "Vyberte jazyk"
+  },
+  "home": {
+    "title": "Sloučte PDF soubory online - Zdarma, rychle a bezpečně",
+    "description": "Sloučte PDF snadno s GabungPDF.id! Bezplatný, rychlý, bezpečný online nástroj pro slučování PDF souborů během sekund. Registrace není nutná.",
+    "mergeNow": "Sloučit PDF nyní",
+    "sec1Para": "V dnešním rychlém digitálním světě je efektivní správa dokumentů klíčová pro osobní i profesionální úkoly. Jednou z běžných potřeb je <strong>sloučit PDF soubory</strong> do jednoho zjednodušeného dokumentu.",
+    "SecH1": "Proč sloučit PDF soubory?",
+    "SecH1P1": "Sloučení více PDF souborů do jednoho dokumentu nabízí četné výhody:",
+    "SecH1UlLi1": "<strong>Organizace a efektivita:</strong> Odeslání jednoho sloučeného PDF místo více souborů zjednodušuje sdílení a kontrolu.",
+    "SecH1UlLi2": "<strong>Snížení nepořádku v souborech:</strong> Sloučení PDF snižuje počet souborů, které musíte spravovat.",
+    "SecH1UlLi3": "<strong>Profesionální prezentace:</strong> Sjednocené PDF vypadá uhlazeně a profesionálně.",
+    "SecH1UlLi4": "<strong>Kompatibilita napříč platformami:</strong> PDF jsou univerzálně kompatibilní.",
+    "steps": {
+      "title": "Jak sloučit PDF soubory online zdarma",
+      "intro": "Použití online nástroje jako je gabungPDF.id činí slučování PDF jednoduchým a dostupným:",
+      "items": [
+        {
+          "title": "Krok 1: Navštivte gabungPDF.id",
+          "desc": "Přejděte na gabungPDF.id, bezplatný online nástroj navržený k tomu, aby vám pomohl <strong>sloučit PDF soubory</strong> během sekund."
+        },
+        {
+          "title": "Krok 2: Nahrajte své PDF soubory",
+          "desc": "Klikněte na tlačítko \"Nahrát soubory\" a vyberte PDF, které chcete sloučit."
+        },
+        {
+          "title": "Krok 3: Uspořádejte soubory",
+          "desc": "Po nahrání můžete přetahovat soubory a uspořádat je v požadovaném pořadí."
+        },
+        {
+          "title": "Krok 4: Sloučte a stáhněte",
+          "desc": "Po uspořádání souborů klikněte na tlačítko \"Sloučit\"."
+        }
+      ]
+    },
+    "whyChoose": {
+      "title": "Proč zvolit gabungPDF.id?",
+      "points": [
+        {
+          "title": "<strong>Není nutná instalace:</strong>",
+          "desc": "Na rozdíl od desktopového softwaru gabungPDF.id funguje zcela online."
+        },
+        {
+          "title": "<strong>Zdarma a bezpečně:</strong>",
+          "desc": "Nástroj je zdarma k použití, bez skrytých poplatků."
+        },
+        {
+          "title": "<strong>Kompatibilita napříč zařízeními:</strong>",
+          "desc": "Ať už používáte Mac, Windows, iOS nebo Android."
+        },
+        {
+          "title": "<strong>Vícejazyčná podpora:</strong>",
+          "desc": "Platforma podporuje uživatele po celém světě."
+        }
+      ]
+    },
+    "benefits": {
+      "title": "Výhody používání online PDF slučovače",
+      "items": [
+        {
+          "title": "<strong>Dostupnost:</strong>",
+          "desc": "Můžete <strong>sloučit PDF soubory</strong> z jakéhokoli zařízení s připojením k internetu."
+        },
+        {
+          "title": "<strong>Rychlost:</strong>",
+          "desc": "Proces slučování trvá pouze sekundy."
+        },
+        {
+          "title": "<strong>Bez nákladů:</strong>",
+          "desc": "Mnoho online nástrojů je zcela zdarma."
+        },
+        {
+          "title": "<strong>Uživatelsky přívětivé:</strong>",
+          "desc": "Nejsou potřeba technické dovednosti."
+        }
+      ]
+    },
+    "seoTips": {
+      "title": "Optimalizujte své sloučené PDF pro SEO",
+      "intro": "Pokud vytváříte PDF pro profesionální nebo marketingové účely, jejich optimalizace pro vyhledávače může zvýšit jejich viditelnost.",
+      "items": [
+        {
+          "title": "1. Používejte popisné názvy souborů",
+          "desc": "Před nahráním PDF přejmenujte soubory popisnými názvy bohatými na klíčová slova."
+        },
+        {
+          "title": "2. Přidejte metadata",
+          "desc": "Zahrňte metadata jako název, autor a klíčová slova do vašeho PDF."
+        },
+        {
+          "title": "3. Optimalizujte textový obsah",
+          "desc": "Ujistěte se, že vaše PDF obsahuje prohledávatelný text místo naskenovaných obrázků."
+        },
+        {
+          "title": "4. Zahrňte interní odkazy",
+          "desc": "Pokud je vaše PDF součástí webové stránky, zahrňte odkazy na relevantní stránky."
+        },
+        {
+          "title": "5. Používejte nadpisy a strukturu",
+          "desc": "Organizujte své PDF jasnými nadpisy a logickou strukturou."
+        },
+        {
+          "title": "6. Komprimujte pro rychlejší načítání",
+          "desc": "Velké PDF mohou zpomalit časy načítání."
+        },
+        {
+          "title": "7. Přidejte alternativní text k obrázkům",
+          "desc": "Pokud vaše PDF obsahuje obrázky, přidejte popisy alternativního textu."
+        },
+        {
+          "title": "8. Hostujte PDF na své webové stránce",
+          "desc": "Nahrajte své sloučené PDF na svou webovou stránku."
+        },
+        {
+          "title": "9. Sledujte zobrazení PDF",
+          "desc": "Používejte nástroje jako Google Analytics ke sledování uživatelské interakce."
+        },
+        {
+          "title": "10. Propagujte své PDF",
+          "desc": "Sdílejte své PDF na sociálních sítích a v newsletterech."
+        }
+      ]
+    },
+    "useCases": {
+      "title": "Běžné případy použití pro slučování PDF",
+      "items": [
+        {
+          "title": "<strong>Obchodní zprávy:</strong>",
+          "desc": "Sloučte více sekcí zprávy do jednoho PDF."
+        },
+        {
+          "title": "<strong>Akademické projekty:</strong>",
+          "desc": "Studenti mohou kompilovat výzkumné práce."
+        },
+        {
+          "title": "<strong>Právní dokumenty:</strong>",
+          "desc": "Právníci často slučují smlouvy a přílohy."
+        },
+        {
+          "title": "<strong>Marketingové materiály:</strong>",
+          "desc": "Vytvořte profesionální brožury."
+        },
+        {
+          "title": "<strong>Osobní použití:</strong>",
+          "desc": "Sloučte naskenované dokumenty nebo fotografie."
+        }
+      ]
+    },
+    "comparison": {
+      "title": "Porovnání gabungPDF.id s jinými nástroji",
+      "intro": "Ačkoli je gabungPDF.id skvělou volbou pro slučování PDF, jiné nástroje také nabízejí podobnou funkcionalitu.",
+      "items": [
+        {
+          "title": "<strong>gabungPDF.id:</strong>",
+          "desc": "Zdarma, bez registrace, podporuje více formátů souborů."
+        },
+        {
+          "title": "<strong>Adobe Acrobat:</strong>",
+          "desc": "Nabízí bezplatný online slučovač, ale vyžaduje přihlášení."
+        },
+        {
+          "title": "<strong>iLovePDF:</strong>",
+          "desc": "Robustní nástroj s dalšími funkcemi."
+        },
+        {
+          "title": "<strong>PDF2Go:</strong>",
+          "desc": "Podporuje složité soubory a velký počet stránek."
+        }
+      ]
+    },
+    "tips": {
+      "title": "Tipy pro bezproblémové slučování PDF",
+      "items": [
+        {
+          "title": "<strong>Zkontrolujte kompatibilitu souborů:</strong>",
+          "desc": "Ujistěte se, že všechny soubory jsou v PDF nebo podporovaných formátech."
+        },
+        {
+          "title": "<strong>Prohlédněte si své soubory:</strong>",
+          "desc": "Zkontrolujte pořadí a obsah svých souborů před slučováním."
+        },
+        {
+          "title": "<strong>Používejte bezpečné platformy:</strong>",
+          "desc": "Vyberte nástroje, které upřednostňují soukromí."
+        },
+        {
+          "title": "<strong>Otestujte výstup:</strong>",
+          "desc": "Otevřete sloučené PDF a potvrďte rozložení."
+        }
+      ]
+    },
+    "ConclusionH1": "Závěr",
+    "conclusion": "Slučování PDF souborů je jednoduchý, ale mocný způsob, jak zefektivnit správu dokumentů. Ať už jste profesionál organizující zprávy, student kompilující výzkum, nebo někdo archivující osobní dokumenty, nástroje jako gabungPDF.id usnadňují <strong>slučování PDF souborů</strong> online zdarma."
+  },
+  "combinePdf": {
+    "title": "Kombinovat PDF soubory",
+    "dragDrop": "Přetáhněte PDF soubory sem nebo",
+    "clickBrowse": "klikněte pro výběr",
+    "selectFiles": "Vyberte soubory",
+    "maxSize": "Maximální velikost souboru: 50 MB",
+    "combineButton": "Kombinovat PDF",
+    "filesCount": "PDF soubory",
+    "S1H1": "Kombinování PDF souborů: Jak kombinovat PDF soubory - Tip, jak zdarma sloučit PDF soubory",
+    "S1P1": "V dnešním digitálním světě jsou PDF soubory (Portable Document Format) nezbytnou součástí sdílení a ukládání dokumentů. Na rozdíl od běžných DOC souborů, které jsou vytvářeny v Microsoft Word nebo Google Docs, PDF soubory si uchovávají svůj formát na všech zařízeních a operačních systémech. Tato univerzální kompatibilita je ideální pro profesionální i osobní použití, ať už jde o sdílení zpráv, prezentací nebo formulářů online.",
+    "S1P2": "Práce s PDF soubory může být ale někdy náročná, zejména pokud potřebujete sloučit více PDF souborů do jednoho dokumentu. V tomto průvodci vám vysvětlíme, proč je důležité kombinovat PDF soubory, jak je zdarma spojit pomocí našeho uživatelsky přívětivého nástroje a jaké výhody získáte zjednodušením správy vašich dokumentů.",
+    "S2H1": "Proč jsou PDF soubory jedinečné a univerzální",
+    "S2P1": "PDF soubory jsou navrženy tak, aby uchovávaly přesný vzhled dokumentu, bez ohledu na zařízení nebo software, na kterém je zobrazen. Na rozdíl od DOC souborů, které jsou závislé na nastaveních systému, jako jsou nainstalované písma nebo konfigurace operačního systému, PDF soubory fungují jako statické obrázky. To zajišťuje, že písma, rozvržení a grafika zůstávají konzistentní, což je činí ideálními pro profesionální dokumenty jako jsou smlouvy, životopisy nebo e-knihy.",
+    "S2P2": "Tato konzistence je důvodem, proč jsou PDF soubory široce používány pro sdílení dokumentů po internetu. Ať už archivujete obchodní zprávu nebo důležité záznamy, PDF soubory zajistí, že příjemce uvidí dokument přesně tak, jak byl zamýšlen. Tato vlastnost však činí úpravy nebo kombinování PDF souborů obtížnějším než u DOC souborů. Bez speciálního softwaru mohou úkoly jako přidání stránek nebo sloučení více PDF souborů působit odrazující. Naštěstí náš bezplatný online nástroj zjednodušuje tento proces a umožňuje vám snadno kombinovat PDF soubory bez potřeby dalšího softwaru.",
+    "combine_pdf_files": {
+      "intro": "Proč kombinovat PDF soubory?",
+      "para": "Kombinování PDF souborů je běžná potřeba pro profesionály, studenty a všechny, kteří spravují více dokumentů. Zde je několik scénářů, kde je sloučení PDF souborů užitečné:",
+      "items": [
+        {
+          "title": "Vytváření komplexních zpráv:",
+          "desc": "Pokud máte více PDF zpráv nebo kapitol, kombinování do jednoho dokumentu usnadňuje jejich sdílení a kontrolu."
+        },
+        {
+          "title": "Archivace naskenovaných dokumentů:",
+          "desc": "Naskenované PDF soubory, jako jsou účtenky nebo formuláře, často potřebují být sloučeny do jedné souboru pro lepší organizaci."
+        },
+        {
+          "title": "Optimalizace prezentací:",
+          "desc": "Kombinování snímků nebo sekcí z různých PDF do jedné ucelené prezentace zlepšuje jasnost a profesionalitu."
+        },
+        {
+          "title": "Zjednodušení sdílení souborů:",
+          "desc": "Místo odesílání několika souborů sloučením PDF do jednoho souboru se zjednodušuje celý proces a zajišťuje, že všechny informace budou obsaženy v jednom přehledném dokumentu."
+        }
+      ],
+      "para2": "Na rozdíl od DOC souborů, kde stačí jednoduše kopírovat a vkládat obsah, PDF soubory vyžadují speciální nástroje k jejich kombinování nebo úpravám. Například kopírování textu z naskenovaného PDF souboru je často nemožné bez použití softwaru pro optické rozpoznávání znaků (OCR). Náš bezplatný nástroj na kombinování PDF odstraňuje tyto překážky a umožňuje vám sloučit až 20 PDF souborů současně, bez potřeby drahého softwaru nebo technických znalostí."
+    },
+    "stepbystep": {
+      "intro": "Jak zdarma kombinovat PDF soubory: Návod krok za krokem",
+      "para": "Náš uživatelsky přívětivý online nástroj činí kombinování PDF souborů rychlé a efektivní. Ať už kombinujete dva nebo až 20 souborů, proces je jednoduchý a nevyžaduje žádnou instalaci ani předplatné. Postupujte podle těchto kroků pro bezproblémové sloučení PDF souborů:",
+      "items": [
+        {
+          "title": "Krok 1: Nahrajte své PDF soubory",
+          "desc": "Pro zahájení klikněte na tlačítko 'NAHRÁT SOUBORY' v rozhraní našeho nástroje. Vyberte požadované PDF soubory ze svého zařízení. Alternativně můžete také přetáhnout své PDF soubory do určené oblasti 'Přetáhněte soubory sem'. Tato funkce je obzvláště užitečná, pokud pracujete s více soubory, protože šetří čas a zjednodušuje proces."
+        },
+        {
+          "title": "Krok 2: Seřaďte své PDF soubory",
+          "desc": "Jakmile budou vaše soubory nahrány, náš nástroj vám ukáže seznam souborů. Pořadí souborů v tomto seznamu určuje strukturu sloučeného PDF souboru. První PDF v seznamu se objeví na začátku finálního dokumentu, druhé bude následovat, atd. Abyste zajistili správné pořadí, můžete soubory v seznamu jednoduše přetáhnout a přeuspořádat."
+        },
+        {
+          "title": "Krok 3: Kombinujte a stáhněte",
+          "desc": "Jakmile budete s pořadím spokojeni, klikněte na tlačítko 'KOMBINOVAT'. Náš systém okamžitě sloučí všechny nahrané PDF soubory do jednoho souboru. Po dokončení procesu se sloučený PDF soubor začne automaticky stahovat na vaše zařízení. Celý proces je rychlý, bezpečný a nevyžaduje žádný další software."
+        }
+      ],
+      "intro2": "Kombinujte více PDF souborů",
+      "para2": "Chcete sloučit ještě více PDF souborů? Žádný problém! Náš nástroj vám umožňuje kombinovat soubory v dávkách. Po stažení prvního souboru s kombinovanými PDF soubory nahrajte tento nový soubor spolu se všemi dalšími PDF soubory, které chcete přidat. Tento proces opakujte a klikněte znovu na 'KOMBINOVAT' pro vytvoření ještě většího dokumentu. Tento proces můžete opakovat tolikrát, kolikrát budete potřebovat, abyste zahrnuli všechny své soubory.",
+      "intro3": "Důležitá poznámka: Stáhněte si soubor během jedné hodiny",
+      "para3": "Aby byla zajištěna hladká zkušenost, stáhněte si sloučený PDF soubor do jedné hodiny od jeho vytvoření. Pokud to neuděláte, systém soubory odstraní a budete je muset znovu nahrát, abyste mohli začít znovu. Tato funkce pomáhá zajistit bezpečnost a uvolnit místo na serveru pro ostatní uživatele."
+    },
+    "benefits": {
+      "intro": "Výhody používání našeho bezplatného nástroje na kombinování PDF",
+      "para": "Náš nástroj byl navržen s ohledem na jednoduchost, přístupnost a efektivitu. Zde je několik důvodů, proč je nejlepší volbou pro kombinování PDF souborů:",
+      "items": [
+        {
+          "title": "Není potřeba instalace softwaru:",
+          "desc": "Na rozdíl od tradičních PDF editorů je náš nástroj plně webový, takže k němu máte přístup z jakéhokoli zařízení s internetovým připojením."
+        },
+        {
+          "title": "Zdarma a neomezeně použitelný:",
+          "desc": "Sloučte až 20 PDF souborů současně zdarma, bez nákladů nebo předplatného. Pro větší projekty můžete kombinovat více dávky, jak je popsáno výše."
+        },
+        {
+          "title": "Uživatelsky přívětivé rozhraní:",
+          "desc": "Funkce drag-and-drop a intuitivní design usnadňují použití jak pro začátečníky, tak pro profesionály."
+        },
+        {
+          "title": "Rychlé zpracování:",
+          "desc": "Náš nástroj kombinuje PDF soubory během několika sekund, což vám šetří čas a úsilí."
+        },
+        {
+          "title": "Bezpečné a spolehlivé:",
+          "desc": "Vaše soubory jsou bezpečně zpracovány a po jedné hodině jsou odstraněny ze serveru, což zajišťuje, že vaše data zůstanou soukromá."
+        }
+      ]
+    },
+    "should_you": {
+      "intro": "Kdy byste měli kombinovat PDF soubory?",
+      "para": "Kombinování PDF souborů je užitečná dovednost v různých situacích. Zde je několik běžných příkladů použití:",
+      "items": [
+        {
+          "title": "Obchodní profesionálové:",
+          "desc": "Kombinujte faktury, smlouvy nebo nabídky do jednoho dokumentu, abyste je snadno sdíleli s klienty nebo kolegy."
+        },
+        {
+          "title": "Studenti a učitelé:",
+          "desc": "Sloučte přednášky, výzkumné práce nebo úkoly do jednoho souboru pro jednodušší prezentace nebo studijní materiály."
+        },
+        {
+          "title": "Právní a administrativní úkoly:",
+          "desc": "Organizujte naskenované dokumenty jako smlouvy nebo formuláře do jednoho PDF souboru pro archivaci nebo právní účely."
+        },
+        {
+          "title": "Kreativní projekty:",
+          "desc": "Spojte návrhy, portfolia nebo storyboardy do jednoho uceleného PDF souboru pro prezentace nebo sběr zpětné vazby od klientů."
+        }
+      ]
+    },
+    "Tips": {
+      "intro": "Tipy pro práci s PDF",
+      "para": "Pro maximální využití vašeho zážitku z kombinování PDF, mějte na paměti následující tipy:",
+      "items": [
+        {
+          "title": "Zkontrolujte pořadí souborů:",
+          "desc": "Vždy zkontrolujte pořadí vašich PDF souborů před tím, než je sloučíte, abyste se vyhnuli pozdějšímu přeřazování stránek."
+        },
+        {
+          "title": "Optimalizujte velikost souboru:",
+          "desc": "Pokud vaše PDF soubory obsahují velké obrázky nebo grafiku, zvažte jejich kompresi před nahráním, abyste snížili konečnou velikost souboru."
+        },
+        {
+          "title": "Používejte popisné názvy souborů:",
+          "desc": "Pojmenujte své PDF soubory jasnými, popisnými názvy (např. Report_Section1.pdf), abyste během kombinování zůstali organizovaní."
+        },
+        {
+          "title": "Vytvořte záložní kopie originálních souborů:",
+          "desc": "Uložte si kopie vašich původních PDF souborů pro případ, že byste v budoucnu museli provést změny nebo je znovu sloučit."
+        },
+        {
+          "title": "Objevte další nástroje:",
+          "desc": "Pokud potřebujete upravovat, konvertovat nebo komprimovat PDF soubory, podívejte se na další bezplatné nástroje na naší platformě pro komplexní správu dokumentů."
+        }
+      ]
+    },
+    "why_choose": "Proč si vybrat náš nástroj místo placených alternativ?",
+    "why_choose_para": "Zatímco placené PDF editory jako Adobe Acrobat nabízejí pokročilé funkce, náš bezplatný nástroj nabízí cenově dostupné řešení pro většinu uživatelů. Nemusíte investovat do drahého softwaru nebo předplatného, abyste mohli kombinovat PDF soubory. Gabung PDF.id je dostupný pro malé firmy, studenty a všechny, kteří potřebují profesionální výsledky bez složitosti.",
+    "why_choose_para2": "Navíc je naše platforma optimalizována pro rychlost a uživatelskou přívětivost. Ať už používáte stolní počítač, tablet nebo smartphone, můžete kombinovat PDF soubory na cestách bez problémů s kompatibilitou. Tato flexibilita činí náš nástroj ideálním pro uživatele, kteří hledají rychlé, spolehlivé výsledky bez strmé učící se křivky.",
+    "conclusion": "Závěr",
+    "conclusion_para": "Kombinování PDF dokumentů nemusí být složité ani drahé. S naším bezplatným, webovým nástrojem na kombinování PDF můžete sloučit až 20 PDF souborů najednou, snadno je přeuspořádat a stáhnout jediný ucelený soubor během několika sekund. Ať už organizujete zprávy, archivujete naskenované dokumenty nebo připravujete prezentace, náš nástroj zjednodušuje celý proces, aniž byste potřebovali další software nebo technické dovednosti."
+  },
+  "blog": {
+    "title": "PDF tipy, návody a průvodce",
+    "description": "Ovládněte správu PDF s odbornými průvodci, praktickými tipy a návody krok za krokem.",
+    "searchPlaceholder": "Hledejte články, návody a průvodce...",
+    "articles": "Články",
+    "readers": "Čtenáři",
+    "available": "Dostupné",
+    "featuredArticle": "Doporučený článek",
+    "mostPopular": "Nejpopulárnější tento týden",
+    "readArticle": "Přečíst článek",
+    "readFull": "Přečíst celý článek",
+    "minRead": "min čtení"
+  },
+  "footer": {
+    "description": "Nejjednodušší způsob, jak sloučit více PDF souborů do jednoho dokumentu. Rychle, bezpečně a zcela zdarma k použití.",
+    "contact": "Kontaktujte nás:",
+    "quickLinks": "Rychlé odkazy",
+    "privacyPolicy": "Zásady ochrany osobních údajů",
+    "termsOfService": "Podmínky služby",
+    "allRights": "Všechna práva vyhrazena"
+  }
+}

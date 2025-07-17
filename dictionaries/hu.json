@@ -1,0 +1,360 @@
+{
+  "nav": {
+    "home": "Főoldal",
+    "combinePdf": "PDF egyesítés",
+    "blog": "Blog",
+    "selectLanguage": "Nyelv kiválasztása"
+  },
+  "home": {
+    "title": "PDF fájlok egyesítése online - Ingyenes, gyors és biztonságos",
+    "description": "Egyesítse könnyedén a PDF-eket a GabungPDF.id segítségével! Ingyenes, gyors, biztonságos online eszköz PDF fájlok másodpercek alatt történő egyesítéséhez. Regisztráció nem szükséges.",
+    "mergeNow": "PDF-ek egyesítése most",
+    "sec1Para": "A mai rohanó digitális világban a dokumentumok hatékony kezelése kulcsfontosságú mind a személyes, mind a szakmai feladatok esetében. Egy gyakori igény a <strong>PDF fájlok egyesítése</strong> egyetlen, áramvonalas dokumentummá.",
+    "SecH1": "Miért egyesítsük a PDF fájlokat?",
+    "SecH1P1": "Több PDF fájl egy dokumentummá egyesítése számos előnyt kínál:",
+    "SecH1UlLi1": "<strong>Szervezettség és hatékonyság:</strong> Egyetlen egyesített PDF küldése több fájl helyett egyszerűsíti a megosztást és az áttekintést.",
+    "SecH1UlLi2": "<strong>Fájl rendetlenség csökkentése:</strong> A PDF-ek egyesítése csökkenti a kezelendő fájlok számát.",
+    "SecH1UlLi3": "<strong>Professzionális megjelenés:</strong> Az egységes PDF csiszolt és professzionális megjelenésű.",
+    "SecH1UlLi4": "<strong>Platformok közötti kompatibilitás:</strong> A PDF-ek univerzálisan kompatibilisek.",
+    "steps": {
+      "title": "Hogyan egyesítsük a PDF fájlokat online ingyen",
+      "intro": "Egy online eszköz, mint a gabungPDF.id használata egyszerűvé és elérhetővé teszi a PDF-ek egyesítését:",
+      "items": [
+        {
+          "title": "1. lépés: Látogassa meg a gabungPDF.id oldalt",
+          "desc": "Navigáljon a gabungPDF.id oldalra, egy ingyenes online eszközhöz, amely segít <strong>PDF fájlokat egyesíteni</strong> másodpercek alatt."
+        },
+        {
+          "title": "2. lépés: Töltse fel PDF fájljait",
+          "desc": "Kattintson a \"Fájlok feltöltése\" gombra az egyesíteni kívánt PDF-ek kiválasztásához."
+        },
+        {
+          "title": "3. lépés: Rendezze a fájlokat",
+          "desc": "Feltöltés után húzza és ejtse a fájlokat a kívánt sorrendbe."
+        },
+        {
+          "title": "4. lépés: Egyesítse és töltse le",
+          "desc": "A fájlok rendezése után kattintson az \"Egyesítés\" gombra."
+        }
+      ]
+    },
+    "whyChoose": {
+      "title": "Miért válassza a gabungPDF.id-t?",
+      "points": [
+        {
+          "title": "<strong>Nincs szükség telepítésre:</strong>",
+          "desc": "Az asztali szoftverekkel ellentétben a gabungPDF.id teljesen online működik."
+        },
+        {
+          "title": "<strong>Ingyenes és biztonságos:</strong>",
+          "desc": "Az eszköz ingyenesen használható, rejtett díjak nélkül."
+        },
+        {
+          "title": "<strong>Eszközök közötti kompatibilitás:</strong>",
+          "desc": "Akár Mac-et, Windows-t, iOS-t vagy Androidot használ."
+        },
+        {
+          "title": "<strong>Többnyelvű támogatás:</strong>",
+          "desc": "A platform világszerte támogatja a felhasználókat."
+        }
+      ]
+    },
+    "benefits": {
+      "title": "Az online PDF egyesítő használatának előnyei",
+      "items": [
+        {
+          "title": "<strong>Hozzáférhetőség:</strong>",
+          "desc": "<strong>PDF fájlokat egyesíthet</strong> bármely internetkapcsolattal rendelkező eszközről."
+        },
+        {
+          "title": "<strong>Sebesség:</strong>",
+          "desc": "Az egyesítési folyamat csak másodperceket vesz igénybe."
+        },
+        {
+          "title": "<strong>Költségmentes:</strong>",
+          "desc": "Sok online eszköz teljesen ingyenes."
+        },
+        {
+          "title": "<strong>Felhasználóbarát:</strong>",
+          "desc": "Nincs szükség műszaki ismeretekre."
+        }
+      ]
+    },
+    "seoTips": {
+      "title": "Optimalizálja egyesített PDF-jeit SEO-ra",
+      "intro": "Ha professzionális vagy marketing célokra készít PDF-eket, azok keresőmotorokra való optimalizálása növelheti láthatóságukat.",
+      "items": [
+        {
+          "title": "1. Használjon leíró fájlneveket",
+          "desc": "PDF feltöltése előtt nevezze át fájljait leíró, kulcsszóban gazdag nevekkel."
+        },
+        {
+          "title": "2. Adjon hozzá metaadatokat",
+          "desc": "Vegyen fel metaadatokat, mint cím, szerző és kulcsszavak a PDF-jébe."
+        },
+        {
+          "title": "3. Optimalizálja a szöveges tartalmat",
+          "desc": "Győződjön meg róla, hogy PDF-je kereshető szöveget tartalmaz szkennelt képek helyett."
+        },
+        {
+          "title": "4. Vegyen fel belső linkeket",
+          "desc": "Ha PDF-je egy weboldal része, vegyen fel linkeket a releváns oldalakhoz."
+        },
+        {
+          "title": "5. Használjon címsorokat és struktúrát",
+          "desc": "Szervezze PDF-jét világos címsorokkal és logikus struktúrával."
+        },
+        {
+          "title": "6. Tömörítse a gyorsabb betöltésért",
+          "desc": "A nagy PDF-ek lelassíthatják a betöltési időket."
+        },
+        {
+          "title": "7. Adjon alternatív szöveget a képekhez",
+          "desc": "Ha PDF-je képeket tartalmaz, adjon hozzá alternatív szöveg leírásokat."
+        },
+        {
+          "title": "8. Tárolja PDF-jeit weboldalán",
+          "desc": "Töltse fel egyesített PDF-jét a weboldalára."
+        },
+        {
+          "title": "9. Kövesse nyomon a PDF megtekintéseket",
+          "desc": "Használjon eszközöket, mint a Google Analytics a felhasználói interakció követésére."
+        },
+        {
+          "title": "10. Népszerűsítse PDF-jét",
+          "desc": "Ossza meg PDF-jét közösségi médiában és hírlevelekben."
+        }
+      ]
+    },
+    "useCases": {
+      "title": "Gyakori használati esetek PDF egyesítésre",
+      "items": [
+        {
+          "title": "<strong>Üzleti jelentések:</strong>",
+          "desc": "Egyesítse egy jelentés több szakaszát egyetlen PDF-be."
+        },
+        {
+          "title": "<strong>Akadémiai projektek:</strong>",
+          "desc": "A diákok összeállíthatják kutatási dolgozataikat."
+        },
+        {
+          "title": "<strong>Jogi dokumentumok:</strong>",
+          "desc": "Az ügyvédek gyakran egyesítik szerződéseket és mellékleteket."
+        },
+        {
+          "title": "<strong>Marketing anyagok:</strong>",
+          "desc": "Készítsen professzionális brosúrákat."
+        },
+        {
+          "title": "<strong>Személyes használat:</strong>",
+          "desc": "Egyesítse szkennelt dokumentumokat vagy fényképeket."
+        }
+      ]
+    },
+    "comparison": {
+      "title": "A gabungPDF.id összehasonlítása más eszközökkel",
+      "intro": "Bár a gabungPDF.id kiváló választás PDF egyesítésre, más eszközök is kínálnak hasonló funkcionalitást.",
+      "items": [
+        {
+          "title": "<strong>gabungPDF.id:</strong>",
+          "desc": "Ingyenes, nincs regisztráció, több fájlformátumot támogat."
+        },
+        {
+          "title": "<strong>Adobe Acrobat:</strong>",
+          "desc": "Ingyenes online egyesítőt kínál, de bejelentkezést igényel."
+        },
+        {
+          "title": "<strong>iLovePDF:</strong>",
+          "desc": "Robusztus eszköz további funkciókkal."
+        },
+        {
+          "title": "<strong>PDF2Go:</strong>",
+          "desc": "Támogatja az összetett fájlokat és nagy oldalszámokat."
+        }
+      ]
+    },
+    "tips": {
+      "title": "Tippek a zökkenőmentes PDF egyesítési élményhez",
+      "items": [
+        {
+          "title": "<strong>Ellenőrizze a fájl kompatibilitást:</strong>",
+          "desc": "Győződjön meg róla, hogy minden fájl PDF vagy támogatott formátumban van."
+        },
+        {
+          "title": "<strong>Tekintse át előzetesen fájljait:</strong>",
+          "desc": "Ellenőrizze fájljai sorrendjét és tartalmát egyesítés előtt."
+        },
+        {
+          "title": "<strong>Használjon biztonságos platformokat:</strong>",
+          "desc": "Válasszon olyan eszközöket, amelyek prioritásként kezelik az adatvédelmet."
+        },
+        {
+          "title": "<strong>Tesztelje a kimenetet:</strong>",
+          "desc": "Nyissa meg az egyesített PDF-et az elrendezés megerősítéséhez."
+        }
+      ]
+    },
+    "ConclusionH1": "Következtetés",
+    "conclusion": "A PDF fájlok egyesítése egyszerű, mégis hatékony módja a dokumentumkezelés egyszerűsítésének. Akár jelentéseket szervező szakember, kutatást összeállító diák, vagy személyes dokumentumokat archiváló személy, az olyan eszközök, mint a gabungPDF.id, könnyűvé teszik a <strong>PDF fájlok egyesítését</strong> online ingyen."
+  },
+  "combinePdf": {
+    "title": "PDF fájlok egyesítése",
+    "dragDrop": "Húzza ide a PDF fájlokat",
+    "clickBrowse": "vagy kattintson a böngészéshez",
+    "selectFiles": "Fájlok kiválasztása",
+    "maxSize": "Max 50MB fájlonként",
+    "combineButton": "PDF-ek egyesítése",
+    "filesCount": "PDF-ek",
+    "S1H1": "PDF Egyesítés: Hogyan kombináljunk PDF fájlokat - Tippek a PDF-ek ingyenes egyesítéséhez",
+    "S1P1": "A mai digitális világban a PDF (Portable Document Format) alapvető szerepet játszik a dokumentumok megosztásában és tárolásában. Ellentétben a Microsoft Word vagy Google Docs által készített hagyományos DOC fájlokkal, a PDF-ek megőrzik a formázást minden eszközön és operációs rendszeren. Ez az univerzális kompatibilitás ideálissá teszi őket mind szakmai, mind személyes használatra, akár jelentések, prezentációk vagy űrlapok megosztásáról van szó online.",
+    "S1P2": "Ugyanakkor a PDF-ekkel való munka néha kihívásokkal járhat, különösen akkor, ha több PDF fájlt kell egyetlen dokumentummá egyesíteni. Ebben az útmutatóban megvizsgáljuk, miért fontos a PDF-ek egyesítése, hogyan lehet ingyenesen egyesíteni őket intuitív eszközünkkel, és hogyan segíthet a dokumentumkezelési folyamat egyszerűsítésében.",
+    "S2H1": "Miért különlegesek és sokoldalúak a PDF-ek?",
+    "S2P1": "A PDF-eket úgy tervezték, hogy megőrizzék a dokumentum pontos megjelenését, függetlenül attól, hogy milyen eszközről vagy szoftverről nézik azt. Ellentétben a DOC fájlokkal, amelyek rendszer-specifikus beállításokra, például telepített betűtípusokra vagy operációs rendszer konfigurációkra támaszkodnak, a PDF-ek statikus képként működnek. Ez biztosítja, hogy a betűtípusok, elrendezések és grafikák következetesek maradjanak, így ideálisak olyan professzionális dokumentumokhoz, mint a szerződések, önéletrajzok vagy e-könyvek.",
+    "S2P2": "Ez a következetesség az oka annak, hogy a PDF-eket széles körben használják dokumentumok megosztására az interneten. Akár üzleti ajánlatot küldesz, akár fontos nyilvántartásokat archiválsz, a PDF biztosítja, hogy a címzett pontosan úgy lássa a dokumentumot, ahogyan azt szánták. Ugyanakkor ez a tulajdonság a PDF-ek szerkesztését vagy egyesítését bonyolultabbá teszi, mint a DOC fájlok esetében. Speciális szoftverek nélkül az olyan feladatok, mint oldalak hozzáadása vagy több PDF egyesítése, ijesztőnek tűnhetnek. Szerencsére az ingyenes online eszközünk leegyszerűsíti ezt a folyamatot, lehetővé téve a PDF-ek egyszerű egyesítését további szoftverek nélkül.",
+    "combine_pdf_files": {
+      "intro": "Miért egyesítsünk PDF fájlokat?",
+      "para": "A PDF fájlok egyesítése gyakori szükséglet a szakemberek, diákok és bárki számára, aki több dokumentumot kezel. Íme néhány példa, amikor hasznos lehet a PDF-ek egyesítése:",
+      "items": [
+        {
+          "title": "Átfogó jelentések készítése:",
+          "desc": "Ha több PDF jelentésed vagy fejezeted van, azok egyesítése egyetlen dokumentumba megkönnyíti a megosztást és a felülvizsgálatot."
+        },
+        {
+          "title": "Szkennelt dokumentumok archiválása:",
+          "desc": "A szkennelt PDF-ek, mint például a nyugták vagy űrlapok, gyakran egy fájlba kell, hogy legyenek egyesítve a jobb rendszerezés érdekében."
+        },
+        {
+          "title": "Prezentációk egyszerűsítése:",
+          "desc": "Ha különböző PDF-ekből egyesítesz diákokat vagy szakaszokat, az segít tisztábbá és professzionálisabbá tenni a prezentációt."
+        },
+        {
+          "title": "Fájlmegosztás egyszerűsítése:",
+          "desc": "Ahelyett, hogy több fájlt küldenél, a PDF-ek egyesítése egyetlen fájlba csökkenti a zűrzavart, és biztosítja, hogy minden információ egyetlen, könnyen hozzáférhető dokumentumban legyen."
+        }
+      ],
+      "para2": "A DOC fájlokkal ellentétben, ahol egyszerűen másolhatsz és beilleszthetsz tartalmat, a PDF-ek egyesítéséhez vagy szerkesztéséhez speciális eszközök szükségesek. Például egy szkennelt PDF-ből szöveget másolni gyakran lehetetlen optikai karakterfelismerés (OCR) szoftver nélkül. Az ingyenes PDF kombináló eszközünk eltünteti ezeket a kihívásokat, lehetővé téve akár 20 PDF egyesítését egyszerre, drága szoftverek vagy technikai szakértelem nélkül."
+    },
+    "stepbystep": {
+      "intro": "Hogyan egyesítsünk PDF fájlokat ingyen: lépésről lépésre útmutató",
+      "para": "A felhasználóbarát online eszközünk gyorsan és hatékonyan teszi lehetővé a PDF-ek egyesítését. Legyen szó két fájl vagy akár 20 fájl egyesítéséről, a folyamat egyszerű, és nincs szükség telepítésre vagy előfizetésre. Kövesd az alábbi lépéseket a PDF-ek zökkenőmentes egyesítéséhez:",
+      "items": [
+        {
+          "title": "1. lépés: Töltsd fel a PDF fájlokat",
+          "desc": "Kezdésként keresd meg az 'UPLOAD FILES' gombot az eszközünk felületén. Kattints rá, hogy kiválaszd a kívánt PDF fájlokat az eszközödről. Alternatívaként egyszerűen húzd és ejtsd ide a fájlokat az 'Húzza ide a fájlokat' területre, hogy gyorsabb legyen a folyamat. Ez különösen hasznos, ha több fájl is van, mivel időt takaríthat meg és egyszerűsítheti a folyamatot."
+        },
+        {
+          "title": "2. lépés: Rendezd el a PDF-eket",
+          "desc": "Miután feltöltötted a fájlokat, az eszközünk egy sorba rendezi őket. A fájlok sorrendje határozza meg a végső egyesített PDF felépítését. Az első fájl a kombinált dokumentum tetején lesz, a második fájl következik, és így tovább. Ha biztos akarsz lenni a helyes sorrendben, könnyedén húzhatod és átrendezheted a fájlokat a sorban."
+        },
+        {
+          "title": "3. lépés: Kombinálás és letöltés",
+          "desc": "Miután elégedett vagy a sorrenddel, kattints a COMBINE gombra. A rendszerünk azonnal egyesíti az összes feltöltött PDF-et egyetlen fájlba. A folyamat befejezése után az egyesített PDF automatikusan letöltődik az eszközödre. Az egész folyamat gyors, biztonságos, és nincs szükség további szoftverekre."
+        }
+      ],
+      "intro2": "További PDF-ek egyesítése",
+      "para2": "Több PDF-et szeretnél egyesíteni? Semmi gond! Az eszközünk lehetővé teszi, hogy további fájlokat egyesíts több lépésben. Miután az első készített egyesített PDF-et letöltötted, töltsd fel ezt az új fájlt és bármely további PDF-et, amelyet hozzá szeretnél adni. Ismételd meg a folyamatot a COMBINE gomb megnyomásával, hogy egy még nagyobb dokumentumot készíts. Ezt annyiszor megismételheted, amennyire szükséges, hogy minden fájlt tartalmazzon.",
+      "intro3": "Fontos megjegyzés: Töltsd le egy órán belül",
+      "para3": "A gördülékeny élmény érdekében töltsd le az egyesített PDF-et egy órán belül a kombinálás után. Ha nem teszed, a rendszer törli a fájlokat, és újra fel kell töltened őket, hogy újrakezdhess. Ez a funkció segít megőrizni az adatbiztonságot és felszabadítja a szervereket más felhasználók számára."
+    },
+    "benefits": {
+      "intro": "Miért válaszd ingyenes PDF kombináló eszközünket?",
+      "para": "Eszközünket egyszerűség, hozzáférhetőség és hatékonyság szem előtt tartásával terveztük. Íme, miért a legjobb választás PDF-ek egyesítésére:",
+      "items": [
+        {
+          "title": "Nincs szükség szoftver telepítésére:",
+          "desc": "A hagyományos PDF szerkesztőkkel ellentétben eszközünk teljesen webalapú, így bármely eszközről elérhető, internetkapcsolattal."
+        },
+        {
+          "title": "Ingyenes és korlátlan használat:",
+          "desc": "Akár 20 PDF-et is egyesíthetsz egyszerre bármilyen költség vagy előfizetés nélkül. Nagyobb projektekhez az előzőekben leírtak szerint több batch-ben is kombinálhatsz."
+        },
+        {
+          "title": "Felhasználóbarát felület:",
+          "desc": "A húzd és ejtsd funkció és az intuitív dizájn könnyen használhatóvá teszi mind a kezdők, mind a szakemberek számára."
+        },
+        {
+          "title": "Gyors feldolgozás:",
+          "desc": "Eszközünk másodpercek alatt egyesíti a PDF-eket, időt és energiát megtakarítva."
+        },
+        {
+          "title": "Biztonságos és megbízható:",
+          "desc": "A fájlokat biztonságosan dolgozzuk fel, és egy óra elteltével töröljük őket a szervereinkről, így megőrizzük az adatvédelem biztosítékát."
+        }
+      ]
+    },
+    "should_you": {
+      "intro": "Mikor érdemes egyesíteni a PDF-eket?",
+      "para": "A PDF-ek egyesítése értékes készség különböző helyzetekben. Íme néhány gyakori eset, amikor hasznos lehet:",
+      "items": [
+        {
+          "title": "Üzleti szakemberek:",
+          "desc": "Kombinálj számlákat, szerződéseket vagy ajánlatokat egyetlen dokumentumban a könnyebb megosztás érdekében ügyfelekkel vagy kollégákkal."
+        },
+        {
+          "title": "Diákok és oktatók:",
+          "desc": "Egyesítsd az előadási jegyzeteket, kutatási dolgozatokat vagy feladatokat egy fájlba, hogy egyszerűsítsd a beadást vagy a tanulmányi anyagokat."
+        },
+        {
+          "title": "Jogi és adminisztratív feladatok:",
+          "desc": "Szervezd meg a szkennelt dokumentumokat, például szerződéseket vagy űrlapokat egyetlen PDF-be, hogy archiváld vagy jogi célokra használd."
+        },
+        {
+          "title": "Kreatív projektek:",
+          "desc": "Egyesítsd a tervezési vázlatokat, portfóliókat vagy storyboardokat egyetlen PDF-ben, hogy egy koherens dokumentumot hozz létre bemutatókhoz vagy ügyfélszemlézéshez."
+        }
+      ]
+    },
+    "Tips": {
+      "intro": "Tippek a PDF-ek kezeléséhez",
+      "para": "A PDF egyesítési élmény maximális kihasználása érdekében, fontold meg ezeket a további tippeket:",
+      "items": [
+        {
+          "title": "Ellenőrizd a fájl sorrendjét:",
+          "desc": "Mindig ellenőrizd a PDF-ek sorrendjét, mielőtt egyesítenéd őket, hogy később ne kelljen újrarendezni az oldalakat."
+        },
+        {
+          "title": "Optimalizáld a fájl méretét:",
+          "desc": "Ha a PDF-ek nagy képeket vagy grafikákat tartalmaznak, fontold meg azok tömörítését azelőtt, hogy feltöltenéd őket, hogy csökkentsd a végső fájl méretét."
+        },
+        {
+          "title": "Használj leíró fájlneveket:",
+          "desc": "Nevezd át a PDF-eket világos, leíró nevekkel (például: Report_Section1.pdf), hogy a kombinálás során is rendezetten tudd tartani őket."
+        },
+        {
+          "title": "Készíts biztonsági másolatot az eredeti fájlokról:",
+          "desc": "Tarts biztonsági másolatot az eredeti PDF-ekről, ha szükséged lenne később módosítani őket vagy újra egyesíteni."
+        },
+        {
+          "title": "Fedezd fel a további eszközöket:",
+          "desc": "Ha szerkesztened, konvertálnod vagy tömörítened kell a PDF-eket, nézd meg más ingyenes eszközeinket is a platformunkon, hogy egy teljes dokumentumkezelési megoldást találj."
+        }
+      ]
+    },
+    "why_choose": "Miért válaszd eszközünket a fizetős alternatívák helyett?",
+    "why_choose_para": "Bár a fizetős PDF szerkesztők, mint az Adobe Acrobat, fejlettebb funkciókat kínálnak, ingyenes eszközünk tökéletes megoldást kínál a legtöbb felhasználó számára. Nem szükséges drága szoftverekre vagy előfizetésre költeni a PDF-ek egyesítéséhez. A Gabung PDF.id mindenki számára elérhető, a kisvállalkozóktól kezdve a diákokig, és professzionális eredményeket nyújt bonyolultság nélkül.",
+    "why_choose_para2": "Továbbá, platformunk a sebesség és a kényelem érdekében van optimalizálva. Akár asztali számítógépen, táblagépen vagy okostelefonon dolgozol, bárhol egyesítheted a PDF-eket kompatibilitási problémák nélkül. Ez a rugalmasság ideálissá teszi eszközünket azok számára, akik gyors, megbízható eredményeket szeretnének, bármilyen nehézség nélkül.",
+    "conclusion": "Befejezés",
+    "conclusion_para": "A PDF dokumentumok egyesítése nem kell, hogy bonyolult vagy drága legyen. Az ingyenes, webalapú PDF kombinálónkkal akár 20 PDF-et is egyesíthetsz, könnyedén átrendezheted őket, és néhány másodperc alatt egy koherens fájlt tölthetsz le. Legyen szó jelentések rendszerezéséről, szkennelt dokumentumok archiválásáról vagy prezentációk készítéséről, eszközünk egyszerűsíti a folyamatot, anélkül, hogy további szoftverekre vagy technikai tudásra lenne szükség."
+  },
+  "blog": {
+    "title": "PDF tippek, oktatóanyagok és útmutatók",
+    "description": "Sajátítsa el a PDF kezelést szakértői útmutatókkal, gyakorlati tippekkel és lépésről lépésre szóló oktatóanyagokkal.",
+    "searchPlaceholder": "Cikkek, oktatóanyagok és útmutatók keresése...",
+    "articles": "Cikkek",
+    "readers": "Olvasók",
+    "available": "Elérhető",
+    "featuredArticle": "Kiemelt cikk",
+    "mostPopular": "Legnépszerűbb ezen a héten",
+    "readArticle": "Cikk olvasása",
+    "readFull": "Teljes cikk olvasása",
+    "minRead": "perc olvasás"
+  },
+  "footer": {
+    "description": "A legegyszerűbb módja több PDF fájl egy dokumentummá egyesítésének. Gyors, biztonságos és teljesen ingyenes használat.",
+    "contact": "Kapcsolat:",
+    "quickLinks": "Gyors linkek",
+    "privacyPolicy": "Adatvédelmi szabályzat",
+    "termsOfService": "Szolgáltatási feltételek",
+    "allRights": "Minden jog fenntartva"
+  }
+}

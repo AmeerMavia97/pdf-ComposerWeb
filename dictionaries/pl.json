@@ -1,0 +1,367 @@
+{
+  "nav": {
+    "home": "Strona główna",
+    "combinePdf": "Połącz PDF",
+    "blog": "Blog",
+    "language": "Język"
+  },
+  "instructions": {
+    "title": "Jak łączyć pliki PDF",
+    "step1": {
+      "title": "Wybierz pliki",
+      "description": "Wybierz pliki PDF, które chcesz połączyć"
+    },
+    "step2": {
+      "title": "Uporządkuj kolejność",
+      "description": "Przeciągnij i upuść pliki, aby uporządkować je według potrzeb"
+    },
+    "step3": {
+      "title": "Połącz",
+      "description": "Kliknij przycisk połącz i pobierz swój PDF"
+    }
+  },
+  "home": {
+    "title": "Połącz pliki PDF online - Darmowo, szybko i bezpiecznie",
+    "description": "Łatwo łącz PDF-y z GabungPDF.id! Darmowe, szybkie, bezpieczne narzędzie online do łączenia plików PDF w sekundach. Rejestracja nie jest wymagana.",
+    "mergeNow": "Połącz PDF teraz",
+    "sec1Para": "W dzisiejszym szybko rozwijającym się cyfrowym świecie, efektywne zarządzanie dokumentami jest kluczowe zarówno dla zadań osobistych, jak i zawodowych. Powszechną potrzebą jest <strong>łączenie plików PDF</strong> w jeden uporządkowany dokument.",
+    "SecH1": "Dlaczego łączyć pliki PDF?",
+    "SecH1P1": "Łączenie kilku plików PDF w jeden dokument oferuje liczne korzyści:",
+    "SecH1UlLi1": "<strong>Organizacja i wydajność:</strong> Wysyłanie jednego połączonego PDF zamiast kilku plików upraszcza udostępnianie i przeglądanie.",
+    "SecH1UlLi2": "<strong>Zmniejszenie bałaganu plików:</strong> Łączenie PDF-ów zmniejsza liczbę plików, którymi musisz zarządzać.",
+    "SecH1UlLi3": "<strong>Profesjonalna prezentacja:</strong> Zunifikowany PDF wygląda elegancko i profesjonalnie.",
+    "SecH1UlLi4": "<strong>Kompatybilność międzyplatformowa:</strong> PDF-y są uniwersalnie kompatybilne.",
+    "steps": {
+      "title": "Jak połączyć pliki PDF online za darmo",
+      "intro": "Korzystanie z narzędzia online takiego jak gabungPDF.id sprawia, że łączenie PDF-ów jest proste i dostępne:",
+      "items": [
+        {
+          "title": "Krok 1: Odwiedź gabungPDF.id",
+          "desc": "Przejdź do gabungPDF.id, darmowego narzędzia online zaprojektowanego, aby pomóc Ci <strong>łączyć pliki PDF</strong> w sekundach."
+        },
+        {
+          "title": "Krok 2: Prześlij swoje pliki PDF",
+          "desc": "Kliknij przycisk \"Prześlij Pliki\", aby wybrać PDF-y, które chcesz połączyć."
+        },
+        {
+          "title": "Krok 3: Uporządkuj pliki",
+          "desc": "Po przesłaniu możesz przeciągać i upuszczać pliki, aby uporządkować je w pożądanej kolejności."
+        },
+        {
+          "title": "Krok 4: Połącz i pobierz",
+          "desc": "Po uporządkowaniu plików kliknij przycisk \"Połącz\"."
+        }
+      ]
+    },
+    "whyChoose": {
+      "title": "Dlaczego wybrać gabungPDF.id?",
+      "points": [
+        {
+          "title": "<strong>Nie wymaga instalacji:</strong>",
+          "desc": "W przeciwieństwie do oprogramowania desktopowego, gabungPDF.id działa całkowicie online."
+        },
+        {
+          "title": "<strong>Darmowe i bezpieczne:</strong>",
+          "desc": "Narzędzie jest darmowe w użyciu, bez ukrytych opłat."
+        },
+        {
+          "title": "<strong>Kompatybilność międzyurządzeniowa:</strong>",
+          "desc": "Niezależnie od tego, czy używasz Mac, Windows, iOS czy Android."
+        },
+        {
+          "title": "<strong>Wsparcie wielojęzyczne:</strong>",
+          "desc": "Platforma wspiera użytkowników na całym świecie."
+        }
+      ]
+    },
+    "benefits": {
+      "title": "Korzyści z używania online łącznika PDF",
+      "items": [
+        {
+          "title": "<strong>Dostępność:</strong>",
+          "desc": "Możesz <strong>łączyć pliki PDF</strong> z dowolnego urządzenia z połączeniem internetowym."
+        },
+        {
+          "title": "<strong>Szybkość:</strong>",
+          "desc": "Proces łączenia zajmuje tylko sekundy."
+        },
+        {
+          "title": "<strong>Bez kosztów:</strong>",
+          "desc": "Wiele narzędzi online jest całkowicie darmowych."
+        },
+        {
+          "title": "<strong>Przyjazne użytkownikowi:</strong>",
+          "desc": "Nie są wymagane umiejętności techniczne."
+        }
+      ]
+    },
+    "seoTips": {
+      "title": "Optymalizuj swoje połączone PDF dla SEO",
+      "intro": "Jeśli tworzysz pliki PDF do celów zawodowych lub marketingowych, optymalizacja ich dla wyszukiwarek może zwiększyć ich widoczność.",
+      "items": [
+        {
+          "title": "1. Używaj opisowych nazw plików",
+          "desc": "Przed przesłaniem PDF zmień nazwy plików na opisowe, bogate w słowa kluczowe."
+        },
+        {
+          "title": "2. Dodaj metadane",
+          "desc": "Uwzględnij metadane takie jak tytuł, autor i słowa kluczowe w swoim PDF."
+        },
+        {
+          "title": "3. Optymalizuj treść tekstową",
+          "desc": "Upewnij się, że Twój PDF zawiera przeszukiwalny tekst zamiast skanowanych obrazów."
+        },
+        {
+          "title": "4. Uwzględnij linki wewnętrzne",
+          "desc": "Jeśli Twój PDF jest częścią strony internetowej, uwzględnij linki do odpowiednich stron."
+        },
+        {
+          "title": "5. Używaj nagłówków i struktury",
+          "desc": "Organizuj swój PDF z jasnymi nagłówkami i logiczną strukturą."
+        },
+        {
+          "title": "6. Kompresuj dla szybszego ładowania",
+          "desc": "Duże pliki PDF mogą spowalniać czas ładowania."
+        },
+        {
+          "title": "7. Dodaj tekst alternatywny do obrazów",
+          "desc": "Jeśli Twój PDF zawiera obrazy, dodaj opisy tekstu alternatywnego."
+        },
+        {
+          "title": "8. Hostuj PDF na swojej stronie",
+          "desc": "Prześlij swój połączony PDF na swoją stronę internetową."
+        },
+        {
+          "title": "9. Śledź wyświetlenia PDF",
+          "desc": "Używaj narzędzi takich jak Google Analytics do śledzenia interakcji użytkowników."
+        },
+        {
+          "title": "10. Promuj swój PDF",
+          "desc": "Udostępniaj swój PDF w mediach społecznościowych i newsletterach."
+        }
+      ]
+    },
+    "useCases": {
+      "title": "Typowe przypadki użycia do łączenia PDF",
+      "items": [
+        {
+          "title": "<strong>Raporty biznesowe:</strong>",
+          "desc": "Połącz wiele sekcji raportu w jeden PDF."
+        },
+        {
+          "title": "<strong>Projekty akademickie:</strong>",
+          "desc": "Studenci mogą kompilować prace badawcze."
+        },
+        {
+          "title": "<strong>Dokumenty prawne:</strong>",
+          "desc": "Prawnicy często łączą umowy i załączniki."
+        },
+        {
+          "title": "<strong>Materiały marketingowe:</strong>",
+          "desc": "Twórz profesjonalne broszury."
+        },
+        {
+          "title": "<strong>Użytek osobisty:</strong>",
+          "desc": "Łącz zeskanowane dokumenty lub zdjęcia."
+        }
+      ]
+    },
+    "comparison": {
+      "title": "Porównanie gabungPDF.id z innymi narzędziami",
+      "intro": "Chociaż gabungPDF.id jest doskonałym wyborem do łączenia PDF, inne narzędzia również oferują podobną funkcjonalność.",
+      "items": [
+        {
+          "title": "<strong>gabungPDF.id:</strong>",
+          "desc": "Darmowe, bez rejestracji, obsługuje wiele formatów plików."
+        },
+        {
+          "title": "<strong>Adobe Acrobat:</strong>",
+          "desc": "Oferuje darmowy łącznik online, ale wymaga logowania."
+        },
+        {
+          "title": "<strong>iLovePDF:</strong>",
+          "desc": "Solidne narzędzie z dodatkowymi funkcjami."
+        },
+        {
+          "title": "<strong>PDF2Go:</strong>",
+          "desc": "Obsługuje złożone pliki i duże liczby stron."
+        }
+      ]
+    },
+    "tips": {
+      "title": "Wskazówki dla płynnego doświadczenia łączenia PDF",
+      "items": [
+        {
+          "title": "<strong>Sprawdź kompatybilność plików:</strong>",
+          "desc": "Upewnij się, że wszystkie pliki są w formacie PDF lub obsługiwanych formatach."
+        },
+        {
+          "title": "<strong>Podejrzyj swoje pliki:</strong>",
+          "desc": "Przejrzyj kolejność i zawartość swoich plików przed łączeniem."
+        },
+        {
+          "title": "<strong>Używaj bezpiecznych platform:</strong>",
+          "desc": "Wybieraj narzędzia, które priorytetowo traktują prywatność."
+        },
+        {
+          "title": "<strong>Przetestuj wynik:</strong>",
+          "desc": "Otwórz połączony PDF, aby potwierdzić układ."
+        }
+      ]
+    },
+    "ConclusionH1": "Wniosek",
+    "conclusion": "Łączenie plików PDF to prosty, ale potężny sposób na usprawnienie zarządzania dokumentami. Niezależnie od tego, czy jesteś profesjonalistą organizującym raporty, studentem kompilującym badania, czy kimś archiwizującym dokumenty osobiste, narzędzia takie jak gabungPDF.id sprawiają, że <strong>łączenie plików PDF</strong> online za darmo jest łatwe."
+  },
+  "combinePdf": {
+    "title": "Scal pliki PDF",
+    "dragDrop": "Przeciągnij i upuść pliki PDF tutaj",
+    "clickBrowse": "lub kliknij, aby przeglądać",
+    "selectFiles": "Wybierz pliki",
+    "maxSize": "Maksymalny rozmiar każdego pliku: 50 MB",
+    "combineButton": "Scal PDF",
+    "filesCount": "PDF",
+    "S1H1": "Scal PDF: Jak połączyć pliki PDF – darmowe porady",
+    "S1P1": "W dzisiejszym cyfrowym świecie pliki PDF (Portable Document Format) stały się podstawą do udostępniania i przechowywania dokumentów. W porównaniu z tradycyjnymi plikami DOC stworzonymi w Microsoft Word lub Google Docs, pliki PDF zachowują ten sam układ na wszystkich urządzeniach i systemach operacyjnych, co czyni je idealnymi do użytku zarówno biznesowego, jak i osobistego – niezależnie od tego, czy udostępniasz raporty online, prezentacje czy formularze.",
+    "S1P2": "Jednak praca z plikami PDF może być czasem wyzwaniem, szczególnie gdy musisz połączyć wiele plików. W tym przewodniku pokażemy, dlaczego warto scalać pliki PDF, jak zrobić to za darmo za pomocą naszego przyjaznego narzędzia online oraz jak usprawnić proces zarządzania dokumentami na stałe.",
+    "S2H1": "Dlaczego PDF-y są wyjątkowe i wszechstronne",
+    "S2P1": "Pliki PDF są zaprojektowane tak, aby zachować dokładny układ dokumentu, niezależnie od urządzenia czy oprogramowania, na którym są wyświetlane. W przeciwieństwie do plików DOC, które zależą od ustawień systemowych, takich jak czcionki czy konfiguracja OS, PDF to format stały. Gwarantuje to, że czcionki, układ i grafika pozostają niezmienione, co czyni je idealnymi dla profesjonalnych dokumentów, takich jak umowy, CV czy e-booki.",
+    "S2P2": "To właśnie ta niezawodność sprawia, że PDF-y są tak popularne do udostępniania dokumentów w internecie. Niezależnie od tego, czy wysyłasz ofertę biznesową, czy archiwizujesz ważne dane, PDF zapewnia, że odbiorca zobaczy dokument dokładnie tak, jak go przygotowano. Jednak ta sama cecha czyni edycję lub scalanie PDF-ów trudniejszą bez specjalistycznego oprogramowania. Na szczęście nasze darmowe narzędzie online upraszcza ten proces, umożliwiając wygodne łączenie plików PDF bez instalacji kosztownego oprogramowania.",
+    "combine_pdf_files": {
+      "intro": "Dlaczego warto scalać pliki PDF?",
+      "para": "Scalanie plików PDF jest częstą potrzebą dla profesjonalistów, studentów i wszystkich, którzy zarządzają wieloma dokumentami. Oto kilka sytuacji, gdy warto to zrobić:",
+      "items": [
+        {
+          "title": "Tworzenie obszernych raportów:",
+          "desc": "Masz kilka raportów lub rozdziałów w osobnych plikach PDF? Połączenie ich w jeden dokument ułatwia udostępnianie i przeglądanie."
+        },
+        {
+          "title": "Archiwizacja zeskanowanych dokumentów:",
+          "desc": "Skanowane dokumenty, jak paragony czy formularze, często wymagają scalenia w jeden plik dla łatwiejszego zarządzania."
+        },
+        {
+          "title": "Ułatwienie prezentacji:",
+          "desc": "Łączenie slajdów lub sekcji z różnych PDF-ów poprawia klarowność i profesjonalny wygląd prezentacji."
+        },
+        {
+          "title": "Uproszczenie udostępniania:",
+          "desc": "Zamiast wysyłać wiele plików, scalony dokument PDF pozwala przekazać wszystkie informacje jednym kliknięciem."
+        }
+      ],
+      "para2": "W przeciwieństwie do plików DOC, które łatwo kopiować i wklejać, PDF-y wymagają specjalistycznych narzędzi do edycji lub scalania. Na przykład tekst ze zeskanowanego PDF-a często nie jest możliwy do skopiowania bez oprogramowania OCR. Nasze darmowe narzędzie do scalania PDF znosi te ograniczenia – możesz połączyć do 20 plików jednocześnie, bez potrzeby płatnego oprogramowania czy zaawansowanej wiedzy."
+    },
+    "stepbystep": {
+      "intro": "Jak scalić pliki PDF – krok po kroku",
+      "para": "Nasze przyjazne narzędzie online sprawia, że łączenie PDF-ów jest szybkie i efektywne. Niezależnie od tego, czy łączysz dwa pliki, czy 20, proces jest prosty i nie wymaga instalacji ani rejestracji. Wykonaj te kroki, aby bez problemu scalić PDF-y:",
+      "items": [
+        {
+          "title": "Krok 1: Prześlij pliki PDF",
+          "desc": "Najpierw znajdź przycisk „Prześlij pliki” na naszej stronie. Możesz kliknąć i wybrać pliki z urządzenia lub użyć funkcji „przeciągnij i upuść” – to oszczędza czas przy pracy z wieloma plikami."
+        },
+        {
+          "title": "Krok 2: Ułóż pliki w odpowiedniej kolejności",
+          "desc": "Po przesłaniu plików zobaczysz je w kolejności, w jakiej zostaną scalone. Pierwszy plik pojawi się na górze, kolejny zaraz po nim. Możesz przeciągać je, aby zmienić kolejność."
+        },
+        {
+          "title": "Krok 3: Scal i pobierz",
+          "desc": "Jeśli jesteś zadowolony z kolejności, kliknij „Scal PDF”. Nasz system połączy pliki i automatycznie rozpocznie pobieranie scalonego dokumentu. Cały proces jest szybki, bezpieczny i bez dodatkowego oprogramowania."
+        }
+      ],
+      "intro2": "Chcesz scalić więcej plików?",
+      "para2": "Nic prostszego! Nasze narzędzie pozwala na scalenie plików partiami. Po scaleniu pierwszej grupy, pobierz wynik, a następnie możesz dodać go ponownie wraz z innymi PDF-ami i powtórzyć proces, tworząc ogromny dokument. Możesz powtarzać, aż obejmiesz wszystkie potrzebne pliki.",
+      "intro3": "Ważna informacja: pobierz w ciągu godziny",
+      "para3": "Aby zapewnić płynność działania, scalony plik będzie dostępny tylko przez godzinę. Po tym czasie zostanie usunięty z serwerów i trzeba będzie ponownie przesłać pliki. To gwarantuje bezpieczeństwo danych i oszczędność miejsca."
+    },
+    "benefits": {
+      "intro": "Korzyści z naszego darmowego narzędzia do scalania PDF",
+      "para": "Nasze narzędzie zostało zaprojektowane z myślą o prostocie, dostępności i efektywności. Oto, dlaczego warto z niego korzystać:",
+      "items": [
+        {
+          "title": "Bez instalacji:",
+          "desc": "W przeciwieństwie do tradycyjnych edytorów PDF, nasze narzędzie działa w pełni online, więc dostępne jest na dowolnym urządzeniu z internetem."
+        },
+        {
+          "title": "Bezpłatne i bez limitów:",
+          "desc": "Scalaj do 20 plików PDF naraz – zupełnie za darmo bez abonamentu."
+        },
+        {
+          "title": "Intuicyjny interfejs:",
+          "desc": "Funkcja przeciągnij i upuść oraz przejrzysty interfejs sprawiają, że korzystanie z narzędzia jest proste nawet dla początkujących."
+        },
+        {
+          "title": "Szybkie działanie:",
+          "desc": "Narzędzie scalanie w kilka sekund, oszczędzając Twój czas."
+        },
+        {
+          "title": "Bezpieczeństwo:",
+          "desc": "Twoje pliki są przetwarzane bezpiecznie, a po godzinie usuwane z serwerów, co chroni prywatność."
+        }
+      ]
+    },
+    "should_you": {
+      "intro": "Kiedy warto scalać PDF-y?",
+      "para": "Scalanie PDF-ów to przydatna funkcja w różnych sytuacjach. Oto niektóre scenariusze:",
+      "items": [
+        {
+          "title": "Dla profesjonalistów:",
+          "desc": "Połącz faktury, umowy i oferty w jeden dokument, aby łatwiej wysyłać je klientom i współpracownikom."
+        },
+        {
+          "title": "Studenci i nauczyciele:",
+          "desc": "Scal notatki, prace domowe lub artykuły w jednej całości do wygodnego przesyłania lub nauki."
+        },
+        {
+          "title": "Dokumenty prawne i administracyjne:",
+          "desc": "Połącz zeskanowane formularze czy umowy w jeden plik do celów archiwalnych lub prawnych."
+        },
+        {
+          "title": "Projekty kreatywne:",
+          "desc": "Scal szkice, portfolia lub storyboardy w jedną prezentację do oceny lub udziału."
+        }
+      ]
+    },
+    "Tips": {
+      "intro": "Porady przy pracy z PDF-ami",
+      "para": "Aby jak najlepiej wykorzystać narzędzie do scalania PDF, zwróć uwagę na te wskazówki:",
+      "items": [
+        {
+          "title": "Sprawdź kolejność:",
+          "desc": "Przed scaleniem upewnij się, że pliki są w odpowiedniej kolejności, aby uniknąć przestawionych stron."
+        },
+        {
+          "title": "Optymalizuj rozmiar:",
+          "desc": "Jeśli PDF-y zawierają duże obrazy lub grafikę, skompresuj je przed przesłaniem, by zmniejszyć końcowy plik."
+        },
+        {
+          "title": "Używaj opisowych nazw:",
+          "desc": "Nazwij pliki konkretnie (np. Raport_Rozdzial1.pdf), by łatwiej je zidentyfikować przy scalaniu."
+        },
+        {
+          "title": "Zrób kopię zapasową:",
+          "desc": "Zachowaj oryginalne PDF-y na wypadek potrzeby edycji lub scalania na nowo."
+        },
+        {
+          "title": "Sprawdź inne narzędzia:",
+          "desc": "Jeśli potrzebujesz edycji, konwersji czy kompresji PDF, wypróbuj inne darmowe narzędzia dostępne na naszej platformie."
+        }
+      ]
+    },
+    "why_choose": "Dlaczego wybrać nasze narzędzie zamiast płatnych?",
+    "why_choose_para": "Płatne edytory PDF, jak Adobe Acrobat, oferują zaawansowane funkcje, ale nasze darmowe narzędzie wystarcza większości użytkowników. Bez płacenia ani abonamentu możesz łatwo scalić dokumenty. Gabung PDF.id jest dostępny dla wszystkich – od małych firm po studentów – oferując profesjonalne efekty bez komplikacji.",
+    "why_choose_para2": "Nasza platforma jest zoptymalizowana pod kątem szybkości i użyteczności. Niezależnie od tego, czy pracujesz na komputerze, tablecie czy telefonie komórkowym, możesz scalać PDF-y z dowolnego miejsca bez problemów z kompatybilnością. To sprawia, że nasze narzędzie jest idealne dla użytkowników, którzy potrzebują szybkich i niezawodnych rezultatów bez skomplikowanej nauki.",
+    "conclusion": "Podsumowanie",
+    "conclusion_para": "Scalanie plików PDF nie musi być skomplikowane ani kosztowne. Dzięki naszemu darmowemu narzędziu online możesz łączyć do 20 plików naraz, łatwo zarządzać kolejnością i pobierać scalone dokumenty w kilka sekund. Bez względu na to, czy przygotowujesz raporty, archiwizujesz zeskanowane dokumenty, czy tworzysz prezentacje, nasze narzędzie uprości proces bez potrzeby instalacji czy zaawansowanych umiejętności."
+  },
+  "blog": {
+    "title": "Blog",
+    "subtitle": "Najnowsze informacje o PDF i zarządzaniu dokumentami",
+    "readMore": "Czytaj więcej"
+  },
+  "footer": {
+    "description": "Najłatwiejszy sposób na połączenie kilku plików PDF w jeden dokument. Szybko, bezpiecznie i całkowicie darmowo w użyciu.",
+    "contact": "Skontaktuj się z nami:",
+    "quickLinks": "Szybkie linki",
+    "privacyPolicy": "Polityka prywatności",
+    "termsOfService": "Warunki usługi",
+    "copyright": "Prawa autorskie © 2024 PDF Composer. Wszelkie prawa zastrzeżone."
+  }
+}

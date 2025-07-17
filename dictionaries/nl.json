@@ -1,0 +1,360 @@
+{
+  "nav": {
+    "home": "Home",
+    "combinePdf": "PDF samenvoegen",
+    "blog": "Blog",
+    "selectLanguage": "Selecteer taal"
+  },
+  "home": {
+    "title": "PDF-bestanden online samenvoegen - Gratis, snel en veilig",
+    "description": "Voeg PDF's eenvoudig samen met GabungPDF.id! Gratis, snelle, veilige online tool om PDF-bestanden in seconden samen te voegen. Geen registratie vereist.",
+    "mergeNow": "PDF's nu samenvoegen",
+    "sec1Para": "In de snelle digitale wereld van vandaag is het efficiënt beheren van documenten cruciaal voor zowel persoonlijke als professionele taken. Een veelvoorkomende behoefte is het <strong>samenvoegen van PDF-bestanden</strong> tot één gestroomlijnd document.",
+    "SecH1": "Waarom PDF-bestanden samenvoegen?",
+    "SecH1P1": "Het samenvoegen van meerdere PDF-bestanden tot één document biedt talloze voordelen:",
+    "SecH1UlLi1": "<strong>Organisatie en efficiëntie:</strong> Het verzenden van één samengevoegde PDF in plaats van meerdere bestanden vereenvoudigt het delen en beoordelen.",
+    "SecH1UlLi2": "<strong>Vermindering van bestandsrommel:</strong> Het samenvoegen van PDF's vermindert het aantal bestanden dat u moet beheren.",
+    "SecH1UlLi3": "<strong>Professionele presentatie:</strong> Een uniforme PDF ziet er gepolijst en professioneel uit.",
+    "SecH1UlLi4": "<strong>Cross-platform compatibiliteit:</strong> PDF's zijn universeel compatibel.",
+    "steps": {
+      "title": "Hoe PDF-bestanden gratis online samen te voegen",
+      "intro": "Het gebruik van een online tool zoals gabungPDF.id maakt het samenvoegen van PDF's eenvoudig en toegankelijk:",
+      "items": [
+        {
+          "title": "Stap 1: Bezoek gabungPDF.id",
+          "desc": "Navigeer naar gabungPDF.id, een gratis online tool ontworpen om u te helpen <strong>PDF-bestanden samen te voegen</strong> in seconden."
+        },
+        {
+          "title": "Stap 2: Upload uw PDF-bestanden",
+          "desc": "Klik op de knop \"Bestanden uploaden\" om de PDF's te selecteren die u wilt samenvoegen."
+        },
+        {
+          "title": "Stap 3: Rangschik de bestanden",
+          "desc": "Na het uploaden kunt u bestanden slepen en neerzetten om ze in de gewenste volgorde te rangschikken."
+        },
+        {
+          "title": "Stap 4: Voeg samen en download",
+          "desc": "Na het rangschikken van uw bestanden, klik op de knop \"Samenvoegen\"."
+        }
+      ]
+    },
+    "whyChoose": {
+      "title": "Waarom gabungPDF.id kiezen?",
+      "points": [
+        {
+          "title": "<strong>Geen installatie vereist:</strong>",
+          "desc": "In tegenstelling tot desktop software werkt gabungPDF.id volledig online."
+        },
+        {
+          "title": "<strong>Gratis en veilig:</strong>",
+          "desc": "De tool is gratis te gebruiken, zonder verborgen kosten."
+        },
+        {
+          "title": "<strong>Cross-device compatibiliteit:</strong>",
+          "desc": "Of u nu Mac, Windows, iOS of Android gebruikt."
+        },
+        {
+          "title": "<strong>Meertalige ondersteuning:</strong>",
+          "desc": "Het platform ondersteunt gebruikers wereldwijd."
+        }
+      ]
+    },
+    "benefits": {
+      "title": "Voordelen van het gebruik van een online PDF-samenvoeger",
+      "items": [
+        {
+          "title": "<strong>Toegankelijkheid:</strong>",
+          "desc": "U kunt <strong>PDF-bestanden samenvoegen</strong> vanaf elk apparaat met een internetverbinding."
+        },
+        {
+          "title": "<strong>Snelheid:</strong>",
+          "desc": "Het samenvoegproces duurt slechts seconden."
+        },
+        {
+          "title": "<strong>Geen kosten:</strong>",
+          "desc": "Veel online tools zijn volledig gratis."
+        },
+        {
+          "title": "<strong>Gebruiksvriendelijk:</strong>",
+          "desc": "Er zijn geen technische vaardigheden vereist."
+        }
+      ]
+    },
+    "seoTips": {
+      "title": "Optimaliseer uw samengevoegde PDF's voor SEO",
+      "intro": "Als u PDF's maakt voor professionele of marketingdoeleinden, kan het optimaliseren ervan voor zoekmachines hun zichtbaarheid vergroten.",
+      "items": [
+        {
+          "title": "1. Gebruik beschrijvende bestandsnamen",
+          "desc": "Voordat u uw PDF uploadt, hernoem uw bestanden met beschrijvende, trefwoordrijke namen."
+        },
+        {
+          "title": "2. Voeg metadata toe",
+          "desc": "Neem metadata zoals titel, auteur en trefwoorden op in uw PDF."
+        },
+        {
+          "title": "3. Optimaliseer tekstinhoud",
+          "desc": "Zorg ervoor dat uw PDF doorzoekbare tekst bevat in plaats van gescande afbeeldingen."
+        },
+        {
+          "title": "4. Neem interne links op",
+          "desc": "Als uw PDF onderdeel is van een website, neem dan links naar relevante pagina's op."
+        },
+        {
+          "title": "5. Gebruik koppen en structuur",
+          "desc": "Organiseer uw PDF met duidelijke koppen en logische structuur."
+        },
+        {
+          "title": "6. Comprimeer voor sneller laden",
+          "desc": "Grote PDF's kunnen laadtijden vertragen."
+        },
+        {
+          "title": "7. Voeg alt-tekst toe aan afbeeldingen",
+          "desc": "Als uw PDF afbeeldingen bevat, voeg dan alt-tekstbeschrijvingen toe."
+        },
+        {
+          "title": "8. Host PDF's op uw website",
+          "desc": "Upload uw samengevoegde PDF naar uw website."
+        },
+        {
+          "title": "9. Volg PDF-weergaven",
+          "desc": "Gebruik tools zoals Google Analytics om gebruikersinteractie te volgen."
+        },
+        {
+          "title": "10. Promoot uw PDF",
+          "desc": "Deel uw PDF op sociale media en nieuwsbrieven."
+        }
+      ]
+    },
+    "useCases": {
+      "title": "Veelvoorkomende gebruikssituaties voor het samenvoegen van PDF's",
+      "items": [
+        {
+          "title": "<strong>Bedrijfsrapporten:</strong>",
+          "desc": "Voeg meerdere secties van een rapport samen in één PDF."
+        },
+        {
+          "title": "<strong>Academische projecten:</strong>",
+          "desc": "Studenten kunnen onderzoekspapers compileren."
+        },
+        {
+          "title": "<strong>Juridische documenten:</strong>",
+          "desc": "Advocaten voegen vaak contracten en bijlagen samen."
+        },
+        {
+          "title": "<strong>Marketingmateriaal:</strong>",
+          "desc": "Maak professionele brochures."
+        },
+        {
+          "title": "<strong>Persoonlijk gebruik:</strong>",
+          "desc": "Voeg gescande documenten of foto's samen."
+        }
+      ]
+    },
+    "comparison": {
+      "title": "gabungPDF.id vergelijken met andere tools",
+      "intro": "Hoewel gabungPDF.id een topkeuze is voor het samenvoegen van PDF's, bieden andere tools ook vergelijkbare functionaliteit.",
+      "items": [
+        {
+          "title": "<strong>gabungPDF.id:</strong>",
+          "desc": "Gratis, geen registratie, ondersteunt meerdere bestandsformaten."
+        },
+        {
+          "title": "<strong>Adobe Acrobat:</strong>",
+          "desc": "Biedt een gratis online samenvoeger maar vereist inloggen."
+        },
+        {
+          "title": "<strong>iLovePDF:</strong>",
+          "desc": "Robuuste tool met extra functies."
+        },
+        {
+          "title": "<strong>PDF2Go:</strong>",
+          "desc": "Ondersteunt complexe bestanden en grote paginaaantallen."
+        }
+      ]
+    },
+    "tips": {
+      "title": "Tips voor een naadloze PDF-samenvoegervaring",
+      "items": [
+        {
+          "title": "<strong>Controleer bestandscompatibiliteit:</strong>",
+          "desc": "Zorg ervoor dat alle bestanden in PDF of ondersteunde formaten zijn."
+        },
+        {
+          "title": "<strong>Bekijk uw bestanden vooraf:</strong>",
+          "desc": "Controleer de volgorde en inhoud van uw bestanden voor het samenvoegen."
+        },
+        {
+          "title": "<strong>Gebruik veilige platforms:</strong>",
+          "desc": "Kies tools die privacy prioriteren."
+        },
+        {
+          "title": "<strong>Test de uitvoer:</strong>",
+          "desc": "Open de samengevoegde PDF om de lay-out te bevestigen."
+        }
+      ]
+    },
+    "ConclusionH1": "Conclusie",
+    "conclusion": "Het samenvoegen van PDF-bestanden is een eenvoudige maar krachtige manier om uw documentbeheer te stroomlijnen. Of u nu een professional bent die rapporten organiseert, een student die onderzoek compileert, of iemand die persoonlijke documenten archiveert, tools zoals gabungPDF.id maken het gemakkelijk om <strong>PDF-bestanden</strong> gratis online samen te voegen."
+  },
+  "combinePdf": {
+    "title": "PDF-bestanden samenvoegen",
+    "dragDrop": "Sleep en zet hier PDF-bestanden neer",
+    "clickBrowse": "Of klik om te bladeren",
+    "selectFiles": "Selecteer bestanden",
+    "maxSize": "Maximale bestandsgrootte per bestand is 50 MB",
+    "combineButton": "PDF samenvoegen",
+    "filesCount": "PDF's",
+    "S1H1": "PDF samenvoegen: Hoe PDF-bestanden samenvoegen - Gratis PDF samenvoegtips",
+    "S1P1": "In de digitale wereld van vandaag zijn PDF (Portable Document Format) bestanden de standaard geworden voor het delen en opslaan van documenten. In tegenstelling tot traditionele DOC-bestanden die worden gemaakt in Microsoft Word of Google Docs, behouden PDF-bestanden hetzelfde formaat op elk apparaat en elk besturingssysteem. Deze universele compatibiliteit maakt ze ideaal voor zowel zakelijke als persoonlijke toepassingen, of je nu online rapporten, presentaties of formulieren deelt.",
+    "S1P2": "Echter, werken met PDF-bestanden kan soms lastig zijn, vooral als je meerdere PDF-bestanden moet combineren. In deze handleiding laten we zien waarom het belangrijk is om PDF-bestanden samen te voegen, hoe je gratis PDF-bestanden kunt samenvoegen met behulp van onze gebruiksvriendelijke tool en de voordelen van het vereenvoudigen van je documentbeheerproces voor altijd.",
+    "S2H1": "Waarom zijn PDF-bestanden uniek en veelzijdig?",
+    "S2P1": "PDF-bestanden zijn ontworpen om de exacte opmaak van een document te behouden, ongeacht het apparaat of de software waarmee het wordt bekeken. In tegenstelling tot DOC-bestanden, die afhankelijk kunnen zijn van systeeminstellingen zoals lettertypen of besturingssysteemconfiguraties, fungeren PDF-bestanden als een statisch beeld van een document. Dit zorgt ervoor dat de lettertypen, opmaak en afbeeldingen behouden blijven, waardoor PDF's ideaal zijn voor professionele documenten zoals contracten, cv's of e-books.",
+    "S2P2": "Deze stabiliteit is precies waarom PDF-bestanden zo populair zijn voor het delen van documenten op internet. Of je nu een zakelijke aanbieding verstuurt of belangrijke documenten verzamelt, PDF's zorgen ervoor dat de ontvanger het document precies zo ziet zoals het bedoeld is. Toch maakt dezezelfde eigenschap PDF-bestanden soms moeilijker om mee te werken dan andere bestandstypen, zoals DOC-bestanden, waarvoor je eenvoudig inhoud kunt kopiëren en plakken. Zonder de juiste software kan het bewerken of samenvoegen van PDF-bestanden ingewikkeld zijn. Het goede nieuws is dat onze gratis online tool het proces veel eenvoudiger maakt, waardoor je meerdere PDF-bestanden kunt samenvoegen zonder dure software of technische expertise.",
+    "combine_pdf_files": {
+      "intro": "Waarom PDF-bestanden samenvoegen?",
+      "para": "Het samenvoegen van PDF-bestanden is een veel voorkomende vereiste voor professionals, studenten en iedereen die meerdere documenten beheert. Hier zijn enkele gevallen waarin het samenvoegen van PDF-bestanden nuttig kan zijn:",
+      "items": [
+        {
+          "title": "Creëren van uitgebreide rapporten:",
+          "desc": "Als je meerdere PDF-rapporten of hoofdstukken hebt, is het handig om ze samen te voegen in één document, zodat het gemakkelijker wordt om te delen en te beoordelen."
+        },
+        {
+          "title": "Scannen van documenten archiveren:",
+          "desc": "Gescrande PDF-bestanden, zoals kwitanties of formulieren, moeten vaak in één bestand worden samengevoegd zodat ze gemakkelijker te beheren zijn."
+        },
+        {
+          "title": "Eenvoudiger maken van presentaties:",
+          "desc": "Het samenvoegen van dia's of secties uit verschillende PDF's kan de helderheid en professionaliteit van je presentatie verhogen."
+        },
+        {
+          "title": "Bestand delen eenvoudiger maken:",
+          "desc": "In plaats van verschillende bestanden te verzenden, kun je door PDF-bestanden samen te voegen alle informatie in één enkel, gemakkelijk toegankelijk document verzamelen."
+        }
+      ],
+      "para2": "In tegenstelling tot DOC-bestanden, waarbij je eenvoudig inhoud kunt kopiëren en plakken, vereisen PDF-bestanden speciale tools om samen te voegen of te bewerken. Als je bijvoorbeeld tekst uit een gescande PDF wilt kopiëren, is dat vaak onmogelijk, tenzij je optische tekenherkenning (OCR) software hebt. Onze gratis PDF-samenvoeger verwijdert deze obstakels en stelt je in staat om tot 20 PDF-bestanden tegelijkertijd samen te voegen, zonder dat dure software of technische expertise nodig is."
+    },
+    "stepbystep": {
+      "intro": "Hoe PDF-bestanden samen te voegen: Stapsgewijze handleiding",
+      "para": "Onze gebruiksvriendelijke online tool maakt het snel en efficiënt om PDF-bestanden samen te voegen. Of je nu twee bestanden samenvoegt of 20, het proces is eenvoudig en vereist geen installatie of abonnement. Volg gewoon deze eenvoudige stappen om je PDF-bestanden eenvoudig samen te voegen:",
+      "items": [
+        {
+          "title": "Stap 1: Upload je PDF-bestanden",
+          "desc": "Om te beginnen, zoek de knop 'Upload bestanden' in de interface van onze tool. Klik hierop en selecteer het aantal PDF-bestanden van je apparaat. Als alternatief kun je PDF-bestanden ook slepen en neerzetten in het gebied met de tekst 'Sleep je bestanden hier naartoe'. Deze functie is vooral handig wanneer je met meerdere bestanden werkt, omdat het tijd bespaart en het proces eenvoudiger maakt."
+        },
+        {
+          "title": "Stap 2: Combineer je PDF-bestanden",
+          "desc": "Zodra de bestanden zijn geüpload, toont onze tool ze in volgorde. Deze volgorde bepaalt hoe het uiteindelijke samengevoegde PDF-bestand eruit zal zien. De eerste PDF in de lijst wordt bovenaan het uiteindelijke document geplaatst, de tweede volgt erna, enzovoort. Controleer de volgorde van de bestanden en je kunt ze eenvoudig herschikken door ze te slepen."
+        },
+        {
+          "title": "Stap 3: Samenvoegen en downloaden",
+          "desc": "Als je tevreden bent met de volgorde van de bestanden, klik dan op de knop 'Samenvoegen'. Ons systeem zal onmiddellijk alle geüploade PDF-bestanden combineren in één enkel bestand. Zodra het proces is voltooid, wordt het samengevoegde PDF-bestand automatisch gedownload naar je apparaat. Het hele proces is snel, veilig en vereist geen extra software."
+        }
+      ],
+      "intro2": "Meer PDF-bestanden samenvoegen",
+      "para2": "Heb je meer PDF-bestanden die je wilt samenvoegen? Geen probleem! Onze tool laat je meerdere batches van bestanden samenvoegen. Nadat je je eerste batch van PDF's hebt samengevoegd, download je het samengevoegde bestand. Vervolgens kun je het nieuwe samengevoegde bestand opnieuw uploaden, samen met de andere PDF-bestanden. Klik opnieuw op 'Samenvoegen' en maak zo een groter document. Dit proces kan eindeloos herhaald worden totdat je alle gewenste bestanden hebt gecombineerd.",
+      "intro3": "Belangrijke informatie: Download binnen een uur",
+      "para3": "Om een soepele ervaring te garanderen, download je het samengevoegde PDF-bestand binnen een uur. Als je het bestand niet hebt gedownload binnen deze tijd, wordt het bestand automatisch verwijderd van onze servers en moet je de bestanden opnieuw uploaden. Deze functie helpt de beveiliging te waarborgen en ruimte op de servers vrij te maken voor andere gebruikers."
+    },
+    "benefits": {
+      "intro": "Voordelen van onze gratis PDF-samenvoeger",
+      "para": "Onze tool is ontworpen met eenvoud, toegankelijkheid en efficiëntie in gedachten. Hier zijn de redenen waarom het de beste keuze is om PDF-bestanden samen te voegen:",
+      "items": [
+        {
+          "title": "Geen software nodig:",
+          "desc": "In tegenstelling tot traditionele PDF-editors is onze tool volledig webgebaseerd, zodat je toegang hebt tot de tool vanaf elk apparaat met een internetverbinding."
+        },
+        {
+          "title": "Gratis en onbeperkt gebruik:",
+          "desc": "Je kunt tot 20 PDF-bestanden samenvoegen zonder kosten of abonnement. Voor grotere projecten kun je, zoals hierboven beschreven, meerdere batches samenvoegen."
+        },
+        {
+          "title": "Gebruiksvriendelijke interface:",
+          "desc": "Met de drag-and-drop-functionaliteit en een eenvoudige interface is het voor zowel beginners als professionals gemakkelijk te gebruiken."
+        },
+        {
+          "title": "Snel proces:",
+          "desc": "Onze tool voegt PDF-bestanden in enkele seconden samen, wat je tijd en moeite bespaart."
+        },
+        {
+          "title": "Veilig en betrouwbaar:",
+          "desc": "Je bestanden worden veilig verwerkt en worden binnen een uur van onze servers verwijderd, zodat je gegevens privé blijven."
+        }
+      ]
+    },
+    "should_you": {
+      "intro": "Wanneer moet je PDF's samenvoegen?",
+      "para": "Het samenvoegen van PDF's is een waardevolle tool in verschillende situaties. Hier zijn enkele veelvoorkomende gebruikscases:",
+      "items": [
+        {
+          "title": "Zakelijke professionals:",
+          "desc": "Voeg facturen, contracten of offertes samen in één document, zodat je ze gemakkelijk kunt delen met klanten of collega's."
+        },
+        {
+          "title": "Studenten en docenten:",
+          "desc": "Voeg college-aantekeningen, onderzoeksdocumenten of opdrachten samen in één bestand, zodat ze gemakkelijker verzonden kunnen worden of voor studiegebruik."
+        },
+        {
+          "title": "Juridische en administratieve documenten:",
+          "desc": "Voeg gescande documenten zoals contracten of formulieren samen in één PDF, zodat ze voor archivering of juridische doeleinden kunnen worden gebruikt."
+        },
+        {
+          "title": "Creatieve projecten:",
+          "desc": "Voeg ontwerpschetsen, portfolio's of storyboards samen in één PDF, zodat ze gepresenteerd of beoordeeld kunnen worden door klanten."
+        }
+      ]
+    },
+    "Tips": {
+      "intro": "Handige tips bij het werken met PDF's",
+      "para": "Om je ervaring met het samenvoegen van PDF's te optimaliseren, houd rekening met de volgende tips:",
+      "items": [
+        {
+          "title": "Controleer de volgorde van de bestanden:",
+          "desc": "Controleer de volgorde van je PDF-bestanden voordat je wijzigingen aanbrengt, zodat je later geen pagina's opnieuw hoeft te ordenen."
+        },
+        {
+          "title": "Optimaliseer de bestandsgrootte:",
+          "desc": "Als je PDF's grote afbeeldingen of grafieken bevatten, probeer deze dan te comprimeren voordat je ze uploadt om de uiteindelijke bestandsgrootte te verkleinen."
+        },
+        {
+          "title": "Gebruik beschrijvende bestandsnamen:",
+          "desc": "Geef je PDF-bestanden duidelijke, beschrijvende namen (bijv. rapport_hoofdstuk1.pdf), zodat je georganiseerd blijft tijdens het samenvoegen."
+        },
+        {
+          "title": "Maak een back-up van je oorspronkelijke bestanden:",
+          "desc": "Zorg ervoor dat je een kopie van je originele PDF-bestanden hebt, voor het geval je ze later opnieuw wilt bewerken."
+        },
+        {
+          "title": "Verken andere tools:",
+          "desc": "Als je PDF's wilt bewerken, converteren of comprimeren, verken dan de andere gratis tools op ons platform om je documentbeheeroplossingen verder te verbeteren."
+        }
+      ]
+    },
+    "why_choose": "Waarom onze tool kiezen in plaats van betaalde opties?",
+    "why_choose_para": "Betaalde PDF-editors zoals Adobe Acrobat bieden geavanceerde functies, maar onze gratis tool biedt een betaalbare oplossing voor de meeste gebruikers. Je hoeft niet te investeren in dure software of abonnementen om PDF's samen te voegen. PDF.id is voor iedereen toegankelijk, van kleine bedrijven tot studenten, en levert professionele resultaten zonder de complexiteit.",
+    "why_choose_para2": "Bovendien is ons platform geoptimaliseerd voor snelheid en gemak. Of je nu op een desktop, tablet of smartphone werkt, je kunt altijd PDF's samenvoegen, ongeacht waar je bent, zonder compatibiliteitsproblemen. Deze flexibiliteit maakt onze tool ideaal voor gebruikers die snel en betrouwbaar resultaten willen zonder technische ingewikkeldheden.",
+    "conclusion": "Conclusie",
+    "conclusion_para": "Het samenvoegen van PDF-bestanden hoeft niet ingewikkeld of duur te zijn. Met behulp van onze gratis, webgebaseerde PDF-samenvoeger kun je tot 20 PDF's tegelijkertijd samenvoegen, gemakkelijk opnieuw beheren en binnen enkele seconden het samengevoegde bestand downloaden. Of je nu rapporten beheert, gescande documenten archiveert of een presentatie voorbereidt, onze tool vereenvoudigt het proces zonder extra software of technische vaardigheden."
+  },
+  "blog": {
+    "title": "PDF tips, tutorials en gidsen",
+    "description": "Beheers PDF-beheer met expertgidsen, praktische tips en stap-voor-stap tutorials.",
+    "searchPlaceholder": "Zoek artikelen, tutorials en gidsen...",
+    "articles": "Artikelen",
+    "readers": "Lezers",
+    "available": "Beschikbaar",
+    "featuredArticle": "Uitgelicht artikel",
+    "mostPopular": "Populairst deze week",
+    "readArticle": "Lees artikel",
+    "readFull": "Lees volledig artikel",
+    "minRead": "min lezen"
+  },
+  "footer": {
+    "description": "De gemakkelijkste manier om meerdere PDF-bestanden samen te voegen tot één document. Snel, veilig en volledig gratis te gebruiken.",
+    "contact": "Neem contact met ons op:",
+    "quickLinks": "Snelle links",
+    "privacyPolicy": "Privacybeleid",
+    "termsOfService": "Servicevoorwaarden",
+    "allRights": "Alle rechten voorbehouden"
+  }
+}

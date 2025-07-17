@@ -1,0 +1,361 @@
+{
+  "nav": {
+    "home": "Ev",
+    "combinePdf": "PDF birləşdirin",
+    "blog": "Bloq",
+    "selectLanguage": "Dili seçin"
+  },
+  "home": {
+    "title": "PDF Fayllarını Onlayn Birləşdirin - Pulsuz, Sürətli və Təhlükəsiz",
+    "description": "PDF-ləri GabungPDF.id ilə asanlıqla birləşdirin! PDF fayllarını saniyələr ərzində birləşdirmək üçün pulsuz, sürətli, təhlükəsiz onlayn alət. Qeydiyyat tələb olunmur.",
+    "mergeNow": "PDF-ləri indi birləşdirin",
+    "sec1Para": "Bu günün sürətli rəqəmsal dünyasında sənədləri səmərəli idarə etmək şəxsi və peşəkar vəzifələr üçün çox vacibdir. Ümumi ehtiyaclardan biri PDF fayllarını vahid, sadələşdirilmiş sənəddə birləşdirməkdir. İstər hesabat hazırlayırsınız, istər fakturaları birləşdirirsiniz, istərsə də birdən çox fayl paylaşmaq istəyirsinizsə, PDF-lərin birləşdirilməsi vaxta qənaət edə və sənədlərinizi təşkilli saxlaya bilər. Bu hərtərəfli bələdçidə biz PDF fayllarını onlayn olaraq necə pulsuz birləşdirəcəyimizi, bunun niyə faydalı olduğunu və gabungPDF.id kimi alətlərin prosesi necə qüsursuz etdiyini izah edəcəyik. Həmçinin PDF-lərinizi axtarış motorları üçün necə optimallaşdıracağınızı və onların daha yaxşı sıralanmasını təmin edəcək məsləhətləri təqdim edəcəyik.",
+    "SecH1": "Niyə PDF fayllarını birləşdirməlisiniz?",
+    "SecH1P1": "Birdən çox PDF faylını bir sənəddə birləşdirmək çoxsaylı üstünlüklər təklif edir. PDF birləşdirici alətindən istifadə etməyi düşünməli olduğunuz səbəblər:",
+    "SecH1UlLi1": "<strong>Təşkilat və Səmərəlilik:</strong> Bir neçə fayl göndərmək əvəzinə, birləşdirilmiş PDF paylaşmağı və nəzərdən keçirməyi asanlaşdırır. Bu xüsusilə hesabatlar, müqavilələr və təqdimatlar göndərən peşəkarlar üçün faydalıdır.",
+    "SecH1UlLi2": "<strong>Fayl Dağınıqlığının Azaldılması:</strong> PDF-ləri birləşdirmək idarə etməli olduğunuz fayl sayını azaldır, bu da saxlanmanı və əldə etməni asanlaşdırır.",
+    "SecH1UlLi3": "<strong>Peşəkar Görünüş:</strong> Vahid PDF sənədi həmkarlarınız, müştəriləriniz və ya tərəfdaşlarınız üçün daha peşəkar görünür.",
+    "SecH1UlLi4": "<strong>Platformalararası Uyğunluq:</strong> PDF faylları bütün cihazlarda oxunaqlı olur – Windows, Mac və mobil cihazlar daxil olmaqla.",
+    "SecH1EndPara": "<strong>gabungPDF.id</strong> kimi bir alətlə siz heç bir proqram quraşdırmadan və qeydiyyatdan keçmədən PDF fayllarını sürətlə birləşdirə bilərsiniz. Necə etməli olduğumuzu araşdıraq.",
+    "steps": {
+      "title": "PDF Fayllarını Onlayn və Pulsuz Necə Birləşdirmək Olar",
+      "intro": "gabungPDF.id kimi onlayn bir alətdən istifadə PDF fayllarını birləşdirməyi sadə və əlçatan edir. PDF fayllarını asanlıqla <strong>birləşdirmək</strong> üçün addım-addım təlimat:",
+      "items": [
+        {
+          "title": "1. Addım: gabungPDF.id saytına daxil olun",
+          "desc": "gabungPDF.id saytına keçin — saniyələr ərzində <strong>PDF fayllarını birləşdirmək</strong> üçün hazırlanmış pulsuz onlayn alət. Vebsayt sadə interfeysə malikdir və texniki bilik tələb etmir."
+        },
+        {
+          "title": "2. Addım: PDF Fayllarınızı Yükləyin",
+          "desc": "\"Faylları Yüklə\" düyməsini klikləyin və birləşdirmək istədiyiniz PDF-ləri seçin. Birdən çox fayl yükləyə bilərsiniz və gabungPDF.id həm PDF, həm də şəkil formatlarını dəstəkləyir."
+        },
+        {
+          "title": "3. Addım: Faylları Sıralayın",
+          "desc": "Yüklədikdən sonra faylları istədiyiniz qaydada sürükləyib buraxa bilərsiniz. Bu xüsusiyyət hesabat və ya təqdimat kimi sənədlərin düzgün struktura malik olmasını təmin edir."
+        },
+        {
+          "title": "4. Addım: Birləşdir və Yüklə",
+          "desc": "\"Birləşdir\" düyməsinə klikləyin. gabungPDF.id fayllarınızı orijinal keyfiyyətini qoruyaraq birləşdirəcək. Sonra bir kliklə yekun PDF-ni endirə bilərsiniz."
+        }
+      ]
+    },
+    "whyChoose": {
+      "title": "Niyə gabungPDF.id-i seçməlisiniz?",
+      "points": [
+        {
+          "title": "<strong>Quraşdırma Tələb Olunmur:</strong>",
+          "desc": "gabungPDF.id tamamilə onlayn işləyir, bu da cihazınızda yer saxlayır və vaxtınıza qənaət edir."
+        },
+        {
+          "title": "<strong>Pulsuz və Təhlükəsiz:</strong>",
+          "desc": "Alət tamamilə pulsuzdur və fayllar emaldan sonra serverdən silinir, bu da məxfiliyi təmin edir."
+        },
+        {
+          "title": "<strong>Çoxlu Cihaz Uyğunluğu:</strong>",
+          "desc": "Mac, Windows, iOS və ya Android – istənilən cihazda PDF fayllarını asanlıqla birləşdirə bilərsiniz."
+        },
+        {
+          "title": "<strong>Çoxdilli Dəstək:</strong>",
+          "desc": "Platforma dünya üzrə istifadəçiləri, o cümlədən \"<strong>gabung PDF</strong>\" axtaranları dəstəkləyir."
+        }
+      ]
+    },
+    "benefits": {
+      "title": "Onlayn PDF Birləşdirmə Alətinin Üstünlükləri",
+      "items": [
+        {
+          "title": "<strong>Əlçatanlıq:</strong>",
+          "desc": "İnternet bağlantısı olan istənilən cihazdan PDF fayllarını <strong>birləşdirə</strong> bilərsiniz."
+        },
+        {
+          "title": "<strong>Sürət:</strong>",
+          "desc": "Hətta böyük fayllar üçün də birləşdirmə cəmi bir neçə saniyə çəkir."
+        },
+        {
+          "title": "<strong>Pulsuzdur:</strong>",
+          "desc": "gabungPDF.id daxil olmaqla bir çox onlayn alət Adobe Acrobat kimi pullu proqramlara alternativ olaraq pulsuzdur."
+        },
+        {
+          "title": "<strong>İstifadəçi Dostudur:</strong>",
+          "desc": "Texniki bilik tələb etmir – həm yeni başlayanlar, həm də mütəxəssislər üçün uyğundur."
+        }
+      ]
+    },
+    "seoTips": {
+      "title": "Birləşdirilmiş PDF-lərinizi SEO üçün Optimallaşdırın",
+      "intro": "Əgər sənədlərinizi peşəkar və ya marketinq məqsədi ilə hazırlayırsınızsa, onların axtarış motorlarında görsənməsi üçün optimallaşdırılması vacibdir. Aşağıda <strong>combine PDF</strong>, <strong>merge PDF</strong> və <strong>gabung PDF</strong> kimi açar sözlər daxil olmaqla 10 faydalı SEO məsləhəti var:",
+      "items": [
+        {
+          "title": "1. Təsviri Fayl Adlarından İstifadə Edin",
+          "desc": "gabungPDF.id-ə yükləməzdən əvvəl sənədlərinizə təsviri və açar sözlərlə zəngin adlar verin (məs: \"document1.pdf\" əvəzinə \"biznes-hesabat-2025.pdf\")."
+        },
+        {
+          "title": "2. Metadata Əlavə Edin",
+          "desc": "Başlıq, müəllif, açar sözlər kimi metadata məlumatları əlavə edin. Bu, axtarış motorlarının PDF faylınızı daha asan indeksləşdirməsinə kömək edir."
+        },
+        {
+          "title": "3. Mətn Məzmununu Optimallaşdırın",
+          "desc": "PDF sənədinizdə axtarış edilə bilən mətn istifadə edin, çünki axtarış motorları yalnız mətn əsaslı faylları tanıya bilir."
+        },
+        {
+          "title": "4. Daxili Keçidlər Əlavə Edin",
+          "desc": "Əgər PDF vebsaytınıza aiddirsə, ana səhifəyə və ya digər bloq yazılarına keçidlər əlavə edin."
+        },
+        {
+          "title": "5. Başlıqlardan və Quruluşdan İstifadə Edin",
+          "desc": "PDF sənədinizi başlıqlar (H1, H2 və s.) ilə bölün və aydın struktura malik olun."
+        },
+        {
+          "title": "6. Sıxılmış Fayllardan İstifadə Edin",
+          "desc": "gabungPDF.id ilə birləşdirmədən sonra fayl ölçüsünü PDF kompressor aləti ilə azaldın."
+        },
+        {
+          "title": "7. Alternativ Mətnlərlə Şəkilləri Etiketləyin",
+          "desc": "Şəkillərə uyğun açar sözlərlə alt mətn əlavə edin – bu həm SEO, həm də əlçatanlıq üçün faydalıdır."
+        },
+        {
+          "title": "8. Vebsaytınızda Yerləşdirin",
+          "desc": "Birləşdirilmiş PDF-ləri veb saytınıza yükləyin və açar sözlər olan səhifələrdə paylaşın."
+        },
+        {
+          "title": "9. PDF Baxışlarını İzləyin",
+          "desc": "Google Analytics kimi alətlərlə PDF fayllarınızın performansını izləyin və təkmilləşdirin."
+        },
+        {
+          "title": "10. Sənədlərinizi Təşviq Edin",
+          "desc": "Sosial mediada, bülletenlərdə və forumlarda PDF fayllarınızı paylaşın və istifadəçiləri yükləməyə təşviq edin."
+        }
+      ]
+    },
+    "useCases": {
+      "title": "PDF-ləri Birləşdirmə Üçün Ümumi İstifadə Halları",
+      "items": [
+        {
+          "title": "<strong>Biznes Hesabatları:</strong>",
+          "desc": "Mətn, diaqram və şəkillər kimi müxtəlif hissələri bir sənəddə birləşdirin."
+        },
+        {
+          "title": "<strong>Akademik Layihələr:</strong>",
+          "desc": "Tələbələr tədqiqatlarını, qeydlərini və istinadları bir sənəddə toplamaq üçün PDF fayllarını birləşdirə bilərlər."
+        },
+        {
+          "title": "<strong>Hüquqi Sənədlər:</strong>",
+          "desc": "Hüquqşünaslar müqavilə və sənədləri bir faylda cəmləyirlər."
+        },
+        {
+          "title": "<strong>Marketinq Materialları:</strong>",
+          "desc": "Şəkil və mətn fayllarını birləşdirərək broşura yaradın."
+        },
+        {
+          "title": "<strong>Şəxsi İstifadə:</strong>",
+          "desc": "Skan edilmiş sənədləri, qəbzləri və şəkilləri arxivləşdirmək və paylaşmaq üçün birləşdirin."
+        }
+      ]
+    },
+    "comparison": {
+      "title": "gabungPDF.id-in Digər Alətlərlə Müqayisəsi",
+      "intro": "gabungPDF.id PDF fayllarını birləşdirmək üçün əla seçimdir. Amma digər alətlər də mövcuddur. Budur müqayisə:",
+      "items": [
+        {
+          "title": "<strong>gabungPDF.id:</strong>",
+          "desc": "Pulsuzdur, qeydiyyat tələb etmir, fayllar birləşdirildikdən sonra silinir və bir çox formatı dəstəkləyir."
+        },
+        {
+          "title": "<strong>Adobe Acrobat:</strong>",
+          "desc": "Pulsuz onlayn birləşdirmə təklif edir, lakin əlavə funksiyalar üçün giriş tələb olunur."
+        },
+        {
+          "title": "<strong>iLovePDF:</strong>",
+          "desc": "Sıxılma və çevirmə kimi əlavə xüsusiyyətlər təklif edir, lakin premium abunə tələb edə bilər."
+        },
+        {
+          "title": "<strong>PDF2Go:</strong>",
+          "desc": "Böyük və mürəkkəb faylları dəstəkləyir, lakin pulsuz versiyada məhdudiyyətlər ola bilər."
+        }
+      ]
+    },
+    "tips": {
+      "title": "PDF Birləşdirmə Təcrübəsini Təkmilləşdirmək Üçün Məsləhətlər",
+      "items": [
+        {
+          "title": "<strong>Fayl Uyğunluğunu Yoxlayın:</strong>",
+          "desc": "Yükləməzdən əvvəl faylların PDF və ya dəstəklənən formatlarda olduğuna əmin olun."
+        },
+        {
+          "title": "<strong>Fayllarınızı Ön Baxışdan Keçirin:</strong>",
+          "desc": "Birləşdirmədən əvvəl məzmun və sıra düzgünlüyünü yoxlayın."
+        },
+        {
+          "title": "<strong>Təhlükəsiz Platformalardan İstifadə Edin:</strong>",
+          "desc": "gabungPDF.id kimi faylları emaldan sonra avtomatik silən etibarlı alətləri seçin."
+        },
+        {
+          "title": "<strong>Nəticəni Test Edin:</strong>",
+          "desc": "PDF faylını açaraq düzgün tərtibat və məzmunu yoxlayın."
+        }
+      ]
+    },
+    "ConclusionH1": "Nəticə",
+    "conclusion": "PDF fayllarını birləşdirmək sənədlərin idarə edilməsini asanlaşdıran sadə, lakin güclü bir üsuldur. gabungPDF.id kimi alətlər ilə PDF fayllarını onlayn, pulsuz və təhlükəsiz şəkildə <strong>birləşdirmək</strong> çox asandır. SEO məsləhətlərimizdən istifadə edərək PDF-lərinizin daha geniş auditoriyaya çatmasına kömək edə bilərsiniz. İndi gabungPDF.id-i istifadə etməyə başlayın və PDF-ləri saniyələr ərzində <strong>birləşdirməyin</strong> rahatlığını yaşayın!"
+  },
+  "combinePdf": {
+    "title": "PDF Fayllarını Birleştir",
+    "dragDrop": "PDF fayllarını bura sürükleyin və buraxın",
+    "clickBrowse": "və ya baxmaq üçün klikləyin",
+    "selectFiles": "Faylları seçin",
+    "maxSize": "Fayl başına maksimum 50MB",
+    "combineButton": "PDF-ləri Birleştir",
+    "filesCount": "PDF-lər",
+    "S1H1": "PDF Birleştir: PDF Fayllarını Necə Birleştirirsiniz - Pulsuz PDF Birleştirmə Təklifi",
+    "S1P1": "Bu günün rəqəmsal dünyasında PDF (Daşıma Sənəd Forması) sənədlərin paylaşılması və saxlanılması üçün əsas bir format halına gəlmişdir. Microsoft Word və ya Google Docs-da yaradılan ənənəvi DOC fayllarından fərqli olaraq, PDF-lər bütün cihazlar və əməliyyat sistemlərində formatı qoruyur. Bu ümumi uyğunluq, onları peşəkar və şəxsi istifadə üçün ideal edir, istər hesabatları, təqdimatları və ya formaları onlayn paylaşır olun.",
+    "S1P2": "Bununla belə, PDF-lərlə işləmək bəzən çətin ola bilər, xüsusilə də bir neçə PDF faylını birləşdirmək lazım olduqda. Bu bələdçi ilə biz niyə PDF-ləri birləşdirməyin vacib olduğunu, pulsuz olaraq PDF-ləri necə birləşdirəcəyinizi və sənəd idarəetmə prosesinizi sadələşdirməyin faydalarını araşdıracağıq.",
+    "S2H1": "Niyə PDF-lər Unikal və Çoxfunksiyalıdır",
+    "S2P1": "PDF-lər, bir sənədin görünüşünü dəqiq qorumaq üçün hazırlanmışdır, baxış üçün istifadə olunan cihaz və ya proqramdan asılı olmayaraq. DOC fayllarından fərqli olaraq, PDF-lər sistemə xüsusi parametrlərə, məsələn, quraşdırılmış şriftlərə və ya əməliyyat sistemi konfiqurasiyalarına əsaslanmır, əksinə statik şəkillər kimi işləyir. Bu, şriftlərin, dizaynların və qrafiklərin sabit qalmasını təmin edir, onları müqavilələr, rezümelər və ya elektron kitablar kimi peşəkar sənədlər üçün mükəmməl edir.",
+    "S2P2": "Bu sabitlik, PDF-lərin sənədləri internet üzərindən paylaşmaq üçün geniş istifadə edilməsinin səbəbidir. İstər iş təklifini göndərirsiniz, istərsə də mühüm sənədləri arxivləyirsiniz, PDF-lər alıcının sənədi dəqiq şəkildə görməsini təmin edir. Lakin bu xüsusiyyət, PDF-ləri redaktə etmək və ya birləşdirmək məsələsində, DOC faylları ilə işləməkdən daha mürəkkəb ola bilər. Xüsusi proqram olmadan səhifə əlavə etmək və ya bir neçə PDF faylını birləşdirmək çətin ola bilər. Xoşbəxtlikdən, bizim pulsuz onlayn alətimiz prosesi sadələşdirir və əlavə proqram təminatına ehtiyac olmadan PDF-ləri asanlıqla birləşdirməyinizə imkan verir.",
+    "combine_pdf_files": {
+      "intro": "Niyə PDF Fayllarını Birləşdirməliyik?",
+      "para": "PDF fayllarını birləşdirmək, peşəkarlar, tələbələr və bir çox sənəd idarə edən hər kəs üçün ümumi bir ehtiyacdır. Budur, PDF-ləri birləşdirməyin faydalı olduğu bəzi vəziyyətlər:",
+      "items": [
+        {
+          "title": "Kompleks Hesabatlar Yaratmaq:",
+          "desc": "Əgər bir neçə PDF hesabatı və ya fəsli varsa, onları birləşdirərək paylaşmaq və nəzərdən keçirmək daha asan olur."
+        },
+        {
+          "title": "Skanyalanmış Sənədləri Arxivləşdirmək:",
+          "desc": "Skanyalanmış PDF-lər, məsələn, qəbzlər və ya formalar, çox vaxt birləşdirilərək bir sənəddə saxlanmalıdır."
+        },
+        {
+          "title": "Təqdimatları Sadələşdirmək:",
+          "desc": "Fərqli PDF-lərdən olan slaydlara və ya bölmələrə birləşdirərək təqdimatınızı daha aydın və peşəkar edirsiniz."
+        },
+        {
+          "title": "Fayl Paylaşımını Sadələşdirmək:",
+          "desc": "Bir neçə fayl göndərmək əvəzinə, PDF-ləri bir sənəddə birləşdirmək qarışıqlığı azaldır və bütün məlumatların bir yerdə, asanlıqla əldə edilə bilən şəkildə olmasını təmin edir."
+        }
+      ],
+      "para2": "DOC fayllarından fərqli olaraq, burada mətnləri kopyalayıb yapışdırmaq sadədir, PDF-lər isə birləşdirmək və ya redaktə etmək üçün xüsusi alətlər tələb edir. Məsələn, bir skanyalanmış PDF-dən mətn kopyalamaq adətən mümkün deyil, bunun üçün optik xarakter tanıma (OCR) proqramına ehtiyac var. Bizim pulsuz PDF birləşdiricimiz bu çətinlikləri aradan qaldırır və sizə 20 PDF faylını bir anda birləşdirməyə imkan verir, bunun üçün baha proqramlar və ya texniki biliklər lazım deyil."
+    },
+    "stepbystep": {
+      "intro": "PDF Fayllarını Pulsuz Birləşdirmək: Addım-addım Təlimat",
+      "para": "Bizim istifadəçi dostu onlayn alətimiz PDF fayllarını sürətlə və səmərəli şəkildə birləşdirməyə imkan verir. İki faylı və ya 20 faylı birləşdirirsinizsə, proses sadədir və heç bir proqram quraşdırılması və ya abunəlik tələb etmir. PDF-ləri asanlıqla birləşdirmək üçün bu addımları izləyin:",
+      "items": [
+        {
+          "title": "Addım 1: PDF Fayllarınızı Yükləyin",
+          "desc": "Başlamaq üçün, alətimizin interfeysindəki 'FAYLLARI YÜKLƏ' düyməsini tapın. Bunun üzərinə klikləyərək cihazınızdan PDF fayllarını seçin. Alternativ olaraq, PDF fayllarınızı asanlıqla 'Fayllarınızı Buraya Sürükleyin' adlı sahəyə sürükləyib buraxa bilərsiniz. Bu xüsusiyyət bir neçə faylla işləyərkən vaxtınıza qənaət etməyə və prosesi sadələşdirməyə kömək edir."
+        },
+        {
+          "title": "Addım 2: PDF-lərinizi Düzenləyin",
+          "desc": "Fayllarınız yükləndikdən sonra alətimiz onları bir siyahıda göstərəcək. Bu siyahıdakı faylların sırası son birləşdirilmiş PDF-nin strukturunu müəyyən edir. Siyahıdakı ilk PDF sənədin üst hissəsində görünəcək, ikinci PDF isə ondan sonra gələcək və s. Doğru sıralamadan əmin olmaq üçün faylları asanlıqla sürükləyib buraxaraq yenidən sıralaya bilərsiniz."
+        },
+        {
+          "title": "Addım 3: Birleştir və Yüklə",
+          "desc": "Sıralamanızdan razı olduqda, 'BİRLEŞDİR' düyməsini klikləyin. Sistəmimiz dərhal yüklədiyiniz bütün PDF-ləri bir faylda birləşdirəcək. Proses tamamlandıqdan sonra birləşdirilmiş PDF avtomatik olaraq cihazınıza yüklənməyə başlayacaq. Bütün proses sürətli, təhlükəsizdir və əlavə proqram təminatı tələb etmir."
+        }
+      ],
+      "intro2": "Daha çox PDF Birləşdirmək",
+      "para2": "Daha çox PDF birləşdirmək lazımdır? Problem deyil! Bizim alətimiz əlavə faylları bir neçə dəfəyə birləşdirməyə imkan verir. İlk birləşdirdiyiniz faylı yüklədikdən sonra, bu faylı və əlavə PDF fayllarını yükləyin. 'BİRLEŞDİR' düyməsini yenidən klikləyərək daha böyük bir sənəd yaradın. Bu prosesi istədiyiniz qədər təkrarlaya bilərsiniz.",
+      "intro3": "Əhəmiyyətli Qeyd: Bir Saat İçində Yükləyin",
+      "para3": "Sahih bir təcrübə təmin etmək üçün birləşdirilmiş PDF-nizi bir saat ərzində yüklədiyinizdən əmin olun. Əks halda, sistem faylları siləcək və təkrarlamaq üçün yenidən yükləməyiniz lazım olacaq. Bu xüsusiyyət təhlükəsizliyi təmin edir və digər istifadəçilər üçün server yerini boşaldır."
+    },
+    "benefits": {
+      "intro": "Pulsuz PDF Birləşdiricimizdən istifadə etmənin faydaları",
+      "para": "Bizim alət sadəlik, əlçatanlıq və səmərəlilik nəzərə alınaraq hazırlanıb. Niyə PDF-ləri birləşdirmək üçün ən yaxşı seçimdir:",
+      "items": [
+        {
+          "title": "Proqram Quraşdırılmasına Ehtiyac yoxdur:",
+          "desc": "Ənənəvi PDF redaktorlarından fərqli olaraq, alətimiz tamamilə veb əsaslıdır, buna görə onu internetə qoşulmuş hər hansı bir cihazdan istifadə edə bilərsiniz."
+        },
+        {
+          "title": "Pulsuz və Limitsiz İstifadə:",
+          "desc": "Bir anda 20 PDF faylını birləşdirə bilərsiniz, heç bir xərc və ya abunəlik tələb olunmur. Daha böyük layihələr üçün, yuxarıda izah edildiyi kimi, bir neçə dəstə fayl birləşdirə bilərsiniz."
+        },
+        {
+          "title": "İstifadəçi Dostu İnterfeys:",
+          "desc": "Sürükləyib buraxma funksionallığı və intuitiv dizayn həm başlanğıc, həm də peşəkar istifadəçilər üçün idealdır."
+        },
+        {
+          "title": "Sürətli Prosesləşdirmə:",
+          "desc": "Bizim alət PDF-ləri saniyələr ərzində birləşdirir, sizə vaxt və zəhmət qənaəti təmin edir."
+        },
+        {
+          "title": "Təhlükəsiz və Etibarlıdır:",
+          "desc": "Fayllarınız təhlükəsiz şəkildə işlənir və bir saat sonra serverlərimizdən silinir, beləliklə məlumatlarınızın gizliliyi qorunur."
+        }
+      ]
+    },
+    "should_you": {
+      "intro": "Nə zaman PDF-ləri birləşdirməlisiniz?",
+      "para": "PDF fayllarını birləşdirmək müxtəlif vəziyyətlərdə qiymətli bir bacarıqdır. Budur bəzi ümumi istifadə hallarınız:",
+      "items": [
+        {
+          "title": "Biznes Peşəkarları:",
+          "desc": "Faturaları, müqavilələri və ya təklifləri birləşdirərək müştəriləriniz və ya iş yoldaşlarınızla asanlıqla paylaşın."
+        },
+        {
+          "title": "Tələbələr və Təlimçilər:",
+          "desc": "Məqalə qeydiyatları, tədqiqat kağızları və ya tapşırıqları birləşdirərək təqdim etmək və ya öyrənmək üçün birləşdirin."
+        },
+        {
+          "title": "Hüquqi və İdarəetmə Tapşırıqları:",
+          "desc": "Skanyalanmış sənədləri, məsələn müqavilələr və ya formaları bir PDF-də təşkil edin və ya hüquqi məqsədlərlə saxlayın."
+        },
+        {
+          "title": "Yaradıcılıq Layihələri:",
+          "desc": "Dizayn eskizləri, portfellər və ya storyboard-ları birləşdirərək təqdimatlar və ya müştəri rəyini almaq üçün bir sənəd yaradın."
+        }
+      ]
+    },
+    "Tips": {
+      "intro": "PDF-lərlə işləmək üçün məsləhətlər",
+      "para": "PDF birləşdirmə təcrübənizdən maksimum istifadə etmək üçün əlavə məsləhətlər:",
+      "items": [
+        {
+          "title": "Fayl sırasını yoxlayın:",
+          "desc": "Fayllarınızı birləşdirmədən əvvəl sıralamanı iki dəfə yoxlayın ki, sonradan səhifələri yenidən düzəltməyəsiniz."
+        },
+        {
+          "title": "Fayl ölçüsünü optimallaşdırın:",
+          "desc": "Əgər PDF-lərinizdə böyük şəkillər və ya qrafiklər varsa, yükləmədən əvvəl onları sıxışdırın ki, son faylın ölçüsü kiçik olsun."
+        },
+        {
+          "title": "Aydın fayl adları istifadə edin:",
+          "desc": "PDF fayllarınızı aydın və təsviri adlarla yenidən adlandırın (məsələn, Report_Section1.pdf), beləliklə birləşdirmə prosesində nizamlı qalın."
+        },
+        {
+          "title": "Əsas faylların yedəklərini saxlayın:",
+          "desc": "Orijinal PDF-lərinizi saxlayın ki, gələcəkdə dəyişiklik etməli olsanız və ya yenidən birləşdirmək istəsəniz."
+        },
+        {
+          "title": "Əlavə alətləri araşdırın:",
+          "desc": "Əgər PDF-ləri redaktə etmək, çevirmək və ya sıxışdırmaq istəyirsinizsə, sənəd idarəetmə üçün platformamızdakı digər pulsuz alətləri yoxlayın."
+        }
+      ]
+    },
+    "why_choose": "Niyə bizim alətimizi ödənilmiş alternativlərdən üstün tutmalısınız?",
+    "why_choose_para": "Ödənilmiş PDF redaktorları, məsələn, Adobe Acrobat daha inkişaf etmiş xüsusiyyətlər təqdim etsə də, bizim pulsuz alətimiz çox istifadəçi üçün sərfəli bir həll təklif edir. PDF fayllarını birləşdirmək üçün baha proqramlar və ya abunəliklərə ehtiyac yoxdur. Gabung PDF.id kiçik biznes sahiblərindən tələbələrə qədər hər kəs üçün əlçatandır və mürəkkəblik olmadan peşəkar nəticələr təqdim edir.",
+    "why_choose_para2": "Bundan əlavə, platformamız sürət və rahatlıq üçün optimallaşdırılmışdır. İstər masaüstü kompüterdə, istərsə də tablet və ya smartfondan istifadə edirsinizsə, PDF fayllarını hər yerdə və uyğunluq problemləri olmadan birləşdirə bilərsiniz. Bu elastiklik bizim alətimizi sürətli, etibarlı nəticələr əldə etmək istəyən istifadəçilər üçün ideal edir.",
+    "conclusion": "Nəticə",
+    "conclusion_para": "PDF sənədlərini birləşdirmək mürəkkəb və ya baha başa gəlməməlidir. Bizim pulsuz, veb əsaslı PDF birləşdiricimizlə bir anda 20 PDF faylını birləşdirə, asanlıqla yenidən sıralaya və saniyələr içində vahid sənəd əldə edə bilərsiniz. İstər hesabatları təşkil edirsiniz, istərsə də skanyalanmış sənədləri arxivləyirsiniz və ya təqdimat hazırlayırsınız, alətimiz prosesi sadələşdirir və əlavə proqramlara və texniki bacarıqlara ehtiyac olmadan işi tamamlayır."
+  },
+  "blog": {
+    "title": "PDF Məsləhətləri, Dərsliklər və Bələdçilər",
+    "description": "PDF idarəsini mütəxəssis bələdçiləri, praktik məsləhətlər və addım-addım təlimatlarla öyrənin.",
+    "searchPlaceholder": "Məqalələr, dərsliklər və bələdçilərdə axtarın...",
+    "articles": "Məqalələr",
+    "readers": "Oxucular",
+    "available": "Əlçatandır",
+    "featuredArticle": "Seçilmiş Məqalə",
+    "mostPopular": "Bu Həftənin Ən Populyar",
+    "readArticle": "Məqaləni Oxuyun",
+    "readFull": "Tam Məqaləni Oxuyun",
+    "minRead": "dəq oxuma"
+  },
+  "footer": {
+    "description": "Birdən çox PDF faylını bir sənəddə birləşdirməyin ən asan yolu. Sürətli, təhlükəsiz və istifadəsi tamamilə pulsuzdur.",
+    "contact": "Bizimlə əlaqə saxlayın:",
+    "quickLinks": "Sürətli bağlantılar",
+    "privacyPolicy": "Məxfilik Siyasəti",
+    "termsOfService": "Xidmət Şərtləri",
+    "allRights": "Bütün hüquqlar qorunur"
+  }
+}

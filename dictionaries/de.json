@@ -1,0 +1,361 @@
+{
+  "nav": {
+    "home": "Startseite",
+    "combinePdf": "PDF Kombinieren",
+    "blog": "Blog",
+    "selectLanguage": "Sprache Auswählen"
+  },
+  "home": {
+    "title": "PDF-Dateien Online Kombinieren - Kostenlos, Schnell und Sicher",
+    "description": "Kombinieren Sie PDFs einfach mit GabungPDF.id! Kostenloses, schnelles und sicheres Online-Tool zum Zusammenführen von PDF-Dateien in Sekunden. Keine Registrierung erforderlich.",
+    "mergeNow": "PDFs Jetzt Zusammenführen",
+    "sec1Para": "In der heutigen schnelllebigen digitalen Welt ist die effiziente Verwaltung von Dokumenten für persönliche und berufliche Aufgaben von entscheidender Bedeutung. Ein häufiger Bedarf ist das <strong>Kombinieren von PDF-Dateien</strong> zu einem einzigen, optimierten Dokument.",
+    "SecH1": "Warum PDF-Dateien Kombinieren?",
+    "SecH1P1": "Das Kombinieren mehrerer PDF-Dateien zu einem Dokument bietet zahlreiche Vorteile. Hier ist, warum Sie die Verwendung eines PDF-Zusammenführungstools in Betracht ziehen sollten:",
+    "SecH1UlLi1": "<strong>Organisation und Effizienz:</strong> Anstatt mehrere Dateien zu senden, vereinfacht eine einzige zusammengeführte PDF das Teilen und Überprüfen.",
+    "SecH1UlLi2": "<strong>Reduzierung von Datei-Unordnung:</strong> Das Zusammenführen von PDFs reduziert die Anzahl der Dateien, die Sie verwalten müssen.",
+    "SecH1UlLi3": "<strong>Professionelle Präsentation:</strong> Eine einheitliche PDF sieht poliert und professionell aus.",
+    "SecH1UlLi4": "<strong>Plattformübergreifende Kompatibilität:</strong> PDFs sind universell kompatibel.",
+    "SecH1EndPara": "Mit einem Tool wie <strong>gabungPDF.id</strong> können Sie PDFs schnell zusammenführen, ohne Software installieren oder sich für ein Konto registrieren zu müssen.",
+    "steps": {
+      "title": "Wie Man PDF-Dateien Online Kostenlos Zusammenführt",
+      "intro": "Die Verwendung eines Online-Tools wie gabungPDF.id macht das Zusammenführen von PDFs unkompliziert und zugänglich.",
+      "items": [
+        {
+          "title": "Schritt 1: Besuchen Sie gabungPDF.id",
+          "desc": "Navigieren Sie zu gabungPDF.id, einem kostenlosen Online-Tool, das entwickelt wurde, um Ihnen beim <strong>Zusammenführen von PDF-Dateien</strong> in Sekunden zu helfen."
+        },
+        {
+          "title": "Schritt 2: Laden Sie Ihre PDF-Dateien Hoch",
+          "desc": "Klicken Sie auf die Schaltfläche \"Dateien Hochladen\", um die PDFs auszuwählen, die Sie kombinieren möchten."
+        },
+        {
+          "title": "Schritt 3: Ordnen Sie die Dateien An",
+          "desc": "Nach dem Hochladen können Sie die Dateien per Drag & Drop in Ihre gewünschte Reihenfolge bringen."
+        },
+        {
+          "title": "Schritt 4: Zusammenführen und Herunterladen",
+          "desc": "Nach dem Anordnen Ihrer Dateien klicken Sie auf die Schaltfläche \"Kombinieren\". Das Tool wird <strong>PDF-Dateien zusammenführen</strong> zu einem einzigen Dokument."
+        }
+      ]
+    },
+    "whyChoose": {
+      "title": "Warum gabungPDF.id Wählen?",
+      "points": [
+        {
+          "title": "<strong>Keine Installation Erforderlich:</strong>",
+          "desc": "Im Gegensatz zu Desktop-Software funktioniert gabungPDF.id vollständig online."
+        },
+        {
+          "title": "<strong>Kostenlos und Sicher:</strong>",
+          "desc": "Das Tool ist kostenlos zu verwenden, ohne versteckte Gebühren."
+        },
+        {
+          "title": "<strong>Geräteübergreifende Kompatibilität:</strong>",
+          "desc": "Ob Sie Mac, Windows, iOS oder Android verwenden."
+        },
+        {
+          "title": "<strong>Mehrsprachige Unterstützung:</strong>",
+          "desc": "Die Plattform unterstützt Benutzer weltweit."
+        }
+      ]
+    },
+    "benefits": {
+      "title": "Vorteile der Verwendung eines Online-PDF-Zusammenführers",
+      "items": [
+        {
+          "title": "<strong>Zugänglichkeit:</strong>",
+          "desc": "Sie können <strong>PDF-Dateien zusammenführen</strong> von jedem Gerät mit Internetverbindung."
+        },
+        {
+          "title": "<strong>Geschwindigkeit:</strong>",
+          "desc": "Der Zusammenführungsprozess dauert Sekunden, auch bei großen Dateien."
+        },
+        {
+          "title": "<strong>Kostenlos:</strong>",
+          "desc": "Viele Online-Tools sind völlig kostenlos."
+        },
+        {
+          "title": "<strong>Benutzerfreundlich:</strong>",
+          "desc": "Keine technischen Fähigkeiten erforderlich."
+        }
+      ]
+    },
+    "seoTips": {
+      "title": "Optimierung Ihrer Zusammengeführten PDFs für SEO",
+      "intro": "Wenn Sie PDFs für professionelle oder Marketing-Zwecke erstellen, kann deren Optimierung für Suchmaschinen ihre Sichtbarkeit erhöhen.",
+      "items": [
+        {
+          "title": "1. Verwenden Sie Beschreibende Dateinamen",
+          "desc": "Bevor Sie Ihr PDF zu gabungPDF.id hochladen, benennen Sie Ihre Dateien mit beschreibenden, schlüsselwortreichen Namen um."
+        },
+        {
+          "title": "2. Fügen Sie Metadaten Hinzu",
+          "desc": "Fügen Sie Metadaten wie Titel, Autor und Schlüsselwörter in Ihr PDF ein."
+        },
+        {
+          "title": "3. Optimieren Sie Textinhalt",
+          "desc": "Stellen Sie sicher, dass Ihr PDF durchsuchbaren Text anstatt gescannter Bilder enthält."
+        },
+        {
+          "title": "4. Fügen Sie Interne Links Hinzu",
+          "desc": "Wenn Ihr PDF Teil einer Website ist, fügen Sie Links zu relevanten Seiten hinzu."
+        },
+        {
+          "title": "5. Verwenden Sie Überschriften und Struktur",
+          "desc": "Organisieren Sie Ihr PDF mit klaren Überschriften und einer logischen Struktur."
+        },
+        {
+          "title": "6. Komprimieren für Schnelleres Laden",
+          "desc": "Große PDFs können Ladezeiten verlangsamen."
+        },
+        {
+          "title": "7. Fügen Sie Alt-Text zu Bildern Hinzu",
+          "desc": "Wenn Ihr PDF Bilder enthält, fügen Sie Alt-Text-Beschreibungen hinzu."
+        },
+        {
+          "title": "8. Hosten Sie PDFs auf Ihrer Website",
+          "desc": "Laden Sie Ihr zusammengeführtes PDF auf Ihre Website hoch und erstellen Sie eine dedizierte Landingpage."
+        },
+        {
+          "title": "9. Verfolgen Sie PDF-Ansichten",
+          "desc": "Verwenden Sie Tools wie Google Analytics, um zu verfolgen, wie Benutzer mit Ihren PDFs interagieren."
+        },
+        {
+          "title": "10. Bewerben Sie Ihr PDF",
+          "desc": "Teilen Sie Ihr PDF in sozialen Medien, E-Mail-Newslettern und relevanten Online-Communities."
+        }
+      ]
+    },
+    "useCases": {
+      "title": "Häufige Anwendungsfälle für das Zusammenführen von PDFs",
+      "items": [
+        {
+          "title": "<strong>Geschäftsberichte:</strong>",
+          "desc": "Kombinieren Sie mehrere Abschnitte eines Berichts in eine einzige PDF zum einfachen Teilen."
+        },
+        {
+          "title": "<strong>Akademische Projekte:</strong>",
+          "desc": "Studenten können Forschungsarbeiten, Notizen und Referenzen zusammenführen."
+        },
+        {
+          "title": "<strong>Rechtsdokumente:</strong>",
+          "desc": "Anwälte führen oft Verträge, Vereinbarungen und Belege zusammen."
+        },
+        {
+          "title": "<strong>Marketing-Materialien:</strong>",
+          "desc": "Erstellen Sie professionelle Broschüren durch Kombinieren von Bildern und Textdateien."
+        },
+        {
+          "title": "<strong>Persönliche Nutzung:</strong>",
+          "desc": "Führen Sie gescannte Dokumente, Belege oder Fotos zusammen."
+        }
+      ]
+    },
+    "comparison": {
+      "title": "Vergleich von gabungPDF.id mit Anderen Tools",
+      "intro": "Während gabungPDF.id eine Top-Wahl für das Zusammenführen von PDFs ist, bieten andere Tools ähnliche Funktionalität.",
+      "items": [
+        {
+          "title": "<strong>gabungPDF.id:</strong>",
+          "desc": "Kostenlos, keine Registrierung, unterstützt mehrere Dateiformate."
+        },
+        {
+          "title": "<strong>Adobe Acrobat:</strong>",
+          "desc": "Bietet einen kostenlosen Online-Zusammenführer, erfordert aber Anmeldung für erweiterte Funktionen."
+        },
+        {
+          "title": "<strong>iLovePDF:</strong>",
+          "desc": "Ein robustes Tool mit zusätzlichen Funktionen wie Komprimierung und Konvertierung."
+        },
+        {
+          "title": "<strong>PDF2Go:</strong>",
+          "desc": "Unterstützt komplexe Dateien und große Seitenzahlen."
+        }
+      ]
+    },
+    "tips": {
+      "title": "Tipps für eine Reibungslose PDF-Zusammenführungserfahrung",
+      "items": [
+        {
+          "title": "<strong>Überprüfen Sie Dateikompatibilität:</strong>",
+          "desc": "Stellen Sie sicher, dass alle Dateien im PDF- oder unterstützten Format vorliegen."
+        },
+        {
+          "title": "<strong>Vorschau Ihrer Dateien:</strong>",
+          "desc": "Überprüfen Sie die Reihenfolge und den Inhalt Ihrer Dateien vor dem Zusammenführen."
+        },
+        {
+          "title": "<strong>Verwenden Sie Sichere Plattformen:</strong>",
+          "desc": "Wählen Sie Tools wie gabungPDF.id, die Privatsphäre priorisieren."
+        },
+        {
+          "title": "<strong>Testen Sie die Ausgabe:</strong>",
+          "desc": "Öffnen Sie die zusammengeführte PDF, um zu bestätigen, dass Layout und Inhalt korrekt sind."
+        }
+      ]
+    },
+    "ConclusionH1": "Fazit",
+    "conclusion": "Das Zusammenführen von PDF-Dateien ist eine einfache, aber mächtige Methode zur Optimierung Ihrer Dokumentenverwaltung. Ob Sie ein Profi sind, der Berichte organisiert, ein Student, der Forschung zusammenstellt, oder jemand, der persönliche Dokumente archiviert, Tools wie gabungPDF.id machen es einfach, <strong>PDF-Dateien online kostenlos zu kombinieren</strong>. Beginnen Sie heute mit gabungPDF.id, um <strong>PDF-Dateien mühelos zusammenzuführen</strong> und die Kontrolle über Ihre digitalen Dokumente zu übernehmen!"
+  },
+  "combinePdf": {
+    "title": "PDF-Dateien kombinieren",
+    "dragDrop": "Ziehe PDF-Dateien hierher oder",
+    "clickBrowse": "klicke, um zu suchen",
+    "selectFiles": "Dateien auswählen",
+    "maxSize": "Maximale Größe pro Datei: 50 MB",
+    "combineButton": "PDFs kombinieren",
+    "filesCount": "PDFs",
+    "S1H1": "PDFs kombinieren: Wie man PDF-Dateien kombiniert - Ein Tipp, um PDFs kostenlos zu zusammenzuführen",
+    "S1P1": "In der heutigen digitalen Welt sind PDF-Dateien (Portable Document Format) zu einem unverzichtbaren Bestandteil des Teilens und Speicherns von Dokumenten geworden. Im Gegensatz zu herkömmlichen DOC-Dateien, die in Microsoft Word oder Google Docs erstellt werden, behalten PDFs auf allen Geräten und Betriebssystemen ihr Format bei. Diese universelle Kompatibilität macht sie ideal für den beruflichen und persönlichen Gebrauch, sei es für das Teilen von Berichten, Präsentationen oder Formularen online.",
+    "S1P2": "Das Arbeiten mit PDFs kann jedoch manchmal herausfordernd sein, insbesondere wenn du mehrere PDF-Dateien zu einem zusammenhängenden Dokument kombinieren musst. In diesem Leitfaden erklären wir, warum das Kombinieren von PDFs wichtig ist, wie man PDFs kostenlos mit unserem benutzerfreundlichen Tool zusammenführt und welche Vorteile du durch die Vereinfachung deines Dokumentenmanagements hast.",
+    "S2H1": "Warum PDFs einzigartig und vielseitig sind",
+    "S2P1": "PDFs sind so konzipiert, dass sie das genaue Aussehen eines Dokuments bewahren, unabhängig vom Gerät oder der Software, mit der es angezeigt wird. Im Gegensatz zu DOC-Dateien, die auf systemspezifischen Einstellungen wie installierten Schriftarten oder Betriebssystemkonfigurationen basieren, funktionieren PDFs wie statische Bilder. Dies gewährleistet, dass Schriftarten, Layouts und Grafiken konsistent bleiben, wodurch sie ideal für professionelle Dokumente wie Verträge, Lebensläufe oder E-Books sind.",
+    "S2P2": "Diese Konsistenz ist der Grund, warum PDFs weit verbreitet sind, um Dokumente über das Internet zu teilen. Egal, ob du einen Geschäftsbericht oder wichtige Aufzeichnungen archivierst, PDFs stellen sicher, dass der Empfänger das Dokument genau so sieht, wie es beabsichtigt war. Diese Eigenschaft macht es jedoch schwieriger, PDFs zu bearbeiten oder zu kombinieren, als mit DOC-Dateien zu arbeiten. Ohne spezielle Software können Aufgaben wie das Hinzufügen von Seiten oder das Zusammenführen mehrerer PDFs entmutigend erscheinen. Glücklicherweise vereinfacht unser kostenloses Online-Tool den Prozess und ermöglicht es dir, PDFs mühelos zu kombinieren, ohne zusätzliche Software zu benötigen.",
+    "combine_pdf_files": {
+      "intro": "Warum PDF-Dateien kombinieren?",
+      "para": "Das Kombinieren von PDF-Dateien ist eine häufige Notwendigkeit für Fachleute, Studenten und alle, die mehrere Dokumente verwalten. Hier sind einige Szenarien, in denen das Zusammenführen von PDFs nützlich ist:",
+      "items": [
+        {
+          "title": "Erstellung umfassender Berichte:",
+          "desc": "Wenn du mehrere PDF-Berichte oder Kapitel hast, macht es das Kombinieren zu einem einzigen Dokument einfacher, sie zu teilen und zu überprüfen."
+        },
+        {
+          "title": "Archivierung gescannter Dokumente:",
+          "desc": "Gesannte PDFs, wie Quittungen oder Formulare, müssen oft in einer Datei zusammengeführt werden, um sie besser zu organisieren."
+        },
+        {
+          "title": "Präsentationen optimieren:",
+          "desc": "Das Kombinieren von Folien oder Abschnitten aus verschiedenen PDFs zu einer zusammenhängenden Präsentation verbessert Klarheit und Professionalität."
+        },
+        {
+          "title": "Dateifreigabe vereinfachen:",
+          "desc": "Anstatt mehrere Dateien zu senden, reduziert das Zusammenführen von PDFs in einer Datei die Verwirrung und stellt sicher, dass alle Informationen in einem einzigen, leicht zugänglichen Dokument enthalten sind."
+        }
+      ],
+      "para2": "Im Gegensatz zu DOC-Dateien, bei denen du einfach Inhalte kopieren und einfügen kannst, erfordern PDFs spezifische Tools, um sie zu kombinieren oder zu bearbeiten. Zum Beispiel ist das Kopieren von Text aus einem gescannten PDF oft unmöglich ohne optische Zeichenerkennung (OCR)-Software. Unser kostenloser PDF-Kombiner beseitigt diese Hürden und ermöglicht es dir, bis zu 20 PDFs gleichzeitig zu kombinieren, ohne teure Software oder technische Kenntnisse zu benötigen."
+    },
+    "stepbystep": {
+      "intro": "So kombinierst du PDF-Dateien kostenlos: Schritt-für-Schritt-Anleitung",
+      "para": "Unser benutzerfreundliches Online-Tool macht das Kombinieren von PDFs schnell und effizient. Egal, ob du zwei oder bis zu 20 Dateien kombinierst, der Prozess ist einfach und erfordert keine Installation oder Abonnement. Folge diesen Schritten, um deine PDFs nahtlos zusammenzuführen:",
+      "items": [
+        {
+          "title": "Schritt 1: Lade deine PDF-Dateien hoch",
+          "desc": "Um zu beginnen, klicke auf den 'DATEIEN HOCHLADEN'-Button in der Benutzeroberfläche unseres Tools. Wähle die gewünschten PDF-Dateien von deinem Gerät aus. Alternativ kannst du auch deine PDFs in den angegebenen Bereich 'Ziehe deine Dateien hierher' ziehen und ablegen. Diese Funktion ist besonders hilfreich, wenn du mit mehreren Dateien arbeitest, da sie Zeit spart und den Prozess vereinfacht."
+        },
+        {
+          "title": "Schritt 2: Ordne deine PDFs an",
+          "desc": "Sobald deine Dateien hochgeladen sind, zeigt dir unser Tool eine Warteschlange der Dateien an. Die Reihenfolge der Dateien in dieser Warteschlange bestimmt die Struktur des kombinierten PDFs. Das erste PDF in der Liste wird oben im endgültigen Dokument erscheinen, das zweite folgt dann und so weiter. Um sicherzustellen, dass die Reihenfolge korrekt ist, kannst du Dateien in der Warteschlange einfach per Drag-and-Drop neu anordnen."
+        },
+        {
+          "title": "Schritt 3: Kombiniere und lade herunter",
+          "desc": "Wenn du mit der Reihenfolge zufrieden bist, klicke auf den Button KOMBINIEREN. Unser System wird sofort alle hochgeladenen PDFs in einer einzigen Datei zusammenführen. Nach Abschluss des Vorgangs beginnt das kombinierte PDF automatisch mit dem Herunterladen auf dein Gerät. Der gesamte Prozess ist schnell, sicher und erfordert keine zusätzliche Software."
+        }
+      ],
+      "intro2": "Mehr PDFs kombinieren",
+      "para2": "Möchtest du noch mehr PDFs zusammenführen? Kein Problem! Unser Tool ermöglicht es dir, zusätzliche Dateien in Chargen zu kombinieren. Nachdem du deinen ersten Satz PDFs zusammengeführt hast, lade die kombinierte Datei herunter. Lade dann dieses neu erstellte PDF zusammen mit allen weiteren PDFs hoch, die du hinzufügen möchtest. Wiederhole den Vorgang, indem du erneut auf KOMBINIEREN klickst, um ein noch größeres Dokument zu erstellen. Du kannst diesen Prozess so oft wiederholen, wie du möchtest, um alle deine Dateien einzubeziehen.",
+      "intro3": "Wichtiger Hinweis: Lade innerhalb einer Stunde herunter",
+      "para3": "Um eine reibungslose Erfahrung zu gewährleisten, lade dein kombiniertes PDF innerhalb einer Stunde nach dem Zusammenführen herunter. Wenn du dies nicht tust, löscht das System die Dateien und du musst sie erneut hochladen, um den Vorgang zu starten. Diese Funktion hilft, die Sicherheit zu gewährleisten und den Serverplatz für andere Benutzer freizugeben."
+    },
+    "benefits": {
+      "intro": "Vorteile der Verwendung unseres kostenlosen PDF-Kombiners",
+      "para": "Unser Tool wurde mit Einfachheit, Zugänglichkeit und Effizienz im Hinterkopf entwickelt. Hier sind einige Gründe, warum es die beste Wahl zum Kombinieren von PDFs ist:",
+      "items": [
+        {
+          "title": "Keine Softwareinstallation erforderlich:",
+          "desc": "Im Gegensatz zu traditionellen PDF-Editoren ist unser Tool vollständig webbasiert, sodass du es von jedem Gerät mit einer Internetverbindung aus aufrufen kannst."
+        },
+        {
+          "title": "Kostenlos und unbegrenzt nutzbar:",
+          "desc": "Kombiniere bis zu 20 PDFs gleichzeitig kostenlos, ohne Kosten oder Abonnement. Für größere Projekte kannst du mehrere Chargen kombinieren, wie oben beschrieben."
+        },
+        {
+          "title": "Benutzerfreundliche Oberfläche:",
+          "desc": "Die Drag-and-Drop-Funktionalität und das intuitive Design machen es sowohl für Anfänger als auch für Profis einfach."
+        },
+        {
+          "title": "Schnelle Verarbeitung:",
+          "desc": "Unser Tool kombiniert PDFs in wenigen Sekunden, was dir Zeit und Aufwand spart."
+        },
+        {
+          "title": "Sicher und zuverlässig:",
+          "desc": "Deine Dateien werden sicher verarbeitet und nach einer Stunde von unseren Servern gelöscht, sodass deine Daten privat bleiben."
+        }
+      ]
+    },
+    "should_you": {
+      "intro": "Wann solltest du PDFs kombinieren?",
+      "para": "Das Zusammenführen von PDFs ist eine wertvolle Fähigkeit in verschiedenen Situationen. Hier sind einige häufige Anwendungsfälle:",
+      "items": [
+        {
+          "title": "Geschäftsprofis:",
+          "desc": "Kombiniere Rechnungen, Verträge oder Angebote in einem einzigen Dokument, um sie einfach mit Kunden oder Kollegen zu teilen."
+        },
+        {
+          "title": "Studenten und Lehrende:",
+          "desc": "Führe Vorlesungsnotizen, Forschungsarbeiten oder Aufgaben in einer Datei zusammen, um sie für Präsentationen oder Lernmaterialien zu vereinfachen."
+        },
+        {
+          "title": "Rechtliche und administrative Aufgaben:",
+          "desc": "Organisiere gescannte Dokumente wie Verträge oder Formulare in einer einzigen PDF-Datei zum Archivieren oder für rechtliche Zwecke."
+        },
+        {
+          "title": "Kreative Projekte:",
+          "desc": "Führe Designentwürfe, Portfolios oder Storyboards zu einer zusammenhängenden PDF zusammen, um Präsentationen oder Kundenfeedback zu sammeln."
+        }
+      ]
+    },
+    "Tips": {
+      "intro": "Tipps für die Arbeit mit PDFs",
+      "para": "Um das Beste aus deiner PDF-Kombinationserfahrung herauszuholen, beachte diese zusätzlichen Tipps:",
+      "items": [
+        {
+          "title": "Überprüfe die Dateireihenfolge:",
+          "desc": "Überprüfe immer die Reihenfolge deiner PDFs, bevor du sie kombinierst, um späteres Umordnen der Seiten zu vermeiden."
+        },
+        {
+          "title": "Optimiere die Dateigröße:",
+          "desc": "Wenn deine PDFs große Bilder oder Grafiken enthalten, ziehe in Betracht, sie vor dem Hochladen zu komprimieren, um die endgültige Dateigröße zu reduzieren."
+        },
+        {
+          "title": "Verwende beschreibende Dateinamen:",
+          "desc": "Benenne deine PDFs mit klaren, beschreibenden Namen (z. B. Report_Section1.pdf), um während des Zusammenführens organisiert zu bleiben."
+        },
+        {
+          "title": "Mache Sicherungskopien der Originaldateien:",
+          "desc": "Bewahre Kopien deiner Original-PDFs auf, falls du später Änderungen vornehmen oder sie erneut zusammenführen musst."
+        },
+        {
+          "title": "Entdecke zusätzliche Tools:",
+          "desc": "Wenn du PDFs bearbeiten, konvertieren oder komprimieren musst, sieh dir andere kostenlose Tools auf unserer Plattform für eine vollständige Dokumentenmanagementlösung an."
+        }
+      ]
+    },
+    "why_choose": "Warum solltest du unser Tool anstelle kostenpflichtiger Alternativen wählen?",
+    "why_choose_para": "Während kostenpflichtige PDF-Editoren wie Adobe Acrobat erweiterte Funktionen bieten, bietet unser kostenloses Tool eine kostengünstige Lösung für die meisten Benutzer. Du musst nicht in teure Software oder Abonnements investieren, um PDFs zu kombinieren. Gabung PDF.id ist für kleine Unternehmen, Studenten und alle zugänglich, die professionelle Ergebnisse ohne Komplexität benötigen.",
+    "why_choose_para2": "Darüber hinaus ist unsere Plattform auf Geschwindigkeit und Benutzerfreundlichkeit optimiert. Egal, ob du einen Desktop-Computer, ein Tablet oder ein Smartphone verwendest, du kannst PDFs unterwegs ohne Kompatibilitätsprobleme kombinieren. Diese Flexibilität macht unser Tool ideal für Benutzer, die schnelle, zuverlässige Ergebnisse ohne eine steile Lernkurve suchen.",
+    "conclusion": "Fazit",
+    "conclusion_para": "Das Kombinieren von PDF-Dokumenten muss nicht kompliziert oder teuer sein. Mit unserem kostenlosen, webbasierten PDF-Kombiner kannst du bis zu 20 PDFs gleichzeitig zusammenführen, sie problemlos neu anordnen und eine einzige, zusammenhängende Datei in wenigen Sekunden herunterladen. Egal, ob du Berichte organisierst, gescannte Dokumente archivierst oder Präsentationen vorbereitest, unser Tool vereinfacht den Prozess, ohne dass zusätzliche Software oder technische Fähigkeiten erforderlich sind."
+  },
+  "blog": {
+    "title": "PDF-Tipps, Tutorials & Anleitungen",
+    "description": "Meistern Sie PDF-Management mit Expertenanleitungen, praktischen Tipps und Schritt-für-Schritt-Tutorials.",
+    "searchPlaceholder": "Artikel, Tutorials und Anleitungen suchen...",
+    "articles": "Artikel",
+    "readers": "Leser",
+    "available": "Verfügbar",
+    "featuredArticle": "Hauptartikel",
+    "mostPopular": "Beliebteste Diese Woche",
+    "readArticle": "Artikel Lesen",
+    "readFull": "Vollständigen Artikel Lesen",
+    "minRead": "Min. Lesezeit"
+  },
+  "footer": {
+    "description": "Der einfachste Weg, mehrere PDF-Dateien zu einem Dokument zu kombinieren. Schnell, sicher und völlig kostenlos zu verwenden.",
+    "contact": "Kontaktieren Sie uns:",
+    "quickLinks": "Schnelle Links",
+    "privacyPolicy": "Datenschutzrichtlinie",
+    "termsOfService": "Nutzungsbedingungen",
+    "allRights": "Alle Rechte vorbehalten"
+  }
+}

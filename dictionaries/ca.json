@@ -1,0 +1,360 @@
+{
+  "nav": {
+    "home": "Inici",
+    "combinePdf": "Combinar PDF",
+    "blog": "Blog",
+    "selectLanguage": "Seleccionar idioma"
+  },
+  "home": {
+    "title": "Combina fitxers PDF en línia - Gratuït, ràpid i segur",
+    "description": "Combina PDFs fàcilment amb GabungPDF.id! eina en línia gratuïta, ràpida i segura per fusionar fitxers PDF en segons. No cal registre.",
+    "mergeNow": "Fusionar PDFs ara",
+    "sec1Para": "En el món digital d'avui en dia, gestionar documents de manera eficient és crucial tant per a tasques personals com professionals. Una necessitat comuna és <strong>combinar fitxers PDF</strong> en un sol document racionalitzat.",
+    "SecH1": "Per què combinar fitxers PDF?",
+    "SecH1P1": "Combinar múltiples fitxers PDF en un document ofereix nombrosos avantatges:",
+    "SecH1UlLi1": "<strong>Organització i eficiència:</strong> Enviar un sol PDF combinat en lloc de múltiples fitxers simplifica el compartir i revisar.",
+    "SecH1UlLi2": "<strong>Reducció del desordre de fitxers:</strong> Combinar PDFs redueix el nombre de fitxers que heu de gestionar.",
+    "SecH1UlLi3": "<strong>Presentació professional:</strong> Un PDF unificat sembla polit i professional.",
+    "SecH1UlLi4": "<strong>Compatibilitat multiplataforma:</strong> Els PDFs són universalment compatibles.",
+    "steps": {
+      "title": "Com combinar fitxers PDF en línia gratuïtament",
+      "intro": "Utilitzar una eina en línia com gabungPDF.id fa que combinar PDFs sigui senzill i accessible:",
+      "items": [
+        {
+          "title": "Pas 1: Visita gabungPDF.id",
+          "desc": "Navega a gabungPDF.id, una eina en línia gratuïta dissenyada per ajudar-te a <strong>combinar fitxers PDF</strong> en segons."
+        },
+        {
+          "title": "Pas 2: Puja els teus fitxers PDF",
+          "desc": "Fes clic al botó \"Pujar fitxers\" per seleccionar els PDFs que vols combinar."
+        },
+        {
+          "title": "Pas 3: Organitza els fitxers",
+          "desc": "Després de pujar-los, pots arrossegar i deixar anar els fitxers per organitzar-los en l'ordre desitjat."
+        },
+        {
+          "title": "Pas 4: Combina i descarrega",
+          "desc": "Després d'organitzar els fitxers, fes clic al botó \"Combinar\"."
+        }
+      ]
+    },
+    "whyChoose": {
+      "title": "Per què triar gabungPDF.id?",
+      "points": [
+        {
+          "title": "<strong>No cal instal·lació:</strong>",
+          "desc": "A diferència del programari d'escriptori, gabungPDF.id funciona completament en línia."
+        },
+        {
+          "title": "<strong>Gratuït i segur:</strong>",
+          "desc": "L'eina és gratuïta d'usar, sense tarifes ocultes."
+        },
+        {
+          "title": "<strong>Compatibilitat entre dispositius:</strong>",
+          "desc": "Tant si utilitzes Mac, Windows, iOS o Android."
+        },
+        {
+          "title": "<strong>Suport multiidioma:</strong>",
+          "desc": "La plataforma dona suport a usuaris de tot el món."
+        }
+      ]
+    },
+    "benefits": {
+      "title": "Beneficis d'utilitzar un combinador PDF en línia",
+      "items": [
+        {
+          "title": "<strong>Accessibilitat:</strong>",
+          "desc": "Pots <strong>combinar fitxers PDF</strong> des de qualsevol dispositiu amb connexió a internet."
+        },
+        {
+          "title": "<strong>Velocitat:</strong>",
+          "desc": "El procés de combinació només triga segons."
+        },
+        {
+          "title": "<strong>Sense cost:</strong>",
+          "desc": "Moltes eines en línia són completament gratuïtes."
+        },
+        {
+          "title": "<strong>Fàcil d'usar:</strong>",
+          "desc": "No es requereixen habilitats tècniques."
+        }
+      ]
+    },
+    "seoTips": {
+      "title": "Optimitza els teus PDFs combinats per SEO",
+      "intro": "Si estàs creant PDFs per a propòsits professionals o de màrqueting, optimitzar-los per als motors de cerca pot augmentar la seva visibilitat.",
+      "items": [
+        {
+          "title": "1. Utilitza noms de fitxer descriptius",
+          "desc": "Abans de pujar el teu PDF, reanomena els fitxers amb noms descriptius i rics en paraules clau."
+        },
+        {
+          "title": "2. Afegeix metadades",
+          "desc": "Inclou metadades com títol, autor i paraules clau al teu PDF."
+        },
+        {
+          "title": "3. Optimitza el contingut de text",
+          "desc": "Assegura't que el teu PDF contingui text cercable en lloc d'imatges escanejades."
+        },
+        {
+          "title": "4. Inclou enllaços interns",
+          "desc": "Si el teu PDF és part d'un lloc web, inclou enllaços a pàgines rellevants."
+        },
+        {
+          "title": "5. Utilitza capçaleres i estructura",
+          "desc": "Organitza el teu PDF amb capçaleres clares i estructura lògica."
+        },
+        {
+          "title": "6. Comprimeix per a càrrega més ràpida",
+          "desc": "Els PDFs grans poden alentir els temps de càrrega."
+        },
+        {
+          "title": "7. Afegeix text alternatiu a les imatges",
+          "desc": "Si el teu PDF inclou imatges, afegeix descripcions de text alternatiu."
+        },
+        {
+          "title": "8. Allotja PDFs al teu lloc web",
+          "desc": "Puja el teu PDF combinat al teu lloc web."
+        },
+        {
+          "title": "9. Segueix les visualitzacions de PDF",
+          "desc": "Utilitza eines com Google Analytics per seguir la interacció dels usuaris."
+        },
+        {
+          "title": "10. Promociona el teu PDF",
+          "desc": "Comparteix el teu PDF a les xarxes socials i butlletins."
+        }
+      ]
+    },
+    "useCases": {
+      "title": "Casos d'ús comuns per combinar PDFs",
+      "items": [
+        {
+          "title": "<strong>Informes empresarials:</strong>",
+          "desc": "Combina múltiples seccions d'un informe en un sol PDF."
+        },
+        {
+          "title": "<strong>Projectes acadèmics:</strong>",
+          "desc": "Els estudiants poden compilar treballs de recerca."
+        },
+        {
+          "title": "<strong>Documents legals:</strong>",
+          "desc": "Els advocats sovint combinen contractes i annexos."
+        },
+        {
+          "title": "<strong>Materials de màrqueting:</strong>",
+          "desc": "Crea fulletons professionals."
+        },
+        {
+          "title": "<strong>Ús personal:</strong>",
+          "desc": "Combina documents escanejats o fotos."
+        }
+      ]
+    },
+    "comparison": {
+      "title": "Comparant gabungPDF.id amb altres eines",
+      "intro": "Tot i que gabungPDF.id és una excel·lent opció per combinar PDFs, altres eines també ofereixen funcionalitat similar.",
+      "items": [
+        {
+          "title": "<strong>gabungPDF.id:</strong>",
+          "desc": "Gratuït, sense registre, suporta múltiples formats de fitxer."
+        },
+        {
+          "title": "<strong>Adobe Acrobat:</strong>",
+          "desc": "Ofereix un combinador en línia gratuït però requereix iniciar sessió."
+        },
+        {
+          "title": "<strong>iLovePDF:</strong>",
+          "desc": "Eina robusta amb característiques addicionals."
+        },
+        {
+          "title": "<strong>PDF2Go:</strong>",
+          "desc": "Suporta fitxers complexos i gran nombre de pàgines."
+        }
+      ]
+    },
+    "tips": {
+      "title": "Consells per a una experiència de combinació PDF sense problemes",
+      "items": [
+        {
+          "title": "<strong>Comprova la compatibilitat dels fitxers:</strong>",
+          "desc": "Assegura't que tots els fitxers estiguin en PDF o formats suportats."
+        },
+        {
+          "title": "<strong>Previsualitza els teus fitxers:</strong>",
+          "desc": "Revisa l'ordre i contingut dels teus fitxers abans de combinar."
+        },
+        {
+          "title": "<strong>Utilitza plataformes segures:</strong>",
+          "desc": "Tria eines que prioritzin la privacitat."
+        },
+        {
+          "title": "<strong>Prova la sortida:</strong>",
+          "desc": "Obre el PDF combinat per confirmar el disseny."
+        }
+      ]
+    },
+    "ConclusionH1": "Conclusió",
+    "conclusion": "Combinar fitxers PDF és una manera senzilla però poderosa de racionalitzar la gestió de documents. Tant si ets un professional organitzant informes, un estudiant compilant recerca, o algú arxivant documents personals, eines com gabungPDF.id fan fàcil <strong>combinar fitxers PDF</strong> en línia gratuïtament."
+  },
+  "combinePdf": {
+    "title": "Combinar arxius PDF",
+    "dragDrop": "Arrossega i deixa anar els arxius PDF aquí",
+    "clickBrowse": "o fes clic per cercar",
+    "selectFiles": "Selecciona arxius",
+    "maxSize": "Mida màxima per arxiu: 50 MB",
+    "combineButton": "Combina els PDFs",
+    "filesCount": "PDFs",
+    "S1H1": "Combina PDFs: Com combinar arxius PDF - Un consell per fusionar PDFs de manera gratuïta",
+    "S1P1": "En el món digital d'avui, els arxius PDF (Portable Document Format) s'han convertit en una base per compartir i emmagatzemar documents. A diferència dels arxius DOC creats amb Microsoft Word o Google Docs, els PDFs mantenen el seu format consistent en tots els dispositius i sistemes operatius. Aquesta compatibilitat universal els fa ideals per a l'ús professional i personal, ja sigui per compartir informes, presentacions o formularis en línia.",
+    "S1P2": "Tanmateix, treballar amb PDFs pot ser complicat, especialment quan cal combinar diversos arxius PDF en un document coherent. En aquest guia, explorarem per què és important combinar PDFs, com fusionar PDFs de manera gratuïta utilitzant la nostra eina intuïtiva i els beneficis de simplificar el procés de gestió de documents.",
+    "S2H1": "Per què els PDFs són únics i versàtils",
+    "S2P1": "Els PDFs estan dissenyats per conservar l'aparença exacta d'un document, independentment del dispositiu o programari utilitzat per visualitzar-lo. A diferència dels arxius DOC, que depenen de configuracions específiques del sistema, com ara les fonts instal·lades o la configuració del sistema operatiu, els PDFs funcionen com imatges estàtiques. Això assegura que les fonts, els dissenys i les gràfiques es mantinguin consistents, la qual cosa els fa ideals per a documents professionals com contractes, currículums o llibres electrònics.",
+    "S2P2": "Aquesta consistència és la raó per la qual els PDFs són àmpliament utilitzats per compartir documents per Internet. Ja sigui que estiguis enviant una proposta de negoci o arxivant registres importants, els PDFs asseguren que el destinatari vegi el document exactament com s'havia dissenyat. No obstant això, aquesta mateixa característica fa que editar o combinar PDFs sigui més complex que treballar amb arxius DOC. Sense programari especialitzat, tasques com afegir pàgines o fusionar múltiples PDFs poden semblar difícils. Afortunadament, la nostra eina gratuïta en línia simplifica aquest procés, permetent-te combinar PDFs sense esforç, sense necessitat de programari addicional.",
+    "combine_pdf_files": {
+      "intro": "Per què combinar arxius PDF?",
+      "para": "Combinar arxius PDF és una necessitat comuna per a professionals, estudiants i qualsevol persona que gestioni diversos documents. Aquí tens alguns casos on fusionar PDFs pot ser útil:",
+      "items": [
+        {
+          "title": "Creació d'informes complets:",
+          "desc": "Si tens diversos informes o capítols en PDF, combinar-los en un sol document fa que sigui més fàcil compartir-los i revisar-los."
+        },
+        {
+          "title": "Arxivar documents escanejats:",
+          "desc": "Els PDFs escanejats, com rebuts o formularis, sovint cal combinar-los en un sol arxiu per una millor organització."
+        },
+        {
+          "title": "Optimització de presentacions:",
+          "desc": "Combinar diapositives o seccions de diferents PDFs en una presentació cohesionada millora la claredat i el professionalisme."
+        },
+        {
+          "title": "Simplificar l'intercanvi d'arxius:",
+          "desc": "En lloc d'enviar diversos arxius, combinar-los en un sol PDF redueix la confusió i garanteix que tota la informació estigui en un document fàcil d'accedir."
+        }
+      ],
+      "para2": "A diferència dels arxius DOC, on només cal copiar i enganxar el contingut, els PDFs requereixen eines específiques per a fusionar-los o editar-los. Per exemple, copiar text d'un PDF escanejat sovint és impossible sense programari de reconeixement òptic de caràcters (OCR). El nostre combinador de PDFs gratuït elimina aquests obstacles, permetent-te fusionar fins a 20 PDFs a la vegada sense necessitat de programari car o coneixements tècnics."
+    },
+    "stepbystep": {
+      "intro": "Com combinar arxius PDF de manera gratuïta: Guia pas a pas",
+      "para": "La nostra eina en línia fàcil d'utilitzar fa que combinar PDFs sigui ràpid i eficient. Ja sigui que estiguis fusionant dos arxius o fins a 20, el procés és senzill i no requereix instal·lació ni subscripció. Segueix aquests passos per fusionar els teus PDFs sense problemes:",
+      "items": [
+        {
+          "title": "Pas 1: Puja els teus arxius PDF",
+          "desc": "Per començar, fes clic al botó 'PUJA ARXIUS' a la interfície de l'eina. Selecciona els arxius PDF des del teu dispositiu. Alternativament, pots arrossegar i deixar anar els teus PDFs a la zona designada com 'Arrossega els teus arxius aquí' per més comoditat. Aquesta funció és especialment útil quan treballes amb múltiples arxius, ja que estalvia temps i simplifica el procés."
+        },
+        {
+          "title": "Pas 2: Organitza els teus PDFs",
+          "desc": "Un cop els arxius siguin pujats, la nostra eina els mostrarà en una cua. L'ordre dels arxius en aquesta cua determina l'estructura del teu PDF combinat. El primer arxiu de la llista serà el primer en aparèixer en el document final, el segon PDF seguirà, i així successivament. Per assegurar-te que estigui en l'ordre correcte, pots arrossegar i deixar anar els arxius dins de la cua per reorganitzar-los segons calgui."
+        },
+        {
+          "title": "Pas 3: Combina i descarrega",
+          "desc": "Quan estiguis satisfet amb l'ordre, fes clic al botó COMBINA. El nostre sistema fusionarà tots els PDFs pujats en un sol arxiu. Un cop el procés hagi acabat, el PDF combinat començarà a descarregar-se automàticament al teu dispositiu. Tot el procés és ràpid, segur i no requereix programari addicional."
+        }
+      ],
+      "intro2": "Combinar més PDFs",
+      "para2": "Necessites fusionar més PDFs? Cap problema! La nostra eina et permet combinar arxius en lots. Després de fusionar el primer conjunt de PDFs, descarrega el PDF combinat. A continuació, puja aquest arxiu juntament amb qualsevol altre PDF que vulguis incloure. Repeteix el procés fent clic a COMBINA per crear un document més gran. Pots repetir aquest procés les vegades que sigui necessari per incloure tots els teus arxius.",
+      "intro3": "Nota important: Descarrega dins d'una hora",
+      "para3": "Per garantir una experiència fluida, descarrega el teu PDF combinat dins d'una hora des de la fusió. Si no ho fas, el sistema eliminarà els arxius i hauràs de tornar a pujar-los per començar de nou. Aquesta funció ajuda a mantenir la seguretat i alliberar espai a servidors per a altres usuaris."
+    },
+    "benefits": {
+      "intro": "Beneficis d'utilitzar el nostre combinador de PDFs gratuït",
+      "para": "La nostra eina està dissenyada amb la simplicitat, accessibilitat i eficiència en ment. Aquí tens els motius pels quals és la millor opció per fusionar PDFs:",
+      "items": [
+        {
+          "title": "No cal instal·lar programari:",
+          "desc": "A diferència dels editors PDF tradicionals, la nostra eina és totalment basada en web, de manera que pots accedir-hi des de qualsevol dispositiu amb connexió a Internet."
+        },
+        {
+          "title": "Ús gratuït i il·limitat:",
+          "desc": "Fusioneu fins a 20 PDFs a la vegada de manera gratuïta, sense subscripció ni cost. Per a projectes més grans, pots combinar diversos lots com es descriu més amunt."
+        },
+        {
+          "title": "Interfície fàcil d'utilitzar:",
+          "desc": "La funcionalitat d'arrossegar i deixar anar i el disseny intuïtiu fan que sigui fàcil tant per a principiants com per a professionals."
+        },
+        {
+          "title": "Processament ràpid:",
+          "desc": "La nostra eina fusiona els PDFs en segons, estalviant-te temps i esforç."
+        },
+        {
+          "title": "Segur i fiable:",
+          "desc": "Els teus arxius es processen de manera segura i es suprimeixen dels nostres servidors després d'una hora, garantint que les teves dades es mantinguin privades."
+        }
+      ]
+    },
+    "should_you": {
+      "intro": "Quan hauríeu de combinar PDFs?",
+      "para": "Fusionar PDFs és una habilitat valuosa en diverses situacions. Aquí tens alguns casos d'ús comuns:",
+      "items": [
+        {
+          "title": "Professionals de negocis:",
+          "desc": "Combina factures, contractes o propostes en un sol document per compartir-lo fàcilment amb clients o companys."
+        },
+        {
+          "title": "Estudiants i docents:",
+          "desc": "Fusiona apunts de classe, articles d'investigació o tasques en un únic arxiu per a presentacions o materials d'estudi."
+        },
+        {
+          "title": "Tasques jurídiques i administratives:",
+          "desc": "Organitza documents escanejats, com contractes o formularis, en un únic PDF per arxivar o per a fins legals."
+        },
+        {
+          "title": "Projectes creatius:",
+          "desc": "Combina esbossos de disseny, carteres o guions per crear presentacions o recollir comentaris de clients."
+        }
+      ]
+    },
+    "Tips": {
+      "intro": "Consells per treballar amb PDFs",
+      "para": "Per treure el màxim profit de la teva experiència de fusionar PDFs, tingues en compte aquests consells:",
+      "items": [
+        {
+          "title": "Comprova l'ordre dels arxius:",
+          "desc": "Comprova sempre l'ordre dels teus PDFs abans de combinar-los per evitar la necessitat de reorganitzar pàgines després."
+        },
+        {
+          "title": "Optimitza la mida dels arxius:",
+          "desc": "Si els teus PDFs contenen imatges o gràfics grans, considera comprimir-los abans de pujar-los per reduir la mida del fitxer final."
+        },
+        {
+          "title": "Utilitza noms descriptius per als arxius:",
+          "desc": "Renomena els teus PDFs amb noms clars i descriptius (per exemple, Report_Section1.pdf) per mantenir l'ordre durant el procés de fusió."
+        },
+        {
+          "title": "Fes còpies de seguretat dels arxius originals:",
+          "desc": "Guarda còpies dels teus PDFs originals per si has de fer canvis o fusionar-los novament més endavant."
+        },
+        {
+          "title": "Explora eines addicionals:",
+          "desc": "Si necessites editar, convertir o comprimir PDFs, descobreix altres eines gratuïtes de la nostra plataforma per a una solució completa de gestió de documents."
+        }
+      ]
+    },
+    "why_choose": "Per què triar la nostra eina en comptes d'alternatives de pagament?",
+    "why_choose_para": "Tot i que els editors de PDFs de pagament com Adobe Acrobat ofereixen funcions avançades, la nostra eina gratuïta ofereix una solució eficaç per a la majoria dels usuaris. No cal invertir en programari car ni subscripcions per combinar PDFs. Gabung PDF.id és accessible per a petites empreses, estudiants i tothom que necessiti resultats professionals sense complexitat.",
+    "why_choose_para2": "A més, la nostra plataforma està optimitzada per a rapidesa i comoditat. Ja sigui que estiguis utilitzant un ordinador de sobretaula, una tauleta o un telèfon intel·ligent, pots combinar PDFs sobre la marxa sense problemes de compatibilitat. Aquesta flexibilitat fa que la nostra eina sigui ideal per a usuaris que busquen resultats ràpids i fiables sense una corba d'aprenentatge empinada.",
+    "conclusion": "Conclusió",
+    "conclusion_para": "Fusionar documents PDF no ha de ser complicat ni car. Amb el nostre combinador de PDFs gratuït i basat en web, pots combinar fins a 20 PDFs a la vegada, reorganitzar-los fàcilment i descarregar un document únic en qüestió de segons. Tant si organitzes informes, arxives documents escanejats o prepares presentacions, la nostra eina simplifica el procés sense necessitat de programari addicional ni habilitats tècniques."
+  },
+  "blog": {
+    "title": "Consells, tutorials i guies de PDF",
+    "description": "Domina la gestió de PDF amb guies d'experts, consells pràctics i tutorials pas a pas.",
+    "searchPlaceholder": "Cerca articles, tutorials i guies...",
+    "articles": "Articles",
+    "readers": "Lectors",
+    "available": "Disponible",
+    "featuredArticle": "Article destacat",
+    "mostPopular": "Més popular aquesta setmana",
+    "readArticle": "Llegir article",
+    "readFull": "Llegir article complet",
+    "minRead": "min lectura"
+  },
+  "footer": {
+    "description": "La manera més fàcil de combinar múltiples fitxers PDF en un document. Ràpid, segur i completament gratuït d'usar.",
+    "contact": "Contacta'ns:",
+    "quickLinks": "Enllaços ràpids",
+    "privacyPolicy": "Política de privacitat",
+    "termsOfService": "Termes del servei",
+    "allRights": "Tots els drets reservats"
+  }
+}

@@ -1,0 +1,360 @@
+{
+  "nav": {
+    "home": "Bogga Hore",
+    "combinePdf": "Isku Xidh PDF",
+    "blog": "Blog",
+    "selectLanguage": "Xulo Luqadda"
+  },
+  "home": {
+    "title": "Isku Xidh Faylasha PDF Online - Bilaash, Degdeg ah oo Ammaan ah",
+    "description": "Si fudud isku xidh PDFs adiga oo adeegsanaya GabungPDF.id! Qalab online oo bilaash, degdeg ah, oo ammaan ah si aad ugu biiriso faylasha PDF ilbiriqsi gudaheed. Ma jirto diiwaangelin loo baahan yahay.",
+    "mergeNow": "Isku Xidh PDFs Hadda",
+    "sec1Para": "Adduunka dijitaalka ah ee maanta oo dhaqso u socda, maaraynta dukumiintiyada si hufan ayaa muhiim u ah hawlaha shaqsiyeed iyo kuwa xirfadeedba. Baahida guud waa in la <strong>isku xidh</strong> faylasha PDF hal dukumiinti oo isku dhafan. Haddii aad diyaarinayso warbixin, isku ururinayso qaansheegyada, ama wadaagaysid faylal badan, isku xidhidda PDFs waxay badbaadin kartaa waqti waxayna ka dhigtaa dukumiintiyadaada kuwo nidaamsan. Hage dhamaystiran ayaan ku soo bandhigi doonaa sida loo isku xiro faylasha PDF online bilaash, sababta ay muhiim u tahay, iyo sida qalabka gabungPDF.id uga dhigayo habka mid sahlan. Waxa kale oo aan kaga hadli doonaa talooyin ku saabsan sida loo wanaajiyo PDFs-kaaga si ay uga muuqdaan mashiinnada raadinta, si nuxurkaagu u gaaro dhagaystayaasha saxda ah.",
+    "SecH1": "Maxaa Looga Baahan Yahay In La Isku Xiro Faylasha PDF?",
+    "SecH1P1": "Isku xidhidda faylal badan oo PDF ah hal dukumiinti waxay leedahay faa'iidooyin badan. Waa sababta aad u baahan tahay inaad isticmaasho qalab isku xira PDF:",
+    "SecH1UlLi1": "<strong>Nidaamin iyo Waxtar:</strong> Halkii aad u diri lahayd faylal badan, hal PDF oo isku dhafan ayaa fududeynaya wadaagga iyo dib u eegista. Tani waxay si gaar ah waxtar ugu leedahay xirfadlayaasha diraya warbixinno, heshiisyo, ama bandhigyo.",
+    "SecH1UlLi2": "<strong>Yaraynta Faylalka Kala Duwan:</strong> Isku xidhidda PDFs waxay yaraynaysaa tirada faylasha aad maamuli lahayd, taasoo fududeyneysa kaydinta iyo helidda dukumiintiyada.",
+    "SecH1UlLi3": "<strong>Muuqaal Xirfadeed:</strong> PDF isku dhafan ayaa u muuqda mid nadiif ah oo xirfadaysan, haddii aad la wadaageyso shaqaalaha, macaamiisha, ama daneeyayaasha.",
+    "SecH1UlLi4": "<strong>La jaanqaadid Qalabka Kala Duwan:</strong> PDFs waa kuwo si guud loo aqbalo, taasoo hubinaysa in dukumiintiga isku dhafan lagu daawan karo qalab kasta, laga bilaabo Windows ilaa Mac iyo aaladaha mobilada.",
+    "SecH1EndPara": "Iyada oo la adeegsanayo qalab sida <strong>gabungPDF.id</strong>, waxaad si dhakhso leh u isku xidhi kartaa PDF, adigoon u baahnayn inaad software rakibto ama xisaab is diiwaangeliso. Aan eegno sida loo sameeyo.",
+    "steps": {
+      "title": "Sida Loo Isku Xiro Faylasha PDF Online Bilaash",
+      "intro": "Adeegsiga qalab online ah sida gabungPDF.id waxay ka dhigeysaa isku xidhidda PDFs mid sahlan oo la heli karo. Halkan waa hage talaabo-talaabo ah oo ku saabsan sida aad si fudud u <strong>isku xiri karto faylasha PDF</strong>:",
+      "items": [
+        {
+          "title": "Tallaabada 1: Booqo gabungPDF.id",
+          "desc": "Tag gabungPDF.id, qalab online bilaash ah oo kuu sahlaya inaad <strong>isku xirto faylasha PDF</strong> ilbiriqsi gudaheed. Boggu waa mid fudud oo saaxiibtinimo leh, loona baahnayn aqoon farsamo."
+        },
+        {
+          "title": "Tallaabada 2: Soo geli Faylashaada PDF",
+          "desc": "Guji batoonka \"Upload Files\" si aad u doorato faylasha PDF ee aad rabto inaad isku xidhid. Waxaad soo geli kartaa faylal badan hal mar, gabungPDF.id-na waxay taageertaa noocyo faylal kala duwan oo ay ku jiraan PDFs iyo sawirro. Qalabku wuxuu kuu oggolaanayaa inaad <strong>isku xirto faylasha PDF</strong> adoon ka welwelin cabbirka ama tirada faylasha."
+        },
+        {
+          "title": "Tallaabada 3: Kala Saar Faylasha",
+          "desc": "Markaad soo geliso, waad jiidi kartaa oo hoos u dhigi kartaa faylasha si aad ugu habeyn karto sida aad rabto. Tani waa mid waxtar leh markaad sameyneyso hab macquul ah, sida kala saaridda cutubyada warbixin ama qaybaha bandhig."
+        },
+        {
+          "title": "Tallaabada 4: Isku Xidh oo Soo Dejiso",
+          "desc": "Kadib markaad faylasha kala saarto, guji batoonka \"Combine\". Qalabka wuxuu <strong>isku xiraa faylasha PDF</strong> hal dukumiinti oo ah, isagoo ilaalinaya tayada iyo qaabka asalka ah. Markii habka la dhammeeyo, si fudud u soo dejiso PDF-ga isku dhafan. Sidaas bay u fududahay!"
+        }
+      ]
+    },
+    "whyChoose": {
+      "title": "Maxaa Loogu Doorbidaa gabungPDF.id?",
+      "points": [
+        {
+          "title": "<strong>Ma Jiraan Rakibaad:</strong>",
+          "desc": "Ka duwan software-ka desktop-ka, gabungPDF.id wuxuu si buuxda uga shaqeeyaa online, taasoo kuu badbaadineysa meel kaydinta iyo waqtiga diyaarinta."
+        },
+        {
+          "title": "<strong>Bilaash oo Ammaan ah:</strong>",
+          "desc": "Qalabku waa bilaash in la isticmaalo, mana jiraan qarsoodi. Faylashaada waxaa laga tirtiraa server-ka kadib marka la farsameeyo, taasoo ilaalinaysa asturnaanta."
+        },
+        {
+          "title": "<strong>La jaanqaadida Aaladaha Kala Duwan:</strong>",
+          "desc": "Haddii aad isticmaaleyso Mac, Windows, iOS, ama Android, waxaad si sahal ah u <strong>isku xiri kartaa faylasha PDF</strong>."
+        },
+        {
+          "title": "<strong>Taageero Luqado Badan:</strong>",
+          "desc": "Madalku wuxuu taageeraa isticmaaleyaal caalami ah, oo ay ku jiraan kuwa raadinaya \"<strong>gabung PDF</strong>\" af Soomaali ama luqado kale."
+        }
+      ]
+    },
+    "benefits": {
+      "title": "Faa'iidooyinka Isticmaalka Qalabka Isku Xira PDF Online",
+      "items": [
+        {
+          "title": "<strong>Helitaan:</strong>",
+          "desc": "Waxaad <strong>isku xiri kartaa faylasha PDF</strong> meel kasta oo leh internet, taasoo ku habboon shaqaalaha fog ama dadka safarka ku jira."
+        },
+        {
+          "title": "<strong>Xawaare:</strong>",
+          "desc": "Habka isku xidhka wuxuu qaataa ilbiriqsiyo, xitaa faylal waaweyn, taasoo kuu oggolaaneysa inaad diirada saarto hawlo muhiim ah."
+        },
+        {
+          "title": "<strong>Qiimo La'aan:</strong>",
+          "desc": "Qalabyo badan oo online ah, oo ay ku jiraan gabungPDF.id, waa gebi ahaanba bilaash, marka loo eego software-yada lacagta leh sida Adobe Acrobat."
+        },
+        {
+          "title": "<strong>Saaxiibtinimo Isticmaalaha:</strong>",
+          "desc": "Ma jirto xirfad farsamo oo loo baahan yahay, taasoo ka dhigeysa mid la heli karo bilowga iyo xirfadlayaasha labadaba."
+        }
+      ]
+    },
+    "seoTips": {
+      "title": "Sida Loogu Wanaajiyo PDFs-kaaga Isku Dhafan SEO-ga",
+      "intro": "Haddii aad PDFs u sameyneyso ujeedooyin xirfadeed ama suuq-geyn, wanaajinta SEO-ga waxay kordhin kartaa muuqaalka. PDFs waxay leeyihiin awood weyn oo ay ku soo baxaan bogagga natiijooyinka mashiinnada raadinta (SERPs), sida ay sheegaan khubaro. Halkan waxaa ku jira 10 talo oo ku saabsan sida loo wanaajiyo PDFs SEO-ga adigoo adeegsanaya ereyada muhiimka ah sida <strong>isku xidh PDF</strong>, <strong>isku xir PDF</strong>, iyo <strong>gabung PDF</strong>:",
+      "items": [
+        {
+          "title": "1. Isticmaal Magacyada Faylasha Sharaxaad Leh",
+          "desc": "Ka hor intaadan soo gelin PDF-gaaga gabungPDF.id, magac u bixi faylashaada adigoo adeegsanaya magacyo sharaxaad leh oo leh ereyo muhiim ah. Tusaale ahaan, halkii aad isticmaali lahayd \"document1.pdf,\" isticmaal \"warbixin-shirkad-2025.pdf.\" Tani waxay ka caawisaa mashiinnada raadinta inay fahmaan nuxurka."
+        },
+        {
+          "title": "2. Ku dar Metadata",
+          "desc": "Ku dar metadata sida cinwaanka, qoraaga, iyo ereyada muhiimka ah PDF-gaaga. Qalabka sida Adobe Acrobat ama tifaftirayaasha PDF waxay kuu oggolaanayaan inaad ku dhex darto metadata, taasoo mashiinnada raadinta ka caawisa inay faylkaaga index-gareeyaan."
+        },
+        {
+          "title": "3. Wanaaji Nuxurka Qoraalka",
+          "desc": "Hubi in PDF-gaagu ka kooban yahay qoraal la raadin karo halkii uu ka ahaan lahaa sawirro la iska qaaday. Mashiinnada raadinta waxay booqan karaan PDFs-ka ku saleysan qoraalka, sidaas darteed isticmaal ereyada muhiimka ah sida <strong>isku xir PDF</strong> ama <strong>gabung PDF</strong> si dabiici ah gudaha dukumiintiga."
+        },
+        {
+          "title": "4. Ku dar Xiriirro Gudaha Dukumiintiga",
+          "desc": "Haddii PDF-gaagu yahay qayb ka mid ah website, ku dar xiriirro bogagga la xiriira. Tusaale ahaan, xiriir u samee boggaaga hore ama maqaal blog ku saabsan sida loo <strong>isku xiro faylasha PDF</strong>."
+        },
+        {
+          "title": "5. Isticmaal Cinwaanno iyo Qaab-dhismeed",
+          "desc": "Nidaami PDF-gaaga adigoo adeegsanaya cinwaanno cad (H1, H2, iwm) iyo qaab-dhismeed macquul ah. Tani waxay kordhisaa akhriska waxayna ka caawisaa mashiinnada raadinta inay fahmaan qaabka nuxurkaaga."
+        },
+        {
+          "title": "6. Cadaadi Si Loogu Dedejiyo Soo Dejinta",
+          "desc": "PDF-yada waaweyn waxay gaabiyaan waqtiga soo dejinta, taasoo saameyn xun ku leh SEO-ga. Kadib markaad isku xirto faylashaaga gabungPDF.id, isticmaal qalab cadaadiya PDF si aad u yarayso cabbirka faylka adoon tayada lumin."
+        },
+        {
+          "title": "7. Ku dar Alt Text Sawirrada",
+          "desc": "Haddii PDF-gaagu leeyahay sawirro, ku dar sharaxaad alt text oo leh ereyo muhiim ah. Tani waxay ka dhigeysaa PDF-ga mid si wanaagsan loo heli karo waxayna wanaajisaa SEO-ga."
+        },
+        {
+          "title": "8. Ku Martigeli PDFs-kaaga Website-kaaga",
+          "desc": "Soo geli PDF-ga isku dhafan website-kaaga oo samee bog degitaan u gaar ah. Ku dar sharaxaad leh ereyada muhiimka ah sida <strong>isku xidh PDF</strong> iyo link download si aad u kiciso taraafikada."
+        },
+        {
+          "title": "9. La Soco Aragtida PDFs",
+          "desc": "Adeegso qalab sida Google Analytics si aad ula socoto sida isticmaaleyaashu ula falgalaan PDFs-kaaga. Xogtan waxay kaa caawin kartaa inaad hagaajiso nuxurkaaga iyo waxqabadka."
+        },
+        {
+          "title": "10. Dhiirrigeli PDF-gaaga",
+          "desc": "La wadaag PDF-gaaga baraha bulshada, warsideyaasha emailka, iyo bulshooyinka online-ka ee khuseeya. Ku dar wicitaan ficil oo ku dhiirrigelinaya isticmaaleyaasha inay soo dejistaan oo ay wadaagaan dukumiintiga isku dhafan."
+        }
+      ]
+    },
+    "useCases": {
+      "title": "Xaaladaha Badanaa Loo Isticmaalo Isku Xidhka PDFs",
+      "items": [
+        {
+          "title": "<strong>Warbixinno Ganacsi:</strong>",
+          "desc": "Isku xidh qaybaha kala duwan ee warbixin, sida qoraalka, jaantusyada, iyo sawirrada, hal PDF si sahlan loo wadaago."
+        },
+        {
+          "title": "<strong>Mashruucyo Tacliimeed:</strong>",
+          "desc": "Ardaydu waxay <strong>isku xiraan PDFs</strong> si ay u ururiyaan waraaqaha cilmi baarista, qoraalada, iyo tixraacyada hal dukumiinti."
+        },
+        {
+          "title": "<strong>Dukumiintiyada Sharciga:</strong>",
+          "desc": "Qareennadu waxay badanaa isku daraan heshiisyada, qandaraasyada, iyo caddeymaha hal PDF si dib u eegis fudud loo sameeyo."
+        },
+        {
+          "title": "<strong>Qalabka Suuq-geynta:</strong>",
+          "desc": "Samee buug-yare xirfadeed adigoo isku daraya sawirro iyo qoraallo hal PDF oo isku xidhan."
+        },
+        {
+          "title": "<strong>Isticmaal Shakhsiyeed:</strong>",
+          "desc": "Isku xidh dukumiintiyo la sawiray, rasiidhyo, ama sawirro hal PDF si loo kaydiyo ama loo wadaago."
+        }
+      ]
+    },
+    "comparison": {
+      "title": "Isbarbardhigga gabungPDF.id iyo Qalabka Kale",
+      "intro": "Inkasta oo gabungPDF.id uu yahay doorashada koowaad ee isku xidhka PDFs, qalabyo kale sida Adobe Acrobat, iLovePDF, iyo PDF2Go waxay sidoo kale bixiyaan shaqo la mid ah. Halkan waa sida gabungPDF.id uu ula tartamayo:",
+      "items": [
+        {
+          "title": "<strong>gabungPDF.id:</strong>",
+          "desc": "Bilaash, ma jirto diiwaangelin, waxay taageertaa noocyo faylal badan, faylasha waa la tirtiraa kadib marka la farsameeyo si loo ilaaliyo asturnaanta."
+        },
+        {
+          "title": "<strong>Adobe Acrobat:</strong>",
+          "desc": "Waxay bixisaa isku xir online bilaash ah laakiin waxay u baahan tahay inaad gasho si aad u hesho astaamo horumarsan. Waa ku habboon tahay isticmaaleyaasha hore u jira nidaamka Adobe."
+        },
+        {
+          "title": "<strong>iLovePDF:</strong>",
+          "desc": "Qalab adag oo leh astaamo dheeraad ah sida cadaadinta iyo beddelka, laakiin qaar ka mid ah astaamaha waxay u baahan yihiin rukhsad lacag leh."
+        },
+        {
+          "title": "<strong>PDF2Go:</strong>",
+          "desc": "Waxay taageertaa faylal adag iyo bogag badan, laakiin waxaa jiri kara xad faylasha bilaashka ah."
+        }
+      ]
+    },
+    "tips": {
+      "title": "Talooyin Ku Saabsan Khibrad Isku Xir PDF Oo Wanaagsan",
+      "items": [
+        {
+          "title": "<strong>Hubi La jaanqaadida Faylasha:</strong>",
+          "desc": "Hubi in dhammaan faylasha ay yihiin PDF ama noocyo la taageeray (tusaale JPG, PNG) ka hor intaadan soo gelin."
+        },
+        {
+          "title": "<strong>Eeg Faylashaada:</strong>",
+          "desc": "Dib u eeg amarka iyo nuxurka faylashaada ka hor intaadan isku xir."
+        },
+        {
+          "title": "<strong>Isticmaal Madal Ammaan ah:</strong>",
+          "desc": "Dooro qalabyo sida gabungPDF.id oo mudnaanta siinaya asturnaanta oo tirtira faylasha kadib farsamaynta."
+        },
+        {
+          "title": "<strong>Tijaabi Natiijada:</strong>",
+          "desc": "Fur PDF-ga isku dhafan si aad u xaqiijiso in qaabka iyo nuxurka ay sax yihiin ka hor intaadan wadaagin."
+        }
+      ]
+    },
+    "ConclusionH1": "Gabagabo",
+    "conclusion": "Isku xidhidda faylasha PDF waa hab sahlan laakiin awood leh oo lagu nidaamiyo maaraynta dukumiintiyadaada. Haddii aad tahay xirfadle abaabulaya warbixinno, arday ururinaya cilmi baaris, ama qof shakhsi ah oo kaydinaya dukumiintiyo, adeegsiga qalabka online sida gabungPDF.id wuxuu ka dhigayaa habka mid degdeg ah, bilaash ah, oo ammaan ah. Intaa waxaa dheer, adigoo raacaya talooyinka SEO-ga, waxaad kordhin kartaa helitaanka iyo saameynta PDFs-kaaga isku dhafan. Tani waxay ka dhigeysaa PDF-gaaga mid waxtar leh oo xirfadaysan si aad ugu gaarto dhagaystayaashaada si fudud. Hadda, bilow inaad isku xirto faylasha PDF oo aad u adeegso awoodda dijitaalka si aad u hagaajiso habkaaga shaqo iyo isgaarsiineed!"
+  },
+  "combinePdf": {
+    "title": "Isku-darka Faylasha PDF",
+    "dragDrop": "Jiid oo dhig faylasha PDF halkan",
+    "clickBrowse": "ama guji si aad u doorato",
+    "selectFiles": "Xulo Faylasha",
+    "maxSize": "Cabbirka ugu badan ee fayl kasta: 50 MB",
+    "combineButton": "Isku-dar PDF",
+    "filesCount": "PDF",
+    "S1H1": "Isku-darka PDF: Sida loo isku daro faylasha PDF – Talooyin bilaash ah",
+    "S1P1": "Adduunka dijitaalka casriga ah, faylasha PDF (Portable Document Format) ayaa noqday kuwo lama huraan u ah isweydaarsiga iyo kaydinta dukumentiyada. Marka loo eego faylasha DOC ee Microsoft Word ama Google Docs, PDF waxay ilaalinayaan qaab-dhismeedkooda aaladaha iyo nidaamyada hawlgalka oo dhan, taasoo ka dhigaysa kuwo ku habboon isticmaalka xirfadeed iyo mid shakhsi – ha noqoto warbixinno, bandhigyo ama foomam.",
+    "S1P2": "Si kastaba ha ahaatee, la shaqaynta PDF waxay noqon kartaa mid adag, gaar ahaan marka loo baahdo in la isku daro faylal badan. Tilmaamahaan waxaan ku tusi doonaa sababta loo baahan yahay in la isku daro PDF, sida bilaash ah loogu sameeyo adoo adeegsanaya aaladeena fudud, iyo sida loo fududeeyo habkaaga maaraynta dukumentiyada si joogto ah.",
+    "S2H1": "Sababta Faylasha PDF ay u gaarka iyo mid guud yihiin",
+    "S2P1": "Faylasha PDF waxaa loogu talagalay in si sax ah loo ilaaliyo qaab-dhismeedka dukumenti iyadoon loo eegin aaladda ama software-ka la isticmaalayo. Marka loo eego faylasha DOC oo ku tiirsan dejimaha nidaamka sida farta ama nidaamka hawlgalka, PDF waxay leedahay qaab go'an. Tani waxay damaanad qaadaysaa in farta, habaynta iyo sawirada aysan isbeddelin, taasoo ka dhigaysa PDF inay ku habboon tahay dukumentiyada xirfadeed sida heshiisyada, taariikh-nololeedyada ama buugaag elektaroonik ah.",
+    "S2P2": "Xasiloonidaas ayaa ka dhigaysa PDF inay caan ku noqoto is-weydaarsiga dukumentiyada internetka. Marka la soo dirayo soo-jeedin ganacsi ama la keydinayo xog muhiim ah, PDF waxay xaqiijisaa in dukumentigu u muuqdo sidii markii la abuuray. Si kastaba, taasi waxay ka dhigaysaa tafatirka ama isku darka PDF mid adag iyada oo aan la haysan software gaar ah. Nasiib wanaag, aaladeena bilaashka ah ee online-ka ah ayaa shaqada ka dhigaysa mid fudud, iyadoo kuu oggolaanaysa inaad si sahlan oo bilaash ah iskugu darto PDF adigoon rakibin barnaamij qaali ah.",
+    "combine_pdf_files": {
+      "intro": "Maxay muhiim u tahay in la isku daro faylasha PDF?",
+      "para": "Isku darka PDF waa baahi guud oo xirfadlayaasha, ardayda, iyo qof kasta oo la shaqeeya dukumentiyo badan. Waa tusaalooyinka marka ay tani faa'iido leedahay:",
+      "items": [
+        {
+          "title": "Abuurista warbixinno waaweyn:",
+          "desc": "Ma haysaa warbixinno badan ama cutubyo ku jira faylal PDF gaar ah? Isku dar si aad u hesho hal dukumenti oo fudud in la wadaago oo la daawado."
+        },
+        {
+          "title": "Kaydinta dukumentiyada la iskaankaarey:",
+          "desc": "Dukumentiyada la iskaankaarey, sida rasiidhada ama foomamka, badanaa waxaa loo baahan yahay in lagu ururiyo hal fayl si fudud."
+        },
+        {
+          "title": "Fududeynta bandhigyada:",
+          "desc": "Isku darka slide-yada ama qaybo ka mid ah PDF kala duwan waxay hagaajinaysaa bandhigga waxayna ka dhigtaa mid xirfad leh."
+        },
+        {
+          "title": "Fududeynta is-weydaarsiga:",
+          "desc": "Badalkeeda inaad dirtid faylal badan, hal PDF oo la isku daray ayaa kuu oggolaanaya inaad wadaagto dhammaan macluumaadka hal mar."
+        }
+      ],
+      "para2": "Marka loo eego faylasha DOC, nuqul ka sameynta iyo ku dhejinta PDF waa ka adag tahay — badanaa ma suurtagasho in laga nuqulo qoraal dukumenti la iskaankaarey adigoon adeegsan OCR. Aaladeena bilaashka ah waxay ka takhalustaa dhibaatooyinkan: waxaad isku dari kartaa ilaa 20 faylal hal mar — adigoon u baahnayn software lacag leh ama xirfad gaar ah."
+    },
+    "stepbystep": {
+      "intro": "Sida loo isku daro faylasha PDF — Tilmaam tallaabo-tallaabo ah",
+      "para": "Aaladeena online-ka ah ee fudud ayaa ka dhigaysa isku darka PDF mid dhakhso leh oo waxtar leh. Isku dar laba ilaa labaatan faylal: dhammaan waa sahlan tahay, adoon rakibin ama diiwaan gelin. Raac tillaabooyinka soo socda:",
+      "items": [
+        {
+          "title": "Tallaabada 1: Soo dejiso faylasha PDF",
+          "desc": "Raadi batoonka 'Soo dejiso Faylasha' ee madalkeena. Guji oo dooro faylasha aaladdaada ama isticmaal habka 'jiid oo dhig' — taas oo ku habboon marka aad la shaqaynayso dukumenti badan."
+        },
+        {
+          "title": "Tallaabada 2: Kala saar faylasha",
+          "desc": "Marka faylasha la soo dejiyo, waxay soo baxayaan iyadoo la raacayo kala dambeynta isku darka. Kan ugu horeeya waa kan ugu sarreeya, kadib kuwa kale. Waxaad jiidi kartaa si aad u beddesho kala dambeynta."
+        },
+        {
+          "title": "Tallaabada 3: Isku dar oo soo dejiso",
+          "desc": "Marka wax walba diyaar yihiin, guji 'Isku-dar PDF'. Nidaamku wuxuu isku ururin doonaa faylasha wuxuuna si toos ah u bilaabi doonaa soo dejinta faylka ugu dambeeya. Waa mid dhakhso leh, ammaan ah, adoon u baahnayn software dhinac saddexaad."
+        }
+      ],
+      "intro2": "Ma rabtaa inaad isku darto faylal dheeraad ah?",
+      "para2": "Dhib malahan! Aaladeenu waxay taageertaa habka baakadka. Kadib markaad isku darto kooxdii ugu horreysay, soo dejiso natiijada kadibna ku dar faylal kale oo PDF ah. Ku celi ilaa aad isku darto dhammaan dukumentiyada loo baahan yahay.",
+      "intro3": "Muhiim: Soo dejiso faylka muddo 1 saac ah gudaheed",
+      "para3": "Amnigaaga dartii, faylka isku dhafan wuxuu heli karaa hal saac oo kaliya. Kadib waqtigaas, faylka waxaa laga tirtiraa server-ka. Tani waxay caawisaa ilaalinta xogtaada iyo in meesha loo banaaneeyo isticmaaleyaasha kale."
+    },
+    "benefits": {
+      "intro": "Faa’iidooyinka aaladeena bilaashka ah ee isku darka PDF",
+      "para": "Adeeggeenna waxaa loogu talagalay fudayd, helitaan iyo waxtar. Waa sababta ay u tahay doorashada ugu fiican:",
+      "items": [
+        {
+          "title": "Adigoon rakibin:",
+          "desc": "Marka loo eego tifaftirayaasha PDF dhaqameed, adeeggeenna wuxuu si buuxda uga shaqeeyaa online — aalad kasta oo leh internet."
+        },
+        {
+          "title": "Bilaash iyo aan xad lahayn:",
+          "desc": "Isku dar ilaa 20 fayl PDF hal mar — bilaash, adoon u baahnayn rukhsad."
+        },
+        {
+          "title": "Isdhexgal sahlan oo la fahmi karo:",
+          "desc": "Farsamada jiidashada iyo naqshad kooban ayaa shaqada ka dhigta mid fudud dhammaan isticmaaleyaasha."
+        },
+        {
+          "title": "Habka shaqada oo dhakhso ah:",
+          "desc": "Isku darku wuxuu qaataa ilbiriqsi keliya, badbaadinaya waqtigaaga."
+        },
+        {
+          "title": "Amniga:",
+          "desc": "Faylashadaada si ammaan ah ayaa loo maareeyaa waxaana laga tirtiraa hal saac gudaheed — ilaalinaya xogtaada gaarka ah."
+        }
+      ]
+    },
+    "should_you": {
+      "intro": "Goorma ayaa la isku daraa faylasha PDF?",
+      "para": "Isku darka PDF waa mid faa’iido leh xaalado badan. Waa tusaalooyin:",
+      "items": [
+        {
+          "title": "Xirfadlayaasha:",
+          "desc": "Isku ururi biilasha, heshiisyada iyo soo-jeedimaha hal PDF si aad si fudud ugu dirto macaamiisha ama asxaabtaada shaqada."
+        },
+        {
+          "title": "Ardayda iyo macalimiinta:",
+          "desc": "Isku dar qoraallada, mashruucyada ama maqaalada hal fayl si loo fududeeyo barashada ama dirista."
+        },
+        {
+          "title": "Dukumentiyada sharci iyo maamulka:",
+          "desc": "Isku dar foomamka la iskaankaarey ama heshiisyada hal PDF si loo kaydiyo ama loo isticmaalo sharci ahaan."
+        },
+        {
+          "title": "Mashaariicda hal-abuurka:",
+          "desc": "Isku ururi sawirrada, faylashada shaqada ama sheekooyinka hal dukumenti si loo bandhigo ama loo qiimeeyo."
+        }
+      ]
+    },
+    "Tips": {
+      "intro": "Talooyin ku saabsan shaqada PDF",
+      "para": "Si aad u hesho natiijo wanaagsan markaad isku dartid PDF, fiiro gaar ah u yeelo talooyinkan:",
+      "items": [
+        {
+          "title": "Hubi kala dambeynta faylasha:",
+          "desc": "Hubi in faylashu ku jiraan kala dambeynta saxda ah si looga fogaado jahwareer."
+        },
+        {
+          "title": "Yaree cabbirka:",
+          "desc": "Haddii PDF-ku leeyahay sawirro ama garaafyo waaweyn, ku cadaadi ka hor si aad u yarayso cabbirka ugu dambeeya."
+        },
+        {
+          "title": "Isticmaal magacyo faham leh:",
+          "desc": "Magac u bixi faylasha (tusaale: Warbixin_Qaybta1.pdf) si fudud loo aqoonsan karo."
+        },
+        {
+          "title": "Samee nuqullo kayd ah oo asalka ah:",
+          "desc": "Kaydi nuqullo faylasha asalka ah haddii loo baahdo in dib loo habeeyo ama mar kale la isku daro."
+        },
+        {
+          "title": "Baadh aaladaha kale:",
+          "desc": "Haddii aad u baahato tafatir, badal ama cadaadis PDF, isku day adeegyada kale ee bilaashka ah ee madalkeena."
+        }
+      ]
+    },
+    "why_choose": "Maxaa keenaya in aad doorato aaladeena halkii aad ka isticmaali lahayd mid lacag leh?",
+    "why_choose_para": "Tifaftirayaasha PDF ee lacagta leh sida Adobe Acrobat waxay bixiyaan hawlo horumarsan. Si kastaba ha ahaatee, adeeggeenna bilaashka ah wuxuu dabooli doonaa baahiyaha inta badan isticmaaleyaasha. Adigoon bixin lacag ama rukhsad, si fudud ayaad u isku dari kartaa dukumentiyada. Gabung PDF.id waxaa heli kara qof kasta — ganacsiyada yaryar ilaa ardayda — isagoo bixinaya natiijo xirfadeed adoon dhib badan lahayn.",
+    "why_choose_para2": "Madalkayagu waxaa loo habeeyey xawaare iyo fudayd. Ha ahaato kombiyuutar, tablet ama telefoonka casriga ah, waxaad isku dari kartaa PDF meel kasta adoon la kulmin dhibaatooyin iswaafajin. Tani waxay ka dhigeysaa aaladeena mid ku habboon dadka jecel xawaare iyo kalsooni adoon u baahnayn tababar.",
+    "conclusion": "Gunaanad",
+    "conclusion_para": "Isku darka faylasha PDF looma baahna inuu noqdo mid adag ama qaali ah. Iyada oo la adeegsanayo aaladeena bilaashka ah ee online-ka, waxaad isku dari kartaa ilaa 20 faylal hal mar, si fudud u maamuli kartaa kala dambeyntooda, oo si dhaqso leh u soo dejisan kartaa PDF diyaar ah. Ha ahaato inaad diyaariso warbixinno, kaydiso dukumentiyada la iskaankaarey, ama sameyso bandhig, adeeggeenna wuxuu fududeeyaa hawsha adoon u baahnayn rakibid ama aqoon gaar ah."
+  },
+  "blog": {
+    "title": "Talooyin PDF, Casharro & Tilmaamo",
+    "description": "Baro maaraynta PDF-ga adoo adeegsanaya tilmaamo khubaro, talooyin wax ku ool ah, iyo casharro talaabo-talaabo ah. Baro sida aad si hufan ugu shaqeyn karto dukumiintiyada.",
+    "searchPlaceholder": "Raadi maqaalada, casharrada, iyo tilmaamaha...",
+    "articles": "Maqaalo",
+    "readers": "Akhristayaal",
+    "available": "La heli karo",
+    "featuredArticle": "Maqaalka Lagu Taliyay",
+    "mostPopular": "Kan Ugu Caansan Toddobaadkan",
+    "readArticle": "Akhri Maqaalka",
+    "readFull": "Akhri Maqaalka Oo Dhan",
+    "minRead": "daqiiqado akhris"
+  },
+  "footer": {
+    "about": "Nagu Saabsan",
+    "privacyPolicy": "Xeerka Asturnaanta",
+    "termsOfService": "Shuruudaha Adeegsiga",
+    "contact": "Nala Soo Xiriir",
+    "copyright": "© 2025 GabungPDF.id. Xuquuqda oo dhan way dhowrsan tahay."
+  }
+}

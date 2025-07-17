@@ -1,0 +1,360 @@
+{
+  "nav": {
+    "home": "Početna",
+    "combinePdf": "Spoji PDF",
+    "blog": "Blog",
+    "selectLanguage": "Odaberite jezik"
+  },
+  "home": {
+    "title": "Spojite PDF datoteke online - Besplatno, brzo i sigurno",
+    "description": "Spojite PDF-ove lako s GabungPDF.id! Besplatan, brz, siguran online alat za spajanje PDF datoteka u sekundama. Registracija nije potrebna.",
+    "mergeNow": "Spojite PDF-ove sada",
+    "sec1Para": "U današnjem brzom digitalnom svijetu, učinkovito upravljanje dokumentima ključno je za osobne i profesionalne zadatke. Jedna uobičajena potreba je <strong>spojiti PDF datoteke</strong> u jedan pojednostavljeni dokument.",
+    "SecH1": "Zašto spojiti PDF datoteke?",
+    "SecH1P1": "Spajanje više PDF datoteka u jedan dokument nudi brojne prednosti:",
+    "SecH1UlLi1": "<strong>Organizacija i učinkovitost:</strong> Slanje jednog spojenog PDF-a umjesto više datoteka pojednostavljuje dijeljenje i pregled.",
+    "SecH1UlLi2": "<strong>Smanjenje nereda datoteka:</strong> Spajanje PDF-ova smanjuje broj datoteka kojima morate upravljati.",
+    "SecH1UlLi3": "<strong>Profesionalna prezentacija:</strong> Ujedinjeni PDF izgleda uglađeno i profesionalno.",
+    "SecH1UlLi4": "<strong>Kompatibilnost između platformi:</strong> PDF-ovi su univerzalno kompatibilni.",
+    "steps": {
+      "title": "Kako spojiti PDF datoteke online besplatno",
+      "intro": "Korištenje online alata poput gabungPDF.id čini spajanje PDF-ova jednostavnim i dostupnim:",
+      "items": [
+        {
+          "title": "Korak 1: Posjetite gabungPDF.id",
+          "desc": "Idite na gabungPDF.id, besplatan online alat dizajniran da vam pomogne <strong>spojiti PDF datoteke</strong> u sekundama."
+        },
+        {
+          "title": "Korak 2: Učitajte svoje PDF datoteke",
+          "desc": "Kliknite gumb \"Učitaj datoteke\" da odaberete PDF-ove koje želite spojiti."
+        },
+        {
+          "title": "Korak 3: Poredajte datoteke",
+          "desc": "Nakon učitavanja, možete povući i ispustiti datoteke da ih poredite željenim redoslijedom."
+        },
+        {
+          "title": "Korak 4: Spojite i preuzmite",
+          "desc": "Nakon poredanja datoteka, kliknite gumb \"Spoji\"."
+        }
+      ]
+    },
+    "whyChoose": {
+      "title": "Zašto odabrati gabungPDF.id?",
+      "points": [
+        {
+          "title": "<strong>Nije potrebna instalacija:</strong>",
+          "desc": "Za razliku od desktop softvera, gabungPDF.id radi potpuno online."
+        },
+        {
+          "title": "<strong>Besplatno i sigurno:</strong>",
+          "desc": "Alat je besplatan za korištenje, bez skrivenih naknada."
+        },
+        {
+          "title": "<strong>Kompatibilnost između uređaja:</strong>",
+          "desc": "Bez obzira koristite li Mac, Windows, iOS ili Android."
+        },
+        {
+          "title": "<strong>Višejezična podrška:</strong>",
+          "desc": "Platforma podržava korisnike diljem svijeta."
+        }
+      ]
+    },
+    "benefits": {
+      "title": "Prednosti korištenja online PDF spajača",
+      "items": [
+        {
+          "title": "<strong>Dostupnost:</strong>",
+          "desc": "Možete <strong>spojiti PDF datoteke</strong> s bilo kojeg uređaja s internetskom vezom."
+        },
+        {
+          "title": "<strong>Brzina:</strong>",
+          "desc": "Proces spajanja traje samo sekunde."
+        },
+        {
+          "title": "<strong>Bez troškova:</strong>",
+          "desc": "Mnogi online alati su potpuno besplatni."
+        },
+        {
+          "title": "<strong>Jednostavan za korištenje:</strong>",
+          "desc": "Nisu potrebne tehničke vještine."
+        }
+      ]
+    },
+    "seoTips": {
+      "title": "Optimizirajte svoje spojene PDF-ove za SEO",
+      "intro": "Ako stvarate PDF-ove u profesionalne ili marketinške svrhe, njihova optimizacija za tražilice može povećati njihovu vidljivost.",
+      "items": [
+        {
+          "title": "1. Koristite opisna imena datoteka",
+          "desc": "Prije učitavanja PDF-a, preimenujte datoteke opisnim imenima bogatim ključnim riječima."
+        },
+        {
+          "title": "2. Dodajte metapodatke",
+          "desc": "Uključite metapodatke poput naslova, autora i ključnih riječi u svoj PDF."
+        },
+        {
+          "title": "3. Optimizirajte tekstualni sadržaj",
+          "desc": "Osigurajte da vaš PDF sadrži tekst koji se može pretraživati umjesto skeniranih slika."
+        },
+        {
+          "title": "4. Uključite unutarnje veze",
+          "desc": "Ako je vaš PDF dio web stranice, uključite veze na relevantne stranice."
+        },
+        {
+          "title": "5. Koristite zaglavlja i strukturu",
+          "desc": "Organizirajte svoj PDF jasnim zaglavljima i logičnom strukturom."
+        },
+        {
+          "title": "6. Komprimirajte za brže učitavanje",
+          "desc": "Veliki PDF-ovi mogu usporavati vrijeme učitavanja."
+        },
+        {
+          "title": "7. Dodajte alternativni tekst slikama",
+          "desc": "Ako vaš PDF uključuje slike, dodajte opise alternativnog teksta."
+        },
+        {
+          "title": "8. Hostajte PDF-ove na svojoj web stranici",
+          "desc": "Učitajte svoj spojeni PDF na svoju web stranicu."
+        },
+        {
+          "title": "9. Pratite preglede PDF-a",
+          "desc": "Koristite alate poput Google Analytics za praćenje korisničke interakcije."
+        },
+        {
+          "title": "10. Promovirajte svoj PDF",
+          "desc": "Podijelite svoj PDF na društvenim mrežama i u biltenima."
+        }
+      ]
+    },
+    "useCases": {
+      "title": "Uobičajeni slučajevi korištenja za spajanje PDF-ova",
+      "items": [
+        {
+          "title": "<strong>Poslovni izvještaji:</strong>",
+          "desc": "Spojite više odjeljaka izvještaja u jedan PDF."
+        },
+        {
+          "title": "<strong>Akademski projekti:</strong>",
+          "desc": "Studenti mogu kompajlirati istraživačke radove."
+        },
+        {
+          "title": "<strong>Pravni dokumenti:</strong>",
+          "desc": "Odvjetnici često spajaju ugovore i priloge."
+        },
+        {
+          "title": "<strong>Marketinški materijali:</strong>",
+          "desc": "Stvorite profesionalne brošure."
+        },
+        {
+          "title": "<strong>Osobna uporaba:</strong>",
+          "desc": "Spojite skenirane dokumente ili fotografije."
+        }
+      ]
+    },
+    "comparison": {
+      "title": "Usporedba gabungPDF.id s drugim alatima",
+      "intro": "Iako je gabungPDF.id odličan izbor za spajanje PDF-ova, drugi alati također nude sličnu funkcionalnost.",
+      "items": [
+        {
+          "title": "<strong>gabungPDF.id:</strong>",
+          "desc": "Besplatno, bez registracije, podržava više formata datoteka."
+        },
+        {
+          "title": "<strong>Adobe Acrobat:</strong>",
+          "desc": "Nudi besplatan online spajač, ali zahtijeva prijavu."
+        },
+        {
+          "title": "<strong>iLovePDF:</strong>",
+          "desc": "Robustan alat s dodatnim značajkama."
+        },
+        {
+          "title": "<strong>PDF2Go:</strong>",
+          "desc": "Podržava složene datoteke i veliki broj stranica."
+        }
+      ]
+    },
+    "tips": {
+      "title": "Savjeti za besprijekorno iskustvo spajanja PDF-a",
+      "items": [
+        {
+          "title": "<strong>Provjerite kompatibilnost datoteka:</strong>",
+          "desc": "Osigurajte da su sve datoteke u PDF ili podržanim formatima."
+        },
+        {
+          "title": "<strong>Pregledajte svoje datoteke:</strong>",
+          "desc": "Pregledajte redoslijed i sadržaj svojih datoteka prije spajanja."
+        },
+        {
+          "title": "<strong>Koristite sigurne platforme:</strong>",
+          "desc": "Odaberite alate koji daju prioritet privatnosti."
+        },
+        {
+          "title": "<strong>Testirajte izlaz:</strong>",
+          "desc": "Otvorite spojeni PDF da potvrdite raspored."
+        }
+      ]
+    },
+    "ConclusionH1": "Zaključak",
+    "conclusion": "Spajanje PDF datoteka jednostavan je, ali moćan način racionalizacije upravljanja dokumentima. Bez obzira jeste li profesionalac koji organizira izvještaje, student koji kompajlira istraživanja ili netko tko arhivira osobne dokumente, alati poput gabungPDF.id čine lako <strong>spajanje PDF datoteka</strong> online besplatno."
+  },
+  "combinePdf": {
+    "title": "Spajanje PDF datoteka",
+    "dragDrop": "Povucite PDF datoteke ovdje ili",
+    "clickBrowse": "kliknite za odabir",
+    "selectFiles": "Odaberite datoteke",
+    "maxSize": "Maksimalna veličina datoteke: 50 MB",
+    "combineButton": "Spoji PDF-ove",
+    "filesCount": "PDF-ovi",
+    "S1H1": "Spajanje PDF datoteka: Kako spojiti PDF datoteke - Savjet za besplatno spajanje PDF-ova",
+    "S1P1": "U današnjem digitalnom svijetu, PDF datoteke (Portable Document Format) postale su neizostavan alat za dijeljenje i pohranu dokumenata. Za razliku od DOC datoteka koje se stvaraju u Microsoft Wordu ili Google Docs-u, PDF-ovi zadržavaju svoj format na svim uređajima i operativnim sustavima. Ova univerzalna kompatibilnost čini ih idealnima za profesionalnu i osobnu upotrebu, bilo za dijeljenje izvještaja, prezentacija ili obrazaca na internetu.",
+    "S1P2": "Međutim, rad s PDF datotekama može ponekad biti izazovan, osobito kada morate spojiti više PDF datoteka u jedan povezani dokument. U ovom vodiču objasnit ćemo zašto je važno spajanje PDF datoteka, kako ih besplatno spojiti pomoću našeg jednostavnog alata i koje prednosti ima pojednostavljenje upravljanja dokumentima.",
+    "S2H1": "Zašto su PDF datoteke jedinstvene i svestrane",
+    "S2P1": "PDF datoteke dizajnirane su da zadrže točan izgled dokumenta bez obzira na uređaj ili softver koji se koristi za prikazivanje. Za razliku od DOC datoteka, koje ovise o postavkama sustava poput instaliranih fontova ili konfiguracije operativnog sustava, PDF-ovi djeluju poput statičnih slika. To jamči da fontovi, raspored i grafika ostaju dosljedni, čineći ih idealnima za profesionalne dokumente poput ugovora, životopisa ili e-knjiga.",
+    "S2P2": "Ova dosljednost razlog je zašto su PDF datoteke široko korištene za dijeljenje dokumenata putem interneta. Bilo da arhivirate poslovni izvještaj ili važne evidencije, PDF-ovi osiguravaju da primatelj vidi dokument točno onako kako je zamišljeno. Međutim, ova značajka otežava uređivanje ili spajanje PDF-ova u usporedbi s radom s DOC datotekama. Bez specijaliziranog softvera, zadaci poput dodavanja stranica ili spajanja više PDF datoteka mogu izgledati zastrašujuće. Na sreću, naš besplatni online alat pojednostavljuje ovaj postupak i omogućuje vam da lako spojite PDF-ove bez potrebe za dodatnim softverom.",
+    "combine_pdf_files": {
+      "intro": "Zašto spajati PDF datoteke?",
+      "para": "Spajanje PDF datoteka česta je potreba za profesionalce, studente i sve koji upravljaju s više dokumenata. Evo nekoliko scenarija kada je korisno spajanje PDF-ova:",
+      "items": [
+        {
+          "title": "Izrada opsežnih izvještaja:",
+          "desc": "Ako imate više PDF izvještaja ili poglavlja, njihovo spajanje u jedan dokument olakšava dijeljenje i pregled."
+        },
+        {
+          "title": "Arhiviranje skeniranih dokumenata:",
+          "desc": "Skenirani PDF-ovi, poput računa ili obrazaca, često se moraju spojiti u jedan dokument radi boljeg organiziranja."
+        },
+        {
+          "title": "Optimizacija prezentacija:",
+          "desc": "Spajanje slajdova ili dijelova iz različitih PDF-ova u jednu koherentnu prezentaciju poboljšava jasnoću i profesionalnost."
+        },
+        {
+          "title": "Jednostavnije dijeljenje datoteka:",
+          "desc": "Umjesto da šaljete više datoteka, spajanjem PDF-ova u jedan dokument smanjujete zabunu i osiguravate da su sve informacije sadržane u jednom, lako dostupnom dokumentu."
+        }
+      ],
+      "para2": "Za razliku od DOC datoteka, gdje možete jednostavno kopirati i zalijepiti sadržaj, PDF-ovi zahtijevaju specifične alate za njihovo spajanje ili uređivanje. Na primjer, kopiranje teksta iz skenirane PDF datoteke često je nemoguće bez softvera za optičko prepoznavanje znakova (OCR). Naš besplatni alat za spajanje PDF-ova uklanja ove prepreke i omogućuje vam da spojite do 20 PDF-ova odjednom bez potrebe za skupim softverom ili tehničkim znanjem."
+    },
+    "stepbystep": {
+      "intro": "Kako besplatno spojiti PDF datoteke: Upute korak po korak",
+      "para": "Naš jednostavan online alat čini spajanje PDF-ova brzim i učinkovitima. Bilo da spajate dvije ili do 20 datoteka, postupak je jednostavan i ne zahtijeva nikakvu instalaciju niti pretplatu. Slijedite ove korake kako biste besprijekorno spojili svoje PDF datoteke:",
+      "items": [
+        {
+          "title": "Korak 1: Prenesite svoje PDF datoteke",
+          "desc": "Za početak, kliknite na gumb 'PREUZMI DATOTEKE' u sučelju našeg alata. Odaberite željene PDF datoteke sa svog uređaja. Također možete povući i ispustiti svoje PDF datoteke u označeni prostor 'Povucite datoteke ovdje'. Ova funkcija je osobito korisna kada radite s više datoteka, jer štedi vrijeme i pojednostavljuje proces."
+        },
+        {
+          "title": "Korak 2: Organizirajte svoje PDF datoteke",
+          "desc": "Nakon što prenesete datoteke, naš alat će vam prikazati redoslijed datoteka. Redoslijed datoteka u ovom popisu određuje strukturu kombinirane PDF datoteke. Prva PDF datoteka na popisu bit će na vrhu konačnog dokumenta, a druga slijedi, i tako dalje. Da biste osigurali ispravan redoslijed, možete jednostavno povući i premjestiti datoteke unutar popisa."
+        },
+        {
+          "title": "Korak 3: Spojite i preuzmite",
+          "desc": "Kada ste zadovoljni redoslijedom, kliknite na gumb 'SPOJI'. Naš sustav odmah spaja sve prenesene PDF datoteke u jednu. Nakon završetka procesa, kombinirana PDF datoteka automatski će započeti preuzimanje na vaš uređaj. Cijeli proces je brz, siguran i ne zahtijeva dodatni softver."
+        }
+      ],
+      "intro2": "Spojite više PDF datoteka",
+      "para2": "Želite spojiti još PDF datoteka? Nema problema! Naš alat omogućuje spajanje datoteka u serijama. Nakon što preuzmete prvi skup spojenih PDF datoteka, preuzmite ovaj novi PDF zajedno sa svim ostalim datotekama koje želite dodati. Ponovite postupak klikom na 'SPOJI' kako biste stvorili još veći dokument. Ovaj proces možete ponoviti koliko god puta želite.",
+      "intro3": "Važna napomena: Preuzmite unutar jednog sata",
+      "para3": "Kako biste osigurali nesmetano iskustvo, preuzmite svoju kombiniranu PDF datoteku unutar jednog sata od njezine izrade. Ako to ne učinite, sustav će izbrisati datoteke i morat ćete ih ponovno prenijeti da biste započeli postupak iznova. Ova funkcionalnost pomaže u održavanju sigurnosti podataka i oslobađanju prostora na poslužitelju za druge korisnike."
+    },
+    "benefits": {
+      "intro": "Prednosti korištenja našeg besplatnog PDF spojitelja",
+      "para": "Naš alat razvijen je s naglaskom na jednostavnost, dostupnost i učinkovitost. Evo nekoliko razloga zašto je naš alat najbolji izbor za spajanje PDF datoteka:",
+      "items": [
+        {
+          "title": "Nema potrebe za instalacijom softvera:",
+          "desc": "Za razliku od tradicionalnih PDF urednika, naš alat je potpuno temeljen na internetu, što vam omogućuje pristup s bilo kojeg uređaja s internetskom vezom."
+        },
+        {
+          "title": "Besplatan i neograničen u upotrebi:",
+          "desc": "Spojite do 20 PDF datoteka odjednom besplatno, bez ikakvih troškova ili pretplata. Za veće projekte možete spojiti više serija datoteka, kao što je gore opisano."
+        },
+        {
+          "title": "Jednostavno sučelje:",
+          "desc": "Funkcionalnost povuci i ispusti te intuitivni dizajn čine naš alat jednostavnim za korištenje i za početnike i za profesionalce."
+        },
+        {
+          "title": "Brza obrada:",
+          "desc": "Naš alat spaja PDF datoteke u nekoliko sekundi, štedeći vam vrijeme i trud."
+        },
+        {
+          "title": "Sigurno i pouzdano:",
+          "desc": "Vaše datoteke obrađuju se sigurno i bit će izbrisane s naših poslužitelja nakon sat vremena, čime se čuva privatnost vaših podataka."
+        }
+      ]
+    },
+    "should_you": {
+      "intro": "Kada biste trebali spajati PDF datoteke?",
+      "para": "Spajanje PDF datoteka je korisna vještina u različitim situacijama. Evo nekoliko uobičajenih slučajeva kada je spajanje PDF-ova korisno:",
+      "items": [
+        {
+          "title": "Poslovni profesionalci:",
+          "desc": "Spojite račune, ugovore ili ponude u jedan dokument kako biste ih jednostavno dijelili s klijentima ili kolegama."
+        },
+        {
+          "title": "Studenti i nastavnici:",
+          "desc": "Spojite bilješke s predavanja, istraživačke radove ili zadatke u jedan dokument kako biste ih pojednostavili za prezentacije ili materijale za učenje."
+        },
+        {
+          "title": "Pravne i administrativne zadatke:",
+          "desc": "Organizirajte skenirane dokumente poput ugovora ili obrazaca u jednu PDF datoteku za arhiviranje ili pravne potrebe."
+        },
+        {
+          "title": "Kreativni projekti:",
+          "desc": "Spojite dizajnerske skice, portfelje ili storyboarde u jedan koherentan PDF za prezentacije ili povratne informacije od klijenata."
+        }
+      ]
+    },
+    "Tips": {
+      "intro": "Savjeti za rad s PDF datotekama",
+      "para": "Kako biste maksimalno iskoristili svoje iskustvo spajanja PDF-ova, imajte na umu sljedeće savjete:",
+      "items": [
+        {
+          "title": "Provjerite redoslijed datoteka:",
+          "desc": "Uvijek provjerite redoslijed svojih PDF datoteka prije nego ih spojite kako biste izbjegli kasniju reorganizaciju stranica."
+        },
+        {
+          "title": "Optimizirajte veličinu datoteka:",
+          "desc": "Ako vaše PDF datoteke sadrže velike slike ili grafike, razmislite o njihovoj kompresiji prije nego ih prenesete kako biste smanjili konačnu veličinu datoteke."
+        },
+        {
+          "title": "Koristite opisne nazive datoteka:",
+          "desc": "Nazovite svoje PDF datoteke jasnim, opisnim nazivima (npr. Izvještaj_Sektor1.pdf) kako biste ostali organizirani tijekom spajanja."
+        },
+        {
+          "title": "Izradite sigurnosne kopije originalnih datoteka:",
+          "desc": "Spremite kopije svojih originalnih PDF datoteka za slučaj da kasnije trebate napraviti promjene ili ih ponovo spojiti."
+        },
+        {
+          "title": "Istražite druge alate:",
+          "desc": "Ako trebate uređivati, pretvarati ili komprimirati PDF datoteke, isprobajte naše besplatne alate na platformi za potpuni upravljanje dokumentima."
+        }
+      ]
+    },
+    "why_choose": "Zašto odabrati naš alat umjesto plaćenih alternativa?",
+    "why_choose_para": "Dok plaćeni PDF urednici poput Adobe Acrobata nude napredne značajke, naš besplatni alat pruža pristupačno rješenje za većinu korisnika. Ne morate ulagati u skupi softver ili pretplatu za spajanje PDF datoteka. Gabung PDF.id dostupan je malim tvrtkama, studentima i svima koji trebaju profesionalne rezultate bez kompliciranja.",
+    "why_choose_para2": "Nadalje, naša platforma optimizirana je za brzinu i jednostavnost korištenja. Bilo da koristite stolno računalo, tablet ili pametan telefon, možete spajati PDF-ove u pokretu bez problema s kompatibilnošću. Ova fleksibilnost čini naš alat idealnim za korisnike koji traže brze, pouzdane rezultate bez strme krivulje učenja.",
+    "conclusion": "Zaključak",
+    "conclusion_para": "Spajanje PDF dokumenata ne mora biti komplicirano niti skupo. S našim besplatnim online PDF spajateljem možete spojiti do 20 PDF datoteka odjednom, lako ih reorganizirati i preuzeti jedan povezani dokument u nekoliko sekundi. Bilo da organizirate izvještaje, arhivirate skenirane dokumente ili pripremate prezentacije, naš alat pojednostavljuje cijeli postupak bez potrebe za dodatnim softverom ili tehničkim vještinama."
+  },
+  "blog": {
+    "title": "PDF savjeti, vodiči i upute",
+    "description": "Ovladajte upravljanjem PDF-om s stručnim vodičima, praktičnim savjetima i korak-po-korak vodičima.",
+    "searchPlaceholder": "Pretražite članke, vodiče i upute...",
+    "articles": "Članci",
+    "readers": "Čitatelji",
+    "available": "Dostupno",
+    "featuredArticle": "Istaknuti članak",
+    "mostPopular": "Najpopularnije ovaj tjedan",
+    "readArticle": "Pročitajte članak",
+    "readFull": "Pročitajte cijeli članak",
+    "minRead": "min čitanja"
+  },
+  "footer": {
+    "description": "Najlakši način spajanja više PDF datoteka u jedan dokument. Brzo, sigurno i potpuno besplatno za korištenje.",
+    "contact": "Kontaktirajte nas:",
+    "quickLinks": "Brze veze",
+    "privacyPolicy": "Pravila privatnosti",
+    "termsOfService": "Uvjeti korištenja",
+    "allRights": "Sva prava pridržana"
+  }
+}

@@ -1,0 +1,360 @@
+{
+  "nav": {
+    "home": "Home",
+    "combinePdf": "Pagsamahin ang PDF",
+    "blog": "Blog",
+    "selectLanguage": "Pumili ng Wika"
+  },
+  "home": {
+    "title": "Pagsamahin ang mga PDF file online - Libre, mabilis at secure",
+    "description": "Pagsamahin ang mga PDF nang madali gamit ang GabungPDF.id! Libreng, mabilis, secure na online tool para sa pagsasama ng mga PDF file sa loob ng ilang segundo. Walang registration na kailangan.",
+    "mergeNow": "Pagsamahin ang mga PDF ngayon",
+    "sec1Para": "Sa mabilis na digital na mundo ngayon, ang epektibong pamamahala ng mga dokumento ay mahalaga para sa personal at propesyonal na mga gawain. Isang karaniwang pangangailangan ay ang <strong>pagsasama ng mga PDF file</strong> sa isang pinag-isang dokumento.",
+    "SecH1": "Bakit pagsamahin ang mga PDF file?",
+    "SecH1P1": "Ang pagsasama ng maraming PDF file sa isang dokumento ay nag-aalok ng maraming benepisyo:",
+    "SecH1UlLi1": "<strong>Organisasyon at kahusayan:</strong> Ang pagpapadala ng isang pinagsama na PDF sa halip na maraming file ay nagpapasimple ng pagbabahagi at pagsusuri.",
+    "SecH1UlLi2": "<strong>Pagbabawas ng kaguluhan sa file:</strong> Ang pagsasama ng mga PDF ay binabawasan ang bilang ng mga file na kailangan mong pamahalaan.",
+    "SecH1UlLi3": "<strong>Propesyonal na presentasyon:</strong> Ang pinag-isang PDF ay mukhang pulido at propesyonal.",
+    "SecH1UlLi4": "<strong>Cross-platform compatibility:</strong> Ang mga PDF ay universal na compatible.",
+    "steps": {
+      "title": "Paano pagsamahin ang mga PDF file online nang libre",
+      "intro": "Ang paggamit ng online tool tulad ng gabungPDF.id ay ginagawang simple at accessible ang pagsasama ng mga PDF:",
+      "items": [
+        {
+          "title": "Hakbang 1: Bisitahin ang gabungPDF.id",
+          "desc": "Mag-navigate sa gabungPDF.id, isang libreng online tool na dinisenyo upang tulungan kayong <strong>pagsamahin ang mga PDF file</strong> sa loob ng ilang segundo."
+        },
+        {
+          "title": "Hakbang 2: I-upload ang inyong mga PDF file",
+          "desc": "I-click ang \"Upload Files\" button upang piliin ang mga PDF na gusto ninyong pagsamahin."
+        },
+        {
+          "title": "Hakbang 3: Ayusin ang mga file",
+          "desc": "Pagkatapos mag-upload, maaari ninyong i-drag at i-drop ang mga file upang ayusin sila sa gustong pagkakasunod-sunod."
+        },
+        {
+          "title": "Hakbang 4: Pagsamahin at i-download",
+          "desc": "Pagkatapos ayusin ang inyong mga file, i-click ang \"Combine\" button."
+        }
+      ]
+    },
+    "whyChoose": {
+      "title": "Bakit piliin ang gabungPDF.id?",
+      "points": [
+        {
+          "title": "<strong>Walang installation na kailangan:</strong>",
+          "desc": "Hindi tulad ng desktop software, ang gabungPDF.id ay gumagana nang buo online."
+        },
+        {
+          "title": "<strong>Libre at secure:</strong>",
+          "desc": "Ang tool ay libre gamitin, walang nakatagong bayad."
+        },
+        {
+          "title": "<strong>Cross-device compatibility:</strong>",
+          "desc": "Kahit gumagamit kayo ng Mac, Windows, iOS o Android."
+        },
+        {
+          "title": "<strong>Multilingual support:</strong>",
+          "desc": "Ang platform ay sumusuporta sa mga user sa buong mundo."
+        }
+      ]
+    },
+    "benefits": {
+      "title": "Mga benepisyo ng paggamit ng online PDF merger",
+      "items": [
+        {
+          "title": "<strong>Accessibility:</strong>",
+          "desc": "Maaari ninyong <strong>pagsamahin ang mga PDF file</strong> mula sa anumang device na may internet connection."
+        },
+        {
+          "title": "<strong>Bilis:</strong>",
+          "desc": "Ang proseso ng pagsasama ay tumatagal lang ng ilang segundo."
+        },
+        {
+          "title": "<strong>Walang gastos:</strong>",
+          "desc": "Maraming online tool ang lubos na libre."
+        },
+        {
+          "title": "<strong>User-friendly:</strong>",
+          "desc": "Walang technical skills na kailangan."
+        }
+      ]
+    },
+    "seoTips": {
+      "title": "I-optimize ang inyong merged PDF para sa SEO",
+      "intro": "Kung gumagawa kayo ng mga PDF para sa propesyonal o marketing na layunin, ang pag-optimize sa kanila para sa mga search engine ay maaaring magpataas ng kanilang visibility.",
+      "items": [
+        {
+          "title": "1. Gumamit ng descriptive file names",
+          "desc": "Bago i-upload ang inyong PDF, i-rename ang mga file gamit ang descriptive, keyword-rich na mga pangalan."
+        },
+        {
+          "title": "2. Magdagdag ng metadata",
+          "desc": "Isama ang metadata tulad ng title, author, at keywords sa inyong PDF."
+        },
+        {
+          "title": "3. I-optimize ang text content",
+          "desc": "Siguraduhin na ang inyong PDF ay naglalaman ng searchable text sa halip na scanned images."
+        },
+        {
+          "title": "4. Isama ang internal links",
+          "desc": "Kung ang inyong PDF ay bahagi ng website, isama ang mga link sa relevant pages."
+        },
+        {
+          "title": "5. Gumamit ng headings at structure",
+          "desc": "I-organize ang inyong PDF gamit ang malinaw na headings at logical structure."
+        },
+        {
+          "title": "6. I-compress para sa mas mabilis na loading",
+          "desc": "Ang malalaking PDF ay maaaring magpabagal ng loading times."
+        },
+        {
+          "title": "7. Magdagdag ng alt text sa mga larawan",
+          "desc": "Kung ang inyong PDF ay may mga larawan, magdagdag ng alt text descriptions."
+        },
+        {
+          "title": "8. I-host ang mga PDF sa inyong website",
+          "desc": "I-upload ang inyong merged PDF sa inyong website."
+        },
+        {
+          "title": "9. I-track ang PDF views",
+          "desc": "Gumamit ng mga tool tulad ng Google Analytics upang i-track ang user interaction."
+        },
+        {
+          "title": "10. I-promote ang inyong PDF",
+          "desc": "I-share ang inyong PDF sa social media at newsletters."
+        }
+      ]
+    },
+    "useCases": {
+      "title": "Mga karaniwang use case para sa pagsasama ng mga PDF",
+      "items": [
+        {
+          "title": "<strong>Business reports:</strong>",
+          "desc": "Pagsamahin ang maraming section ng report sa isang PDF."
+        },
+        {
+          "title": "<strong>Academic projects:</strong>",
+          "desc": "Maaaring mag-compile ang mga estudyante ng research papers."
+        },
+        {
+          "title": "<strong>Legal documents:</strong>",
+          "desc": "Madalas na pinagsasama ng mga abogado ang mga kontrata at attachments."
+        },
+        {
+          "title": "<strong>Marketing materials:</strong>",
+          "desc": "Gumawa ng mga propesyonal na brochure."
+        },
+        {
+          "title": "<strong>Personal use:</strong>",
+          "desc": "Pagsamahin ang mga scanned documents o larawan."
+        }
+      ]
+    },
+    "comparison": {
+      "title": "Paghahambing ng gabungPDF.id sa ibang mga tool",
+      "intro": "Bagaman ang gabungPDF.id ay isang mahusay na pagpipilian para sa pagsasama ng mga PDF, ang ibang mga tool ay nag-aalok din ng katulad na functionality.",
+      "items": [
+        {
+          "title": "<strong>gabungPDF.id:</strong>",
+          "desc": "Libre, walang registration, sumusuporta sa maraming file format."
+        },
+        {
+          "title": "<strong>Adobe Acrobat:</strong>",
+          "desc": "Nag-aalok ng libreng online merger pero nangangailangan ng sign in."
+        },
+        {
+          "title": "<strong>iLovePDF:</strong>",
+          "desc": "Malakas na tool na may mga karagdagang feature."
+        },
+        {
+          "title": "<strong>PDF2Go:</strong>",
+          "desc": "Sumusuporta sa mga complex file at malaking page count."
+        }
+      ]
+    },
+    "tips": {
+      "title": "Mga tip para sa seamless na PDF merging experience",
+      "items": [
+        {
+          "title": "<strong>I-check ang file compatibility:</strong>",
+          "desc": "Siguraduhin na lahat ng file ay nasa PDF o supported formats."
+        },
+        {
+          "title": "<strong>I-preview ang inyong mga file:</strong>",
+          "desc": "I-review ang order at content ng inyong mga file bago mag-merge."
+        },
+        {
+          "title": "<strong>Gumamit ng secure platforms:</strong>",
+          "desc": "Piliin ang mga tool na nag-prioritize sa privacy."
+        },
+        {
+          "title": "<strong>I-test ang output:</strong>",
+          "desc": "Buksan ang merged PDF upang i-confirm ang layout."
+        }
+      ]
+    },
+    "ConclusionH1": "Konklusyon",
+    "conclusion": "Ang pagsasama ng mga PDF file ay isang simpleng ngunit malakas na paraan upang ma-streamline ang inyong document management. Kahit kayo ay isang propesyonal na nag-oorganisa ng mga report, estudyante na nag-compile ng research, o isang taong nag-aarchive ng personal documents, ang mga tool tulad ng gabungPDF.id ay ginagawang madali ang <strong>pagsasama ng mga PDF file</strong> online nang libre."
+  },
+  "combinePdf": {
+    "title": "Pagsamahin ang mga PDF file",
+    "dragDrop": "I-drag at i-drop ang mga PDF file dito",
+    "clickBrowse": "o i-click upang pumili",
+    "selectFiles": "Pumili ng mga file",
+    "maxSize": "Pinakamataas na laki ng bawat file: 50 MB",
+    "combineButton": "Pagsamahin ang PDF",
+    "filesCount": "PDF",
+    "S1H1": "Pagsasama ng PDF: Paano pagsamahin ang mga PDF file – Libreng mga tip",
+    "S1P1": "Sa makabagong digital na mundo, ang mga PDF file (Portable Document Format) ay naging mahalaga para sa pagpapalitan at pagtatago ng mga dokumento. Hindi tulad ng tradisyunal na mga DOC file mula sa Microsoft Word o Google Docs, pinapanatili ng PDF ang kanilang disenyo sa kahit anong device at operating system, kaya't perpekto ito para sa propesyonal at personal na gamit — maging ito man ay mga ulat, presentasyon, o mga form.",
+    "S1P2": "Gayunpaman, maaaring maging komplikado ang pagtatrabaho sa PDF, lalo na kapag kailangang pagsamahin ang maraming file. Sa gabay na ito, ipapakita namin kung bakit mahalaga ang pagsasama ng PDF, paano ito gawin nang libre gamit ang aming madaling gamitin na tool, at paano gawing mas madali ang iyong proseso sa pamamahala ng dokumento magpakailanman.",
+    "S2H1": "Bakit natatangi at unibersal ang mga PDF file",
+    "S2P1": "Ang mga PDF file ay ginawa upang tumpak na mapanatili ang disenyo ng dokumento kahit saang device o software ito buksan. Hindi tulad ng mga DOC file na umaasa sa mga setting ng system tulad ng font o operating system, ang PDF ay may nakapirming format. Tinitiyak nito ang hindi pagbago ng font, layout, at graphics, kaya't ang PDF ay mainam para sa mga propesyonal na dokumento gaya ng kontrata, resume, o mga e-book.",
+    "S2P2": "Ang katatagan na ito ang dahilan kung bakit popular ang PDF para sa pagpapalitan ng mga dokumento sa internet. Kapag nagpapadala ng mga business proposal o nag-aarchive ng mahahalagang datos, tiniyak ng PDF na ipapakita ang dokumento nang eksakto gaya ng pagkakagawa nito. Gayunpaman, ito rin ang dahilan kung bakit mahirap i-edit o pagsamahin ang PDF nang walang espesyal na software. Mabuti na lang, pinadadali ng aming libreng online tool ang gawain, na nagpapahintulot na pagsamahin ang PDF nang madali at walang kailangang software na mamahalin.",
+    "combine_pdf_files": {
+      "intro": "Bakit kailangang pagsamahin ang mga PDF file?",
+      "para": "Ang pagsasama ng PDF ay isang karaniwang pangangailangan para sa mga propesyonal, estudyante, at lahat ng may maraming dokumento. Narito ang mga halimbawa kung kailan ito kapaki-pakinabang:",
+      "items": [
+        {
+          "title": "Pagbuo ng malalaking ulat:",
+          "desc": "Mayroon ka bang ilang ulat o kabanata sa hiwalay na mga PDF file? Pagsamahin ang mga ito sa isang dokumento para sa madaling pagbabahagi at pagbasa."
+        },
+        {
+          "title": "Pag-aarchive ng mga na-scan na dokumento:",
+          "desc": "Ang mga na-scan na dokumento tulad ng mga resibo o form ay kadalasang kailangang pagsamahin sa isang file para sa kaginhawahan."
+        },
+        {
+          "title": "Pagpapadali ng mga presentasyon:",
+          "desc": "Ang pagsasama ng mga slide o seksyon mula sa iba't ibang PDF ay nagpapabuti sa presentasyon at ginagawang mas propesyonal ito."
+        },
+        {
+          "title": "Ginhawa sa pagbabahagi:",
+          "desc": "Sa halip na magpadala ng maraming file, isang pinagsamang PDF file lang ang kailangan para maipadala ang lahat ng impormasyon."
+        }
+      ],
+      "para2": "Hindi tulad ng mga DOC file, mahirap kopyahin at i-paste sa PDF — madalas hindi maaaring kopyahin ang teksto mula sa na-scan na dokumento nang walang OCR. Pinapalaya ka ng aming libreng tool mula sa mga problemang ito: maaari kang magsama ng hanggang 20 file nang sabay-sabay — walang bayad na software o espesyal na kaalaman."
+    },
+    "stepbystep": {
+      "intro": "Paano pagsamahin ang mga PDF file – hakbang-hakbang na gabay",
+      "para": "Ginagawa ng aming madaling online tool ang pagsasama ng PDF na mabilis at epektibo. Magsama ng dalawa o dalawampu’t file: madali lang, walang kailangang i-install o irehistro. Sundin ang mga hakbang na ito:",
+      "items": [
+        {
+          "title": "Hakbang 1: Mag-upload ng mga PDF file",
+          "desc": "Hanapin ang button na \"Mag-upload ng mga file\" sa aming platform. I-click ito at piliin ang mga file mula sa iyong device o gamitin ang drag-and-drop function — maginhawa kapag nagtatrabaho sa maraming dokumento."
+        },
+        {
+          "title": "Hakbang 2: Ayusin ang pagkakasunod-sunod ng mga file",
+          "desc": "Pagkatapos ma-upload, ipapakita ang mga file ayon sa pagkakasunod-sunod ng pagsasama. Ang unang file ay nasa itaas, kasunod ang iba pa. Maaari mong i-drag ang mga ito upang baguhin ang pagkakasunod-sunod."
+        },
+        {
+          "title": "Hakbang 3: Pagsamahin at i-download",
+          "desc": "Kapag handa na, i-click ang \"Pagsamahin ang PDF\". Iipunin ng sistema ang mga file at awtomatikong magsisimula ang pag-download ng panghuling dokumento. Mabilis, ligtas, at walang kinakailangang third-party software."
+        }
+      ],
+      "intro2": "Gusto mo pa bang pagsamahin ang iba pang mga file?",
+      "para2": "Walang problema! Sinusuportahan ng aming tool ang batch processing. Pagkatapos pagsamahin ang unang grupo, i-download ang resulta at i-upload ito kasama ang iba pang mga PDF file. Ulitin ito hanggang sa pagsamahin mo ang lahat ng kailangang dokumento.",
+      "intro3": "Mahalaga: I-download ang file sa loob ng 1 oras",
+      "para3": "Para sa iyong kaligtasan, ang pinagsamang file ay magagamit lamang sa loob ng isang oras. Pagkatapos nito, ito ay tatanggalin mula sa server. Nakakatulong ito upang maprotektahan ang iyong data at magbigay ng espasyo para sa ibang mga gumagamit."
+    },
+    "benefits": {
+      "intro": "Mga benepisyo ng aming libreng tool sa pagsasama ng PDF",
+      "para": "Ang aming serbisyo ay ginawa upang maging simple, accessible, at epektibo. Narito kung bakit ito ang pinakamahusay na pagpipilian:",
+      "items": [
+        {
+          "title": "Walang installation:",
+          "desc": "Hindi tulad ng mga tradisyunal na PDF editor, ang aming serbisyo ay ganap na online — gumagana sa anumang device na may internet."
+        },
+        {
+          "title": "Libre at walang limitasyon:",
+          "desc": "Magsama ng hanggang 20 PDF file nang sabay-sabay — libre, walang subscription."
+        },
+        {
+          "title": "Madaling gamitin na interface:",
+          "desc": "Ang drag-and-drop feature at compact na disenyo ay nagpapadali ng trabaho para sa lahat ng user."
+        },
+        {
+          "title": "Mabilis na proseso:",
+          "desc": "Ang pagsasama ay tumatagal lamang ng ilang segundo, nakakatipid ng oras mo."
+        },
+        {
+          "title": "Seguridad:",
+          "desc": "Ang iyong mga file ay ligtas na pinoproseso at tinatanggal pagkatapos ng isang oras — pinoprotektahan ang iyong privacy."
+        }
+      ]
+    },
+    "should_you": {
+      "intro": "Kailan dapat pagsamahin ang mga PDF file?",
+      "para": "Kapaki-pakinabang ang pagsasama ng PDF sa iba't ibang sitwasyon. Narito ang mga halimbawa:",
+      "items": [
+        {
+          "title": "Para sa mga propesyonal:",
+          "desc": "Pagsamahin ang mga invoice, kontrata, at mga proposal sa isang PDF para madali itong ipadala sa mga kliyente o katrabaho."
+        },
+        {
+          "title": "Para sa mga estudyante at guro:",
+          "desc": "Pagsamahin ang mga tala, research paper, o artikulo sa isang file para sa kaginhawahan sa pag-aaral o pagsusumite."
+        },
+        {
+          "title": "Para sa legal at administratibong dokumento:",
+          "desc": "Pagsamahin ang mga na-scan na form o kontrata sa isang PDF para sa archival o legal na paggamit."
+        },
+        {
+          "title": "Para sa mga malikhaing proyekto:",
+          "desc": "Pagsamahin ang mga sketch, portfolio, o storyboard sa isang dokumento para sa presentasyon o pagsusuri."
+        }
+      ]
+    },
+    "Tips": {
+      "intro": "Mga tip sa pagtatrabaho sa PDF",
+      "para": "Para makuha ang pinakamahusay na resulta kapag nagsasama ng PDF, isaalang-alang ang mga sumusunod na rekomendasyon:",
+      "items": [
+        {
+          "title": "Suriin ang pagkakasunod-sunod ng mga file:",
+          "desc": "Siguraduhing nakaayos ang mga file ayon sa tamang pagkakasunod-sunod upang maiwasan ang kalituhan."
+        },
+        {
+          "title": "I-optimize ang laki:",
+          "desc": "Kung ang PDF ay may malalaking larawan o graphics, i-compress muna ang mga ito para mabawasan ang kabuuang laki."
+        },
+        {
+          "title": "Gumamit ng malinaw na mga pangalan:",
+          "desc": "Palitan ang pangalan ng mga file (halimbawa: Ulat_Kabanata1.pdf) para madaling makilala."
+        },
+        {
+          "title": "Gumawa ng backup ng orihinal:",
+          "desc": "Itago ang mga kopya ng orihinal na PDF sakaling kailanganin mong baguhin o pagsamahin muli."
+        },
+        {
+          "title": "Subukan ang ibang mga tool:",
+          "desc": "Kung kailangan ng pag-edit, conversion, o compression ng PDF, subukan din ang iba pang libreng serbisyo sa aming platform."
+        }
+      ]
+    },
+    "why_choose": "Bakit piliin ang aming tool kaysa sa mga bayad na?",
+    "why_choose_para": "Ang mga bayad na PDF editor tulad ng Adobe Acrobat ay may advanced na features. Gayunpaman, ang aming libreng serbisyo ay sapat na para sa karamihan ng mga user. Walang bayad o subscription, madali kang makakapagsama ng mga dokumento. Ang Gabung PDF.id ay bukas para sa lahat — mula sa maliliit na negosyo hanggang sa mga estudyante — na nagbibigay ng propesyonal na resulta nang walang kahirap-hirap.",
+    "why_choose_para2": "Ang aming platform ay optimized para sa bilis at kaginhawaan. Kahit anong device man ang gamit mo—computer, tablet, o smartphone—maaari kang magsama ng PDF kahit saan nang walang problema sa compatibility. Ginagawa nitong ideal ang aming tool para sa mga taong nagpapahalaga sa bilis at pagiging maaasahan nang walang kailangang matutunan.",
+    "conclusion": "Konklusyon",
+    "conclusion_para": "Ang pagsasama ng mga PDF file ay hindi kailangang maging mahirap o magastos. Sa aming libreng online tool, maaari kang magsama ng hanggang 20 file nang sabay-sabay, madaling ayusin ang pagkakasunod-sunod, at i-download ang kumpletong PDF sa loob ng ilang segundo. Kahit nagpe-prepare ka man ng mga ulat, nag-aarchive ng mga na-scan na dokumento, o gumagawa ng presentasyon, pinapadali ng aming serbisyo ang proseso nang walang kailangang i-install o espesyal na kaalaman."
+  },
+  "blog": {
+    "title": "Mga PDF tip, tutorial at gabay",
+    "description": "Maging dalubhasa sa PDF management gamit ang mga expert guide, practical tips, at step-by-step tutorials.",
+    "searchPlaceholder": "Maghanap ng mga artikulo, tutorial, at gabay...",
+    "articles": "Mga Artikulo",
+    "readers": "Mga Mambabasa",
+    "available": "Available",
+    "featuredArticle": "Featured na Artikulo",
+    "mostPopular": "Pinakasikat ngayong linggo",
+    "readArticle": "Basahin ang Artikulo",
+    "readFull": "Basahin ang Buong Artikulo",
+    "minRead": "min na pagbabasa"
+  },
+  "footer": {
+    "description": "Ang pinakamadaling paraan upang pagsamahin ang maraming PDF file sa isang dokumento. Mabilis, secure, at lubos na libre gamitin.",
+    "contact": "Makipag-ugnayan sa amin:",
+    "quickLinks": "Mabibilis na Link",
+    "privacyPolicy": "Privacy Policy",
+    "termsOfService": "Terms of Service",
+    "allRights": "Lahat ng karapatan ay nakalaan"
+  }
+}

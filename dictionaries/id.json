@@ -1,0 +1,361 @@
+{
+  "nav": {
+    "home": "Beranda",
+    "combinePdf": "Gabung PDF",
+    "blog": "Blog",
+    "selectLanguage": "Pilih Bahasa"
+  },
+  "home": {
+    "title": "Gabung File PDF Online - Gratis, Cepat dan Aman",
+    "description": "Gabung PDF dengan mudah menggunakan GabungPDF.id! Tool online gratis, cepat, dan aman untuk menggabungkan file PDF dalam hitungan detik. Tidak perlu registrasi.",
+    "mergeNow": "Gabung PDF Sekarang",
+    "sec1Para": "Di dunia digital yang serba cepat saat ini, mengelola dokumen secara efisien sangat penting untuk tugas pribadi dan profesional. Salah satu kebutuhan umum adalah <strong>menggabungkan file PDF</strong> menjadi satu dokumen yang disederhanakan.",
+    "SecH1": "Mengapa Gabung File PDF?",
+    "SecH1P1": "Menggabungkan beberapa file PDF menjadi satu dokumen menawarkan banyak keuntungan. Berikut mengapa Anda harus mempertimbangkan menggunakan tool penggabung PDF:",
+    "SecH1UlLi1": "<strong>Organisasi dan Efisiensi:</strong> Daripada mengirim beberapa file, satu PDF yang digabung menyederhanakan berbagi dan meninjau.",
+    "SecH1UlLi2": "<strong>Mengurangi Kekacauan File:</strong> Menggabungkan PDF mengurangi jumlah file yang perlu Anda kelola.",
+    "SecH1UlLi3": "<strong>Presentasi Profesional:</strong> PDF yang terpadu terlihat rapi dan profesional.",
+    "SecH1UlLi4": "<strong>Kompatibilitas Lintas Platform:</strong> PDF kompatibel secara universal.",
+    "SecH1EndPara": "Dengan tool seperti <strong>gabungPDF.id</strong>, Anda dapat gabung PDF dengan cepat, tanpa perlu menginstal software atau mendaftar akun.",
+    "steps": {
+      "title": "Cara Gabung File PDF Online Gratis",
+      "intro": "Menggunakan tool online seperti gabungPDF.id membuat penggabungan PDF menjadi mudah dan dapat diakses.",
+      "items": [
+        {
+          "title": "Langkah 1: Kunjungi gabungPDF.id",
+          "desc": "Navigasi ke gabungPDF.id, tool online gratis yang dirancang untuk membantu Anda <strong>gabung file PDF</strong> dalam hitungan detik."
+        },
+        {
+          "title": "Langkah 2: Upload File PDF Anda",
+          "desc": "Klik tombol \"Upload File\" untuk memilih PDF yang ingin Anda gabungkan."
+        },
+        {
+          "title": "Langkah 3: Atur File",
+          "desc": "Setelah diupload, Anda dapat drag dan drop file untuk mengaturnya sesuai urutan yang diinginkan."
+        },
+        {
+          "title": "Langkah 4: Gabung dan Download",
+          "desc": "Setelah mengatur file Anda, klik tombol \"Gabung\". Tool akan <strong>gabung file PDF</strong> menjadi satu dokumen."
+        }
+      ]
+    },
+    "whyChoose": {
+      "title": "Mengapa Pilih gabungPDF.id?",
+      "points": [
+        {
+          "title": "<strong>Tidak Perlu Instalasi:</strong>",
+          "desc": "Tidak seperti software desktop, gabungPDF.id bekerja sepenuhnya online."
+        },
+        {
+          "title": "<strong>Gratis dan Aman:</strong>",
+          "desc": "Tool ini gratis digunakan, tanpa biaya tersembunyi."
+        },
+        {
+          "title": "<strong>Kompatibilitas Lintas Perangkat:</strong>",
+          "desc": "Baik Anda menggunakan Mac, Windows, iOS atau Android."
+        },
+        {
+          "title": "<strong>Dukungan Multibahasa:</strong>",
+          "desc": "Platform mendukung pengguna di seluruh dunia."
+        }
+      ]
+    },
+    "benefits": {
+      "title": "Manfaat Menggunakan Penggabung PDF Online",
+      "items": [
+        {
+          "title": "<strong>Aksesibilitas:</strong>",
+          "desc": "Anda dapat <strong>gabung file PDF</strong> dari perangkat apa pun dengan koneksi internet."
+        },
+        {
+          "title": "<strong>Kecepatan:</strong>",
+          "desc": "Proses penggabungan memakan waktu detik, bahkan untuk file besar."
+        },
+        {
+          "title": "<strong>Tanpa Biaya:</strong>",
+          "desc": "Banyak tool online yang benar-benar gratis."
+        },
+        {
+          "title": "<strong>Mudah Digunakan:</strong>",
+          "desc": "Tidak diperlukan keterampilan teknis."
+        }
+      ]
+    },
+    "seoTips": {
+      "title": "Mengoptimalkan PDF Gabungan Anda untuk SEO",
+      "intro": "Jika Anda membuat PDF untuk tujuan profesional atau pemasaran, mengoptimalkannya untuk mesin pencari dapat meningkatkan visibilitasnya.",
+      "items": [
+        {
+          "title": "1. Gunakan Nama File Deskriptif",
+          "desc": "Sebelum mengupload PDF Anda ke gabungPDF.id, ubah nama file Anda dengan nama deskriptif yang kaya kata kunci."
+        },
+        {
+          "title": "2. Tambahkan Metadata",
+          "desc": "Sertakan metadata seperti judul, penulis, dan kata kunci dalam PDF Anda."
+        },
+        {
+          "title": "3. Optimalkan Konten Teks",
+          "desc": "Pastikan PDF Anda berisi teks yang dapat dicari daripada gambar yang dipindai."
+        },
+        {
+          "title": "4. Sertakan Link Internal",
+          "desc": "Jika PDF Anda adalah bagian dari website, sertakan link ke halaman yang relevan."
+        },
+        {
+          "title": "5. Gunakan Heading dan Struktur",
+          "desc": "Organisir PDF Anda dengan heading yang jelas dan struktur yang logis."
+        },
+        {
+          "title": "6. Kompres untuk Loading Lebih Cepat",
+          "desc": "PDF besar dapat memperlambat waktu loading."
+        },
+        {
+          "title": "7. Tambahkan Alt Text ke Gambar",
+          "desc": "Jika PDF Anda menyertakan gambar, tambahkan deskripsi alt text."
+        },
+        {
+          "title": "8. Host PDF di Website Anda",
+          "desc": "Upload PDF gabungan Anda ke website dan buat landing page khusus."
+        },
+        {
+          "title": "9. Lacak Tampilan PDF",
+          "desc": "Gunakan tool seperti Google Analytics untuk melacak bagaimana pengguna berinteraksi dengan PDF Anda."
+        },
+        {
+          "title": "10. Promosikan PDF Anda",
+          "desc": "Bagikan PDF Anda di media sosial, newsletter email, dan komunitas online yang relevan."
+        }
+      ]
+    },
+    "useCases": {
+      "title": "Kasus Penggunaan Umum untuk Gabung PDF",
+      "items": [
+        {
+          "title": "<strong>Laporan Bisnis:</strong>",
+          "desc": "Gabungkan beberapa bagian laporan menjadi satu PDF untuk berbagi dengan mudah."
+        },
+        {
+          "title": "<strong>Proyek Akademik:</strong>",
+          "desc": "Mahasiswa dapat gabung makalah penelitian, catatan, dan referensi."
+        },
+        {
+          "title": "<strong>Dokumen Hukum:</strong>",
+          "desc": "Pengacara sering gabung kontrak, perjanjian, dan bukti."
+        },
+        {
+          "title": "<strong>Materi Pemasaran:</strong>",
+          "desc": "Buat brosur profesional dengan menggabungkan gambar dan file teks."
+        },
+        {
+          "title": "<strong>Penggunaan Pribadi:</strong>",
+          "desc": "Gabung dokumen yang dipindai, kwitansi, atau foto."
+        }
+      ]
+    },
+    "comparison": {
+      "title": "Membandingkan gabungPDF.id dengan Tool Lain",
+      "intro": "Meskipun gabungPDF.id adalah pilihan utama untuk gabung PDF, tool lain juga menawarkan fungsionalitas serupa.",
+      "items": [
+        {
+          "title": "<strong>gabungPDF.id:</strong>",
+          "desc": "Gratis, tanpa registrasi, mendukung berbagai format file."
+        },
+        {
+          "title": "<strong>Adobe Acrobat:</strong>",
+          "desc": "Menawarkan penggabung online gratis tapi memerlukan login untuk fitur lanjutan."
+        },
+        {
+          "title": "<strong>iLovePDF:</strong>",
+          "desc": "Tool yang kuat dengan fitur tambahan seperti kompresi dan konversi."
+        },
+        {
+          "title": "<strong>PDF2Go:</strong>",
+          "desc": "Mendukung file kompleks dan jumlah halaman besar."
+        }
+      ]
+    },
+    "tips": {
+      "title": "Tips untuk Pengalaman Gabung PDF yang Lancar",
+      "items": [
+        {
+          "title": "<strong>Periksa Kompatibilitas File:</strong>",
+          "desc": "Pastikan semua file dalam format PDF atau format yang didukung."
+        },
+        {
+          "title": "<strong>Preview File Anda:</strong>",
+          "desc": "Tinjau urutan dan konten file Anda sebelum gabung."
+        },
+        {
+          "title": "<strong>Gunakan Platform Aman:</strong>",
+          "desc": "Pilih tool seperti gabungPDF.id yang mengutamakan privasi."
+        },
+        {
+          "title": "<strong>Test Output:</strong>",
+          "desc": "Buka PDF gabungan untuk memastikan layout dan konten sudah benar."
+        }
+      ]
+    },
+    "ConclusionH1": "Kesimpulan",
+    "conclusion": "Gabung file PDF adalah cara sederhana namun powerful untuk menyederhanakan manajemen dokumen Anda. Baik Anda seorang profesional yang mengorganisir laporan, mahasiswa yang mengompilasi penelitian, atau seseorang yang mengarsipkan dokumen pribadi, tool seperti gabungPDF.id memudahkan untuk <strong>gabung file PDF</strong> online gratis. Mulai gunakan gabungPDF.id hari ini untuk <strong>gabung file PDF</strong> dengan mudah dan ambil kontrol dokumen digital Anda!"
+  },
+  "combinePdf": {
+    "title": "Menggabungkan PDF",
+    "dragDrop": "Seret dan Jatuhkan PDF di sini atau",
+    "clickBrowse": "klik untuk memilih",
+    "selectFiles": "Pilih file",
+    "maxSize": "Ukuran file maksimum: 50 MB",
+    "combineButton": "Gabungkan PDF",
+    "filesCount": "PDF",
+    "S1H1": "Menggabungkan PDF: Cara Menggabungkan PDF - Panduan Menggabungkan PDF secara Gratis",
+    "S1P1": "Dalam dunia digital saat ini, file PDF (Portable Document Format) telah menjadi alat yang tak tergantikan untuk berbagi dan menyimpan dokumen. Berbeda dengan file DOC yang dibuat di Microsoft Word atau Google Docs, PDF mempertahankan format yang sama di semua perangkat dan sistem operasi. Kompatibilitas universal ini menjadikannya ideal untuk penggunaan profesional dan pribadi, baik untuk berbagi laporan, presentasi, atau formulir melalui internet.",
+    "S1P2": "Namun, bekerja dengan file PDF terkadang bisa menjadi tantangan, terutama ketika Anda perlu menggabungkan beberapa file PDF menjadi satu dokumen yang terhubung. Dalam panduan ini, kami akan menjelaskan mengapa penggabungan file PDF penting, bagaimana cara menggabungkannya secara gratis dengan alat sederhana kami, dan manfaat apa yang dapat Anda dapatkan dengan menyederhanakan pengelolaan dokumen.",
+    "S2H1": "Mengapa File PDF Itu Unik dan Serbaguna",
+    "S2P1": "File PDF dirancang untuk mempertahankan tampilan yang tepat dari dokumen apa pun, terlepas dari perangkat atau perangkat lunak yang digunakan untuk melihatnya. Berbeda dengan file DOC, yang bergantung pada pengaturan sistem seperti font yang terinstal atau konfigurasi sistem operasi, file PDF berfungsi seperti gambar statis. Ini memastikan bahwa font, tata letak, dan grafik tetap konsisten, menjadikannya ideal untuk dokumen profesional seperti kontrak, CV, atau e-book.",
+    "S2P2": "Konsistensi ini adalah alasan mengapa file PDF sangat banyak digunakan untuk berbagi dokumen secara online. Baik Anda mengarsipkan laporan bisnis atau catatan penting, file PDF memastikan penerima melihat dokumen dengan cara yang sama seperti yang dimaksudkan. Namun, fitur ini juga menjadikan pengeditan atau penggabungan file PDF lebih rumit dibandingkan dengan bekerja dengan file DOC. Tanpa perangkat lunak khusus, tugas seperti menambahkan halaman atau menggabungkan beberapa file PDF dapat tampak menakutkan. Untungnya, alat online gratis kami menyederhanakan proses ini dan memungkinkan Anda menggabungkan PDF tanpa perangkat lunak tambahan.",
+    "combine_pdf_files": {
+      "intro": "Mengapa Menggabungkan File PDF?",
+      "para": "Menggabungkan file PDF adalah kebutuhan umum bagi profesional, pelajar, dan siapa saja yang mengelola banyak dokumen. Berikut beberapa skenario di mana penggabungan PDF sangat berguna:",
+      "items": [
+        {
+          "title": "Menyusun Laporan Besar",
+          "desc": "Jika Anda memiliki beberapa laporan atau bab PDF, menggabungkannya menjadi satu dokumen memudahkan berbagi dan meninjau."
+        },
+        {
+          "title": "Mengarsipkan Dokumen yang Dipindai",
+          "desc": "File PDF yang dipindai, seperti tagihan atau formulir, sering kali perlu digabungkan menjadi satu file untuk pengarsipan yang lebih mudah."
+        },
+        {
+          "title": "Mengoptimalkan Presentasi",
+          "desc": "Menggabungkan slide atau bagian dari berbagai file PDF ke dalam satu presentasi yang koheren meningkatkan kejelasan dan profesionalisme."
+        },
+        {
+          "title": "Berbagi File Lebih Mudah",
+          "desc": "Alih-alih mengirimkan banyak file, dengan menggabungkan PDF menjadi satu dokumen, Anda mengurangi kebingungannya dan memastikan bahwa semua informasi ada dalam satu file yang mudah diakses."
+        }
+      ],
+      "para2": "Berbeda dengan file DOC, di mana Anda dapat dengan mudah menyalin dan menempelkan isi, file PDF membutuhkan alat khusus untuk menggabungkannya atau mengeditnya. Misalnya, menyalin teks dari file PDF yang dipindai sering kali tidak memungkinkan tanpa perangkat lunak pengenalan karakter optik (OCR). Alat penggabungan PDF gratis kami menghilangkan hambatan ini dan memungkinkan Anda menggabungkan hingga 20 file PDF sekaligus tanpa perlu perangkat lunak mahal atau pengetahuan teknis."
+    },
+    "stepbystep": {
+      "intro": "Cara Menggabungkan PDF Secara Gratis: Langkah demi Langkah",
+      "para": "Alat online sederhana kami membuat penggabungan file PDF cepat dan efisien. Baik Anda menggabungkan dua atau hingga 20 file, prosesnya mudah dan tidak memerlukan instalasi atau langganan. Ikuti langkah-langkah berikut untuk menggabungkan file PDF Anda tanpa hambatan:",
+      "items": [
+        {
+          "title": "Langkah 1: Unggah File PDF Anda",
+          "desc": "Pertama, klik tombol 'PILIH FILE' di antarmuka alat kami. Pilih file PDF yang diinginkan dari perangkat Anda. Anda juga dapat menyeret dan melepaskan file PDF ke area yang ditandai 'Seret file di sini'. Fitur ini sangat berguna saat bekerja dengan beberapa file, karena menghemat waktu dan menyederhanakan proses."
+        },
+        {
+          "title": "Langkah 2: Atur File PDF Anda",
+          "desc": "Setelah mengunggah file, alat kami akan menampilkan urutan file. Urutan file dalam daftar ini akan menentukan struktur file PDF gabungan. File PDF pertama dalam daftar akan muncul di bagian atas dokumen akhir, yang kedua mengikuti, dan seterusnya. Untuk memastikan urutan yang benar, Anda dapat dengan mudah menyeret dan melepaskan file dalam daftar."
+        },
+        {
+          "title": "Langkah 3: Gabungkan dan Unduh",
+          "desc": "Ketika Anda sudah puas dengan urutannya, klik tombol 'GABUNG'. Sistem kami akan segera menggabungkan semua file PDF yang diunggah menjadi satu. Setelah proses selesai, file PDF gabungan akan mulai diunduh ke perangkat Anda secara otomatis. Seluruh proses cepat, aman, dan tidak memerlukan perangkat lunak tambahan."
+        }
+      ],
+      "intro2": "Gabungkan Lebih Banyak File PDF",
+      "para2": "Ingin menggabungkan lebih banyak file PDF? Tidak masalah! Alat kami memungkinkan Anda untuk menggabungkan file dalam beberapa batch. Setelah mengunduh set pertama dari file PDF yang digabungkan, unduh file PDF baru ini bersama file-file lainnya yang ingin Anda tambahkan. Ulangi proses ini dengan mengklik 'GABUNG' untuk membuat dokumen yang lebih besar. Proses ini dapat diulang sebanyak yang Anda inginkan.",
+      "intro3": "Catatan Penting: Unduh dalam Satu Jam",
+      "para3": "Untuk pengalaman yang lancar, pastikan untuk mengunduh file PDF gabungan Anda dalam satu jam setelah dibuat. Jika tidak, sistem akan menghapus file dan Anda perlu mengunggahnya lagi untuk memulai proses dari awal. Fungsionalitas ini membantu menjaga keamanan data dan membebaskan ruang di server untuk pengguna lain."
+    },
+    "benefits": {
+      "intro": "Manfaat Menggunakan Alat Penggabung PDF Gratis Kami",
+      "para": "Alat kami dirancang dengan fokus pada kemudahan penggunaan, aksesibilitas, dan efisiensi. Berikut beberapa alasan mengapa alat kami adalah pilihan terbaik untuk menggabungkan file PDF:",
+      "items": [
+        {
+          "title": "Tidak Perlu Instalasi Perangkat Lunak",
+          "desc": "Berbeda dengan editor PDF tradisional, alat kami sepenuhnya berbasis web, yang memungkinkan Anda mengaksesnya dari perangkat apa pun dengan koneksi internet."
+        },
+        {
+          "title": "Gratis dan Tidak Terbatas dalam Penggunaan",
+          "desc": "Gabungkan hingga 20 file PDF sekaligus secara gratis, tanpa biaya atau langganan. Untuk proyek yang lebih besar, Anda dapat menggabungkan beberapa batch file, seperti yang dijelaskan di atas."
+        },
+        {
+          "title": "Antarmuka Sederhana",
+          "desc": "Fungsionalitas seret dan lepas serta desain intuitif membuat alat kami mudah digunakan oleh pemula maupun profesional."
+        },
+        {
+          "title": "Proses Cepat",
+          "desc": "Alat kami menggabungkan file PDF dalam hitungan detik, menghemat waktu dan tenaga Anda."
+        },
+        {
+          "title": "Aman dan Terpercaya",
+          "desc": "File Anda diproses dengan aman dan akan dihapus dari server kami setelah satu jam, menjaga privasi data Anda."
+        }
+      ]
+    },
+    "should_you": {
+      "intro": "Kapan Anda Harus Menggabungkan File PDF?",
+      "para": "Menggabungkan file PDF adalah keterampilan yang berguna dalam berbagai situasi. Berikut beberapa kasus umum ketika penggabungan PDF sangat berguna:",
+      "items": [
+        {
+          "title": "Profesional Bisnis",
+          "desc": "Gabungkan faktur, kontrak, atau proposal menjadi satu dokumen untuk dibagikan dengan klien atau rekan kerja."
+        },
+        {
+          "title": "Pelajar dan Pengajar",
+          "desc": "Gabungkan catatan kuliah, tugas riset, atau pekerjaan rumah menjadi satu file untuk presentasi atau materi pembelajaran."
+        },
+        {
+          "title": "Tugas Hukum dan Administrasi",
+          "desc": "Susun dokumen yang dipindai seperti kontrak atau formulir ke dalam satu file PDF untuk arsip atau kebutuhan hukum."
+        },
+        {
+          "title": "Proyek Kreatif",
+          "desc": "Gabungkan sketsa desain, portofolio, atau storyboard ke dalam satu PDF koheren untuk presentasi atau umpan balik dari klien."
+        }
+      ]
+    },
+    "Tips": {
+      "intro": "Tips untuk Bekerja dengan File PDF",
+      "para": "Untuk memaksimalkan pengalaman menggabungkan PDF Anda, ingatlah beberapa tips berikut:",
+      "items": [
+        {
+          "title": "Periksa Urutan File",
+          "desc": "Selalu periksa urutan file PDF Anda sebelum menggabungkannya untuk menghindari reorganisasi halaman nanti."
+        },
+        {
+          "title": "Optimalkan Ukuran File",
+          "desc": "Jika file PDF Anda berisi gambar besar atau grafik, pertimbangkan untuk mengompresinya sebelum mengunggahnya untuk mengurangi ukuran file akhir."
+        },
+        {
+          "title": "Gunakan Nama File Deskriptif",
+          "desc": "Beri nama file PDF Anda dengan nama yang jelas dan deskriptif (misalnya Laporan_Sektor1.pdf) agar tetap terorganisir saat menggabungkan."
+        },
+        {
+          "title": "Buat Cadangan File Asli",
+          "desc": "Simpan salinan file PDF asli Anda jika Anda perlu membuat perubahan atau menggabungkannya lagi nanti."
+        },
+        {
+          "title": "Eksplorasi Alat Lainnya",
+          "desc": "Jika Anda perlu mengedit, mengonversi, atau mengompres file PDF, coba alat gratis kami di platform untuk pengelolaan dokumen lengkap."
+        }
+      ]
+    },
+    "why_choose": "Mengapa Memilih Alat Kami daripada Alternatif Berbayar?",
+    "why_choose_para": "Sementara editor PDF berbayar seperti Adobe Acrobat menawarkan fitur canggih, alat gratis kami memberikan solusi yang terjangkau bagi kebanyakan pengguna. Anda tidak perlu berinvestasi dalam perangkat lunak mahal atau langganan hanya untuk menggabungkan file PDF. Gabung PDF.id tersedia untuk usaha kecil, pelajar, dan siapa saja yang membutuhkan hasil profesional tanpa kerumitan.",
+    "why_choose_para2": "Lebih lanjut, platform kami dioptimalkan untuk kecepatan dan kemudahan penggunaan. Apakah Anda menggunakan desktop, tablet, atau ponsel pintar, Anda dapat menggabungkan PDF saat dalam perjalanan tanpa masalah kompatibilitas. Fleksibilitas ini membuat alat kami ideal bagi pengguna yang mencari hasil cepat dan andal tanpa kurva pembelajaran yang curam.",
+    "conclusion": "Kesimpulan",
+    "conclusion_para": "Menggabungkan dokumen PDF tidak perlu rumit atau mahal. Dengan alat penggabung PDF online gratis kami, Anda dapat menggabungkan hingga 20 file PDF sekaligus, menyusunnya dengan mudah, dan mengunduh satu dokumen terhubung dalam hitungan detik. Apakah Anda mengorganisir laporan, mengarsipkan dokumen yang dipindai, atau menyiapkan presentasi, alat kami menyederhanakan seluruh proses tanpa memerlukan perangkat lunak tambahan atau keterampilan teknis."
+  },
+  "blog": {
+    "title": "Tips, Tutorial & Panduan PDF",
+    "description": "Kuasai manajemen PDF dengan panduan ahli, tips praktis, dan tutorial langkah demi langkah.",
+    "searchPlaceholder": "Cari artikel, tutorial, dan panduan...",
+    "articles": "Artikel",
+    "readers": "Pembaca",
+    "available": "Tersedia",
+    "featuredArticle": "Artikel Unggulan",
+    "mostPopular": "Paling Populer Minggu Ini",
+    "readArticle": "Baca Artikel",
+    "readFull": "Baca Artikel Lengkap",
+    "minRead": "menit baca"
+  },
+  "footer": {
+    "description": "Cara termudah untuk gabung beberapa file PDF menjadi satu dokumen. Cepat, aman, dan benar-benar gratis digunakan.",
+    "contact": "Hubungi kami:",
+    "quickLinks": "Link Cepat",
+    "privacyPolicy": "Kebijakan Privasi",
+    "termsOfService": "Syarat Layanan",
+    "allRights": "Semua hak dilindungi"
+  }
+}

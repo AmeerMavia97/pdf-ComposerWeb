@@ -1,0 +1,360 @@
+{
+  "nav": {
+    "home": "Laman Utama",
+    "combinePdf": "Gabung PDF",
+    "blog": "Blog",
+    "selectLanguage": "Pilih Bahasa"
+  },
+  "home": {
+    "title": "Gabungkan fail PDF dalam talian - Percuma, pantas dan selamat",
+    "description": "Gabungkan PDF dengan mudah menggunakan GabungPDF.id! Alat dalam talian percuma, pantas, selamat untuk menggabungkan fail PDF dalam beberapa saat. Tiada pendaftaran diperlukan.",
+    "mergeNow": "Gabung PDF Sekarang",
+    "sec1Para": "Dalam dunia digital yang pantas hari ini, menguruskan dokumen dengan cekap adalah penting untuk kedua-dua tugas peribadi dan profesional. Satu keperluan biasa ialah <strong>menggabungkan fail PDF</strong> menjadi satu dokumen yang diperkemas.",
+    "SecH1": "Mengapa gabungkan fail PDF?",
+    "SecH1P1": "Menggabungkan beberapa fail PDF menjadi satu dokumen menawarkan banyak kelebihan:",
+    "SecH1UlLi1": "<strong>Organisasi dan kecekapan:</strong> Menghantar satu PDF gabungan dan bukannya beberapa fail memudahkan perkongsian dan semakan.",
+    "SecH1UlLi2": "<strong>Mengurangkan kekacauan fail:</strong> Menggabungkan PDF mengurangkan bilangan fail yang perlu anda uruskan.",
+    "SecH1UlLi3": "<strong>Persembahan profesional:</strong> PDF bersatu kelihatan kemas dan profesional.",
+    "SecH1UlLi4": "<strong>Keserasian merentas platform:</strong> PDF serasi secara universal.",
+    "steps": {
+      "title": "Cara menggabungkan fail PDF dalam talian secara percuma",
+      "intro": "Menggunakan alat dalam talian seperti gabungPDF.id menjadikan penggabungan PDF mudah dan boleh diakses:",
+      "items": [
+        {
+          "title": "Langkah 1: Lawati gabungPDF.id",
+          "desc": "Navigasi ke gabungPDF.id, alat dalam talian percuma yang direka untuk membantu anda <strong>menggabungkan fail PDF</strong> dalam beberapa saat."
+        },
+        {
+          "title": "Langkah 2: Muat naik fail PDF anda",
+          "desc": "Klik butang \"Muat Naik Fail\" untuk memilih PDF yang ingin anda gabungkan."
+        },
+        {
+          "title": "Langkah 3: Susun fail",
+          "desc": "Selepas muat naik, anda boleh seret dan lepas fail untuk menyusunnya dalam susunan yang dikehendaki."
+        },
+        {
+          "title": "Langkah 4: Gabung dan muat turun",
+          "desc": "Selepas menyusun fail anda, klik butang \"Gabung\"."
+        }
+      ]
+    },
+    "whyChoose": {
+      "title": "Mengapa pilih gabungPDF.id?",
+      "points": [
+        {
+          "title": "<strong>Tiada pemasangan diperlukan:</strong>",
+          "desc": "Tidak seperti perisian desktop, gabungPDF.id berfungsi sepenuhnya dalam talian."
+        },
+        {
+          "title": "<strong>Percuma dan selamat:</strong>",
+          "desc": "Alat ini percuma untuk digunakan, tanpa bayaran tersembunyi."
+        },
+        {
+          "title": "<strong>Keserasian merentas peranti:</strong>",
+          "desc": "Sama ada anda menggunakan Mac, Windows, iOS atau Android."
+        },
+        {
+          "title": "<strong>Sokongan pelbagai bahasa:</strong>",
+          "desc": "Platform menyokong pengguna di seluruh dunia."
+        }
+      ]
+    },
+    "benefits": {
+      "title": "Faedah menggunakan penggabung PDF dalam talian",
+      "items": [
+        {
+          "title": "<strong>Kebolehcapaian:</strong>",
+          "desc": "Anda boleh <strong>menggabungkan fail PDF</strong> dari mana-mana peranti dengan sambungan internet."
+        },
+        {
+          "title": "<strong>Kelajuan:</strong>",
+          "desc": "Proses penggabungan hanya mengambil masa beberapa saat."
+        },
+        {
+          "title": "<strong>Tiada kos:</strong>",
+          "desc": "Banyak alat dalam talian adalah percuma sepenuhnya."
+        },
+        {
+          "title": "<strong>Mesra pengguna:</strong>",
+          "desc": "Tiada kemahiran teknikal diperlukan."
+        }
+      ]
+    },
+    "seoTips": {
+      "title": "Optimumkan PDF gabungan anda untuk SEO",
+      "intro": "Jika anda mencipta PDF untuk tujuan profesional atau pemasaran, mengoptimumkannya untuk enjin carian boleh meningkatkan keterlihatan mereka.",
+      "items": [
+        {
+          "title": "1. Gunakan nama fail deskriptif",
+          "desc": "Sebelum memuat naik PDF anda, namakan semula fail dengan nama deskriptif yang kaya dengan kata kunci."
+        },
+        {
+          "title": "2. Tambah metadata",
+          "desc": "Sertakan metadata seperti tajuk, pengarang dan kata kunci dalam PDF anda."
+        },
+        {
+          "title": "3. Optimumkan kandungan teks",
+          "desc": "Pastikan PDF anda mengandungi teks yang boleh dicari dan bukannya imej yang diimbas."
+        },
+        {
+          "title": "4. Sertakan pautan dalaman",
+          "desc": "Jika PDF anda adalah sebahagian daripada laman web, sertakan pautan ke halaman yang berkaitan."
+        },
+        {
+          "title": "5. Gunakan tajuk dan struktur",
+          "desc": "Susun PDF anda dengan tajuk yang jelas dan struktur yang logik."
+        },
+        {
+          "title": "6. Mampat untuk pemuatan lebih pantas",
+          "desc": "PDF besar boleh memperlahankan masa pemuatan."
+        },
+        {
+          "title": "7. Tambah teks alternatif pada imej",
+          "desc": "Jika PDF anda termasuk imej, tambah penerangan teks alternatif."
+        },
+        {
+          "title": "8. Host PDF di laman web anda",
+          "desc": "Muat naik PDF gabungan anda ke laman web anda."
+        },
+        {
+          "title": "9. Jejaki tontonan PDF",
+          "desc": "Gunakan alat seperti Google Analytics untuk menjejaki interaksi pengguna."
+        },
+        {
+          "title": "10. Promosikan PDF anda",
+          "desc": "Kongsi PDF anda di media sosial dan surat berita."
+        }
+      ]
+    },
+    "useCases": {
+      "title": "Kes penggunaan biasa untuk menggabungkan PDF",
+      "items": [
+        {
+          "title": "<strong>Laporan perniagaan:</strong>",
+          "desc": "Gabungkan beberapa bahagian laporan menjadi satu PDF."
+        },
+        {
+          "title": "<strong>Projek akademik:</strong>",
+          "desc": "Pelajar boleh menyusun kertas penyelidikan."
+        },
+        {
+          "title": "<strong>Dokumen undang-undang:</strong>",
+          "desc": "Peguam sering menggabungkan kontrak dan lampiran."
+        },
+        {
+          "title": "<strong>Bahan pemasaran:</strong>",
+          "desc": "Cipta brosur profesional."
+        },
+        {
+          "title": "<strong>Penggunaan peribadi:</strong>",
+          "desc": "Gabungkan dokumen yang diimbas atau foto."
+        }
+      ]
+    },
+    "comparison": {
+      "title": "Membandingkan gabungPDF.id dengan alat lain",
+      "intro": "Walaupun gabungPDF.id adalah pilihan terbaik untuk menggabungkan PDF, alat lain juga menawarkan fungsi yang serupa.",
+      "items": [
+        {
+          "title": "<strong>gabungPDF.id:</strong>",
+          "desc": "Percuma, tiada pendaftaran, menyokong pelbagai format fail."
+        },
+        {
+          "title": "<strong>Adobe Acrobat:</strong>",
+          "desc": "Menawarkan penggabung dalam talian percuma tetapi memerlukan log masuk."
+        },
+        {
+          "title": "<strong>iLovePDF:</strong>",
+          "desc": "Alat yang kukuh dengan ciri tambahan."
+        },
+        {
+          "title": "<strong>PDF2Go:</strong>",
+          "desc": "Menyokong fail kompleks dan bilangan halaman yang besar."
+        }
+      ]
+    },
+    "tips": {
+      "title": "Petua untuk pengalaman penggabungan PDF yang lancar",
+      "items": [
+        {
+          "title": "<strong>Semak keserasian fail:</strong>",
+          "desc": "Pastikan semua fail dalam PDF atau format yang disokong."
+        },
+        {
+          "title": "<strong>Pratonton fail anda:</strong>",
+          "desc": "Semak susunan dan kandungan fail anda sebelum menggabungkan."
+        },
+        {
+          "title": "<strong>Gunakan platform selamat:</strong>",
+          "desc": "Pilih alat yang mengutamakan privasi."
+        },
+        {
+          "title": "<strong>Uji output:</strong>",
+          "desc": "Buka PDF gabungan untuk mengesahkan susun atur."
+        }
+      ]
+    },
+    "ConclusionH1": "Kesimpulan",
+    "conclusion": "Menggabungkan fail PDF adalah cara yang mudah tetapi berkuasa untuk memperkemas pengurusan dokumen anda. Sama ada anda seorang profesional yang mengatur laporan, pelajar yang menyusun penyelidikan, atau seseorang yang mengarkib dokumen peribadi, alat seperti gabungPDF.id menjadikan <strong>menggabungkan fail PDF</strong> dalam talian secara percuma mudah."
+  },
+  "combinePdf": {
+    "title": "Gabungkan Fail PDF",
+    "dragDrop": "Seret dan lepaskan fail PDF di sini",
+    "clickBrowse": "atau klik untuk menyemak imbas",
+    "selectFiles": "Pilih Fail",
+    "maxSize": "Maksimum 50MB setiap fail",
+    "combineButton": "Gabungkan PDF",
+    "filesCount": "PDF",
+    "S1H1": "Gabung PDF: Cara untuk Gabungkan Fail PDF - Tip untuk Menggabungkan PDF Secara Percuma",
+    "S1P1": "Dalam dunia digital masa kini, PDF (Portable Document Format) telah menjadi asas untuk berkongsi dan menyimpan dokumen. Tidak seperti fail DOC yang dibuat dalam Microsoft Word atau Google Docs, PDF mengekalkan format yang konsisten di semua peranti dan sistem pengendalian. Keserasian sejagat ini menjadikannya ideal untuk kegunaan profesional dan peribadi, sama ada untuk berkongsi laporan, pembentangan, atau borang dalam talian.",
+    "S1P2": "Walau bagaimanapun, bekerja dengan PDF kadang-kadang boleh mencabar, terutamanya apabila anda perlu menggabungkan beberapa fail PDF menjadi satu dokumen yang kohesif. Dalam panduan ini, kami akan menerangkan mengapa menggabungkan PDF adalah penting, cara untuk menggabungkan PDF secara percuma menggunakan alat yang mudah digunakan, dan manfaat menyelaraskan proses pengurusan dokumen anda.",
+    "S2H1": "Mengapa PDF Unik dan Serba Boleh Digunakan",
+    "S2P1": "PDF direka untuk mengekalkan penampilan dokumen yang tepat, tidak kira peranti atau perisian yang digunakan untuk melihatnya. Berbeza dengan fail DOC yang bergantung pada tetapan spesifik sistem seperti fon yang dipasang atau konfigurasi sistem pengendalian, PDF berfungsi seperti imej statik. Ini memastikan bahawa fon, susun atur, dan grafik tetap konsisten, menjadikannya sempurna untuk dokumen profesional seperti kontrak, resume, atau e-buku.",
+    "S2P2": "Konsistensi inilah yang menjadikan PDF sangat popular untuk berkongsi dokumen di internet. Sama ada anda menghantar cadangan perniagaan atau mengarkibkan rekod penting, PDF memastikan penerima melihat dokumen seperti yang dimaksudkan. Namun, ciri ini menjadikan pengeditan atau penggabungan PDF lebih kompleks berbanding dengan fail DOC. Tanpa perisian khusus, tugas seperti menambah halaman atau menggabungkan beberapa PDF boleh kelihatan mencabar. Mujurlah, alat percuma dalam talian kami mempermudah proses ini, membolehkan anda menggabungkan PDF dengan mudah tanpa perisian tambahan.",
+    "combine_pdf_files": {
+      "intro": "Mengapa Menggabungkan Fail PDF?",
+      "para": "Menggabungkan fail PDF adalah keperluan biasa bagi profesional, pelajar, dan sesiapa yang menguruskan banyak dokumen. Berikut adalah beberapa senario di mana menggabungkan PDF sangat berguna:",
+      "items": [
+        {
+          "title": "Mewujudkan Laporan Komprehensif:",
+          "desc": "Jika anda mempunyai beberapa laporan atau bab PDF, menggabungkannya ke dalam satu dokumen memudahkan untuk dikongsi dan disemak."
+        },
+        {
+          "title": "Mengarkibkan Dokumen Imbasan:",
+          "desc": "PDF imbasan seperti resit atau borang sering perlu digabungkan dalam satu fail untuk lebih mudah diurus."
+        },
+        {
+          "title": "Menyelaraskan Pembentangan:",
+          "desc": "Menggabungkan slaid atau bahagian dari PDF yang berlainan menjadi satu pembentangan yang lebih jelas dan profesional."
+        },
+        {
+          "title": "Menyederhanakan Perkongsian Fail:",
+          "desc": "Daripada menghantar beberapa fail, menggabungkan PDF dalam satu fail mengurangkan kekeliruan dan memastikan semua maklumat berada dalam satu dokumen yang mudah diakses."
+        }
+      ],
+      "para2": "Berbeza dengan fail DOC, di mana anda boleh menyalin dan menampal kandungan, PDF memerlukan alat tertentu untuk digabungkan atau diedit. Sebagai contoh, menyalin teks dari PDF imbasan sering kali mustahil tanpa perisian pengecaman aksara optik (OCR). Penyatu PDF percuma kami menghapuskan cabaran ini, membolehkan anda menggabungkan sehingga 20 PDF sekaligus tanpa memerlukan perisian mahal atau kepakaran teknikal."
+    },
+    "stepbystep": {
+      "intro": "Cara Menggabungkan Fail PDF Secara Percuma: Panduan Langkah Demi Langkah",
+      "para": "Alat dalam talian kami yang mesra pengguna menjadikan penggabungan PDF pantas dan cekap. Sama ada anda menggabungkan dua fail atau sehingga 20 fail, prosesnya adalah mudah dan tidak memerlukan pemasangan atau langganan. Ikuti langkah-langkah berikut untuk menggabungkan PDF anda dengan lancar:",
+      "items": [
+        {
+          "title": "Langkah 1: Muat Naik Fail PDF Anda",
+          "desc": "Untuk memulakan, cari butang 'Muat Naik Fail' pada antara muka alat kami. Klik untuk memilih bilangan fail PDF dari peranti anda. Sebagai alternatif, anda boleh seret dan lepas PDF anda ke dalam kawasan yang dilabel 'Seret Fail Anda Ke Sini' untuk kemudahan tambahan. Ciri ini sangat berguna apabila bekerja dengan banyak fail kerana ia menjimatkan masa dan menyederhanakan proses."
+        },
+        {
+          "title": "Langkah 2: Susun Fail PDF Anda",
+          "desc": "Setelah fail anda dimuat naik, alat kami akan memaparkannya dalam urutan. Urutan fail dalam senarai ini akan menentukan struktur fail PDF akhir anda. PDF pertama dalam senarai akan muncul di bahagian atas dokumen yang digabungkan, yang kedua akan mengikuti, dan seterusnya. Untuk memastikan urutan yang betul, anda boleh dengan mudah menyeret dan melepaskan fail dalam senarai untuk menyusun semula mereka mengikut keperluan."
+        },
+        {
+          "title": "Langkah 3: Gabungkan dan Muat Turun",
+          "desc": "Apabila anda berpuas hati dengan susunan tersebut, klik butang GABUNG. Sistem kami akan segera menggabungkan semua PDF yang dimuat naik ke dalam satu fail. Setelah proses selesai, PDF yang digabungkan akan mula dimuat turun ke peranti anda secara automatik. Proses keseluruhan adalah pantas, selamat, dan tidak memerlukan sebarang perisian tambahan."
+        }
+      ],
+      "intro2": "Menggabungkan Lebih Banyak PDF",
+      "para2": "Perlukan untuk menggabungkan lebih banyak PDF? Tiada masalah! Alat kami membolehkan anda menggabungkan fail tambahan dalam kumpulan. Setelah menggabungkan set pertama PDF anda, muat turun fail yang digabungkan tersebut. Kemudian, muat naik PDF yang baru digabungkan ini bersama mana-mana PDF tambahan yang ingin anda sertakan. Ulangi proses tersebut dengan mengklik GABUNG sekali lagi untuk mencipta dokumen yang lebih besar. Anda boleh mengulanginya sebanyak mana yang diperlukan untuk memasukkan semua fail anda.",
+      "intro3": "Nota Penting: Muat Turun Dalam Satu Jam",
+      "para3": "Untuk memastikan pengalaman yang lancar, muat turun PDF yang digabungkan dalam masa satu jam selepas penggabungan. Jika tidak, sistem akan menghapuskan fail tersebut dan anda perlu memuat naiknya semula untuk memulakan semula. Ciri ini membantu mengekalkan keselamatan dan membebaskan ruang pelayan untuk pengguna lain."
+    },
+    "benefits": {
+      "intro": "Manfaat Menggunakan Penyatu PDF Percuma Kami",
+      "para": "Alat kami direka dengan mengambil kira kesederhanaan, kebolehcapaian, dan kecekapan. Berikut adalah sebab mengapa ia adalah pilihan terbaik untuk menggabungkan PDF:",
+      "items": [
+        {
+          "title": "Tiada Pemasangan Perisian Diperlukan:",
+          "desc": "Berbeza dengan penyunting PDF tradisional, alat kami sepenuhnya berasaskan web, jadi anda boleh mengaksesnya dari mana-mana peranti yang mempunyai sambungan internet."
+        },
+        {
+          "title": "Percuma dan Penggunaan Tidak Terhad:",
+          "desc": "Gabungkan sehingga 20 PDF dalam satu masa tanpa sebarang kos atau langganan. Untuk projek yang lebih besar, anda boleh menggabungkan beberapa kumpulan seperti yang diterangkan di atas."
+        },
+        {
+          "title": "Antara Muka Mesra Pengguna:",
+          "desc": "Fungsi seret dan lepas serta reka bentuk intuitif memudahkan untuk pemula dan profesional."
+        },
+        {
+          "title": "Pemprosesan Pantas:",
+          "desc": "Alat kami menggabungkan PDF dalam beberapa saat, menjimatkan masa dan usaha."
+        },
+        {
+          "title": "Selamat dan Boleh Dipercayai:",
+          "desc": "Fail anda diproses dengan selamat dan dipadamkan dari pelayan kami selepas satu jam, memastikan data anda kekal peribadi."
+        }
+      ]
+    },
+    "should_you": {
+      "intro": "Bila Anda Patut Menggabungkan PDF?",
+      "para": "Menggabungkan PDF adalah kemahiran yang berguna dalam pelbagai situasi. Berikut adalah beberapa kes penggunaan yang biasa:",
+      "items": [
+        {
+          "title": "Profesional Perniagaan:",
+          "desc": "Gabungkan invois, kontrak, atau cadangan ke dalam satu dokumen untuk dikongsi dengan mudah bersama klien atau rakan sekerja."
+        },
+        {
+          "title": "Pelajar dan Pendidik:",
+          "desc": "Gabungkan nota kuliah, kertas penyelidikan, atau tugasan ke dalam satu fail untuk penghantaran yang lebih mudah atau bahan pembelajaran."
+        },
+        {
+          "title": "Tugas Perundangan dan Pentadbiran:",
+          "desc": "Susun dokumen yang diimbas seperti kontrak atau borang ke dalam satu PDF untuk pengarkiban atau tujuan undang-undang."
+        },
+        {
+          "title": "Projek Kreatif:",
+          "desc": "Gabungkan draf reka bentuk, portfolio, atau papan cerita ke dalam satu PDF yang kohesif untuk pembentangan atau semakan klien."
+        }
+      ]
+    },
+    "Tips": {
+      "intro": "Tips untuk Bekerja dengan PDF",
+      "para": "Untuk memanfaatkan sepenuhnya pengalaman penggabungan PDF anda, pertimbangkan tips tambahan berikut:",
+      "items": [
+        {
+          "title": "Semak Urutan Fail:",
+          "desc": "Sentiasa semak urutan PDF anda sebelum menggabungkan untuk mengelakkan penyusunan semula halaman kemudian."
+        },
+        {
+          "title": "Optimumkan Saiz Fail:",
+          "desc": "Jika PDF anda mengandungi imej atau grafik besar, pertimbangkan untuk memampatkannya sebelum memuat naik untuk mengurangkan saiz fail akhir."
+        },
+        {
+          "title": "Gunakan Nama Fail Deskriptif:",
+          "desc": "Namakan semula PDF anda dengan nama yang jelas dan deskriptif (contohnya: Laporan_Bab1.pdf) untuk kekal teratur semasa proses penggabungan."
+        },
+        {
+          "title": "Buat Salinan Sandaran Fail Asal:",
+          "desc": "Simpan salinan PDF asal anda sekiranya anda perlu membuat perubahan atau menggabungkan semula nanti."
+        },
+        {
+          "title": "Terokai Alat Tambahan:",
+          "desc": "Jika anda perlu mengedit, menukar, atau memampatkan PDF, semak alat percuma lain di platform kami untuk penyelesaian pengurusan dokumen yang lengkap."
+        }
+      ]
+    },
+    "why_choose": "Mengapa Pilih Alat Kami Berbanding Alternatif Berbayar?",
+    "why_choose_para": "Walaupun penyunting PDF berbayar seperti Adobe Acrobat menawarkan ciri-ciri lanjutan, alat percuma kami memberikan penyelesaian yang kos efektif untuk kebanyakan pengguna. Anda tidak perlu melabur dalam perisian mahal atau langganan untuk menggabungkan PDF. Gabung PDF.id boleh diakses oleh semua orang, dari pemilik perniagaan kecil hingga pelajar, dan memberikan hasil profesional tanpa kerumitan.",
+    "why_choose_para2": "Selain itu, platform kami dioptimumkan untuk kelajuan dan kemudahan. Sama ada anda bekerja di desktop, tablet, atau telefon pintar, anda boleh menggabungkan PDF di mana-mana sahaja tanpa masalah keserasian. Fleksibiliti ini menjadikan alat kami ideal untuk pengguna yang memerlukan hasil yang cepat dan boleh dipercayai tanpa kurva pembelajaran yang tinggi.",
+    "conclusion": "Kesimpulan",
+    "conclusion_para": "Menggabungkan dokumen PDF tidak perlu rumit atau mahal. Dengan alat gabungan PDF berasaskan web percuma kami, anda boleh menggabungkan sehingga 20 PDF pada satu masa, menyusun semula dengan mudah, dan memuat turun fail yang konsisten dalam beberapa saat. Sama ada anda menguruskan laporan, mengarkibkan dokumen imbasan, atau menyediakan pembentangan, alat kami menyelaraskan proses tanpa memerlukan perisian tambahan atau kepakaran teknikal."
+  },
+  "blog": {
+    "title": "Petua, tutorial dan panduan PDF",
+    "description": "Kuasai pengurusan PDF dengan panduan pakar, petua praktikal dan tutorial langkah demi langkah.",
+    "searchPlaceholder": "Cari artikel, tutorial dan panduan...",
+    "articles": "Artikel",
+    "readers": "Pembaca",
+    "available": "Tersedia",
+    "featuredArticle": "Artikel Pilihan",
+    "mostPopular": "Paling popular minggu ini",
+    "readArticle": "Baca Artikel",
+    "readFull": "Baca Artikel Penuh",
+    "minRead": "min baca"
+  },
+  "footer": {
+    "description": "Cara termudah untuk menggabungkan beberapa fail PDF menjadi satu dokumen. Pantas, selamat dan percuma sepenuhnya untuk digunakan.",
+    "contact": "Hubungi kami:",
+    "quickLinks": "Pautan Pantas",
+    "privacyPolicy": "Dasar Privasi",
+    "termsOfService": "Terma Perkhidmatan",
+    "allRights": "Semua hak terpelihara"
+  }
+}
