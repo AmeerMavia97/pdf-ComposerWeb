@@ -2,7 +2,7 @@
 import React, { useState, useRef, useEffect } from "react";
 import { PDFDocument } from "pdf-lib"; // Make sure pdf-lib is installed
 
-const CombinePdfForm = () => {
+const CombinePdfForm = ({dict}) => {
   const [files, setFiles] = useState([]);
   const [processedFiles, setProcessedFiles] = useState([]);
   const [isProcessing, setIsProcessing] = useState(false);
@@ -298,31 +298,21 @@ const CombinePdfForm = () => {
 
   return (
     <>
-      <div
+      <section
         id="merge-tool"
         className="px-4 pt-8 mx-auto max-w-4xl sm:px-6 lg:px-8"
         onDrop={handleDrop}
         onDragOver={handleDragOver}
       >
-        <div className="p-6 mb-6 bg-white rounded-lg border border-gray-200 shadow-md transition-colors dark:bg-gray-800 dark:border-gray-700">
-          <div className="flex justify-between items-center mb-6">
+        <div className="p-6 mb-6 outerbox bg-white rounded-lg border border-gray-200 shadow-md transition-colors dark:bg-gray-800 dark:border-gray-700">
+          <div className="flex  justify-between items-center mb-6">
             <h1 className="text-2xl font-semibold text-gray-900 dark:text-white">
-              Combine PDF Files
+              {dict.combinePdf.title}
             </h1>
-            {files.length > 0 && (
-              <button
-                onClick={clearFiles}
-                disabled={isProcessing}
-                className="text-sm text-red-600 hover:underline dark:text-red-400"
-                type="button"
-              >
-                Clear All
-              </button>
-            )}
           </div>
           <form onSubmit={handleSubmit}>
             <div
-              className="p-8 mb-6 text-center bg-gray-50 rounded-lg border-2 border-gray-300 border-dashed transition-colors dark:border-gray-600 hover:border-blue-400 dark:hover:border-blue-500 dark:bg-gray-700/50 cursor-pointer"
+              className="p-8 innerbox mb-6 text-center bg-gray-50 rounded-lg border-2 border-gray-300 border-dashed transition-colors dark:border-gray-600 hover:border-blue-400 dark:hover:border-blue-500 dark:bg-gray-700/50 cursor-pointer"
               onClick={() => fileInputRef.current?.click()}
             >
               <svg
@@ -339,10 +329,10 @@ const CombinePdfForm = () => {
                 />
               </svg>
               <p className="mb-2 text-lg text-gray-600 dark:text-gray-300">
-                Drag &amp; drop PDF files here
+                {dict.combinePdf.dragDrop}
               </p>
               <p className="mb-4 text-sm text-gray-500 dark:text-gray-400">
-                or click to browse
+                {dict.combinePdf.clickBrowse}
               </p>
               <input
                 type="file"
@@ -352,59 +342,131 @@ const CombinePdfForm = () => {
                 className="hidden"
                 onChange={handleFileSelect}
               />
+              <label
+                htmlFor="file-upload"
+                className="inline-flex items-center px-4 py-2 text-white bg-blue-600 rounded-md transition-colors cursor-pointer dark:bg-blue-700 hover:bg-blue-700 dark:hover:bg-blue-600"
+              >
+                {dict.combinePdf.selectFiles}
+              </label>
               <p className="mt-2 text-xs text-gray-500 dark:text-gray-400">
-                Max 50MB per file
+                {dict.combinePdf.maxSize}
               </p>
             </div>
 
             {files.length > 0 && (
-              <div className="mb-6">
-                <ul className="divide-y divide-gray-200 dark:divide-gray-600">
-                  {files.map((file, i) => (
-                    <li
-                      key={i}
-                      className="flex items-center justify-between py-2"
-                    >
-                      <div>
-                        <p className="text-sm font-medium text-gray-900 dark:text-white">
-                          {file.name}
-                        </p>
-                        <p className="text-xs text-gray-500 dark:text-gray-400">
-                          {formatFileSize(file.size)}
-                        </p>
-                      </div>
-                      <div className="flex items-center space-x-2">
-                        <button
-                          type="button"
-                          onClick={() => moveFileUp(i)}
-                          disabled={isProcessing || i === 0}
-                          className="px-2 py-1 text-sm rounded bg-gray-200 hover:bg-gray-300 dark:bg-gray-700 dark:hover:bg-gray-600 disabled:opacity-50"
-                          aria-label="Move file up"
-                        >
-                          â†‘
-                        </button>
-                        <button
-                          type="button"
-                          onClick={() => moveFileDown(i)}
-                          disabled={isProcessing || i === files.length - 1}
-                          className="px-2 py-1 text-sm rounded bg-gray-200 hover:bg-gray-300 dark:bg-gray-700 dark:hover:bg-gray-600 disabled:opacity-50"
-                          aria-label="Move file down"
-                        >
-                          â†“
-                        </button>
+              <div className="mb-6 ">
+                <div className="flex justify-between items-center mb-3">
+                  <h3 className="text-lg font-semibold text-gray-900 dark:text-white">
+                    Selected Files ({files.length})
+                  </h3>
+                  <button
+                    onClick={clearFiles}
+                    disabled={isProcessing}
+                    type="button"
+                    className="text-sm text-red-600 dark:text-red-400 hover:text-red-800 dark:hover:text-red-300"
+                  >
+                    Clear All
+                  </button>
+                </div>
+                <div className="overflow-y-auto  space-y-2 max-h-60">
+                  {files.map((file, i) => {
+                    return (
+                      <div
+                        key={i}
+                        className="flex justify-between innerbox items-center p-3 bg-gray-50 rounded-md border border-gray-200 dark:bg-gray-700 dark:border-gray-600"
+                      >
+                        <div className="flex flex-1 items-center">
+                          <div className="flex flex-col mr-2">
+                            <button
+                              type="button"
+                              onClick={() => moveFileUp(i)}
+                              disabled={isProcessing || i === 0}
+                              className="p-1 text-black dark:text-gray-200 hover:text-gray-600 dark:hover:text-gray-300 disabled:opacity-50"
+                            >
+                              <p>
+                                <svg
+                                  className="w-5 h-5"
+                                  fill="currentColor"
+                                  viewBox="0 0 20 20"
+                                >
+                                  <path
+                                    fill-rule="evenodd"
+                                    d="M14.707 12.707a1 1 0 01-1.414 0L10 9.414l-3.293 3.293a1 1 0 01-1.414-1.414l4-4a1 1 0 011.414 0l4 4a1 1 0 010 1.414z"
+                                    clip-rule="evenodd"
+                                  ></path>
+                                </svg>
+                              </p>
+                            </button>
+                            <button
+                              onClick={() => moveFileDown(i)}
+                              disabled={isProcessing || i === files.length - 1}
+                              type="button"
+                              className="p-1  text-black dark:text-gray-200 hover:text-gray-600 dark:hover:text-gray-300 disabled:opacity-50"
+                            >
+                              <p>
+                                <svg
+                                  className="w-5 h-5"
+                                  fill="currentColor"
+                                  viewBox="0 0 20 20"
+                                >
+                                  <path
+                                    fill-rule="evenodd"
+                                    d="M5.293 7.293a1 1 0 011.414 0L10 10.586l3.293-3.293a1 1 0 111.414 1.414l-4 4a1 1 0 01-1.414 0l-4-4a1 1 0 010-1.414z"
+                                    clip-rule="evenodd"
+                                  ></path>
+                                </svg>
+                              </p>
+                            </button>
+                          </div>
+                          <div className="flex items-center mr-3">
+                            <svg
+                              className="w-5 h-5 text-red-500 dark:text-red-400"
+                              fill="currentColor"
+                              viewBox="0 0 20 20"
+                            >
+                              <path
+                                fill-rule="evenodd"
+                                d="M4 4a2 2 0 012-2h4.586A2 2 0 0112 2.586L15.414 6A2 2 0 0116 7.414V16a2 2 0 01-2 2H6a2 2 0 01-2-2V4zm2 6a1 1 0 011-1h6a1 1 0 110 2H7a1 1 0 01-1-1zm1 3a1 1 0 100 2h6a1 1 0 100-2H7z"
+                                clip-rule="evenodd"
+                              ></path>
+                            </svg>
+                          </div>
+                          <div className="flex-1">
+                            <div className="flex items-center">
+                              <p className="text-sm font-medium text-gray-900 dark:text-white">
+                                {file.name}
+                              </p>
+                            </div>
+                            <p className="text-xs text-gray-500 dark:text-gray-400">
+                              {formatFileSize(file.size)}
+                            </p>
+                          </div>
+                        </div>
                         <button
                           type="button"
                           onClick={() => removeFile(i)}
                           disabled={isProcessing}
-                          className="px-2 py-1 text-sm rounded bg-red-200 hover:bg-red-300 dark:bg-red-700 dark:hover:bg-red-600 disabled:opacity-50"
-                          aria-label="Remove file"
+                          className="text-red-500 dark:text-red-400 hover:text-red-700 dark:hover:text-red-300 disabled:opacity-50 cursor-pointer"
+                          title="Delete"
                         >
-                          âœ•
+                            <svg
+                              className="w-5 h-5"
+                              fill="none"
+                              stroke="currentColor"
+                              viewBox="0 0 24 24"
+                            >
+                              <path
+                                stroke-linecap="round"
+                                stroke-linejoin="round"
+                                stroke-width="2"
+                                d="M6 18L18 6M6 6l12 12"
+                              ></path>
+                            </svg>
                         </button>
                       </div>
-                    </li>
-                  ))}
-                </ul>
+                    );
+                  })}
+                </div>
               </div>
             )}
 
@@ -415,93 +477,92 @@ const CombinePdfForm = () => {
             <button
               type="submit"
               disabled={isProcessing || files.length < 2}
-              className={`px-4 py-3 w-full font-semibold text-white rounded-md transition-colors
+              className={`px-4 py-3 w-full font-semibold text-white rounded-md transition-colors submitbutton  
     ${
       isProcessing || files.length < 2
         ? "bg-gray-400 dark:bg-gray-600 cursor-not-allowed"
-        : "bg-blue-600 hover:bg-blue-700 dark:bg-blue-700 dark:hover:bg-blue-600"
+        : "bg-blue-600 hover:bg-blue-700 dark:bg-blue-700 dark:hover:bg-blue-600 cursor-pointer"
     }`}
             >
               {isProcessing
                 ? `Processing... ${Math.round(progress)}%`
-                : `Combine PDFs (${files.length} file${
+                : `${dict.combinePdf.combineButton} (${files.length} ${dict.combinePdf.filesCount}${
                     files.length !== 1 ? "s" : ""
                   })`}
             </button>
           </form>
         </div>
-      </div>
+      </section>
 
-      
-       {/* AFTER SUBMISSION MODAL   */}
+      {/* AFTER SUBMISSION MODAL   */}
       <div className="px-4 mx-auto max-w-4xl sm:px-6 lg:px-8">
         {result && (
-          <div class="p-6 mb-6 bg-green-50 rounded-lg border border-green-200 dark:bg-green-900/20 dark:border-green-800">
-              <div class="flex items-center mb-4">
-                <svg
-                  class="mr-2 w-6 h-6 text-green-500 dark:text-green-400"
-                  fill="none"
-                  stroke="currentColor"
-                  viewBox="0 0 24 24"
-                >
-                  <path
-                    stroke-linecap="round"
-                    stroke-linejoin="round"
-                    stroke-width="2"
-                    d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z"
-                  ></path>
-                </svg>
-                <h3 class="text-lg font-semibold !text-green-800 dark:text-green-300">
-                  PDFs Combined Successfully!
-                </h3>
-              </div>
-              <div class="mb-4 space-y-2 text-sm !text-green-700 dark:text-green-300">
-                <p className="!text-green-700">
-                  <strong className="!text-green-700">Files merged:</strong>{" "}
-                  {result.fileCount}
-                </p>
-                <p className="!text-green-700">
-                  <strong className="!text-green-700">Total pages:</strong>{" "}
-                  {result.totalPages}
-                </p>
-                {result.encryptedFilesProcessed && (
-                  <p className="!text-green-700">
-                    <strong className="!text-green-700">
-                      Encrypted files processed:
-                    </strong>{" "}
-                    {result.encryptedFilesProcessed}
-                  </p>
-                )}
-
-                <p className="!text-green-700">
-                  <strong className="!text-green-700">Filename:</strong>{" "}
-                  {result.filename}
-                </p>
-                <p className="!text-green-700">
-                  <strong className="!text-green-700">Size:</strong> (
-                  {formatFileSize(result.size)})
-                </p>
-              </div>
-              <button
-                onClick={handleDownload}
-                class="inline-flex items-center px-4 py-2 text-white bg-green-600 rounded-md transition-colors dark:bg-green-700 hover:bg-green-700 dark:hover:bg-green-600"
+          <div className="p-6 mb-6 bg-green-50 rounded-lg border border-green-200 dark:bg-green-900/20 dark:border-green-800">
+            <div className="flex items-center mb-4">
+              <svg
+                className="mr-2 w-6 h-6 text-green-500 dark:text-green-400"
+                fill="none"
+                stroke="currentColor"
+                viewBox="0 0 24 24"
               >
-                <svg
-                  class="mr-2 w-4 h-4"
-                  fill="none"
-                  stroke="currentColor"
-                  viewBox="0 0 24 24"
-                >
-                  <path
-                    stroke-linecap="round"
-                    stroke-linejoin="round"
-                    stroke-width="2"
-                    d="M12 10v6m0 0l-4-4m4 4l4-4m-4-4V3"
-                  ></path>
-                </svg>
-                Download Merged PDF
-              </button>
+                <path
+                  stroke-linecap="round"
+                  stroke-linejoin="round"
+                  stroke-width="2"
+                  d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z"
+                ></path>
+              </svg>
+              <h3 className="text-lg font-semibold !text-green-800 dark:text-green-300">
+                PDFs Combined Successfully!
+              </h3>
             </div>
+            <div className="mb-4 space-y-2 text-sm !text-green-700 dark:text-green-300">
+              <p className="!text-green-700">
+                <strong className="!text-green-700">Files merged:</strong>{" "}
+                {result.fileCount}
+              </p>
+              <p className="!text-green-700">
+                <strong className="!text-green-700">Total pages:</strong>{" "}
+                {result.totalPages}
+              </p>
+              {result.encryptedFilesProcessed > 0 && (
+                <p className="!text-green-700">
+                  <strong className="!text-green-700">
+                    Encrypted files processed:
+                  </strong>{" "}
+                  {result.encryptedFilesProcessed}
+                </p>
+              )}
+
+              <p className="!text-green-700">
+                <strong className="!text-green-700">Filename:</strong>{" "}
+                {result.filename}
+              </p>
+              <p className="!text-green-700">
+                <strong className="!text-green-700">Size:</strong> (
+                {formatFileSize(result.size)})
+              </p>
+            </div>
+            <button
+              onClick={handleDownload}
+              className="inline-flex items-center px-4 py-2 text-white bg-green-600 rounded-md transition-colors dark:bg-green-700 hover:bg-green-700 dark:hover:bg-green-600 cursor-pointer"
+            >
+              <svg
+                className="mr-2 w-4 h-4"
+                fill="none"
+                stroke="currentColor"
+                viewBox="0 0 24 24"
+              >
+                <path
+                  stroke-linecap="round"
+                  stroke-linejoin="round"
+                  stroke-width="2"
+                  d="M12 10v6m0 0l-4-4m4 4l4-4m-4-4V3"
+                ></path>
+              </svg>
+              Download Merged PDF
+            </button>
+          </div>
         )}
       </div>
     </>

@@ -1,5 +1,5 @@
 "use client"
-import CombinePdfForm from "@/Components/CombinePdfPage/CombinePdfForm/ConbimePdfForm"
+import CombinePdfForm from "@/Components/CombinePdfPage/CombinePdfForm/CombinePdfForm"
 import CombinePdfInstructions from "@/Components/CombinePdfPage/CombinePdfInstructions/CombinePdfInstructions"
 import { useLanguage } from "../../../../lib/languageContext"
 
