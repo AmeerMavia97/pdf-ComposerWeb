@@ -2,6 +2,7 @@
 import MiniFooter from "@/Components/MiniFooter/MiniFooter";
 import HeroSection from "@/Components/Policy/HeroSection";
 import Policy from "@/Components/Policy/Policy";
+import Link from "next/link";
 import React from "react";
 
 const Terms = [
@@ -364,9 +365,9 @@ const TermOfServices = () => {
                       <p className="!text-blue-800">
                         If you have questions about these Terms, please contact
                         us at{" "}
-                        <a href="mailto:admin@gabungpdf.id">
+                        <Link href="mailto:admin@gabungpdf.id">
                           admin@gabungpdf.id
-                        </a>
+                        </Link>
                       </p>
                     </div>
                   </div>
@@ -382,13 +383,13 @@ const TermOfServices = () => {
                     </p>
                   </div>
                   <div className="flex flex-col gap-4 sm:flex-row">
-                    <a
+                    <Link
                       className="inline-flex justify-center items-center px-4 py-2 !text-gray-700 bg-gray-100 rounded-lg transition-colors hover:bg-gray-200"
-                      href="https://www.gabungpdf.id/privacy-policy"
+                      href="/privacy-policy"
                     >
                       🔒 Privacy Policy
-                    </a>
-                    <a
+                    </Link>
+                    <Link
                       href="mailto:admin@gabungpdf.id"
                       className="inline-flex justify-center items-center px-6 py-3 font-semibold text-white bg-gradient-to-r from-blue-600 to-purple-600 rounded-xl shadow-lg transition-all duration-200 transform hover:from-blue-700 hover:to-purple-700 hover:shadow-xl hover:-translate-y-1"
                     >
@@ -406,7 +407,7 @@ const TermOfServices = () => {
                         ></path>
                       </svg>
                       Contact Legal Team
-                    </a>
+                    </Link>
                   </div>
                 </div>
               </div>

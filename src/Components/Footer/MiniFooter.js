@@ -12,7 +12,7 @@ const MiniFooter = () => {
         </p>
         <a
           class="inline-flex items-center px-8 py-4 font-bold text-blue-600 bg-white rounded-xl shadow-xl transition-colors transform hover:bg-gray-100 hover:shadow-2xl hover:-translate-y-1"
-          href="https://www.gabungpdf.id/combine-pdf"
+          href="/combine-pdf"
         >
           <svg
             class="mr-2 w-5 h-5"
