@@ -946,6 +946,28 @@
         ]
       }
     ],
+    "sections2": {
+      "title": "Vårt engagemang för integritet",
+      "desc": "Vi tar din integritet på allvar. Här är vad som gör vår tjänst pålitlig",
+      "points": [
+        {
+          "title": "Automatisk radering",
+          "desc": "Filer raderas automatiskt inom 1 timme"
+        },
+        {
+          "title": "Krypterad överföring",
+          "desc": "Alla uppladdningar använder säker HTTPS-kryptering"
+        },
+        {
+          "title": "Ingen filåtkomst",
+          "desc": "Vi får aldrig åtkomst till eller läser innehållet i dina filer"
+        },
+        {
+          "title": "Ingen delning",
+          "desc": "Dina filer delas aldrig med tredje part"
+        }
+      ]
+    },
     "footer": {
       "heading": "Har du frågor?",
       "description": "Vi finns här för att hjälpa dig med eventuella integritetsfrågor eller funderingar.",
@@ -1191,6 +1213,28 @@
         ]
       }
     ],
+    "sections2": {
+      "title": "Huvudsakliga avtalsvillkor",
+      "desc": "Förstå dina rättigheter och skyldigheter när du använder vår tjänst.",
+      "points": [
+        {
+          "title": "Rättvis användning",
+          "desc": "Använd vår tjänst på ett ansvarsfullt och lagligt sätt"
+        },
+        {
+          "title": "Dina filer",
+          "desc": "Du behåller äganderätten till alla uppladdade filer"
+        },
+        {
+          "title": "Ingen missbruk",
+          "desc": "Otillåten användning kommer att leda till uppsägning"
+        },
+        {
+          "title": "Begränsat ansvar",
+          "desc": "Tjänsten tillhandahålls 'i befintligt skick' utan garantier"
+        }
+      ]
+    },
     "footer": {
       "heading": "Har du frågor?",
       "description": "Vi hjälper dig gärna med alla frågor kring villkor eller tjänsten.",

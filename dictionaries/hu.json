@@ -946,6 +946,28 @@
         ]
       }
     ],
+    "sections2": {
+      "title": "Adatvédelmi Elkötelezettségünk",
+      "desc": "Komolyan vesszük az adatvédelmedet. Ez teszi szolgáltatásunkat megbízhatóvá:",
+      "points": [
+        {
+          "title": "Automatikus Törlés",
+          "desc": "A fájlok automatikusan törlődnek 1 órán belül"
+        },
+        {
+          "title": "Titkosított Átvitel",
+          "desc": "Minden feltöltés biztonságos HTTPS titkosítást használ"
+        },
+        {
+          "title": "Nem Olvassuk a Fájlokat",
+          "desc": "Sosem férünk hozzá vagy olvassuk a fájljaid tartalmát"
+        },
+        {
+          "title": "Nincs Megosztás",
+          "desc": "A fájljaidat soha nem osztjuk meg harmadik féllel"
+        }
+      ]
+    },
     "footer": {
       "heading": "Kérdése van?",
       "description": "Segítünk bármilyen adatvédelmi kérdésben.",
@@ -1191,6 +1213,28 @@
         ]
       }
     ],
+    "sections2": {
+      "title": "Fontos Megállapodási Pontok",
+      "desc": "Értsd meg jogaidat és felelősségeidet szolgáltatásunk használata során.",
+      "points": [
+        {
+          "title": "Tisztességes Használat",
+          "desc": "Használd szolgáltatásunkat felelősségteljesen és törvényesen"
+        },
+        {
+          "title": "A Te Fájljaid",
+          "desc": "Minden feltöltött fájl tulajdonjoga nálad marad"
+        },
+        {
+          "title": "Visszaélés Tilos",
+          "desc": "A tiltott használat a szolgáltatás megszüntetéséhez vezet"
+        },
+        {
+          "title": "Korlátozott Felelősség",
+          "desc": "A szolgáltatás „ahogy van” állapotban, garancia nélkül érhető el"
+        }
+      ]
+    },
     "footer": {
       "heading": "Kérdése van?",
       "description": "Örömmel segítünk bármilyen kérdés esetén a feltételekkel vagy a szolgáltatással kapcsolatban.",

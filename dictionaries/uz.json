@@ -948,6 +948,28 @@
         ]
       }
     ],
+    "sections2": {
+      "title": "Maxfiylikka bo‘lgan majburiyatimiz",
+      "desc": "Biz sizning maxfiyligingizni jiddiy qabul qilamiz. Xizmatimizga ishonch hosil qiladigan jihatlar quyidagilar:",
+      "points": [
+        {
+          "title": "Avtomatik o‘chirish",
+          "desc": "Fayllar 1 soat ichida avtomatik o‘chiriladi"
+        },
+        {
+          "title": "Shifrlangan uzatish",
+          "desc": "Barcha yuklashlar xavfsiz HTTPS shifrlashidan foydalanadi"
+        },
+        {
+          "title": "Faylni o‘qimaslik",
+          "desc": "Biz hech qachon fayllaringiz mazmuniga kirmaymiz va o‘qimaymiz"
+        },
+        {
+          "title": "Ulashish yo‘q",
+          "desc": "Fayllaringiz hech qachon uchinchi tomonlarga ulashilmaydi"
+        }
+      ]
+    },
     "footer": {
       "heading": "Savollaringiz bormi?",
       "description": "Biz maxfiylik masalalari yoki boshqa savollarda yordam berishga tayyormiz.",
@@ -1193,6 +1215,28 @@
         ]
       }
     ],
+    "sections2": {
+      "title": "Asosiy kelishuv nuqtalari",
+      "desc": "Xizmatimizdan foydalanganda huquq va majburiyatlaringizni tushuning.",
+      "points": [
+        {
+          "title": "Adolatli foydalanish",
+          "desc": "Xizmatimizdan mas’uliyatli va qonuniy foydalaning"
+        },
+        {
+          "title": "Sizning fayllaringiz",
+          "desc": "Yuklagan barcha fayllaringiz ustidan egalik huquqi sizda qoladi"
+        },
+        {
+          "title": "Noto‘g‘ri foydalanish yo‘q",
+          "desc": "Ta’qiqlangan foydalanish xizmatdan chiqarilishiga olib keladi"
+        },
+        {
+          "title": "Cheklangan mas’uliyat",
+          "desc": "Xizmat \"shunday ekan\" tamoyili asosida kafolatsiz taqdim etiladi"
+        }
+      ]
+    },
     "footer": {
       "heading": "Саволларингиз борми?",
       "description": "Қоидалар ёки хизмат тўғрисидаги саволларингиз бўлса, биз ёрдам беришга тайёрмиз.",

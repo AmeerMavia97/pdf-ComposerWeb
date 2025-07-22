@@ -366,304 +366,304 @@
       "cards": [
         {
           "BlogImage": "/Blog1Image.webp",
-          "date": "2025-yil 2-iyun",
-          "author": "Admin foydalanuvchisi",
+          "date": "2025年6月2日",
+          "author": "管理员",
           "category": null,
-          "headline": "GabungPDF.id: PDF Fayllarni Birlashtirish Uchun Mukammal Vosita",
+          "headline": "GabungPDF.id：终极PDF合并工具",
           "headlineLink": "/blog/gabungpdfid-the-ultimate-tool-to-combine-pdf-files",
-          "excerpt": "GabungPDF.id yordamida PDF fayllarni oson va tez birlashtiring — bu sizning bepul onlayn PDF birlashtiruvchi vositangiz. Bir necha soniyada xavfsiz tarzda PDFlarni birlashtiring — dasturiy ta'minot kerak emas. Bugunoq sinab ko‘ring!",
-          "readTime": "3 daqiqada o'qiladi",
+          "excerpt": "使用GabungPDF.id，轻松合并PDF文件，免费在线，无需安装软件，安全可靠，几秒钟即可完成合并。",
+          "readTime": "3分钟阅读",
           "readMoreText": "blog.readArticle",
           "slug": "gabungpdfid-the-ultimate-tool-to-combine-pdf-files",
           "detail": {
-            "intro": "GabungPDF.id saytida biz qulay, foydalanuvchilar uchun mo‘ljallangan onlayn vositani yaratdik. Bu vosita yordamida siz hech qanday qiyinchiliksiz PDF fayllarni birlashtira olasiz. Texnik bilimga ega bo‘lishingiz shart emas — bizning platformamiz hamma uchun mos. Mana nega GabungPDF.id eng yaxshi PDF birlashtiruvchi vosita hisoblanadi:",
+            "intro": "在GabungPDF.id，我们设计了一个用户友好的网页工具，帮助您轻松合并PDF文件。无论您是技术达人还是初学者，我们的平台适合所有人。以下是GabungPDF.id作为最佳PDF合并工具的几个理由：",
             "features": [
               {
-                "title": "Bepul va ochiq",
-                "description": "Obuna yoki yashirin to‘lovlar yo‘q — shunchaki yuklang va birlashtiring."
+                "title": "免费且易于访问",
+                "description": "无需订阅或隐藏费用——只需上传并合并即可。"
               },
               {
-                "title": "Dastur o‘rnatish shart emas",
-                "description": "Bizning vositamiz to‘liq onlayn ishlaydi, qurilmangizda joy tejaydi."
+                "title": "无需安装软件",
+                "description": "我们的工具完全在线运行，节省您设备的空间。"
               },
               {
-                "title": "Tez va xavfsiz",
-                "description": "Kuchli shifrlash orqali fayllaringizni bir necha soniyada xavfsiz birlashtiring."
+                "title": "快速且安全",
+                "description": "几秒钟内合并PDF，并通过强加密技术保护您的文件。"
               },
               {
-                "title": "Foydalanuvchi uchun qulay interfeys",
-                "description": "Fayllarni sudrab qo‘ying, bir necha marta bosib birlashtiring."
+                "title": "用户友好界面",
+                "description": "拖放操作，几次点击即可完成合并。"
               }
             ],
-            "intro2": "Hujjatlaringizni boshqarishni soddalashtirishga tayyormisiz? PDF fayllarni bir necha oddiy qadamda qanday birlashtirishni sizga ko‘rsatamiz.",
+            "intro2": "准备好简化您的文档管理了吗？以下是如何使用我们的PDF合并器在几步内完成合并：",
             "how_to_use": {
-              "title": "GabungPDF.id yordamida PDF Fayllarni Qanday Birlashtirish Kerak",
-              "paragraph": "GabungPDF.id yordamida PDFlarni birlashtirish juda oddiy. Quyidagi qadamlarni bajaring va yakuniy mukammal PDF faylni yarating:",
+              "title": "如何使用GabungPDF.id合并PDF文件",
+              "paragraph": "使用GabungPDF.id合并PDF文件非常简单。按照以下步骤，轻松创建一个完整的PDF文件：",
               "steps": [
                 {
-                  "title": "Fayllarni Yuklang",
-                  "description": "https://gabungpdf.id/ saytiga tashrif buyuring va “Yuklash” tugmasini bosing. Qurilmangizdan birlashtirmoqchi bo‘lgan PDF fayllarni tanlang. Bir nechta faylni bir vaqtda yuklashingiz mumkin."
+                  "title": "上传您的文件",
+                  "description": "访问 https://gabungpdf.id/，点击“上传”按钮。从您的设备中选择要合并的PDF文件。支持同时上传多个文件。"
                 },
                 {
-                  "title": "Tartibni Belgilang",
-                  "description": "Fayllarni sudrab joylashtiring va kerakli tartibda joylang. Bu hujjatingizning izchil va tushunarli bo‘lishini ta’minlaydi."
+                  "title": "调整文件顺序",
+                  "description": "通过拖放操作重新排列文件顺序，确保最终文档逻辑清晰。"
                 },
                 {
-                  "title": "Birlashtiring va Yuklab Oling",
-                  "description": "“PDFni birlashtirish” tugmasini bosing va vositamiz fayllaringizni yagona hujjatga birlashtiradi. Yakunlangach, yangi PDF-ni darhol yuklab oling."
+                  "title": "合并并下载",
+                  "description": "点击“合并PDF”按钮，工具将自动合并文件。合并完成后，立即下载新PDF文件。"
                 }
               ],
-              "note": "Shu bilan tamom! Murakkab sozlamalar yoki texnik bilim shart emas. Ikki yoki yigirma fayl bo‘lsin — GabungPDF.id barchasini silliq bajaraydi."
+              "note": "就这么简单！无需复杂设置或技术知识。无论是合并2个还是20个文件，GabungPDF.id都能轻松搞定。"
             },
             "benefits": {
-              "title": "Onlayn PDF Birlashtiruvchi Vositaning Afzalliklari",
-              "paragraph": "GabungPDF.id kabi onlayn PDF birlashtiruvchi vositani tanlash an’anaviy dasturiy ta’minot yoki qo‘lda bajariladigan usullardan bir qancha afzalliklarga ega. Mana nima uchun bu vosita o‘zgarish olib keladi:",
+              "title": "使用在线PDF合并器的优势",
+              "paragraph": "选择像GabungPDF.id这样的在线PDF合并工具相比传统软件或手动方法有多项优势：",
               "items": [
                 {
-                  "title": "Vaqtni Tejash",
-                  "description": "Kompyuter dasturiy ta’minotida PDFlarni qo‘lda birlashtirish ko‘p vaqt talab etadi va odatda qimmat litsenziyani talab qiladi. GabungPDF.id yordamida siz PDF fayllarni istalgan qurilmadan bir necha soniyada birlashtirishingiz mumkin."
+                  "title": "节省时间",
+                  "description": "使用桌面软件手动合并PDF耗时且昂贵。GabungPDF.id让您可以从任何设备上快速完成合并——笔记本、平板或手机均可。"
                 },
                 {
-                  "title": "Xavfsiz Fayl Ishlovi",
-                  "description": "Maxfiylikdan xavotirdamisiz? Biz ilg‘or shifrlashdan foydalanamiz, fayllaringiz birlashtirish davomida xavfsiz saqlanadi. Birlashtirilgan PDF-ni yuklab olganingizdan so‘ng, biz serverdan fayllaringizni o‘chirib tashlaymiz."
+                  "title": "文件安全保障",
+                  "description": "担心隐私？我们平台采用先进加密技术，确保文件在合并过程中的安全。下载合并文件后，我们会自动从服务器删除您的原始文件。"
                 },
                 {
-                  "title": "Tejamkor Yechim",
-                  "description": "Nega qimmat PDF tahrirlash dasturiga pul to‘lashingiz kerak? GabungPDF.id to‘liq bepul — talabalar, freelancerlar va kichik bizneslar uchun ideal."
+                  "title": "成本效益高",
+                  "description": "无需支付昂贵的PDF编辑软件费用。GabungPDF.id完全免费，非常适合学生、自由职业者和小型企业使用。"
                 },
                 {
-                  "title": "Platformalararo Moslik",
-                  "description": "Windows, macOS, iOS yoki Android — farqi yo‘q, bizning onlayn PDF birlashtiruvchi vositamiz barcha platformalarda mukammal ishlaydi."
+                  "title": "跨平台兼容",
+                  "description": "无论您使用Windows、macOS、iOS还是Android，我们的网页PDF合并工具均能无缝运行。无需担心兼容性问题。"
                 }
               ]
             },
             "optimization_tips": {
-              "title": "Birlashtirilgan PDF Fayllarni Optimallashtirish Bo‘yicha Maslahatlar",
-              "paragraph": "Birlashtirilgan PDF fayllardan maksimal darajada foydalanish uchun ushbu maslahatlarni inobatga oling:",
+              "title": "合并PDF的优化建议",
+              "paragraph": "为了获得更好的合并效果，请参考以下建议：",
               "tips": [
                 {
-                  "title": "Tartibni Tekshiring",
-                  "description": "Birlashtirishdan oldin PDF fayllaringiz kerakli ketma-ketlikda joylashganligiga ishonch hosil qiling."
+                  "title": "检查文件顺序",
+                  "description": "合并前，先安排好PDF文件的顺序，避免重复操作。"
                 },
                 {
-                  "title": "Fayl Hajmini Kichraytiring",
-                  "description": "PDFda katta rasm bo‘lsa, yakuniy hajmni kamaytirish uchun yuklashdan oldin uni siqib qo‘ying."
+                  "title": "优化文件大小",
+                  "description": "如果PDF中包含大量图片，建议先压缩再上传，以减少最终文件大小。"
                 },
                 {
-                  "title": "Aniq Nomi Qo‘ying",
-                  "description": "Keyinchalik topish oson bo‘lishi uchun PDF fayllaringizga tushunarli nom bering."
+                  "title": "使用清晰的文件名",
+                  "description": "使用具有描述性的文件名，便于后续查找。"
                 },
                 {
-                  "title": "Natijani Tekshirib Ko‘ring",
-                  "description": "Birlashtirgandan so‘ng, yakuniy PDF faylni tekshirib chiqing, hammasi to‘g‘ri joylashganligiga ishonch hosil qiling."
+                  "title": "预览输出文件",
+                  "description": "合并完成后，检查PDF文件内容是否正确。"
                 }
               ],
-              "paragraph2": "GabungPDF.id yordamida siz PDF fayllarni ishonch bilan va sifatni saqlab birlashtirishingiz mumkin."
+              "paragraph2": "使用GabungPDF.id，您可以放心地合并PDF文件，同时保持质量和文件的条理性。"
             },
             "audience": {
-              "title": "GabungPDF.id Kim Uchun Foydali?",
-              "paragraph": "Bizning PDF birlashtiruvchi vositamiz quyidagi foydalanuvchilar uchun mo‘ljallangan:",
+              "title": "谁适合使用GabungPDF.id？",
+              "paragraph": "我们的PDF合并工具适用于广泛的用户群体，包括：",
               "users": [
                 {
-                  "type": "Talabalar",
-                  "description": "Ma’ruza konspektlari, topshiriqlar yoki ilmiy ishlarni yagona faylga birlashtirish."
+                  "type": "学生",
+                  "description": "将课堂笔记、作业或研究资料合并为一个文件。"
                 },
                 {
-                  "type": "Mutaxassislar",
-                  "description": "Hisobotlar, takliflar yoki shartnomalarni birlashtirish orqali samarali aloqa yaratish."
+                  "type": "职场人士",
+                  "description": "合并报告、提案或合同，提升沟通效率。"
                 },
                 {
-                  "type": "Kichik biznes",
-                  "description": "Hisob-fakturalar, kvitansiyalar yoki marketing materiallarini yagona hujjatda tartibga solish."
+                  "type": "小型企业",
+                  "description": "将发票、收据或宣传资料整理为一份文档。"
                 },
                 {
-                  "type": "Freelancerlar",
-                  "description": "Portfolio, hisob-faktura yoki loyiha natijalarini mijozlar uchun birlashtirish."
+                  "type": "自由职业者",
+                  "description": "整合作品集、发票或项目交付文档发送给客户。"
                 }
               ],
-              "paragraph2": "Ehtiyojingiz qanday bo‘lishidan qat’iy nazar, GabungPDF.id — PDF bilan bog‘liq barcha ishlaringizda ishonchli hamkor."
+              "paragraph2": "无论您的需求如何，GabungPDF.id都是您处理PDF的可靠助手。"
             },
             "why_choose_us": {
-              "title": "Nega GabungPDF.id-ni Boshqa Vositalardan Tanlaysiz?",
-              "paragraph": "Ko‘plab vositalar mavjud, ammo GabungPDF.id nima uchun eng yaxshi tanlov? Mana bizning ustunliklarimiz:",
+              "title": "为何选择GabungPDF.id？",
+              "paragraph": "市面上有许多PDF合并工具，那GabungPDF.id为何脱颖而出？以下是我们的优势：",
               "reasons": [
                 {
-                  "title": "Tezlik",
-                  "description": "O‘rganish talab qilinmaydi — shunchaki yuklang, birlashtiring va yuklab oling."
+                  "title": "快速",
+                  "description": "无需学习成本——上传、合并、下载一步到位。"
                 },
                 {
-                  "title": "Ishonchlilik",
-                  "description": "Doimiy va barqaror ishlash, xatosiz va muammosiz."
+                  "title": "稳定可靠",
+                  "description": "性能稳定，不会崩溃或出错。"
                 },
                 {
-                  "title": "24/7 Mavjudlik",
-                  "description": "Dunyoning istalgan nuqtasidan doimo foydalanish mumkin."
+                  "title": "全天候可用",
+                  "description": "全球任何时间、任何地点都能访问。"
                 }
               ],
-              "paragraph2": "Murakkab dasturlar yoki ishonchsiz vositalarga vaqt sarflamang. Bugunoq GabungPDF.id-ni sinab ko‘ring va PDF fayllarni birlashtirishning eng oson usulini ko‘ring."
+              "paragraph2": "无需浪费时间在复杂的软件上，GabungPDF.id让您轻松合并PDF文件，立即体验高效工作流！"
             },
             "conclusion": {
-              "title": "Xulosa: GabungPDF.id Orqali Ishingizni Soddalashtiring",
-              "paragraph": "PDF fayllarni birlashtirish murakkab bo‘lishi shart emas. GabungPDF.id yordamida siz PDF fayllarni oson va tez birlashtirishingiz, vaqtni tejashingiz va hujjatlaringizni tartibda saqlashingiz mumkin. Bizning bepul, xavfsiz va foydalanuvchiga qulay vositamiz ish jarayonini soddalashtirmoqchi bo‘lgan har bir kishi uchun ideal. Hisobotlar, eslatmalar yoki shartnomalar bo‘lsin — vositamiz doimo professional natija beradi. Boshlashga tayyormisiz?",
+              "title": "结语：用GabungPDF.id简化您的工作流",
+              "paragraph": "合并PDF文件不必再是负担。使用GabungPDF.id，轻松完成PDF合并，节省时间、整理文件。我们免费、安全且操作简单的PDF合并器适用于各种用户，无论是报告、笔记还是合同，都能呈现专业效果。准备好了吗？",
               "cta": {
-                "text": "gabungpdf.id/combine-pdf saytiga tashrif buyuring",
+                "text": "访问 gabungpdf.id/combine-pdf",
                 "link": "https://gabungpdf.id/combine-pdf"
               },
-              "Remaingparagraph": "Endi bir necha marta bosish orqali PDF fayllarni birlashtiring. GabungPDF.id yordamida bugunoq hujjatlaringizni boshqarishni soddalashtiring — sizning mukammal PDF birlashtiruvchingiz!"
+              "Remaingparagraph": "现在就点击几下，合并您的PDF文件。使用GabungPDF.id，简化您的文件管理流程——这是您理想的PDF合并工具！"
             }
           }
         },
         {
           "BlogImage": "/FeatureBlogImage.webp",
-          "date": "2025 yil 2-iyul",
-          "author": "Admin User",
-          "category": "Tavsiya etilgan maqola",
-          "headline": "GabungPDF.id: PDF Fayllarini Birlashtirishning Eng Oson Yo‘li",
-          "excerpt": "GabungPDF.id bilan PDF fayllarini oson va tez birlashtiring — bu bepul onlayn vosita. Bir necha soniyada xavfsiz tarzda PDF fayllarni qo‘shing, hech qanday dasturiy ta’minot talab qilinmaydi. Ish unumdorligini oshiring hoziroq!",
-          "readTime": "3 daqiqada o‘qiladi",
-          "buttonName": "To‘liq maqolani o‘qish",
+          "date": "2025年7月2日",
+          "author": "管理员",
+          "category": "精选文章",
+          "headline": "GabungPDF.id：最简单的 PDF 文件合并方式",
+          "excerpt": "使用 GabungPDF.id 免费在线 PDF 合并工具，轻松合并 PDF 文件。无需安装软件，几秒内安全合并，立即提升工作效率！",
+          "readTime": "3 分钟阅读",
+          "buttonName": "阅读全文",
           "slug": "gabungpdfid-the-easiest-way-to-combine-pdf-files",
           "detail": {
-            "intro": "Bugungi kunda vaqt pulga teng va hujjatlarni samarali boshqarish ish unumdorligingizga sezilarli ta’sir ko‘rsatadi. Bir nechta hisobotlarni boshqarish, mijoz shartnomalarini tartibga solish yoki loyiha fayllarini jamlashda ishonchli PDF birlashtiruvchi vosita ish jarayonini yengillashtiradi. GabungPDF.id — bu bepul va onlayn vosita bo‘lib, PDF fayllarini tez va qulay tarzda birlashtirish imkonini beradi. Ushbu maqolada GabungPDF.id qanday qilib sizga PDF fayllarni birlashtirishda yordam berishini va nima uchun u talabalar, mutaxassislar va biznes uchun eng yaxshi tanlov ekanini tushuntiramiz.",
+            "intro": "在这个时间就是金钱的世界里，高效地管理文档至关重要。无论你正在处理多个报告、整理客户合同，还是整合项目文件，一个可靠的 PDF 合并工具都能彻底改变你的工作方式。GabungPDF.id 是一款免费的在线工具，能够快速无缝地合并 PDF 文件。本文将带你了解 GabungPDF.id 如何让你轻松合并 PDF 文件，并为何它是专业人士、学生和企业的终极解决方案。",
             "why_merge_pdf": {
-              "title": "Nima Uchun PDF Fayllarini Birlashtirish Kerak?",
-              "paragraph": "PDF fayllar hujjat almashish uchun eng maqbul format hisoblanadi, lekin bir nechta fayllar bilan ishlash ish samaradorligini pasaytirishi mumkin. PDF fayllarini bitta hujjatga birlashtirish vaqtingizni tejaydi, tartibni yaxshilaydi va ish jarayonini soddalashtiradi. Quyida PDF fayllarini birlashtirish uchun asosiy sabablar keltirilgan:",
+              "title": "为什么要合并 PDF 文件？",
+              "paragraph": "PDF 是专业文件共享的首选格式，但多个文件会带来不便。将 PDF 合并成一个文件可以节省时间、减少混乱、提高组织效率。以下是你可能需要合并 PDF 的几个原因：",
               "reasons": [
                 {
-                  "title": "Ulashishni Yengillashtirish",
-                  "description": "Bir nechta fayl emas, bitta hujjat yuboring — hamkorlik yanada qulay bo‘ladi."
+                  "title": "简化分享",
+                  "description": "发送一个文件代替多个附件，协作更轻松。"
                 },
                 {
-                  "title": "Hujjatlarni Tartibga Solish",
-                  "description": "Hisob-faktura, shakl yoki eslatmalarni yagona PDF hujjatga birlashtiring."
+                  "title": "整理文档",
+                  "description": "将发票、表单或笔记合并为一个便于访问的 PDF。"
                 },
                 {
-                  "title": "Professional Taqdimotlar",
-                  "description": "Slaydlar, materiallar va eslatmalarni bitta to‘liq hujjatga jamlang."
+                  "title": "专业展示",
+                  "description": "合并幻灯片、讲义和笔记为一个完整文档。"
                 },
                 {
-                  "title": "Arxivlashni Soddalashtirish",
-                  "description": "Aloqador fayllarni bir joyda saqlash va topish osonroq bo‘ladi."
+                  "title": "优化归档",
+                  "description": "整合相关文件，便于存储与检索。"
                 }
               ],
-              "note": "GabungPDF.id bilan PDF fayllarini atigi bir necha marta bosish orqali birlashtirish mumkin, hujjatlar boshqaruvi endi muammo emas."
+              "note": "使用 GabungPDF.id，只需几次点击即可合并 PDF，文档管理变得轻松无比。"
             },
             "features": {
-              "title": "GabungPDF Nima Uchun Eng Yaxshi PDF Birlashtiruvchi?",
-              "paragraph": "GabungPDF.id da biz tezkor, bepul va har kim foydalanishi mumkin bo‘lgan qulay vositani yaratdik. Siz ish stoli, planshet yoki smartfondan foydalansangiz ham, PDF birlashtiruvchimiz natijalarni muammosiz taqdim etadi. Mana nima uchun foydalanuvchilar GabungPDF.id xizmatidan rozi:",
+              "title": "GabungPDF 的优势",
+              "paragraph": "在 GabungPDF.id，我们打造了一款快速、免费、适用于所有人的工具。无论你在桌面、平板还是手机上操作，我们的 PDF 合并工具都能提供专业结果，完全无烦恼。以下是用户喜爱 GabungPDF.id 的原因：",
               "items": [
                 {
-                  "title": "Butunlay Bepul",
-                  "description": "Obuna yo‘q, yashirin to‘lovlar yo‘q — birlashtiring va foydalaning."
+                  "title": "完全免费",
+                  "description": "无需订阅，无隐藏费用——立即合并。"
                 },
                 {
-                  "title": "Dasturiy Ta'minot Kerak Emas",
-                  "description": "Brauzer orqali ishlaydi, yuklab olish talab qilinmaydi."
+                  "title": "无需安装软件",
+                  "description": "基于网页的工具，即时使用，无需下载。"
                 },
                 {
-                  "title": "Xavfsiz Jarayon",
-                  "description": "Fayllaringiz shifrlanadi va ishlovdan so‘ng o‘chiriladi."
+                  "title": "安全处理",
+                  "description": "文件使用加密处理，用后即删除，确保安全。"
                 },
                 {
-                  "title": "Qulay Dizayn",
-                  "description": "Oddiy interfeys har kim uchun tushunarli va qulay."
+                  "title": "界面直观",
+                  "description": "简洁易用的界面，所有用户都能轻松使用。"
                 }
               ],
-              "next": "Ish unumdorligingizni oshirishga tayyormisiz? PDF birlashtiruvchi vositamizdan qanday foydalanishni ko‘rib chiqaylik."
+              "next": "准备提升工作效率了吗？让我们来看看如何使用我们的 PDF 合并工具，几分钟内完成合并。"
             },
             "how_to_use": {
-              "title": "GabungPDF.id Orqali PDF Fayllarini Qanday Birlashtirish Mumkin",
-              "paragraph": "GabungPDF orqali PDF fayllarini birlashtirish juda oson va hech qanday texnik bilim talab qilinmaydi. Quyidagi oddiy amallarni bajaring:",
+              "title": "如何使用 GabungPDF.id 合并 PDF 文件",
+              "paragraph": "使用 GabungPDF 合并 PDF 非常简单，无需任何技术知识。只需按照以下步骤操作：",
               "steps": [
                 {
-                  "title": "PDF Fayllaringizni Yuklang",
-                  "description": "https://gabungpdf.id/ saytiga o‘ting va birlashtirmoqchi bo‘lgan PDF fayllaringizni tanlang. Bir vaqtning o‘zida bir nechta fayl yuklash mumkin."
+                  "title": "上传 PDF 文件",
+                  "description": "访问 https://gabungpdf.id/，选择你要合并的 PDF 文件。你可以一次上传多个文件。"
                 },
                 {
-                  "title": "Kerakli Tartibda Joylashtiring",
-                  "description": "Drag-and-drop funksiyasi orqali fayllarni kerakli tartibda joylashtiring."
+                  "title": "调整文件顺序",
+                  "description": "使用拖放功能将文件排列成你想要的顺序。"
                 },
                 {
-                  "title": "Birlashtiring va Saqlang",
-                  "description": "“Merge PDF” tugmasini bosing va vositamiz fayllarni bitta hujjatga birlashtiradi. Yangi PDF faylni darhol yuklab oling."
+                  "title": "合并并保存",
+                  "description": "点击“合并 PDF”，我们的工具会将文件合并成一个文档。立即下载你的合并文件。"
                 }
               ],
-              "note": "Bu shunchalik oddiy! Ikki fayl bo‘ladimi, o‘nlabmi — GabungPDF.id bilan jarayon doim yengil va muammosiz bo‘ladi."
+              "note": "就这么简单！无论你合并两个文件还是几十个文件，GabungPDF.id 都能提供流畅、无忧的体验。"
             },
             "top_benefits": {
-              "title": "GabungPDF.id Foydalarining Asosiy Sabablari",
-              "paragraph": "Onlayn PDF birlashtiruvchi GabungPDF.id sizga tengsiz qulaylik va samaradorlik taklif qiladi. Mana nima uchun ushbu vosita boshqalardan ajralib turadi:",
+              "title": "使用 GabungPDF.id 的最大优势",
+              "paragraph": "选择像 GabungPDF.id 这样的在线 PDF 合并工具，可以获得极高的便利性与效率。以下是我们的工具脱颖而出的原因：",
               "items": [
                 {
-                  "title": "Vaqt va Mehnatni Tejash",
-                  "description": "Qo‘lda yoki murakkab dasturlar bilan birlashtirish bosh og‘rig‘i. GabungPDF.id bilan bir necha soniyada ish bitadi."
+                  "title": "节省时间与精力",
+                  "description": "手动合并 PDF 或使用复杂软件非常繁琐。GabungPDF.id 只需几秒即可完成合并，让你专注更重要的事情。"
                 },
                 {
-                  "title": "Kuchaytirilgan Xavfsizlik",
-                  "description": "Maxfiyligingiz biz uchun muhim. Platformamiz fayllaringizni shifrlab himoya qiladi va ishlov tugagach ularni o‘chirib tashlaydi."
+                  "title": "增强文件安全性",
+                  "description": "我们重视你的隐私。平台使用安全加密，在合并后自动删除你的文件。"
                 },
                 {
-                  "title": "Byudjetga Do‘stona",
-                  "description": "Qimmat dasturlarga pul sarflash shart emas. GabungPDF.id 100% bepul — talabalar, freelancerlar va kichik biznes uchun ayni muddao."
+                  "title": "预算友好",
+                  "description": "无需购买昂贵的 PDF 软件。GabungPDF.id 完全免费，特别适合学生、自由职业者和小型企业。"
                 },
                 {
-                  "title": "Istalgan Qurilmada Ishlaydi",
-                  "description": "Windows, macOS, iOS yoki Android — brauzeri bo‘lsa kifoya. PDF birlashtiring istalgan joyda, istalgan vaqtda."
+                  "title": "跨平台使用",
+                  "description": "只要有浏览器，无论 Windows、macOS、iOS 还是 Android，随时随地都可使用。"
                 }
               ]
             },
             "audience": {
-              "title": "GabungPDF.id Kim Uchun?",
-              "paragraph": "PDF birlashtiruvchimiz turli ehtiyojlar uchun mos keladi:",
+              "title": "谁适合使用 GabungPDF.id？",
+              "paragraph": "我们的 PDF 合并工具可满足各种用户的不同需求：",
               "users": [
                 {
-                  "type": "Talabalar",
-                  "description": "Referatlar, ilmiy ishlar yoki dars materiallarini bitta faylga jamlab topshiring."
+                  "type": "学生",
+                  "description": "合并学习资料、论文或研究文档，便于提交。"
                 },
                 {
-                  "type": "Biznes Mutaxassislari",
-                  "description": "Shartnoma, taklif yoki hisobotlarni birlashtirib mijozlarga qulay yetkazish."
+                  "type": "职场专业人士",
+                  "description": "合并合同、提案或报告，便于客户沟通。"
                 },
                 {
-                  "type": "Freelancerlar",
-                  "description": "Portfoliolarni tayyorlash yoki hisob-fakturalarni yagona faylga birlashtirish."
+                  "type": "自由职业者",
+                  "description": "创建专业作品集，或合并发票进行客户结算。"
                 },
                 {
-                  "type": "Kichik Biznes",
-                  "description": "Hisob-fakturalar, marketing materiallari yoki huquqiy hujjatlarni yagona PDF hujjatga jamlash."
+                  "type": "小型企业",
+                  "description": "将收据、市场资料或法律文件整理成一个 PDF。"
                 }
               ],
-              "note": "Kim bo‘lishingizdan qat’iy nazar, GabungPDF.id bilan hujjatlar boshqaruvi yengil va qulay bo‘ladi."
+              "note": "无论你从事哪一行业，GabungPDF.id 都能让你的文档管理更加轻松高效。"
             },
             "pro_tips": {
-              "title": "PDF Fayllarini Birlashtirish Bo‘yicha Foydali Maslahatlar",
-              "paragraph": "PDF birlashtiruvchi imkoniyatlaridan to‘liq foydalanish uchun quyidagilarni yodda tuting:",
+              "title": "合并 PDF 的专业技巧",
+              "paragraph": "想要更高效地使用 PDF 合并工具？请牢记以下技巧：",
               "tips": [
                 {
-                  "title": "Fayl Tartibini Oldindan Belgilang",
-                  "description": "Fayllarni mantiqan tartiblang — keyin vaqt tejaysiz."
+                  "title": "提前规划文件顺序",
+                  "description": "在合并前按逻辑排列文件，节省后期整理时间。"
                 },
                 {
-                  "title": "Katta Fayllarni Siqib Qo‘ying",
-                  "description": "Yuklashdan oldin fayl hajmini kichraytirish jarayonni tezlashtiradi."
+                  "title": "压缩大文件",
+                  "description": "上传前压缩大文件，加快处理速度。"
                 },
                 {
-                  "title": "Natijani Qayta Tekshirib Ko‘ring",
-                  "description": "Birlashtirilgan PDF ni oldindan ko‘rib chiqing, hammasi joyidami tekshirib oling."
+                  "title": "检查输出文件",
+                  "description": "预览合并后的 PDF，确保符合需求。"
                 },
                 {
-                  "title": "GabungPDF.id ni Xatcho‘pga Qo‘shing",
-                  "description": "Har safar kerak bo‘lganda tezkor kirish uchun saytimizni xatcho‘pga saqlab qo‘ying."
+                  "title": "收藏 GabungPDF.id",
+                  "description": "将我们的网站收藏，随时快速访问并合并文件。"
                 }
               ]
             },
             "why_stand_out": {
-              "title": "GabungPDF.id Nima Uchun Ajralib Turadi?",
-              "paragraph": "PDF birlashtiruvchilar juda ko‘p, lekin GabungPDF.id soddaligi, tezligi va ishonchliligi bilan ajralib turadi. Ro‘yxatdan o‘tish yoki yuklab olish talab qilmaydi, darhol foydalanishga tayyor. Xavfsizlikka bo‘lgan yondashuvimiz esa fayllaringiz xavfsizligini kafolatlaydi. Keraksiz fayllar ish unumdorligingizni pasaytirmasin. https://gabungpdf.id/ saytiga hoziroq tashrif buyuring va PDF fayllarni birlashtirishning eng yengil usulini kashf eting."
+              "title": "为什么 GabungPDF.id 能在众多 PDF 合并工具中脱颖而出？",
+              "paragraph": "市面上有许多 PDF 合并工具，而 GabungPDF.id 凭借其简洁、快速和可靠性脱颖而出。不同于需要注册或下载的软件，我们的平台即开即用。同时，我们对安全的承诺确保你的文件始终处于保护之中。不要让零散的 PDF 拖慢你的效率。立即访问 https://gabungpdf.id/，体验最轻松的 PDF 合并方式。"
             },
             "conclusion": {
-              "title": "Xulosa: Hujjatlaringizni GabungPDF.id Bilan Soddalashtiring",
-              "paragraph": "Bir nechta PDF fayllarni boshqarish endi muammo emas. GabungPDF.id yordamida PDF fayllarni tez, xavfsiz va mutlaqo bepul birlashtiring. Bizning foydalanuvchiga qulay vositamiz talabalar, mutaxassislar va tadbirkorlar uchun ishlab chiqilgan. Tartibsiz hujjatlarga xayr, tartibli va professional PDF fayllarga salom! gabungpdf.id/combine-pdf saytimizga tashrif buyurib hoziroq PDF fayllarni birlashtiring va ish jarayonini yengillashtiring."
+              "title": "结语：使用 GabungPDF.id 简化你的文档管理",
+              "paragraph": "处理多个 PDF 不再是难题。使用 GabungPDF.id，你可以快速、安全且免费地合并 PDF 文件。这个用户友好的工具旨在提升你的工作效率，无论你是学生、专业人士还是企业主。告别文档混乱，迎接高效整洁的 PDF 吧！立即访问 gabungpdf.id/combine-pdf，体验最快速的 PDF 合并方式，开启高效工作之路！"
             }
           }
         }
@@ -887,10 +887,7 @@
           },
           {
             "type": "list",
-            "items": [
-              "访问或请求删除您的数据",
-              "反对或限制某些数据处理活动"
-            ]
+            "items": ["访问或请求删除您的数据", "反对或限制某些数据处理活动"]
           },
           {
             "type": "highlight",
@@ -947,6 +944,28 @@
         ]
       }
     ],
+    "sections2": {
+      "title": "我们的隐私承诺",
+      "desc": "我们非常重视您的隐私。以下是使我们的服务值得信赖的原因：",
+      "points": [
+        {
+          "title": "自动删除",
+          "desc": "文件将在 1 小时内自动删除"
+        },
+        {
+          "title": "加密传输",
+          "desc": "所有上传均使用安全的 HTTPS 加密"
+        },
+        {
+          "title": "不读取文件",
+          "desc": "我们从不访问或读取您的文件内容"
+        },
+        {
+          "title": "不共享",
+          "desc": "您的文件绝不会与第三方共享"
+        }
+      ]
+    },
     "footer": {
       "heading": "有问题？",
       "description": "我们随时为您的隐私问题提供帮助。",
@@ -1192,6 +1211,28 @@
         ]
       }
     ],
+    "sections2": {
+      "title": "关键协议要点",
+      "desc": "在使用我们的服务时，了解您的权利和责任。",
+      "points": [
+        {
+          "title": "公平使用",
+          "desc": "负责任且合法地使用我们的服务"
+        },
+        {
+          "title": "您的文件",
+          "desc": "您保留所有上传文件的所有权"
+        },
+        {
+          "title": "禁止滥用",
+          "desc": "禁止的使用将导致服务终止"
+        },
+        {
+          "title": "有限责任",
+          "desc": "服务按“原样”提供，不提供任何担保"
+        }
+      ]
+    },
     "footer": {
       "heading": "有疑问？",
       "description": "我们随时为您解答关于条款或服务的疑问。",
@@ -1210,23 +1251,22 @@
     }
   },
   "Content": {
-  "Policy": {
-    "title": "隐私政策",
-    "desc": "我们致力于保护您的隐私，确保您的文件安全。了解当您使用我们的PDF合并服务时，我们如何收集、使用和保护您的信息。",
-    "Updated": "最后更新：",
-    "date": "2025年6月6日"
+    "Policy": {
+      "title": "隐私政策",
+      "desc": "我们致力于保护您的隐私，确保您的文件安全。了解当您使用我们的PDF合并服务时，我们如何收集、使用和保护您的信息。",
+      "Updated": "最后更新：",
+      "date": "2025年6月6日"
+    },
+    "Terms": {
+      "title": "服务条款",
+      "desc": "这些条款规范您使用我们的PDF合并服务。请在使用本站前仔细阅读。",
+      "Updated": "最后更新：",
+      "date": "2025年6月6日"
+    }
   },
-  "Terms": {
-    "title": "服务条款",
-    "desc": "这些条款规范您使用我们的PDF合并服务。请在使用本站前仔细阅读。",
-    "Updated": "最后更新：",
-    "date": "2025年6月6日"
+  "MiniFooter": {
+    "heading": "准备好安全合并您的PDF了吗？",
+    "subheading": "体验我们注重隐私的PDF合并服务，安心无忧。",
+    "button": "立即合并PDF"
   }
-},
-"MiniFooter": {
-  "heading": "准备好安全合并您的PDF了吗？",
-  "subheading": "体验我们注重隐私的PDF合并服务，安心无忧。",
-  "button": "立即合并PDF"
-}
-
 }

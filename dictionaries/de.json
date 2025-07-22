@@ -947,6 +947,28 @@
         ]
       }
     ],
+    "sections2": {
+      "title": "Unser Datenschutzversprechen",
+      "desc": "Wir nehmen Ihre Privatsphäre ernst. Das macht unseren Service vertrauenswürdig:",
+      "points": [
+        {
+          "title": "Automatisches Löschen",
+          "desc": "Dateien werden innerhalb von 1 Stunde automatisch gelöscht"
+        },
+        {
+          "title": "Verschlüsselte Übertragung",
+          "desc": "Alle Uploads verwenden sichere HTTPS-Verschlüsselung"
+        },
+        {
+          "title": "Kein Datei-Einblick",
+          "desc": "Wir greifen niemals auf Ihre Dateien zu oder lesen deren Inhalte"
+        },
+        {
+          "title": "Kein Teilen",
+          "desc": "Ihre Dateien werden niemals mit Dritten geteilt"
+        }
+      ]
+    },
     "footer": {
       "heading": "Haben Sie Fragen?",
       "description": "Wir helfen Ihnen gerne bei Fragen zum Datenschutz.",
@@ -1192,6 +1214,28 @@
         ]
       }
     ],
+    "sections2": {
+      "title": "Wichtige Vereinbarungspunkte",
+      "desc": "Verstehen Sie Ihre Rechte und Pflichten bei der Nutzung unseres Dienstes.",
+      "points": [
+        {
+          "title": "Faire Nutzung",
+          "desc": "Nutzen Sie unseren Dienst verantwortungsvoll und gesetzeskonform"
+        },
+        {
+          "title": "Ihre Dateien",
+          "desc": "Sie behalten das Eigentum an allen hochgeladenen Dateien"
+        },
+        {
+          "title": "Kein Missbrauch",
+          "desc": "Verbotene Nutzungen führen zur Beendigung des Dienstes"
+        },
+        {
+          "title": "Begrenzte Haftung",
+          "desc": "Der Dienst wird „wie besehen“ ohne Gewährleistungen bereitgestellt"
+        }
+      ]
+    },
     "footer": {
       "heading": "Haben Sie Fragen?",
       "description": "Wir helfen Ihnen gerne bei Fragen zu unseren Bedingungen oder Dienstleistungen.",

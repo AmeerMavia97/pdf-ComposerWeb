@@ -938,6 +938,28 @@
         ]
       }
     ],
+    "sections2": {
+      "title": "Nasze Zobowiązanie do Prywatności",
+      "desc": "Traktujemy Twoją prywatność poważnie. Oto co sprawia, że nasza usługa jest godna zaufania:",
+      "points": [
+        {
+          "title": "Automatyczne Usuwanie",
+          "desc": "Pliki są automatycznie usuwane w ciągu 1 godziny"
+        },
+        {
+          "title": "Szyfrowany Transfer",
+          "desc": "Wszystkie przesyłane pliki korzystają z bezpiecznego szyfrowania HTTPS"
+        },
+        {
+          "title": "Brak Odczytu Plików",
+          "desc": "Nigdy nie uzyskujemy dostępu ani nie czytamy zawartości Twoich plików"
+        },
+        {
+          "title": "Brak Udostępniania",
+          "desc": "Twoje pliki nigdy nie są udostępniane osobom trzecim"
+        }
+      ]
+    },
     "footer": {
       "heading": "Masz pytania?",
       "description": "Jesteśmy tutaj, aby pomóc w przypadku jakichkolwiek pytań lub wątpliwości dotyczących prywatności.",
@@ -1183,6 +1205,28 @@
         ]
       }
     ],
+    "sections2": {
+      "title": "Kluczowe Punkty Umowy",
+      "desc": "Zrozum swoje prawa i obowiązki podczas korzystania z naszej usługi.",
+      "points": [
+        {
+          "title": "Uczciwe Korzystanie",
+          "desc": "Korzystaj z naszej usługi odpowiedzialnie i zgodnie z prawem"
+        },
+        {
+          "title": "Twoje Pliki",
+          "desc": "Zachowujesz własność wszystkich przesłanych plików"
+        },
+        {
+          "title": "Brak Nadużyć",
+          "desc": "Zakazane użycie spowoduje zakończenie korzystania z usługi"
+        },
+        {
+          "title": "Ograniczona Odpowiedzialność",
+          "desc": "Usługa jest świadczona \"tak jak jest\" bez gwarancji"
+        }
+      ]
+    },
     "footer": {
       "heading": "Masz pytania?",
       "description": "Chętnie pomożemy w kwestiach dotyczących warunków lub usług.",

@@ -947,6 +947,28 @@
         ]
       }
     ],
+    "sections2": {
+      "title": "Nosso Compromisso com a Privacidade",
+      "desc": "Levamos sua privacidade a sério. Veja o que torna nosso serviço confiável",
+      "points": [
+        {
+          "title": "Exclusão Automática",
+          "desc": "Arquivos excluídos automaticamente em até 1 hora"
+        },
+        {
+          "title": "Transferência Criptografada",
+          "desc": "Todos os uploads utilizam criptografia HTTPS segura"
+        },
+        {
+          "title": "Sem Leitura de Arquivos",
+          "desc": "Nunca acessamos ou lemos o conteúdo dos seus arquivos"
+        },
+        {
+          "title": "Sem Compartilhamento",
+          "desc": "Seus arquivos nunca são compartilhados com terceiros"
+        }
+      ]
+    },
     "footer": {
       "heading": "Tem Alguma Dúvida?",
       "description": "Estamos aqui para ajudar com quaisquer dúvidas ou preocupações sobre privacidade.",
@@ -1192,6 +1214,28 @@
         ]
       }
     ],
+    "sections2": {
+      "title": "Pontos Principais do Acordo",
+      "desc": "Entenda seus direitos e responsabilidades ao usar nosso serviço.",
+      "points": [
+        {
+          "title": "Uso Justo",
+          "desc": "Use nosso serviço de forma responsável e legal"
+        },
+        {
+          "title": "Seus Arquivos",
+          "desc": "Você mantém a propriedade de todos os arquivos enviados"
+        },
+        {
+          "title": "Sem Abuso",
+          "desc": "Usos proibidos resultarão em término do serviço"
+        },
+        {
+          "title": "Responsabilidade Limitada",
+          "desc": "Serviço fornecido 'como está', sem garantias"
+        }
+      ]
+    },
     "footer": {
       "heading": "Tem dúvidas?",
       "description": "Estamos aqui para ajudar em qualquer questão sobre nossos termos ou serviços.",

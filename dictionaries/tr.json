@@ -946,6 +946,28 @@
         ]
       }
     ],
+    "sections2": {
+      "title": "Gizlilik Taahhüdümüz",
+      "desc": "Gizliliğinize önem veriyoruz. İşte hizmetimizi güvenilir kılan özellikler:",
+      "points": [
+        {
+          "title": "Otomatik Silme",
+          "desc": "Dosyalar 1 saat içinde otomatik olarak silinir"
+        },
+        {
+          "title": "Şifreli Transfer",
+          "desc": "Tüm yüklemeler güvenli HTTPS şifrelemesi kullanır"
+        },
+        {
+          "title": "Dosya Okuma Yok",
+          "desc": "Dosya içeriklerinize asla erişmeyiz veya okumayız"
+        },
+        {
+          "title": "Paylaşım Yok",
+          "desc": "Dosyalarınız üçüncü taraflarla asla paylaşılmaz"
+        }
+      ]
+    },
     "footer": {
       "heading": "Sorularınız mı Var?",
       "description": "Gizlilikle ilgili her türlü endişe veya soru için buradayız.",
@@ -1191,6 +1213,28 @@
         ]
       }
     ],
+    "sections2": {
+      "title": "Ana Sözleşme Maddeleri",
+      "desc": "Hizmetimizi kullanırken haklarınızı ve sorumluluklarınızı anlayın.",
+      "points": [
+        {
+          "title": "Adil Kullanım",
+          "desc": "Hizmetimizi sorumlu ve yasal olarak kullanın"
+        },
+        {
+          "title": "Dosyalarınız",
+          "desc": "Yüklediğiniz tüm dosyaların sahipliği sizde kalır"
+        },
+        {
+          "title": "Kötüye Kullanım Yok",
+          "desc": "Yasaklanan kullanımlar hizmetin sonlandırılmasına yol açar"
+        },
+        {
+          "title": "Sınırlı Sorumluluk",
+          "desc": "Hizmet \"olduğu gibi\" sağlanmakta olup garanti verilmemektedir"
+        }
+      ]
+    },
     "footer": {
       "heading": "Sorularınız mı Var?",
       "description": "Her türlü hizmet veya koşul sorunuz için buradayız.",

@@ -947,6 +947,28 @@
         ]
       }
     ],
+    "sections2": {
+      "title": "Cam kết về quyền riêng tư của chúng tôi",
+      "desc": "Chúng tôi coi trọng quyền riêng tư của bạn. Dưới đây là những yếu tố làm cho dịch vụ của chúng tôi đáng tin cậy:",
+      "points": [
+        {
+          "title": "Xóa tự động",
+          "desc": "Tệp sẽ tự động bị xóa trong vòng 1 giờ"
+        },
+        {
+          "title": "Truyền tải mã hóa",
+          "desc": "Tất cả các tệp tải lên đều sử dụng mã hóa HTTPS an toàn"
+        },
+        {
+          "title": "Không đọc tệp",
+          "desc": "Chúng tôi không bao giờ truy cập hoặc đọc nội dung tệp của bạn"
+        },
+        {
+          "title": "Không chia sẻ",
+          "desc": "Tệp của bạn không bao giờ được chia sẻ với bên thứ ba"
+        }
+      ]
+    },
     "footer": {
       "heading": "Bạn có câu hỏi?",
       "description": "Chúng tôi sẵn sàng giúp đỡ mọi mối quan tâm hoặc câu hỏi liên quan đến quyền riêng tư.",
@@ -1192,6 +1214,28 @@
         ]
       }
     ],
+    "sections2": {
+      "title": "Các điểm chính trong thỏa thuận",
+      "desc": "Hiểu rõ quyền lợi và trách nhiệm của bạn khi sử dụng dịch vụ của chúng tôi.",
+      "points": [
+        {
+          "title": "Sử dụng công bằng",
+          "desc": "Sử dụng dịch vụ của chúng tôi một cách có trách nhiệm và hợp pháp"
+        },
+        {
+          "title": "Tệp của bạn",
+          "desc": "Bạn giữ quyền sở hữu tất cả các tệp đã tải lên"
+        },
+        {
+          "title": "Không lạm dụng",
+          "desc": "Việc sử dụng sai mục đích sẽ dẫn đến việc chấm dứt dịch vụ"
+        },
+        {
+          "title": "Trách nhiệm hạn chế",
+          "desc": "Dịch vụ được cung cấp 'như hiện tại' mà không có bảo đảm"
+        }
+      ]
+    },
     "footer": {
       "heading": "Bạn Có Thắc Mắc?",
       "description": "Chúng tôi sẵn sàng hỗ trợ mọi thắc mắc về điều khoản hoặc dịch vụ.",

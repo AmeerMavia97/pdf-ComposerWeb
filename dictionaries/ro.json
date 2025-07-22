@@ -947,6 +947,28 @@
         ]
       }
     ],
+    "sections2": {
+      "title": "Angajamentul nostru față de confidențialitate",
+      "desc": "Luăm în serios confidențialitatea dumneavoastră. Iată ce face serviciul nostru de încredere",
+      "points": [
+        {
+          "title": "Ștergere automată",
+          "desc": "Fișierele sunt șterse automat în termen de 1 oră"
+        },
+        {
+          "title": "Transfer criptat",
+          "desc": "Toate încărcările utilizează criptare HTTPS sigură"
+        },
+        {
+          "title": "Fără citirea fișierelor",
+          "desc": "Nu accesăm și nu citim niciodată conținutul fișierelor dumneavoastră"
+        },
+        {
+          "title": "Fără partajare",
+          "desc": "Fișierele dumneavoastră nu sunt niciodată partajate cu terțe părți"
+        }
+      ]
+    },
     "footer": {
       "heading": "Aveți Întrebări?",
       "description": "Suntem aici să vă ajutăm cu orice întrebări sau îngrijorări legate de confidențialitate.",
@@ -1192,6 +1214,28 @@
         ]
       }
     ],
+    "sections2": {
+      "title": "Puncte cheie ale acordului",
+      "desc": "Înțelegeți drepturile și responsabilitățile dumneavoastră atunci când utilizați serviciul nostru.",
+      "points": [
+        {
+          "title": "Utilizare corectă",
+          "desc": "Utilizați serviciul nostru într-un mod responsabil și legal"
+        },
+        {
+          "title": "Fișierele dumneavoastră",
+          "desc": "Păstrați dreptul de proprietate asupra tuturor fișierelor încărcate"
+        },
+        {
+          "title": "Fără abuz",
+          "desc": "Utilizările interzise vor duce la încetarea serviciului"
+        },
+        {
+          "title": "Răspundere limitată",
+          "desc": "Serviciul este furnizat 'așa cum este', fără garanții"
+        }
+      ]
+    },
     "footer": {
       "heading": "Aveți întrebări?",
       "description": "Suntem aici să vă ajutăm cu orice nelămuriri legate de termenii sau serviciile noastre.",

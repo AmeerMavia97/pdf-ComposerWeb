@@ -946,6 +946,28 @@
         ]
       }
     ],
+    "sections2": {
+      "title": "Komitmen Privasi Kami",
+      "desc": "Kami amat serius menjaga privasi anda. Berikut adalah sebab mengapa perkhidmatan kami boleh dipercayai",
+      "points": [
+        {
+          "title": "Padam Automatik",
+          "desc": "Fail akan dipadam secara automatik dalam masa 1 jam"
+        },
+        {
+          "title": "Pemindahan Terenkripsi",
+          "desc": "Semua muat naik menggunakan enkripsi HTTPS yang selamat"
+        },
+        {
+          "title": "Tiada Pembacaan Fail",
+          "desc": "Kami tidak pernah mengakses atau membaca kandungan fail anda"
+        },
+        {
+          "title": "Tiada Perkongsian",
+          "desc": "Fail anda tidak pernah dikongsi dengan pihak ketiga"
+        }
+      ]
+    },
     "footer": {
       "heading": "Ada Soalan?",
       "description": "Kami sedia membantu sekiranya anda mempunyai sebarang kebimbangan atau pertanyaan tentang privasi.",
@@ -1191,6 +1213,28 @@
         ]
       }
     ],
+    "sections2": {
+      "title": "Poin Utama Perjanjian",
+      "desc": "Memahami hak dan tanggungjawab anda semasa menggunakan perkhidmatan kami.",
+      "points": [
+        {
+          "title": "Penggunaan Adil",
+          "desc": "Gunakan perkhidmatan kami secara bertanggungjawab dan sah"
+        },
+        {
+          "title": "Fail Anda",
+          "desc": "Anda mengekalkan pemilikan semua fail yang dimuat naik"
+        },
+        {
+          "title": "Tiada Penyalahgunaan",
+          "desc": "Penggunaan yang dilarang akan mengakibatkan penamatan perkhidmatan"
+        },
+        {
+          "title": "Tanggungjawab Terhad",
+          "desc": "Perkhidmatan disediakan 'seadanya' tanpa sebarang jaminan"
+        }
+      ]
+    },
     "footer": {
       "heading": "Ada Soalan?",
       "description": "Kami sedia membantu anda berkaitan terma atau perkhidmatan.",

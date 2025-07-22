@@ -946,6 +946,28 @@
         ]
       }
     ],
+    "sections2": {
+  "title": "Naša posvećenost privatnosti",
+  "desc": "Ozbiljno shvaćamo vašu privatnost. Ovo su razlozi zbog kojih je naša usluga pouzdana",
+  "points": [
+    {
+      "title": "Automatsko brisanje",
+      "desc": "Datoteke se automatski brišu unutar 1 sata"
+    },
+    {
+      "title": "Šifrirani prijenos",
+      "desc": "Svi prijenosi koriste sigurnu HTTPS šifru"
+    },
+    {
+      "title": "Bez čitanja datoteka",
+      "desc": "Nikada ne pristupamo niti čitamo sadržaj vaših datoteka"
+    },
+    {
+      "title": "Bez dijeljenja",
+      "desc": "Vaše datoteke nikada se ne dijele s trećim stranama"
+    }
+  ]
+},
     "footer": {
       "heading": "Imate pitanja?",
       "description": "Tu smo da pomognemo s bilo kakvim pitanjima ili zabrinutostima oko privatnosti.",
@@ -1191,6 +1213,28 @@
         ]
       }
     ],
+    "sections2": {
+  "title": "Ključne točke ugovora",
+  "desc": "Razumijevanje vaših prava i odgovornosti pri korištenju naše usluge.",
+  "points": [
+    {
+      "title": "Poštena uporaba",
+      "desc": "Koristite našu uslugu odgovorno i zakonito"
+    },
+    {
+      "title": "Vaše datoteke",
+      "desc": "Zadržavate vlasništvo nad svim prenesenim datotekama"
+    },
+    {
+      "title": "Bez zloupotrebe",
+      "desc": "Zabranjena uporaba rezultirat će ukidanjem usluge"
+    },
+    {
+      "title": "Ograničena odgovornost",
+      "desc": "Usluga se pruža \"kako jest\" bez jamstava"
+    }
+  ]
+},
     "footer": {
       "heading": "Imate pitanja?",
       "description": "Rado ćemo vam pomoći oko bilo kakvih pitanja o uvjetima ili usluzi.",

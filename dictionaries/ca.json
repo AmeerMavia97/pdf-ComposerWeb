@@ -946,6 +946,28 @@
         ]
       }
     ],
+    "sections2": {
+      "title": "El Nostre Compromís de Privadesa",
+      "desc": "Ens prenem la teva privadesa seriosament. Això és el que fa que el nostre servei sigui de confiança:",
+      "points": [
+        {
+          "title": "Esborrat Automàtic",
+          "desc": "Els fitxers s'esborren automàticament en un termini d’1 hora"
+        },
+        {
+          "title": "Transferència Xifrada",
+          "desc": "Totes les càrregues utilitzen xifratge HTTPS segur"
+        },
+        {
+          "title": "No Llegim els Fitxers",
+          "desc": "Mai accedim ni llegim el contingut dels teus fitxers"
+        },
+        {
+          "title": "Sense Compartició",
+          "desc": "Els teus fitxers mai es comparteixen amb tercers"
+        }
+      ]
+    },
     "footer": {
       "heading": "Tens dubtes?",
       "description": "Estem aquí per ajudar-te amb qualsevol dubte o preocupació sobre la privacitat.",
@@ -1191,6 +1213,28 @@
         ]
       }
     ],
+    "sections2": {
+      "title": "Punts Clau de l’Acord",
+      "desc": "Entén els teus drets i responsabilitats quan utilitzes el nostre servei.",
+      "points": [
+        {
+          "title": "Ús Responsable",
+          "desc": "Utilitza el nostre servei de manera responsable i legal"
+        },
+        {
+          "title": "Els Teus Fitxers",
+          "desc": "Conserves la propietat de tots els fitxers carregats"
+        },
+        {
+          "title": "Prohibició d’Abús",
+          "desc": "Els usos prohibits poden comportar la terminació del servei"
+        },
+        {
+          "title": "Responsabilitat Limitada",
+          "desc": "El servei es proporciona \"tal qual\" sense garanties"
+        }
+      ]
+    },
     "footer": {
       "heading": "Tens preguntes?",
       "description": "Estem aquí per ajudar-te amb qualsevol dubte sobre els termes o el servei.",

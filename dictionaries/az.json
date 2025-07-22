@@ -947,6 +947,28 @@
         ]
       }
     ],
+    "sections2": {
+      "title": "Məxfilik Öhdəliyimiz",
+      "desc": "Məxfiliyiniz bizim üçün önəmlidir. Xidmətimizin etibarlı olmasının səbəbləri:",
+      "points": [
+        {
+          "title": "Avtomatik Silinmə",
+          "desc": "Fayllar 1 saat ərzində avtomatik olaraq silinir"
+        },
+        {
+          "title": "Şifrələnmiş Transfer",
+          "desc": "Bütün yükləmələr təhlükəsiz HTTPS şifrələməsi ilə həyata keçirilir"
+        },
+        {
+          "title": "Fayllarınıza Baxılmır",
+          "desc": "Fayl məzmununu heç vaxt oxumur və ya daxil olmuruq"
+        },
+        {
+          "title": "Paylaşım Yoxdur",
+          "desc": "Fayllarınız üçüncü tərəflərlə heç vaxt paylaşılmır"
+        }
+      ]
+    },
     "footer": {
       "heading": "Sualınız var?",
       "description": "Məxfiliklə bağlı istənilən sual və ya narahatlığa kömək etməyə hazırıq.",
@@ -1192,6 +1214,28 @@
         ]
       }
     ],
+    "sections2": {
+      "title": "Əsas Razılaşma Maddələri",
+      "desc": "Xidmətimizdən istifadə zamanı hüquq və öhdəliklərinizi anlayın.",
+      "points": [
+        {
+          "title": "Ədalətli İstifadə",
+          "desc": "Xidmətdən məsuliyyətli və qanuni şəkildə istifadə edin"
+        },
+        {
+          "title": "Sizin Fayllarınız",
+          "desc": "Yüklədiyiniz bütün faylların sahibi siz olaraq qalarsınız"
+        },
+        {
+          "title": "Sui-istifadə Yoxdur",
+          "desc": "Qadağan olunmuş istifadələr hesabın dayandırılmasına səbəb olacaq"
+        },
+        {
+          "title": "Məhdud Məsuliyyət",
+          "desc": "Xidmət \"olduğu kimi\" təqdim olunur və heç bir zəmanət verilmir"
+        }
+      ]
+    },
     "footer": {
       "heading": "Suallarınız var?",
       "description": "Şərtlərlə və ya xidmətlə bağlı istənilən sual üçün sizə kömək etməyə hazırıq.",

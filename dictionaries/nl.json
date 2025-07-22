@@ -946,6 +946,28 @@
         ]
       }
     ],
+    "sections2": {
+      "title": "Onze Privacybelofte",
+      "desc": "We nemen je privacy serieus. Dit maakt onze dienst betrouwbaar:",
+      "points": [
+        {
+          "title": "Automatisch Verwijderen",
+          "desc": "Bestanden worden binnen 1 uur automatisch verwijderd"
+        },
+        {
+          "title": "Versleutelde Overdracht",
+          "desc": "Alle uploads gebruiken veilige HTTPS-versleuteling"
+        },
+        {
+          "title": "Geen Bestandslezing",
+          "desc": "We hebben nooit toegang tot of lezen de inhoud van je bestanden"
+        },
+        {
+          "title": "Geen Delen",
+          "desc": "Je bestanden worden nooit gedeeld met derden"
+        }
+      ]
+    },
     "footer": {
       "heading": "Vragen?",
       "description": "Wij helpen u graag met privacy-gerelateerde vragen of opmerkingen.",
@@ -1191,6 +1213,28 @@
         ]
       }
     ],
+    "sections2": {
+      "title": "Belangrijke Overeenkomstoppunten",
+      "desc": "Begrijp je rechten en verantwoordelijkheden bij het gebruik van onze dienst.",
+      "points": [
+        {
+          "title": "Eerlijk Gebruik",
+          "desc": "Gebruik onze dienst verantwoord en wettelijk"
+        },
+        {
+          "title": "Jouw Bestanden",
+          "desc": "Je behoudt het eigendom van alle geüploade bestanden"
+        },
+        {
+          "title": "Geen Misbruik",
+          "desc": "Verboden gebruik leidt tot beëindiging"
+        },
+        {
+          "title": "Beperkte Aansprakelijkheid",
+          "desc": "De dienst wordt geleverd \"zoals het is\" zonder garanties"
+        }
+      ]
+    },
     "footer": {
       "heading": "Vragen?",
       "description": "Wij staan klaar om te helpen bij vragen over onze voorwaarden of diensten.",
@@ -1209,23 +1253,22 @@
     }
   },
   "Content": {
-  "Policy": {
-    "title": "Privacybeleid",
-    "desc": "Wij zetten ons in om uw privacy te beschermen en de veiligheid van uw bestanden te waarborgen. Ontdek hoe wij uw gegevens verzamelen, gebruiken en beschermen wanneer u onze PDF samenvoegservice gebruikt.",
-    "Updated": "Laatst bijgewerkt:",
-    "date": "6 juni 2025"
+    "Policy": {
+      "title": "Privacybeleid",
+      "desc": "Wij zetten ons in om uw privacy te beschermen en de veiligheid van uw bestanden te waarborgen. Ontdek hoe wij uw gegevens verzamelen, gebruiken en beschermen wanneer u onze PDF samenvoegservice gebruikt.",
+      "Updated": "Laatst bijgewerkt:",
+      "date": "6 juni 2025"
+    },
+    "Terms": {
+      "title": "Servicevoorwaarden",
+      "desc": "Deze voorwaarden regelen uw gebruik van onze PDF samenvoegservice. Lees ze zorgvuldig door voordat u onze site gebruikt.",
+      "Updated": "Laatst bijgewerkt:",
+      "date": "6 juni 2025"
+    }
   },
-  "Terms": {
-    "title": "Servicevoorwaarden",
-    "desc": "Deze voorwaarden regelen uw gebruik van onze PDF samenvoegservice. Lees ze zorgvuldig door voordat u onze site gebruikt.",
-    "Updated": "Laatst bijgewerkt:",
-    "date": "6 juni 2025"
+  "MiniFooter": {
+    "heading": "Klaar om uw PDF's veilig samen te voegen?",
+    "subheading": "Ervaar onze privacygerichte PDF samenvoegservice met volledige gemoedsrust.",
+    "button": "PDF's nu samenvoegen"
   }
-},
-"MiniFooter": {
-  "heading": "Klaar om uw PDF's veilig samen te voegen?",
-  "subheading": "Ervaar onze privacygerichte PDF samenvoegservice met volledige gemoedsrust.",
-  "button": "PDF's nu samenvoegen"
-}
-
 }

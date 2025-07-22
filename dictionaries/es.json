@@ -947,6 +947,28 @@
         ]
       }
     ],
+    "sections2": {
+      "title": "Nuestro Compromiso de Privacidad",
+      "desc": "Nos tomamos tu privacidad en serio. Esto es lo que hace que nuestro servicio sea confiable:",
+      "points": [
+        {
+          "title": "Eliminación Automática",
+          "desc": "Los archivos se eliminan automáticamente en un plazo de 1 hora"
+        },
+        {
+          "title": "Transferencia Encriptada",
+          "desc": "Todas las cargas usan cifrado HTTPS seguro"
+        },
+        {
+          "title": "No Lectura de Archivos",
+          "desc": "Nunca accedemos ni leemos el contenido de tus archivos"
+        },
+        {
+          "title": "No Compartir",
+          "desc": "Tus archivos nunca se comparten con terceros"
+        }
+      ]
+    },
     "footer": {
       "heading": "¿Tiene Preguntas?",
       "description": "Estamos aquí para ayudarle con cualquier inquietud o pregunta relacionada con la privacidad.",
@@ -1192,6 +1214,28 @@
         ]
       }
     ],
+    "sections2": {
+      "title": "Puntos Clave del Acuerdo",
+      "desc": "Entiende tus derechos y responsabilidades al usar nuestro servicio.",
+      "points": [
+        {
+          "title": "Uso Justo",
+          "desc": "Usa nuestro servicio de manera responsable y legal"
+        },
+        {
+          "title": "Tus Archivos",
+          "desc": "Mantienes la propiedad de todos los archivos cargados"
+        },
+        {
+          "title": "No Abuso",
+          "desc": "Los usos prohibidos resultarán en la terminación del servicio"
+        },
+        {
+          "title": "Responsabilidad Limitada",
+          "desc": "El servicio se ofrece \"tal cual\" sin garantías"
+        }
+      ]
+    },
     "footer": {
       "heading": "¿Tiene preguntas?",
       "description": "Estamos aquí para ayudarle con cualquier duda sobre los términos o el servicio.",

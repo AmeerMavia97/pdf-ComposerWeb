@@ -946,6 +946,28 @@
         ]
       }
     ],
+    "sections2": {
+      "title": "Ang Aming Pangako sa Pagkapribado",
+      "desc": "Seriyoso kami sa iyong pagkapribado. Narito kung bakit mapagkakatiwalaan ang aming serbisyo",
+      "points": [
+        {
+          "title": "Awtomatikong Pagtanggal",
+          "desc": "Ang mga file ay awtomatikong tinatanggal sa loob ng 1 oras"
+        },
+        {
+          "title": "Encrypted na Paglipat",
+          "desc": "Lahat ng mga upload ay gumagamit ng secure na HTTPS encryption"
+        },
+        {
+          "title": "Walang Pagbasa ng File",
+          "desc": "Hindi namin kailanman ina-access o binabasa ang nilalaman ng iyong mga file"
+        },
+        {
+          "title": "Walang Pagbabahagi",
+          "desc": "Ang iyong mga file ay hindi kailanman ibinabahagi sa mga third party"
+        }
+      ]
+    },
     "footer": {
       "heading": "May Mga Tanong Ka Ba?",
       "description": "Narito kami upang tumulong sa anumang alalahanin o tanong tungkol sa privacy.",
@@ -1191,6 +1213,29 @@
         ]
       }
     ],
+
+    "sections2": {
+      "title": "Mga Pangunahing Punto ng Kasunduan",
+      "desc": "Unawain ang iyong mga karapatan at responsibilidad kapag ginagamit ang aming serbisyo.",
+      "points": [
+        {
+          "title": "Makatarungang Paggamit",
+          "desc": "Gamitin ang aming serbisyo nang responsable at ayon sa batas"
+        },
+        {
+          "title": "Iyong Mga File",
+          "desc": "Ikaw ang may-ari ng lahat ng mga na-upload na file"
+        },
+        {
+          "title": "Walang Pang-aabuso",
+          "desc": "Ang ipinagbabawal na paggamit ay magreresulta sa pagtigil ng serbisyo"
+        },
+        {
+          "title": "Limitadong Pananagutan",
+          "desc": "Ang serbisyo ay ibinibigay 'as is' nang walang mga garantiya"
+        }
+      ]
+    },
     "footer": {
       "heading": "May mga Katanungan?",
       "description": "Narito kami upang tumulong sa anumang katanungan tungkol sa serbisyo o tuntunin.",

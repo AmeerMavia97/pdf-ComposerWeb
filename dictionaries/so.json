@@ -946,6 +946,29 @@
         ]
       }
     ],
+    "sections2": {
+      "title": "Ballanqaadkeenna Asturnaanta",
+      "desc": "Waxaan si dhab ah u qaadannaa asturnaantaada. Tani waa waxa ka dhigaya adeeggeenna mid lagu kalsoonaan karo:",
+      "points": [
+        {
+          "title": "Tirtirid Toos ah",
+          "desc": "Faylasha waxaa si toos ah loo tirtiraa gudaheed 1 saac"
+        },
+        {
+          "title": "Gudbinta Sirta ah",
+          "desc": "Dhammaan faylasha la soo geliyo waxaa lagu gudbiyaa HTTPS oo ammaan ah"
+        },
+        {
+          "title": "Ma Aqrinno Faylasha",
+          "desc": "Waligey ma galno mana akhrino waxa ku jira faylashaada"
+        },
+        {
+          "title": "Ma Wadaagno",
+          "desc": "Faylashaada waligood lama wadaagi doono dhinac saddexaad"
+        }
+      ]
+    },
+
     "footer": {
       "heading": "Su'aalo Ma Qabta?",
       "description": "Waxaan diyaar u nahay inaan kaa caawino arrin kasta oo ku saabsan asturnaanta.",
@@ -1191,6 +1214,29 @@
         ]
       }
     ],
+    "sections2": {
+      "title": "Qodobbada Muhiimka ah ee Heshiiska",
+      "desc": "Fahmaan xuquuqdaada iyo waajibaadkaaga marka aad adeegsanayso adeeggeenna.",
+      "points": [
+        {
+          "title": "Isticmaalka Cadaalada ah",
+          "desc": "Adeegso adeeggeenna si masuuliyad leh oo sharci ah"
+        },
+        {
+          "title": "Faylashaada",
+          "desc": "Waxaad sii haysataa lahaanshaha dhammaan faylasha la soo geliyo"
+        },
+        {
+          "title": "Ma Jirto Xadgudub",
+          "desc": "Isticmaalka mamnuuca ah wuxuu keeni doonaa joojinta adeegga"
+        },
+        {
+          "title": "Mas'uuliyad Xadidan",
+          "desc": "Adeegga waxaa la siiyaa \"sidii uu yahay\" iyada oo aan dammaanad la siin"
+        }
+      ]
+    },
+
     "footer": {
       "heading": "Su'aalo Ma Qabta?",
       "description": "Waxaan diyaar u nahay inaan kaa caawinno wixii su'aalo ah ee la xiriira shuruudaha ama adeegga.",

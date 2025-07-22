@@ -946,6 +946,28 @@
         ]
       }
     ],
+    "sections2": {
+      "title": "Naše závazky ohledně soukromí",
+      "desc": "Vážně bereme vaše soukromí. Toto dělá naši službu důvěryhodnou",
+      "points": [
+        {
+          "title": "Automatické smazání",
+          "desc": "Soubory jsou automaticky smazány do 1 hodiny"
+        },
+        {
+          "title": "Šifrovaný přenos",
+          "desc": "Všechny nahrávání používají bezpečné HTTPS šifrování"
+        },
+        {
+          "title": "Žádné čtení souborů",
+          "desc": "Nikdy nečteme ani nezpracováváme obsah vašich souborů"
+        },
+        {
+          "title": "Žádné sdílení",
+          "desc": "Vaše soubory nikdy nesdílíme s třetími stranami"
+        }
+      ]
+    },
     "footer": {
       "heading": "Máte otázky?",
       "description": "Rádi vám pomůžeme s jakýmikoli otázkami ohledně soukromí.",
@@ -1191,6 +1213,28 @@
         ]
       }
     ],
+    "sections2": {
+      "title": "Klíčové body dohody",
+      "desc": "Porozumění vašim právům a povinnostem při používání naší služby.",
+      "points": [
+        {
+          "title": "Spravedlivé použití",
+          "desc": "Používejte naši službu odpovědně a zákonně"
+        },
+        {
+          "title": "Vaše soubory",
+          "desc": "Vlastníte všechna práva ke svým nahraným souborům"
+        },
+        {
+          "title": "Žádné zneužívání",
+          "desc": "Zakázané použití povede k ukončení služby"
+        },
+        {
+          "title": "Omezená odpovědnost",
+          "desc": "Služba je poskytována „jak je“ bez záruk"
+        }
+      ]
+    },
     "footer": {
       "heading": "Máte dotazy?",
       "description": "Jsme tu, abychom vám pomohli s jakýmikoli otázkami ohledně podmínek nebo služeb.",
