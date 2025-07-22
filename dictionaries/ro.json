@@ -348,7 +348,327 @@
     "mostPopular": "Cele mai Populare Acest Săptămână",
     "readArticle": "Citește articolul",
     "readFull": "Citește întregul articol",
-    "minRead": "min citire"
+    "minRead": "min citire",
+    "featureblog": {
+      "title": "Cele Mai Populare Săptămâna Aceasta",
+      "subtitle": "⭐ Articol Recomandat",
+      "featuredArticle": {
+        "date": "2 iulie 2025",
+        "author": "Admin User",
+        "category": "Articol Recomandat",
+        "headline": "GabungPDF.id: Cea Mai Ușoară Modalitate de a Combina Fișiere PDF",
+        "excerpt": "Combină cu ușurință fișiere PDF cu GabungPDF.id, combinatorul online gratuit de PDF-uri. Unește PDF-urile în siguranță, în câteva secunde, fără software. Crește-ți productivitatea chiar acum!",
+        "readTime": "3 minute de citit",
+        "buttonName": "Citește Articolul Complet"
+      }
+    },
+    "blogsPage": {
+      "cards": [
+        {
+          "BlogImage": "/Blog1Image.webp",
+          "date": "2 iunie 2025",
+          "author": "Utilizator Admin",
+          "category": null,
+          "headline": "GabungPDF.id: Instrumentul suprem pentru combinarea fișierelor PDF",
+          "headlineLink": "/blog/gabungpdfid-the-ultimate-tool-to-combine-pdf-files",
+          "excerpt": "Combină fișiere PDF cu ușurință folosind GabungPDF.id, combinatorul tău online gratuit de PDF-uri. Unește PDF-urile în siguranță în câteva secunde—fără software. Încearcă platforma noastră-",
+          "readTime": "3 minute de citit",
+          "readMoreText": "blog.readArticle",
+          "slug": "gabungpdfid-the-ultimate-tool-to-combine-pdf-files",
+          "detail": {
+            "intro": "La GabungPDF.id, am creat un instrument online, ușor de utilizat, pentru a te ajuta să combini fișiere PDF fără bătăi de cap. Indiferent dacă ești expert în tehnologie sau începător, platforma noastră este concepută pentru toată lumea. Iată de ce GabungPDF.id este cel mai bun instrument de combinare a PDF-urilor:",
+            "features": [
+              {
+                "title": "Gratuit și accesibil",
+                "description": "Fără abonamente sau taxe ascunse—doar încarci și combini."
+              },
+              {
+                "title": "Fără instalare de software",
+                "description": "Instrumentul nostru funcționează complet online, economisind spațiu pe dispozitivul tău."
+              },
+              {
+                "title": "Rapid și sigur",
+                "description": "Combină PDF-uri în câteva secunde cu criptare solidă pentru a-ți proteja fișierele."
+              },
+              {
+                "title": "Interfață prietenoasă",
+                "description": "Trage, plasează și combină fișierele cu doar câteva clicuri."
+              }
+            ],
+            "intro2": "Gata să-ți simplifici gestionarea documentelor? Iată cum poți folosi combinatorul nostru PDF pentru a îmbina fișiere PDF în câțiva pași simpli.",
+            "how_to_use": {
+              "title": "Cum să combini fișiere PDF cu GabungPDF.id",
+              "paragraph": "Combinarea PDF-urilor cu GabungPDF.id e la fel de simplă ca 1-2-3. Urmează acești pași pentru a crea un document PDF complet și ordonat:",
+              "steps": [
+                {
+                  "title": "Încarcă fișierele tale",
+                  "description": "Vizitează https://gabungpdf.id/ și apasă butonul „Upload”. Selectează fișierele PDF pe care vrei să le combini de pe dispozitivul tău. Poți încărca mai multe fișiere simultan."
+                },
+                {
+                  "title": "Ordonează fișierele",
+                  "description": "Trage și plasează fișierele pentru a le aranja în ordinea dorită. Așa te asiguri că documentul final are un flux logic."
+                },
+                {
+                  "title": "Combină și descarcă",
+                  "description": "Apasă pe butonul „Combină PDF” și instrumentul nostru îți va uni fișierele într-unul singur. După finalizare, descarcă noul tău PDF instantaneu."
+                }
+              ],
+              "note": "Atât! Fără setări complicate sau cunoștințe tehnice necesare. Indiferent dacă combini două sau douăzeci de fișiere, GabungPDF.id face totul simplu."
+            },
+            "benefits": {
+              "title": "Beneficiile folosirii unui combinator PDF online",
+              "paragraph": "Alegerea unui combinator PDF online precum GabungPDF.id oferă mai multe avantaje față de metodele tradiționale sau manuale. Iată de ce instrumentul nostru face diferența:",
+              "items": [
+                {
+                  "title": "Economie de timp",
+                  "description": "Combinarea manuală a PDF-urilor cu software de birou poate consuma timp și necesită adesea licențe scumpe. Cu GabungPDF.id, poți combina PDF-uri în câteva secunde de pe orice dispozitiv conectat la internet—laptop, tabletă sau smartphone."
+                },
+                {
+                  "title": "Securitate garantată",
+                  "description": "Îți faci griji pentru confidențialitate? Platforma noastră folosește criptare avansată pentru a păstra fișierele în siguranță în timpul procesului. După descărcarea PDF-ului, ștergem fișierele de pe serverele noastre."
+                },
+                {
+                  "title": "Soluție economică",
+                  "description": "De ce să plătești pentru software scump de editare PDF? GabungPDF.id este complet gratuit, ideal pentru studenți, freelanceri și afaceri mici."
+                },
+                {
+                  "title": "Compatibilitate multiplatformă",
+                  "description": "Indiferent dacă folosești Windows, macOS, iOS sau Android, combinatorul nostru online funcționează perfect pe orice platformă. Fără griji legate de compatibilitate."
+                }
+              ]
+            },
+            "optimization_tips": {
+              "title": "Sfaturi pentru optimizarea PDF-urilor combinate",
+              "paragraph": "Pentru a obține cele mai bune rezultate, ține cont de aceste sfaturi:",
+              "tips": [
+                {
+                  "title": "Verifică ordinea fișierelor",
+                  "description": "Înainte de a combina, asigură-te că PDF-urile sunt în ordinea dorită, ca să eviți reluarea procesului."
+                },
+                {
+                  "title": "Optimizează dimensiunea fișierelor",
+                  "description": "Dacă PDF-urile conțin imagini mari, comprimă-le înainte de a le încărca pentru a reduce dimensiunea finală."
+                },
+                {
+                  "title": "Denumiri clare",
+                  "description": "Folosește denumiri descriptive pentru fișierele PDF, pentru a le găsi mai ușor ulterior."
+                },
+                {
+                  "title": "Previzualizează rezultatul",
+                  "description": "După combinare, verifică PDF-ul final pentru a te asigura că totul arată perfect."
+                }
+              ],
+              "paragraph2": "Cu GabungPDF.id, poți combina fișiere PDF cu încredere, menținând calitatea și organizarea."
+            },
+            "audience": {
+              "title": "Cine poate beneficia de GabungPDF.id?",
+              "paragraph": "Combinația noastră PDF este destinată unei game largi de utilizatori, inclusiv:",
+              "users": [
+                {
+                  "type": "Studenți",
+                  "description": "Combină notițe de curs, teme sau lucrări de cercetare într-un singur fișier."
+                },
+                {
+                  "type": "Profesioniști",
+                  "description": "Combină rapoarte, propuneri sau contracte pentru o comunicare eficientă."
+                },
+                {
+                  "type": "Afaceri mici",
+                  "description": "Organizează facturi, chitanțe sau materiale de marketing într-un singur document."
+                },
+                {
+                  "type": "Freelanceri",
+                  "description": "Combină portofolii, facturi sau livrabile de proiect pentru clienți."
+                }
+              ],
+              "paragraph2": "Indiferent de nevoi, GabungPDF.id este partenerul tău de încredere pentru orice legat de PDF."
+            },
+            "why_choose_us": {
+              "title": "De ce să alegi GabungPDF.id în locul altor combinatoare PDF?",
+              "paragraph": "Cu atât de multe instrumente disponibile, de ce GabungPDF.id este cea mai bună alegere pentru a combina fișiere PDF? Iată ce ne diferențiază:",
+              "reasons": [
+                {
+                  "title": "Viteză",
+                  "description": "Fără curbe de învățare—doar încarci, combini și descarci."
+                },
+                {
+                  "title": "Fiabilitate",
+                  "description": "Performanță constantă, fără erori sau blocări."
+                },
+                {
+                  "title": "Accesibilitate",
+                  "description": "Disponibil 24/7 de oriunde din lume."
+                }
+              ],
+              "paragraph2": "Nu pierde timpul cu software complicat sau instrumente nesigure. Încearcă GabungPDF.id astăzi și descoperă cea mai simplă metodă de a combina PDF-uri."
+            },
+            "conclusion": {
+              "title": "Concluzie: Simplifică-ți fluxul de lucru cu GabungPDF.id",
+              "paragraph": "Combinarea PDF-urilor nu trebuie să fie complicată. Cu GabungPDF.id, poți îmbina fișiere rapid, economisind timp și păstrând documentele organizate. Combinatorul nostru gratuit, sigur și ușor de utilizat este perfect pentru oricine dorește să-și eficientizeze activitatea. Fie că unești rapoarte, notițe sau contracte, instrumentul nostru oferă rezultate profesionale de fiecare dată. Ești gata să începi?",
+              "cta": {
+                "text": "Vizitează gabungpdf.id/combine-pdf",
+                "link": "https://gabungpdf.id/combine-pdf"
+              },
+              "Remaingparagraph": "Acum poți combina PDF-uri în doar câteva clicuri. Simplifică-ți gestionarea documentelor astăzi cu GabungPDF.id—combinatorul tău PDF suprem!"
+            }
+          }
+        },
+        {
+          "BlogImage": "/FeatureBlogImage.webp",
+          "date": "2 iulie 2025",
+          "author": "Admin User",
+          "category": "Articol recomandat",
+          "headline": "GabungPDF.id: Cea mai ușoară metodă de a combina fișiere PDF",
+          "excerpt": "Combină rapid fișiere PDF cu GabungPDF.id, combinatorul de PDF-uri online gratuit. Unește PDF-uri în siguranță, în câteva secunde, fără software. Crește-ți productivitatea acum!",
+          "readTime": "3 minute de citire",
+          "buttonName": "Citește articolul complet",
+          "slug": "gabungpdfid-the-easiest-way-to-combine-pdf-files",
+          "detail": {
+            "intro": "Într-o lume în care timpul înseamnă bani, gestionarea eficientă a documentelor poate face diferența. Indiferent dacă jonglezi cu mai multe rapoarte, organizezi contracte pentru clienți sau compilezi fișiere de proiect, un combinator PDF de încredere îți poate transforma fluxul de lucru. Descoperă GabungPDF.id, un instrument online gratuit, creat pentru a combina rapid și ușor fișiere PDF. În acest articol, vei afla cum te ajută GabungPDF.id să unești fișiere PDF fără efort și de ce este soluția ideală pentru profesioniști, studenți și companii.",
+            "why_merge_pdf": {
+              "title": "De ce să combini fișiere PDF?",
+              "paragraph": "PDF-urile sunt formatul preferat pentru partajarea documentelor profesionale, dar gestionarea mai multor fișiere îți poate încetini activitatea. Combinarea PDF-urilor într-un document unic și organizat economisește timp, reduce dezordinea și îmbunătățește organizarea. Iată câteva motive pentru care ai putea avea nevoie să combini fișiere PDF:",
+              "reasons": [
+                {
+                  "title": "Simplifică partajarea",
+                  "description": "Trimite un singur fișier în loc de mai multe atașamente pentru o colaborare mai ușoară."
+                },
+                {
+                  "title": "Organizează documentele",
+                  "description": "Combină facturi, formulare sau notițe într-un PDF unic, ușor de accesat."
+                },
+                {
+                  "title": "Prezentări profesionale",
+                  "description": "Unește slide-uri, materiale și notițe într-un document complet și profesionist."
+                },
+                {
+                  "title": "Arhivare eficientă",
+                  "description": "Consolidează fișierele relevante pentru o stocare și regăsire eficientă."
+                }
+              ],
+              "note": "Cu GabungPDF.id, poți combina fișiere PDF în doar câteva clicuri, simplificând gestionarea documentelor."
+            },
+            "features": {
+              "title": "Ce face GabungPDF cel mai bun combinator PDF?",
+              "paragraph": "La GabungPDF.id, am creat un instrument rapid, gratuit și accesibil tuturor. Fie că lucrezi de pe desktop, tabletă sau smartphone, combinatorul nostru PDF oferă rezultate profesionale, fără bătăi de cap. Iată de ce utilizatorii adoră GabungPDF.id:",
+              "items": [
+                {
+                  "title": "Complet gratuit",
+                  "description": "Fără abonamente, fără costuri ascunse — doar încarcă și combină."
+                },
+                {
+                  "title": "Fără instalare de software",
+                  "description": "Instrumentul nostru online funcționează instant, fără descărcări."
+                },
+                {
+                  "title": "Procesare securizată",
+                  "description": "Fișierele tale sunt protejate prin criptare și șterse după utilizare."
+                },
+                {
+                  "title": "Design intuitiv",
+                  "description": "O interfață simplă face combinarea PDF-urilor accesibilă tuturor utilizatorilor."
+                }
+              ],
+              "next": "Gata să-ți crești productivitatea? Iată cum să folosești combinatorul nostru PDF în doar câteva minute."
+            },
+            "how_to_use": {
+              "title": "Cum să folosești GabungPDF.id pentru a combina fișiere PDF",
+              "paragraph": "Combinarea PDF-urilor cu GabungPDF este simplă și nu necesită cunoștințe tehnice. Urmează acești pași simpli:",
+              "steps": [
+                {
+                  "title": "Încarcă PDF-urile",
+                  "description": "Accesează https://gabungpdf.id/ și selectează fișierele PDF pe care dorești să le combini. Poți încărca mai multe fișiere simultan de pe dispozitivul tău."
+                },
+                {
+                  "title": "Aranjează după necesitate",
+                  "description": "Folosește funcția drag-and-drop pentru a organiza fișierele în ordinea dorită."
+                },
+                {
+                  "title": "Combină și descarcă",
+                  "description": "Apasă „Combină PDF” iar instrumentul nostru îți va crea un fișier unic. Descarcă PDF-ul combinat instant."
+                }
+              ],
+              "note": "Atât de simplu! Indiferent dacă combini două fișiere sau zeci, GabungPDF.id îți asigură o experiență rapidă și fără bătăi de cap."
+            },
+            "top_benefits": {
+              "title": "Beneficiile principale ale utilizării GabungPDF.id",
+              "paragraph": "Alegerea unui combinator PDF online precum GabungPDF.id îți oferă confort și eficiență de neegalat. Iată de ce instrumentul nostru se remarcă:",
+              "items": [
+                {
+                  "title": "Economisește timp și efort",
+                  "description": "Combinarea manuală a PDF-urilor sau utilizarea de software complicat poate fi obositoare. GabungPDF.id îți permite să combini fișiere în câteva secunde, eliberându-ți timpul pentru alte sarcini."
+                },
+                {
+                  "title": "Securitate sporită",
+                  "description": "Prioritizăm confidențialitatea ta. Platforma noastră utilizează criptare sigură pentru protecția fișierelor în timpul procesării și le șterge ulterior."
+                },
+                {
+                  "title": "Fără costuri",
+                  "description": "De ce să investești în software scump? GabungPDF.id este 100% gratuit — perfect pentru studenți, freelanceri și afaceri mici."
+                },
+                {
+                  "title": "Acces universal",
+                  "description": "Instrumentul nostru funcționează pe orice dispozitiv cu browser, fie Windows, macOS, iOS sau Android. Combină PDF-uri oricând, oriunde."
+                }
+              ]
+            },
+            "audience": {
+              "title": "Cine ar trebui să folosească GabungPDF.id?",
+              "paragraph": "Combinatorul nostru PDF este suficient de versatil pentru a acoperi o gamă largă de nevoi:",
+              "users": [
+                {
+                  "type": "Studenți",
+                  "description": "Combină ghiduri de studiu, eseuri sau lucrări de cercetare într-un singur fișier pentru predare ușoară."
+                },
+                {
+                  "type": "Profesioniști în afaceri",
+                  "description": "Combină contracte, propuneri sau rapoarte pentru o comunicare eficientă cu clienții."
+                },
+                {
+                  "type": "Freelanceri",
+                  "description": "Creează portofolii organizate sau combină facturi pentru trimiterea către clienți."
+                },
+                {
+                  "type": "Afaceri mici",
+                  "description": "Organizează chitanțe, materiale de marketing sau documente legale într-un singur PDF."
+                }
+              ],
+              "note": "Indiferent de rolul tău, GabungPDF.id simplifică gestionarea documentelor."
+            },
+            "pro_tips": {
+              "title": "Sfaturi utile pentru combinarea PDF-urilor ca un profesionist",
+              "paragraph": "Pentru a profita la maximum de combinatorul tău PDF, ține cont de aceste sfaturi:",
+              "tips": [
+                {
+                  "title": "Planifică ordinea fișierelor",
+                  "description": "Organizează-ți fișierele logic înainte de a le combina, pentru a economisi timp."
+                },
+                {
+                  "title": "Comprimă fișiere mari",
+                  "description": "Reducerea dimensiunii fișierelor înainte de încărcare asigură procesarea mai rapidă."
+                },
+                {
+                  "title": "Verifică rezultatul",
+                  "description": "Previzualizează PDF-ul combinat pentru a te asigura că îți satisface nevoile."
+                },
+                {
+                  "title": "Adaugă GabungPDF.id la favorite",
+                  "description": "Salvează site-ul nostru pentru acces rapid ori de câte ori ai nevoie să combini fișiere PDF."
+                }
+              ]
+            },
+            "why_stand_out": {
+              "title": "De ce GabungPDF.id se remarcă între combinatoarele PDF",
+              "paragraph": "Cu nenumărate combinatoare PDF disponibile, GabungPDF.id se evidențiază prin simplitate, viteză și fiabilitate. Spre deosebire de alte instrumente care necesită înregistrare sau descărcare, platforma noastră este gata de utilizare instant. În plus, angajamentul nostru pentru securitate îți garantează protecția fișierelor. Nu lăsa PDF-urile împrăștiate să îți încetinească activitatea. Vizitează https://gabungpdf.id/ astăzi și descoperă cea mai ușoară modalitate de a combina fișiere PDF."
+            },
+            "conclusion": {
+              "title": "Concluzie: Simplifică-ți documentele cu GabungPDF.id",
+              "paragraph": "Gestionarea mai multor PDF-uri nu trebuie să fie complicată. Cu GabungPDF.id, poți combina fișiere rapid, sigur și gratuit. Combinatorul nostru PDF ușor de utilizat este conceput pentru a-ți crește productivitatea, fie că ești student, profesionist sau antreprenor. Spune adio haosului din documente și bun venit PDF-urilor organizate și profesioniste. Încearcă GabungPDF.id acum pe gabungpdf.id/combine-pdf și experimentează cea mai rapidă metodă de a combina fișiere PDF. Simplifică-ți munca de azi!"
+            }
+          }
+        }
+      ]
+    }
   },
   "footer": {
     "description": "Cea mai ușoară metodă de a combina mai multe fișiere PDF într-un singur document. Rapid, sigur și complet gratuit de utilizat.",
@@ -357,5 +677,555 @@
     "privacyPolicy": "Politica de Confidențialitate",
     "termsOfService": "Termeni și Condiții",
     "allRights": "Toate drepturile rezervate"
+  },
+  "privacy": {
+    "UpperSec": {
+      "tableOfContents": {
+        "title": "Cuprins",
+        "items": [
+          {
+            "icon": "👁️",
+            "label": "Prezentare Generală",
+            "target": "Overview"
+          },
+          {
+            "icon": "📊",
+            "label": "Informațiile pe care le Colectăm",
+            "target": "information-collection"
+          },
+          {
+            "icon": "🔧",
+            "label": "Cum Folosim Informațiile Dumneavoastră",
+            "target": "how-we-use"
+          },
+          {
+            "icon": "🗄️",
+            "label": "Păstrarea și Ștergerea Datelor",
+            "target": "data-retention"
+          },
+          {
+            "icon": "🤝",
+            "label": "Partajarea Datelor",
+            "target": "data-sharing"
+          },
+          {
+            "icon": "🔒",
+            "label": "Securitatea Datelor",
+            "target": "data-security"
+          },
+          {
+            "icon": "🌍",
+            "label": "Transferuri Internaționale de Date",
+            "target": "international-transfers"
+          },
+          {
+            "icon": "⚖️",
+            "label": "Drepturile Dumneavoastră",
+            "target": "your-rights"
+          },
+          {
+            "icon": "🔗",
+            "label": "Linkuri către Terți",
+            "target": "third-party-links"
+          },
+          {
+            "icon": "👶",
+            "label": "Confidențialitatea Copiilor",
+            "target": "children"
+          },
+          {
+            "icon": "🔄",
+            "label": "Modificări ale Acestei Politici",
+            "target": "changes"
+          },
+          {
+            "icon": "📧",
+            "label": "Contactați-ne",
+            "target": "contact"
+          }
+        ]
+      },
+      "privacySummary": {
+        "title": "Rezumat de Confidențialitate",
+        "points": [
+          "Fișierele sunt șterse în decurs de 1 oră",
+          "Nu stocăm documentele dumneavoastră",
+          "Colectare minimă de date",
+          "Criptare end-to-end"
+        ]
+      }
+    },
+    "sections": [
+      {
+        "id": "Overview",
+        "icon": "👁️",
+        "title": "Prezentare Generală",
+        "content": [
+          {
+            "type": "paragraph",
+            "text": "Pe www.gabungpdf.id (\"Site-ul\"), operat de Gabung PDF (\"noi\", \"nouă\" sau \"al nostru\"), ne angajăm să vă protejăm confidențialitatea. Această Politică de Confidențialitate explică modul în care colectăm, utilizăm și protejăm informațiile dumneavoastră atunci când utilizați serviciul nostru de combinare PDF. Prin utilizarea Site-ului, sunteți de acord cu această Politică de Confidențialitate."
+          },
+          {
+            "type": "highlight",
+            "title": "Principiul Nostru Cheie:",
+            "text": "Procesăm fișierele dumneavoastră exclusiv pentru a furniza serviciul nostru și le ștergem automat în decurs de o oră. Nu accesăm, nu revizuim și nu stocăm conținutul fișierelor dumneavoastră în afara perioadei necesare de procesare."
+          }
+        ]
+      },
+      {
+        "id": "information-collection",
+        "icon": "📊",
+        "title": "Informațiile pe care le Colectăm",
+        "content": [
+          {
+            "type": "subsection",
+            "title": "Fișiere Încărcate de Utilizator",
+            "text": "Atunci când utilizați serviciul nostru, încărcați fișiere PDF pentru a le combina. Aceste fișiere pot conține informații personale, dar nu accesăm, nu revizuim și nu stocăm conținutul fișierelor dumneavoastră în afara perioadei necesare pentru procesarea temporară."
+          },
+          {
+            "type": "subsection",
+            "title": "Date Colectate Automat",
+            "text": "Este posibil să colectăm informații non-personale, precum:",
+            "list": [
+              "Informații despre dispozitiv (ex.: tipul browserului, sistemul de operare, adresa IP)",
+              "Date de utilizare (ex.: pagini vizitate, timp petrecut pe Site și interacțiuni cu serviciul)"
+            ]
+          },
+          {
+            "type": "subsection",
+            "title": "Cookie-uri și Urmărire",
+            "text": "Putem utiliza cookie-uri sau tehnologii similare pentru a vă îmbunătăți experiența și a analiza utilizarea Site-ului. Puteți gestiona preferințele cookie-urilor prin setările browserului dumneavoastră."
+          }
+        ]
+      },
+      {
+        "id": "how-we-use",
+        "icon": "🔧",
+        "title": "Cum Folosim Informațiile Dumneavoastră",
+        "content": [
+          {
+            "type": "subsection",
+            "title": "Furnizarea Serviciului",
+            "text": "Procesăm fișierele PDF încărcate de dumneavoastră doar pentru a le combina într-un singur PDF și a furniza linkul de descărcare."
+          },
+          {
+            "type": "subsection",
+            "title": "Îmbunătățirea Site-ului",
+            "text": "Folosim date non-personale (ex.: statistici de utilizare) pentru a analiza și a îmbunătăți funcționalitatea și performanța Site-ului."
+          },
+          {
+            "type": "subsection",
+            "title": "Conformitate Legală",
+            "text": "Putem utiliza sau divulga informații dacă este cerut de lege sau pentru a ne proteja drepturile, siguranța sau proprietatea."
+          }
+        ]
+      },
+      {
+        "id": "data-retention",
+        "icon": "🗄️",
+        "title": "Păstrarea și Ștergerea Datelor",
+        "content": [
+          {
+            "type": "highlight",
+            "title": "Fișiere Încărcate",
+            "text": "Toate fișierele PDF încărcate și fișierul PDF rezultat sunt șterse automat de pe serverele noastre în termen de o (1) oră de la procesare. Nu păstrăm copii ale fișierelor dumneavoastră."
+          },
+          {
+            "type": "subsection",
+            "title": "Alte Date",
+            "text": "Datele non-personale (ex.: statistici de utilizare) pot fi păstrate atât timp cât este necesar pentru a îmbunătăți Site-ul sau pentru a respecta obligațiile legale."
+          }
+        ]
+      },
+      {
+        "id": "data-sharing",
+        "icon": "🤝",
+        "title": "Partajarea Datelor",
+        "content": [
+          {
+            "type": "highlight",
+            "title": "Fără Partajare cu Terți",
+            "text": "Nu vindem, nu partajăm și nu transferăm fișierele încărcate sau informațiile dumneavoastră personale către terți, cu excepția cazurilor prevăzute de lege sau pentru a ne proteja drepturile."
+          },
+          {
+            "type": "subsection",
+            "title": "Furnizori de Servicii",
+            "text": "Putem utiliza furnizori de servicii terți (ex.: găzduire sau analiză) pentru a opera Site-ul. Acești furnizori sunt obligați să păstreze confidențialitatea și pot prelucra date doar în numele nostru."
+          }
+        ]
+      },
+      {
+        "id": "data-security",
+        "icon": "🔒",
+        "title": "Securitatea Datelor",
+        "content": [
+          {
+            "type": "highlight",
+            "text": "Implementăm măsuri tehnice și organizatorice rezonabile pentru a vă proteja datele împotriva accesului neautorizat, pierderii sau utilizării necorespunzătoare. Totuși, niciun serviciu online nu este complet sigur și nu putem garanta securitate absolută."
+          }
+        ]
+      },
+      {
+        "id": "international-transfers",
+        "icon": "🌍",
+        "title": "Transferuri Internaționale de Date",
+        "content": [
+          {
+            "type": "highlight",
+            "text": "Dacă vă aflați în afara Indoneziei, datele dumneavoastră pot fi transferate și procesate în Indonezia sau în alte țări unde serverele noastre sau furnizorii noștri de servicii sunt localizați. Asigurăm măsuri adecvate de protecție pentru astfel de transferuri."
+          }
+        ]
+      },
+      {
+        "id": "your-rights",
+        "icon": "⚖️",
+        "title": "Drepturile Dumneavoastră",
+        "content": [
+          {
+            "type": "paragraph",
+            "text": "În funcție de locația dumneavoastră, este posibil să aveți drepturi conform legilor aplicabile privind protecția datelor, cum ar fi:"
+          },
+          {
+            "type": "list",
+            "items": [
+              "Accesarea sau solicitarea ștergerii datelor dumneavoastră",
+              "Opoziția sau restricționarea anumitor prelucrări de date"
+            ]
+          },
+          {
+            "type": "highlight",
+            "text": "Pentru a vă exercita aceste drepturi, contactați-ne la admin@gabungpdf.id. Vă rugăm să rețineți că, deoarece ștergem fișierele în decurs de o oră, este posibil să nu păstrăm date personale disponibile pentru furnizare."
+          }
+        ]
+      },
+      {
+        "id": "third-party-links",
+        "icon": "🔗",
+        "title": "Linkuri către Terți",
+        "content": [
+          {
+            "type": "paragraph",
+            "text": "Site-ul poate conține linkuri către site-uri ale terților. Nu suntem responsabili pentru practicile de confidențialitate sau conținutul acestor site-uri."
+          }
+        ]
+      },
+      {
+        "id": "children",
+        "icon": "👶",
+        "title": "Confidențialitatea Copiilor",
+        "content": [
+          {
+            "type": "highlight",
+            "text": "Site-ul nu este destinat utilizatorilor sub 18 ani. Nu colectăm cu bună știință informații personale de la copii."
+          }
+        ]
+      },
+      {
+        "id": "changes",
+        "icon": "🔄",
+        "title": "Modificări ale Acestei Politici",
+        "content": [
+          {
+            "type": "paragraph",
+            "text": "Este posibil să actualizăm această Politică de Confidențialitate din când în când. Modificările vor fi publicate pe această pagină cu data \"Ultima actualizare\"."
+          },
+          {
+            "type": "highlight",
+            "text": "Utilizarea continuă a Site-ului după modificări constituie acceptarea Politicii de Confidențialitate actualizate."
+          }
+        ]
+      },
+      {
+        "id": "contact",
+        "icon": "📧",
+        "title": "Contactați-ne",
+        "content": [
+          {
+            "type": "highlight",
+            "text": "Dacă aveți întrebări despre această Politică de Confidențialitate, vă rugăm să ne contactați la admin@gabungpdf.id"
+          }
+        ]
+      }
+    ],
+    "footer": {
+      "heading": "Aveți Întrebări?",
+      "description": "Suntem aici să vă ajutăm cu orice întrebări sau îngrijorări legate de confidențialitate.",
+      "links": [
+        {
+          "label": "Termeni și Condiții",
+          "href": "/terms-of-service",
+          "icon": "📄"
+        },
+        {
+          "label": "Contactați Echipa Noastră",
+          "href": "mailto:admin@gabungpdf.id",
+          "icon": "✉️"
+        }
+      ]
+    }
+  },
+  "Terms": {
+    "UpperSec": {
+      "tableOfContents": {
+        "title": "Cuprins",
+        "items": [
+          {
+            "icon": "✅",
+            "label": "Acceptarea Termenilor",
+            "target": "acceptance"
+          },
+          {
+            "icon": "🔧",
+            "label": "Utilizarea Site-ului",
+            "target": "use-of-site"
+          },
+          {
+            "icon": "📁",
+            "label": "Fișierele Utilizatorului",
+            "target": "user-files"
+          },
+          {
+            "icon": "©️",
+            "label": "Proprietate Intelectuală",
+            "target": "intellectual-property"
+          },
+          {
+            "icon": "⚠️",
+            "label": "Limitarea Răspunderii",
+            "target": "limitation-liability"
+          },
+          {
+            "icon": "⚖️",
+            "label": "Despăgubire",
+            "target": "indemnification"
+          },
+          {
+            "icon": "🚫",
+            "label": "Reziliere",
+            "target": "termination"
+          },
+          {
+            "icon": "🏛️",
+            "label": "Legea Aplicabilă",
+            "target": "governing-law"
+          },
+          {
+            "icon": "🔄",
+            "label": "Modificări ale Termenilor",
+            "target": "changes"
+          },
+          {
+            "icon": "📧",
+            "label": "Contactați-ne",
+            "target": "contact"
+          }
+        ]
+      },
+      "termsSummary": {
+        "title": "Rezumatul Termenilor",
+        "points": [
+          "Serviciu gratuit de combinare PDF",
+          "Utilizatorii trebuie să aibă 18+ ani",
+          "Fișierele sunt șterse în maxim 1 oră",
+          "Utilizare exclusiv în scopuri legale"
+        ]
+      }
+    },
+    "sections": [
+      {
+        "id": "acceptance",
+        "icon": "✅",
+        "title": "Acceptarea Termenilor",
+        "content": [
+          {
+            "type": "paragraph",
+            "text": "Bine ați venit pe www.gabungpdf.id (\"Site-ul\"), un serviciu furnizat de Gabung PDF (\"noi\"). Acești Termeni de Serviciu (\"Termeni\") guvernează utilizarea Site-ului și a serviciilor sale de combinare PDF. Prin accesarea sau utilizarea Site-ului, sunteți de acord cu acești Termeni."
+          },
+          {
+            "type": "highlight",
+            "title": "Acord Important:",
+            "text": "Dacă nu sunteți de acord cu acești Termeni, vă rugăm să nu utilizați Site-ul."
+          }
+        ]
+      },
+      {
+        "id": "use-of-site",
+        "icon": "🔧",
+        "title": "Utilizarea Site-ului",
+        "content": [
+          {
+            "type": "subsection",
+            "title": "Eligibilitate",
+            "text": "Trebuie să aveți cel puțin 18 ani sau capacitate legală pentru a accepta acești Termeni pentru a utiliza Site-ul."
+          },
+          {
+            "type": "subsection",
+            "title": "Utilizare Permisă",
+            "text": "Site-ul vă permite să încărcați fișiere PDF, să le combinați într-un singur PDF și să descărcați rezultatul. Site-ul poate fi utilizat doar în scopuri legale, în conformitate cu acești Termeni."
+          },
+          {
+            "type": "subsection",
+            "title": "Utilizare Interzisă",
+            "text": "Nu aveți voie să:",
+            "list": [
+              "Încărcați fișiere care conțin viruși, malware sau alt cod dăunător",
+              "Utilizați Site-ul pentru a încălca legi, reglementări sau drepturile terților",
+              "Încercați să interferați, să perturbați sau să inversați funcționalitatea Site-ului",
+              "Utilizați Site-ul în scopuri comerciale fără acordul nostru scris"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "user-files",
+        "icon": "📁",
+        "title": "Fișierele Utilizatorului",
+        "content": [
+          {
+            "type": "highlight",
+            "title": "Procesare Temporară",
+            "text": "Fișierele încărcate sunt procesate pentru a fi combinate în PDF-uri și sunt șterse automat de pe serverele noastre în termen de o (1) oră de la procesare. Nu păstrăm fișierele după această perioadă."
+          },
+          {
+            "type": "subsection",
+            "title": "Responsabilitatea Dumneavoastră",
+            "text": "Sunteți singurul responsabil pentru conținutul fișierelor pe care le încărcați. Trebuie să vă asigurați că aveți dreptul de a încărca și procesa aceste fișiere și că ele nu încalcă drepturile terților (ex.: drepturi de autor, mărci comerciale)."
+          }
+        ]
+      },
+      {
+        "id": "intellectual-property",
+        "icon": "©️",
+        "title": "Proprietate Intelectuală",
+        "content": [
+          {
+            "type": "subsection",
+            "title": "Conținutul Site-ului",
+            "text": "Tot conținutul de pe Site, inclusiv texte, grafice, logouri și software, ne aparține sau ne este licențiat și este protejat de legile privind proprietatea intelectuală."
+          },
+          {
+            "type": "subsection",
+            "title": "Conținutul Utilizatorului",
+            "text": "Rămâneți proprietarul fișierelor pe care le încărcați. Prin încărcarea fișierelor, ne acordați o licență limitată, neexclusivă, fără redevență, pentru a le procesa exclusiv pentru furnizarea serviciului de combinare PDF."
+          }
+        ]
+      },
+      {
+        "id": "limitation-liability",
+        "icon": "⚠️",
+        "title": "Limitarea Răspunderii",
+        "content": [
+          {
+            "type": "highlight",
+            "title": "Fără Garanții",
+            "text": "Site-ul este furnizat \"ca atare\" fără nicio garanție, expresă sau implicită, inclusiv garanții de vandabilitate, adecvare pentru un anumit scop sau lipsă de încălcare."
+          },
+          {
+            "type": "subsection",
+            "title": "Limitarea Răspunderii",
+            "text": "În măsura maximă permisă de lege, nu suntem responsabili pentru daune indirecte, accidentale, speciale sau consecințe rezultate din utilizarea Site-ului, chiar dacă am fost avertizați despre posibilitatea unor astfel de daune."
+          },
+          {
+            "type": "subsection",
+            "title": "Întreruperi ale Serviciului",
+            "text": "Nu garantăm acces neîntrerupt sau fără erori la Site și nu suntem responsabili pentru întârzieri, indisponibilitate sau pierderi de date."
+          }
+        ]
+      },
+      {
+        "id": "indemnification",
+        "icon": "⚖️",
+        "title": "Despăgubire",
+        "content": [
+          {
+            "type": "highlight",
+            "text": "Sunteți de acord să ne despăgubiți și să ne exonerați de răspundere pentru orice pretenții, pierderi sau daune, inclusiv costuri legale, rezultate din utilizarea Site-ului, fișierele încărcate sau încălcarea acestor Termeni."
+          }
+        ]
+      },
+      {
+        "id": "termination",
+        "icon": "🚫",
+        "title": "Reziliere",
+        "content": [
+          {
+            "type": "paragraph",
+            "text": "Putem suspenda sau rezilia accesul dvs. la Site, la discreția noastră, fără notificare prealabilă, dacă încălcați acești Termeni sau din orice alt motiv."
+          }
+        ]
+      },
+      {
+        "id": "governing-law",
+        "icon": "🏛️",
+        "title": "Legea Aplicabilă",
+        "content": [
+          {
+            "type": "paragraph",
+            "text": "Acești Termeni sunt guvernați de legile Indoneziei, fără a lua în considerare principiile conflictelor de legi. Orice dispute rezultate din acești Termeni vor fi soluționate de instanțele din Indonezia."
+          }
+        ]
+      },
+      {
+        "id": "changes",
+        "icon": "🔄",
+        "title": "Modificări ale Termenilor",
+        "content": [
+          {
+            "type": "paragraph",
+            "text": "Putem actualiza acești Termeni periodic. Modificările vor fi publicate pe această pagină, cu o dată \"Ultima actualizare\" actualizată."
+          },
+          {
+            "type": "highlight",
+            "text": "Continuarea utilizării Site-ului după modificări constituie acceptarea noilor Termeni."
+          }
+        ]
+      },
+      {
+        "id": "contact",
+        "icon": "📧",
+        "title": "Contactați-ne",
+        "content": [
+          {
+            "type": "highlight",
+            "text": "Dacă aveți întrebări despre acești Termeni, vă rugăm să ne contactați la admin@gabungpdf.id"
+          }
+        ]
+      }
+    ],
+    "footer": {
+      "heading": "Aveți întrebări?",
+      "description": "Suntem aici să vă ajutăm cu orice nelămuriri legate de termenii sau serviciile noastre.",
+      "links": [
+        {
+          "label": "Politica de Confidențialitate",
+          "href": "/privacy-policy",
+          "icon": "🔒"
+        },
+        {
+          "label": "Contactați Echipa Juridică",
+          "href": "mailto:admin@gabungpdf.id",
+          "icon": "✉️"
+        }
+      ]
+    }
+  },
+  "Content": {
+    "Policy": {
+      "title": "Politica de confidențialitate",
+      "desc": "Ne angajăm să protejăm confidențialitatea dvs. și să asigurăm securitatea fișierelor dvs. Aflați cum colectăm, folosim și protejăm informațiile dvs. atunci când utilizați serviciul nostru de combinare PDF.",
+      "Updated": "Ultima actualizare:",
+      "date": "6 iunie 2025"
+    },
+    "Terms": {
+      "title": "Termeni și condiții",
+      "desc": "Acești termeni reglementează utilizarea serviciului nostru de combinare PDF. Vă rugăm să îi citiți cu atenție înainte de a folosi site-ul nostru.",
+      "Updated": "Ultima actualizare:",
+      "date": "6 iunie 2025"
+    }
+  },
+  "MiniFooter": {
+    "heading": "Gata să combinați PDF-urile dvs. în siguranță?",
+    "subheading": "Experimentați serviciul nostru de combinare PDF, axat pe confidențialitate, cu liniște deplină.",
+    "button": "Combinați PDF-urile acum"
   }
 }

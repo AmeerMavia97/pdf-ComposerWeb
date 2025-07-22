@@ -348,7 +348,327 @@
     "mostPopular": "Kan Ugu Caansan Toddobaadkan",
     "readArticle": "Akhri Maqaalka",
     "readFull": "Akhri Maqaalka Oo Dhan",
-    "minRead": "daqiiqado akhris"
+    "minRead": "daqiiqado akhris",
+    "featureblog": {
+      "title": "Kuwooda Ugu Caansan Todobaadkan",
+      "subtitle": "⭐ Maqaalkii La Xushay",
+      "featuredArticle": {
+        "date": "Luulyo 2, 2025",
+        "author": "Isticmaale Maamul",
+        "category": "Maqaalkii La Xushay",
+        "headline": "GabungPDF.id: Habka Ugu Fudud ee PDF Files Lagu Isku Darro",
+        "excerpt": "Si fudud u iskudar faylasha PDF iyadoo la adeegsanayo GabungPDF.id, qalabka bilaashka ah ee PDF isku-darka ee internet-ka. Si ammaan ah iskudar PDF ilbiriqsiyo gudahood, software uma baahnid. Horumari waxtarkaaga hadda!",
+        "readTime": "3 daqiiqo akhris",
+        "buttonName": "Akhri Maqaalkii Buuxa"
+      }
+    },
+    "blogsPage": {
+      "cards": [
+        {
+          "BlogImage": "/Blog1Image.webp",
+          "date": "Jun 2, 2025",
+          "author": "Admin User",
+          "category": null,
+          "headline": "GabungPDF.id: Qalabka Ugu Fiican ee Lagu Isku Daro Faylalka PDF",
+          "headlineLink": "/blog/gabungpdfid-the-ultimate-tool-to-combine-pdf-files",
+          "excerpt": "Isku dar faylalka PDF si fudud adigoo adeegsanaya GabungPDF.id, aaladdaada PDF isku-darka ee bilaashka ah. Ku biir PDFs si ammaan ah dhowr ilbiriqsi gudaheed—looma baahna software. Tijaabi adeegeena-",
+          "readTime": "3 daqiiqo akhris",
+          "readMoreText": "blog.readArticle",
+          "slug": "gabungpdfid-the-ultimate-tool-to-combine-pdf-files",
+          "detail": {
+            "intro": "GabungPDF.id, waxaan u naqshadeynay aalad sahlan oo ku saleysan webka si laguu caawiyo inaad isku darto faylalka PDF dhib la'aan. Haddii aad tahay qof farsamo yaqaan ah ama bilow ah, barxaddu waxay ku habboon tahay qof walba. Waa kan sababta GabungPDF.id ugu soo baxayo sida aaladda PDF isku-darka ugu fiican:",
+            "features": [
+              {
+                "title": "Bilaash oo la heli karo",
+                "description": "Ma jiraan rukumo ama kharash qarsoon—kaliya soo geli oo isku dar."
+              },
+              {
+                "title": "Looma baahna software in la rakibo",
+                "description": "Aaladdeenu si buuxda ayey u shaqeysaa khadka tooska ah, waxaana badbaadinaysaa booska qalabkaaga."
+              },
+              {
+                "title": "Degdeg ah oo ammaan ah",
+                "description": "Isku dar PDFs dhowr ilbiriqsi gudaheed adigoo isticmaalaya sir qarsoon si loo ilaaliyo faylashaada."
+              },
+              {
+                "title": "Isdhexgal sahlan oo la fahmi karo",
+                "description": "Jiid, dhig, oo isku dar faylal dhowr gujin gudaheed."
+              }
+            ],
+            "intro2": "Ma diyaar baad u tahay inaad fududeyso maaraynta dukumiintigaaga? Aynu eegno sida loo isticmaalo qalabkeena PDF isku-darka si aad ugu biiriso faylasha PDF dhowr talaabo oo fudud.",
+            "how_to_use": {
+              "title": "Sida Loogu Biiriyo Faylalka PDF GabungPDF.id",
+              "paragraph": "Isku-darka PDFs adigoo isticmaalaya GabungPDF.id waa sida 1-2-3 u fudud. Raac talaabooyinkan si aad u abuurto hal dukumiinti PDF oo nadiif ah:",
+              "steps": [
+                {
+                  "title": "Soo Geli Faylashaada",
+                  "description": "Booqo https://gabungpdf.id/ kadibna guji batoonka 'Upload'. Dooro faylasha PDF ee aad rabto inaad isku darto qalabkaaga. Waxaad mar qura soo geli kartaa faylal badan."
+                },
+                {
+                  "title": "Kala Habeey Amar-kood",
+                  "description": "Jiid oo dhig faylasha si aad u kala dhigto sida aad rabto. Tani waxay hubinaysaa in dukumiintigii ugu dambeeyey uu si macquul ah u socdo."
+                },
+                {
+                  "title": "Isku Dar oo Soo Degso",
+                  "description": "Guji batoonka 'Merge PDF', kadib aaladdayadu waxay isku dari doontaa faylashaada. Marka la dhammeeyo, si degdeg ah u soo deji PDF-gaaga cusub."
+                }
+              ],
+              "note": "Waa intaas! Ma jiraan dejin adag ama aqoon farsamo oo loo baahanyahay. Haddii aad laba fayl isku darrayso ama labaatan, GabungPDF.id si sahlan ayey u maareynaysaa."
+            },
+            "benefits": {
+              "title": "Faa’iidooyinka Isticmaalka Aaladda PDF Isku-Darka Online-ka",
+              "paragraph": "Doorashada aaladda PDF isku-darka ee online sida GabungPDF.id waxay bixisaa faa’iidooyin dhowr ah marka loo eego software-kii hore ama hababka gacanta. Waa kan sababta aaladdeenu ay u tahay mid wax beddesha:",
+              "items": [
+                {
+                  "title": "Waqti Badbaadin Fudud",
+                  "description": "Gacanta iskudarka PDFs adigoo isticmaalaya software desktop ah waa hawl culus oo inta badan kharash badan ku kacaysa. GabungPDF.id waxaad PDFs isku dari kartaa dhowr ilbiriqsi qalab kasta oo leh internet—ha noqoto laptop, tablet, ama smartphone."
+                },
+                {
+                  "title": "Xakamaynta Faylasha Ammaan ah",
+                  "description": "Walwalsan xagga amniga? Barxaddu waxay isticmaashaa sir qarsoon oo casri ah si loo hubiyo in faylashaadu ay ammaan ku jiraan inta la isku-darayo. Marka aad soo dejisato PDF-gaaga la isugu daray, faylashaada waxaan ka tirtirnaa server-keena si loo ilaaliyo xogtaada."
+                },
+                {
+                  "title": "Xalka Dhaqaale Badan",
+                  "description": "Maxaad ugu bixin software qaali ah oo tafatirka PDF? GabungPDF.id waa bilaash gabi ahaanba, taas oo ka dhigaysa mid ku habboon ardayda, dadka madax bannaan, iyo ganacsiyada yaryar ee doonaya in ay isku daraan faylal PDF adigoon wax kharash ah gelin."
+                },
+                {
+                  "title": "Wuxuu La Shaqeeyaa Qalab Kasta",
+                  "description": "Haddii aad isticmaalayso Windows, macOS, iOS, ama Android, aaladdeena PDF isku-darka ee khadka tooska ah si fiican ayey uga shaqaysaa dhammaan aaladaha. Looma baahna inaad ka welweshid dhibaatooyinka isku-xirnaanta."
+                }
+              ]
+            },
+            "optimization_tips": {
+              "title": "Talooyin Ku Saabsan Sida Loo Hagaajiyo PDFs-ga Isku-darka ah",
+              "paragraph": "Si aad uga faa’iidaysato PDFs-gaaga la isugu daray, tixgeli talooyinkan:",
+              "tips": [
+                {
+                  "title": "Hubi Kala-saaridda Faylasha",
+                  "description": "Ka hor intaadan isku darin, u kala dhig PDFs-gaaga si aad rabto si aadan markale hawsha ugu noqon."
+                },
+                {
+                  "title": "Hagaaji Cabbirka Faylka",
+                  "description": "Haddii PDFs-gaagu ka kooban yihiin sawirro waaweyn, ku cadaadi ka hor intaadan soo gelin si loo yareeyo cabbirka faylka ugu dambeeya."
+                },
+                {
+                  "title": "Magacyo Cad u Bixi Faylashaada",
+                  "description": "Isticmaal magacyo qeexan faylashaaga PDF si aad si fudud dib ugu heli karto mar dambe."
+                },
+                {
+                  "title": "Ka Hor-eeg Natiijada",
+                  "description": "Kadib isku-darka, dib u eeg PDF-ga isugu darsamay si aad u hubiso inuu yahay mid dhameystiran."
+                }
+              ],
+              "paragraph2": "GabungPDF.id, waxaad si kalsooni leh u isku dari kartaa faylal PDF adigoo ilaalinaya tayo iyo nidaam."
+            },
+            "audience": {
+              "title": "Yaa Ka Faa’iidaysan Kara GabungPDF.id?",
+              "paragraph": "Aaladdayada PDF isku-darka waxaa loogu talagalay isticmaaleyaal kala duwan, oo ay ka mid yihiin:",
+              "users": [
+                {
+                  "type": "Ardayda",
+                  "description": "Isku dar qoraallada casharrada, shaqooyinka, ama warbixinnada cilmi-baarista hal fayl gudaheed."
+                },
+                {
+                  "type": "Xirfadlayaasha",
+                  "description": "Isku dar warbixino, soo-jeedimo, ama heshiisyo si isgaarsiin sahlan loo helo."
+                },
+                {
+                  "type": "Ganacsiyada Yaryar",
+                  "description": "Isku ururi xisaabaadka, rasiidhada, ama agabka suuq-geynta hal dukumiinti."
+                },
+                {
+                  "type": "Shaqsiyaadka Madax Bannaan",
+                  "description": "Isku dar portfolios, xisaabaad, ama hawlo la gudbiyo oo loogu talagalay macaamiisha."
+                }
+              ],
+              "paragraph2": "Si kasta oo baahidaadu tahay, GabungPDF.id waa lamaanahaaga lagu kalsoonaan karo ee PDF kasta."
+            },
+            "why_choose_us": {
+              "title": "Maxaad U Dooranaysaa GabungPDF.id Halkii Aad Ka Dooran Lahayd Qalab Kale?",
+              "paragraph": "Iyadoo qalab badan jira, maxaa GabungPDF.id ka dhigaya doorashada ugu fiican ee PDFs la isku daro? Waa kan waxa naga soocaya:",
+              "reasons": [
+                {
+                  "title": "Xawaare",
+                  "description": "Looma baahna in la barto—kaliya soo geli, isku dar, oo soo dejiso."
+                },
+                {
+                  "title": "La isku hallayn karo",
+                  "description": "Waxqabad joogto ah oo aan wax qalad ah lahayn."
+                },
+                {
+                  "title": "La heli karo",
+                  "description": "Lagu isticmaali karo 24/7 meel kasta oo adduunka ah."
+                }
+              ],
+              "paragraph2": "Ha luminin wakhti software adag ama qalab aan la isku hallayn karin. Tijaabi GabungPDF.id maanta si aad u aragto sida ugu fudud ee faylasha PDF loo isku daro."
+            },
+            "conclusion": {
+              "title": "Gabagabo: Ku Fududee Hawshaada GabungPDF.id",
+              "paragraph": "Isku darka PDFs maahan inuu noqdo hawl adag. GabungPDF.id waxaad ku dari kartaa faylalka PDF si fudud, waqti badbaadin ah, oo adiga kuu diyaarsan. Aaladdeena bilaashka ah, ammaan ah, oo sahlan ayaa ku habboon qof kasta oo doonaya inuu fududeeyo hawshiisa. Haddii aad isku darrayso warbixino, qoraallo, ama heshiisyo, aaladdeenu waxay bixinaysaa natiijo xirfadeed mar kasta. Ma diyaar baad u tahay inaad bilowdo?",
+              "cta": {
+                "text": "Booqo gabungpdf.id/combine-pdf",
+                "link": "https://gabungpdf.id/combine-pdf"
+              },
+              "Remaingparagraph": "Hadda isku dar faylalkaaga PDF dhowr gujin oo kaliya. Ku fududee maaraynta dukumiintigaaga maanta GabungPDF.id—qalabkaaga PDF ugu fiican!"
+            }
+          }
+        },
+        {
+          "BlogImage": "/FeatureBlogImage.webp",
+          "date": "Jul 2, 2025",
+          "author": "Admin User",
+          "category": "Qodobka Ugu Muhiimsan",
+          "headline": "GabungPDF.id: Habka Ugu Fudud ee Lagu Isku Daro Faylasha PDF",
+          "excerpt": "Si fudud u midee faylasha PDF adigoo isticmaalaya GabungPDF.id, aaladda PDF isugu-darka bilaashka ah ee online-ka. Si ammaan ah ugu midee daqiiqado gudahood, software looma baahna. Kordhi wax-soo-saarka hadda!",
+          "readTime": "3 daqiiqo akhris",
+          "buttonName": "Akhri Qodobka Oo Dhan",
+          "slug": "gabungpdfid-the-easiest-way-to-combine-pdf-files",
+          "detail": {
+            "intro": "Dunida maanta oo waqtigu yahay lacag, maaraynta dukumiintiyada si hufan waxay ka dhigi kartaa isbedel weyn. Haddii aad la tacaalayso warbixino badan, diyaarinayso qandaraasyo macaamiil, ama aad isu geyneyso faylalka mashruuca, aaladda lagu isugu daro PDF oo lagu kalsoon yahay waxay bedeli kartaa habka aad u shaqeyso. GabungPDF.id ayaa halkan u jooga, aalad online ah oo bilaash ah oo si dhaqso leh oo fudud kuu ogolaanaysa inaad isugu darto faylasha PDF. Qodobkaan waxaan ku eegaynaa sida GabungPDF.id uu kaa caawinayo inaad si fudud ugu isugu darto faylasha PDF iyo sababta uu yahay xal dhammeystiran oo u wanaagsan xirfadlayaasha, ardayda, iyo ganacsiyada labadaba.",
+            "why_merge_pdf": {
+              "title": "Maxay Tahay Inaad Isugu Darto Faylasha PDF?",
+              "paragraph": "PDF waa nooca faylka ee ugu habboon wadaaga dukumiintiyada xirfadeed, balse maaraynta faylal badan waxay gaabi kartaa hawsha. Inaad isku darto PDF hal fayl oo nadiif ah waxay kuu badbaadisaa waqti, yaraysaa fowdada, waxayna hagaajisaa nidaamka. Waa kuwan sababaha aad u baahan karto inaad isku darto faylasha PDF:",
+              "reasons": [
+                {
+                  "title": "U Fududee Wadaagista",
+                  "description": "U dir hal fayl halkii aad ka diri lahayd dhowr lifaaq si wada-shaqayn u fududaato."
+                },
+                {
+                  "title": "Dukumiintiyada Habee",
+                  "description": "Isku dar biilasha, foomamka, ama qoraallada hal PDF fudud oo si sahlan loo heli karo."
+                },
+                {
+                  "title": "Bandhigyo Xirfadeed",
+                  "description": "Isku dar slides, warqado iyo qoraallo hal dukumiinti dhameystiran ah."
+                },
+                {
+                  "title": "Kaydinta Hagaaji",
+                  "description": "Isu geyso faylasha xiriirka leh si kaydinta iyo raadinta loo fududeeyo."
+                }
+              ],
+              "note": "Iyadoo la adeegsanayo GabungPDF.id, waxaad isku dari kartaa faylasha PDF dhowr gujin kaliya, taasoo ka dhigaysa maaraynta dukumiintiyada mid sahlan."
+            },
+            "features": {
+              "title": "Maxaa Ka Dhigaya GabungPDF PDF Isku-dariye Ugu Wanaagsan?",
+              "paragraph": "GabungPDF.id, waxaan abuurnay aalad degdeg ah, bilaash ah, qof walbana heli karo. Haddii aad ka shaqeynayso desktop, tablet, ama smartphone, aaladeenna PDF isku-darka waxay bixisaa natiijooyin xirfadaysan adigoon dhib qabin. Waa kuwan sababaha dadka isticmaala u jecel yihiin GabungPDF.id:",
+              "items": [
+                {
+                  "title": "Dhammaan Bilaash",
+                  "description": "Lama jiro rukumo, kharash qarsoon—isku dar oo kaxee."
+                },
+                {
+                  "title": "Software Looma Baahna",
+                  "description": "Aaladdeenna web-ku waxay isla markiiba shaqaysaa, lama baahna inaad soo dejiso."
+                },
+                {
+                  "title": "Hawlgal Ammaan Ah",
+                  "description": "Faylashaada waxaa lagu ilaaliyaa sir ah, kadibna si toos ah waa la tirtiraa markaad dhamayso."
+                },
+                {
+                  "title": "Naqshad Fudud",
+                  "description": "Is-dhexgal fudud oo qof walba awoodi karo inuu si fudud u isticmaalo."
+                }
+              ],
+              "next": "Diyaar u tahay inaad kordhiso wax-soo-saarkaaga? Bal aan galno sida loo isticmaalo aaladdeenna PDF isku-darka si aad daqiiqado gudahood ugu isugu darto faylasha PDF."
+            },
+            "how_to_use": {
+              "title": "Sida Loo Isticmaalo GabungPDF.id Si Loogu Isku Daro Faylasha PDF",
+              "paragraph": "Isku-darka faylasha PDF iyadoo la adeegsanayo GabungPDF waa mid toos ah mana u baahna aqoon farsamo. Raac tillaabooyinkan fudud:",
+              "steps": [
+                {
+                  "title": "Ku Soo Xulo PDF-yadaada",
+                  "description": "Tag https://gabungpdf.id/ oo xulo faylasha PDF ee aad rabto inaad isugu darto. Waxaad hal mar ka soo xulan kartaa dhowr fayl qalabkaaga."
+                },
+                {
+                  "title": "U Habeey Sidaad Rabto",
+                  "description": "Adeegso jiid-iyo-dhig si aad u dhigto faylasha sidaad rabto inay isugu xigaan."
+                },
+                {
+                  "title": "Isku Dar oo Kaydi",
+                  "description": "Guji 'Merge PDF,' aaladdeennu waxay kuu isugu dari doontaa faylashaada hal fayl. Si degdeg ah ayaad u soo dagsan kartaa PDF-gaaga."
+                }
+              ],
+              "note": "Way fududahay! Haddii aad isku darayso labo fayl ama tobanaan, GabungPDF.id waxay hubisaa in khibraddaadu noqoto mid fudud oo aan dhibaato lahayn."
+            },
+            "top_benefits": {
+              "title": "Faa'iidooyinka Ugu Muhiimsan Ee GabungPDF.id",
+              "paragraph": "Doorashada aaladda PDF isku-darka online sida GabungPDF.id waxay bixisaa fududeyn iyo hufnaan aan la barbar dhigi karin. Waa kuwan sababaha aaladdeennu uga soocan tahay:",
+              "items": [
+                {
+                  "title": "Badbaadi Waqti iyo Dadaal",
+                  "description": "Si gacanta ah ama software adag PDF iskugu-darka waa dhibaato. GabungPDF.id waxay kuu ogolaaneysaa inaad si degdeg ah isugu darto faylasha PDF si waqti badan loo helo shaqooyinka muhiimka ah."
+                },
+                {
+                  "title": "Amni Kordhay",
+                  "description": "Waxaan mudnaanta siinaa qarsoodigaaga. Aaladdeennu waxay adeegsanaysaa sir ah si loo ilaaliyo faylasha inta lagu jiro hawlgalka, kadibna waa la tirtiraa markaad dhamaysato."
+                },
+                {
+                  "title": "Qiimo Jaban",
+                  "description": "Maxaad lacag ugu bixin software qaali ah? GabungPDF.id waa 100% bilaash, ku habboon ardayda, freelancers-ka, iyo ganacsiyada yaryar."
+                },
+                {
+                  "title": "Helitaan Caalami Ah",
+                  "description": "Aaladdeennu waxay ka shaqaysaa qalab kasta oo leh browser, Windows, macOS, iOS, ama Android. Isticmaal mar kasta, meel kasta."
+                }
+              ]
+            },
+            "audience": {
+              "title": "Yaa Isticmaali Kara GabungPDF.id?",
+              "paragraph": "Aaladda PDF isku-darka waxay u adeegtaa baahiyo kala duwan:",
+              "users": [
+                {
+                  "type": "Ardayda",
+                  "description": "Isku dar hagayaasha waxbarasho, maqaallo, ama warbixino hal fayl fudud loogu gudbin karo."
+                },
+                {
+                  "type": "Xirfadlayaasha Ganacsiga",
+                  "description": "Isku dar qandaraasyo, soo jeedino, ama warbixinno si wada-shaqeyn macaamiil u fududaato."
+                },
+                {
+                  "type": "Freelancers",
+                  "description": "Abuur portfolios xirfadeed ama isu geyso invoice-yada macaamiisha."
+                },
+                {
+                  "type": "Ganacsiyada Yaryar",
+                  "description": "Habee risiiqyada, agabka suuqgeynta, ama dukumiintiyada sharciga hal PDF ah."
+                }
+              ],
+              "note": "Xil kasta oo aad haysato, GabungPDF.id waxay kuu fududaynaysaa maaraynta dukumiintiyada si sahlan."
+            },
+            "pro_tips": {
+              "title": "Talooyin Xirfadeed oo Ku Saabsan Isku-darka PDF",
+              "paragraph": "Si aad uga faa'iideysato aaladda PDF isku-darka, maskaxda ku hay talooyinkan:",
+              "tips": [
+                {
+                  "title": "Qorshee Habka Faylasha",
+                  "description": "Faylasha u habeey si macquul ah kahor intaadan isku darin si waqti loo badbaadiyo."
+                },
+                {
+                  "title": "Yaree Cabbirka Faylasha Weyn",
+                  "description": "Ka dhig faylasha yaryar kahor intaadan soo gelin si hawlgalka u dhakhso u noqdo."
+                },
+                {
+                  "title": "Hubi Natiijada",
+                  "description": "Dib u eeg PDF-gaaga si loo hubiyo inuu u dhigmaayo baahidaada."
+                },
+                {
+                  "title": "Bookmark GabungPDF.id",
+                  "description": "Kaydi boggeena si aad si dhaqso leh ugu heli karto markasta oo aad rabto inaad isku darto PDF."
+                }
+              ]
+            },
+            "why_stand_out": {
+              "title": "Maxaa GabungPDF.id uga Soocan Tahay Isku-dariyaasha Kale",
+              "paragraph": "Iyadoo ay jiraan aalado badan oo PDF isku-daraya, GabungPDF.id waxay ku soo baxday si fudayd, degdeg iyo lagu kalsoonaan karo. Si ka duwan aaladaha kale ee u baahan is-diiwaan galin ama soo dejin, barteennu diyaar ayey u tahay in si toos ah loo isticmaalo. Intaa waxaa dheer, waxaan si dhab ah uga go'an inaan ilaalino faylashaada. Ha ku mashquulin PDF kala daadsan. Booqo https://gabungpdf.id/ maanta oo baro habka ugu fudud ee lagu isku daro PDF."
+            },
+            "conclusion": {
+              "title": "Gunaanad: Habee Dukumiintiyadaada Adigoo Adeegsanaya GabungPDF.id",
+              "paragraph": "Maaraynta PDF-yada badan looma baahna inay noqoto dhibaato. Iyadoo la adeegsanayo GabungPDF.id, waxaad si degdeg ah, ammaan ah, bilaash ah ugu isugu dari kartaa faylasha PDF. Aaladdeena sahlan ee PDF isku-darka waxay loo naqshadeeyay inay kordhiso wax-soo-saarkaaga, haddii aad arday tahay, xirfadle, ama milkiile ganacsi. Nabadgelyo ku macsalaame faylasha fowdada ah oo kusoo dhawoow PDFs si nadiif ah loo habeeyay. Tijaabi GabungPDF.id hadda adigoo booqanaya gabungpdf.id/combine-pdf oo la kulmo habka ugu dhaqso badan ee lagu isugu daro faylasha PDF. Fududee hab-socodkaaga maanta!"
+            }
+          }
+        }
+      ]
+    }
   },
   "footer": {
     "about": "Nagu Saabsan",
@@ -356,5 +676,555 @@
     "termsOfService": "Shuruudaha Adeegsiga",
     "contact": "Nala Soo Xiriir",
     "copyright": "© 2025 GabungPDF.id. Xuquuqda oo dhan way dhowrsan tahay."
+  },
+  "privacy": {
+    "UpperSec": {
+      "tableOfContents": {
+        "title": "Liiska Mawduuca",
+        "items": [
+          {
+            "icon": "👁️",
+            "label": "Guudmar",
+            "target": "Overview"
+          },
+          {
+            "icon": "📊",
+            "label": "Xogta aan Aruurino",
+            "target": "information-collection"
+          },
+          {
+            "icon": "🔧",
+            "label": "Sida aan u Adeegsano Xogtaada",
+            "target": "how-we-use"
+          },
+          {
+            "icon": "🗄️",
+            "label": "Kaydinta iyo Tirtirista Xogta",
+            "target": "data-retention"
+          },
+          {
+            "icon": "🤝",
+            "label": "Wadaagga Xogta",
+            "target": "data-sharing"
+          },
+          {
+            "icon": "🔒",
+            "label": "Amniga Xogta",
+            "target": "data-security"
+          },
+          {
+            "icon": "🌍",
+            "label": "Wareejinta Xogta Caalamiga ah",
+            "target": "international-transfers"
+          },
+          {
+            "icon": "⚖️",
+            "label": "Xuquuqdaada",
+            "target": "your-rights"
+          },
+          {
+            "icon": "🔗",
+            "label": "Xiriiriyada Saddexaad",
+            "target": "third-party-links"
+          },
+          {
+            "icon": "👶",
+            "label": "Asturnaanta Carruurta",
+            "target": "children"
+          },
+          {
+            "icon": "🔄",
+            "label": "Isbeddelada Siyaasaddan",
+            "target": "changes"
+          },
+          {
+            "icon": "📧",
+            "label": "Nala Soo Xiriir",
+            "target": "contact"
+          }
+        ]
+      },
+      "privacySummary": {
+        "title": "Guudmar Asturnaanta",
+        "points": [
+          "Faylasha waa la tirtiraa 1 saac gudahood",
+          "Ma kaydinno dukumentiyadaada",
+          "Xog uruurin yar",
+          "Sir-fayn dhammaad-ilaa-dhammaad ah"
+        ]
+      }
+    },
+    "sections": [
+      {
+        "id": "Overview",
+        "icon": "👁️",
+        "title": "Guudmar",
+        "content": [
+          {
+            "type": "paragraph",
+            "text": "Bogga www.gabungpdf.id (\"Bogga\"), oo ay shaqeysiiso Gabung PDF (\"anaga,\" \"annaga,\" ama \"shirkadeena\"), waxaanu u heellanahay ilaalinta asturnaantaada. Siyaasaddan Asturnaanta waxay sharxaysaa sida aan u aruurino, u adeegsano, una ilaalino xogtaada marka aad adeegsatid adeegeena isku-darka PDF. Adigoo isticmaalaya Bogga, waxaad oggolaatay siyaasaddan."
+          },
+          {
+            "type": "highlight",
+            "title": "Mabaadi'deena Muhiimka ah:",
+            "text": "Faylashaada waxaan u farsameynaa kaliya si aan kuu siino adeeggeenna waxaana si toos ah u tirtirnaa 1 saac gudahood. Ma aragno, ma akhrino, mana kaydinno waxyaabaha ku jira faylashaada."
+          }
+        ]
+      },
+      {
+        "id": "information-collection",
+        "icon": "📊",
+        "title": "Xogta aan Aruurino",
+        "content": [
+          {
+            "type": "subsection",
+            "title": "Faylasha aad Soo Geliso",
+            "text": "Markaad adeegsatid adeeggeenna, waxaad soo gelisaa faylal PDF ah si loo mideeyo. Faylashan waxay yeelan karaan xog shaqsiyadeed, balse ma aragno, ma akhrino, mana kaydinno marka laga reebo muddada farsamaynta."
+          },
+          {
+            "type": "subsection",
+            "title": "Xogta Si Toos ah loo Ururiyo",
+            "text": "Waxaan ururin karnaa xog aan gaar ahayn, sida:",
+            "list": [
+              "Xogta qalabka (tusaale, nooca browser-ka, nidaamka hawlgalka, ciwaanka IP)",
+              "Xogta isticmaalka (tusaale, bogagga la booqday, wakhtiga la qaatay Bogga, iyo is-dhexgalka adeega)"
+            ]
+          },
+          {
+            "type": "subsection",
+            "title": "Cookies iyo Raadraaca",
+            "text": "Waxaan adeegsan karnaa cookies ama teknoolojiyad la mid ah si aan kuu siino khibrad wanaagsan iyo si aan u falanqeyno adeegsiga Bogga. Waxaad maamuli kartaa cookies-ka iyada oo loo marayo goobaha browser-kaaga."
+          }
+        ]
+      },
+      {
+        "id": "how-we-use",
+        "icon": "🔧",
+        "title": "Sida aan u Adeegsano Xogtaada",
+        "content": [
+          {
+            "type": "subsection",
+            "title": "Bixinta Adeega",
+            "text": "Waxaan ku farsameynaa faylasha PDF-ga aad soo gelisay si aan u mideyno hal PDF isla markaana aan kuu siino link soo degsasho."
+          },
+          {
+            "type": "subsection",
+            "title": "Hagaajinta Bogga",
+            "text": "Waxaan isticmaalnaa xog aan gaar ahayn (sida tirakoob isticmaal) si aan u falanqeyno una hagaajino shaqada iyo waxqabadka Bogga."
+          },
+          {
+            "type": "subsection",
+            "title": "Waafaqsanaanta Sharciga",
+            "text": "Waxaan isticmaali karnaa ama shaacin karnaa xog haddii ay sidaas nagu khasbeyso sharciga ama si aan u difaacno xuquuqdeena, amnigeena, ama hantideena."
+          }
+        ]
+      },
+      {
+        "id": "data-retention",
+        "icon": "🗄️",
+        "title": "Kaydinta iyo Tirtirista Xogta",
+        "content": [
+          {
+            "type": "highlight",
+            "title": "Faylasha La Soo Geliyo",
+            "text": "Dhamaan faylasha PDF-ga la soo geliyay iyo faylasha PDF-ga la mideeyay waxaa si toos ah looga tirtiraa server-yadayada hal (1) saac gudahood. Ma keydinno nuqulo faylashaada ah."
+          },
+          {
+            "type": "subsection",
+            "title": "Xogta Kale",
+            "text": "Xog aan gaar ahayn (tusaale, tirakoob isticmaal) waxaa la hayn karaa inta loo baahdo si loo hagaajiyo Bogga ama loo raaco waajibaadka sharciga."
+          }
+        ]
+      },
+      {
+        "id": "data-sharing",
+        "icon": "🤝",
+        "title": "Wadaagga Xogta",
+        "content": [
+          {
+            "type": "highlight",
+            "title": "Xog Lama Wadaago Saddexaad",
+            "text": "Ma iibinno, ma wadaagno, mana wareejinno faylasha aad soo gelisay ama xogtaada shaqsiga ah cid saddexaad, marka laga reebo haddii ay nagu khasbeyso sharciga ama si aan u difaacno xuquuqdeena."
+          },
+          {
+            "type": "subsection",
+            "title": "Bixiyeyaasha Adeegga",
+            "text": "Waxaan isticmaali karnaa bixiyeyaasha adeegyada saddexaad (sida martigelinta ama falanqaynta) si aan u shaqaysiino Bogga. Qandaraas ayaa ku waajibinaya in ay xogta qarsoodi u ilaaliyaan oo ay u shaqeeyaan oo kaliya annaga magacaaga."
+          }
+        ]
+      },
+      {
+        "id": "data-security",
+        "icon": "🔒",
+        "title": "Amniga Xogta",
+        "content": [
+          {
+            "type": "highlight",
+            "text": "Waxaan hirgelineynaa talaabooyin farsamo iyo hab-dhaqan oo macquul ah si aan u ilaalino xogtaada in aan laga helin si sharci-darro ah, lumin, ama si xun loo isticmaalo. Si kastaba ha ahaatee, adeegyada internet-ka kama badbaadsana gebi ahaanba halis, waana inaan kuu sheegnaa in aanan dammaanad qaadi karin amni buuxa."
+          }
+        ]
+      },
+      {
+        "id": "international-transfers",
+        "icon": "🌍",
+        "title": "Wareejinta Xogta Caalamiga ah",
+        "content": [
+          {
+            "type": "highlight",
+            "text": "Haddii aad ka baxsan tahay Indonesia, xogtaada waxaa loo wareejin karaa laguna farsameyn karaa Indonesia ama dalal kale oo ay yaalliin server-yadayadu ama bixiyeyaasha adeegeenna. Waxaan xaqiijin doonaa in taxaddar la qaato marka la sameynayo wareejintan."
+          }
+        ]
+      },
+      {
+        "id": "your-rights",
+        "icon": "⚖️",
+        "title": "Xuquuqdaada",
+        "content": [
+          {
+            "type": "paragraph",
+            "text": "Iyadoo ku xiran goobtaada, waxaad yeelan kartaa xuquuq hoos yimaada xeerarka ilaalinta xogta sida:"
+          },
+          {
+            "type": "list",
+            "items": [
+              "Helitaanka ama codsiga tirtirka xogtaada",
+              "Ka hor-imaad ama xadidid farsameynta xogta qaarkeed"
+            ]
+          },
+          {
+            "type": "highlight",
+            "text": "Si aad xuquuqdan u adeegsato, nala soo xiriir admin@gabungpdf.id. Xusuusnow in faylasha la tirtirayo 1 saac gudahood, sidaas darteed, suurtagal ma aha inaan hayno xog shaqsiyeed."
+          }
+        ]
+      },
+      {
+        "id": "third-party-links",
+        "icon": "🔗",
+        "title": "Xiriiriyada Saddexaad",
+        "content": [
+          {
+            "type": "paragraph",
+            "text": "Boggu waxa uu ka koobnaan karaa xiriiriyayaal bogag kale oo saddexaad ah. Annagu mas'uul kama nihin hab-dhaqanka asturnaanta ama waxyaabaha bogaggaas."
+          }
+        ]
+      },
+      {
+        "id": "children",
+        "icon": "👶",
+        "title": "Asturnaanta Carruurta",
+        "content": [
+          {
+            "type": "highlight",
+            "text": "Boggan looma jeedin dadka ka yar 18 sano. Si ula kac ah uma aruurino xogta carruurta."
+          }
+        ]
+      },
+      {
+        "id": "changes",
+        "icon": "🔄",
+        "title": "Isbeddelada Siyaasaddan",
+        "content": [
+          {
+            "type": "paragraph",
+            "text": "Waxaan mararka qaarkood cusboonaysiin karnaa Siyaasaddan Asturnaanta. Isbeddelada waxaa lagu shaacin doonaa boggan oo leh \"Taariikhda Ugu Dambeysay\" oo la cusboonaysiiyay."
+          },
+          {
+            "type": "highlight",
+            "text": "Isticmaalkaaga sii socda ee Bogga kadib isbeddelka waxay ka dhigan tahay inaad oggolaatay Siyaasadda Asturnaanta ee cusub."
+          }
+        ]
+      },
+      {
+        "id": "contact",
+        "icon": "📧",
+        "title": "Nala Soo Xiriir",
+        "content": [
+          {
+            "type": "highlight",
+            "text": "Haddii aad qabto su’aalo ku saabsan Siyaasaddan Asturnaanta, fadlan nala soo xiriir admin@gabungpdf.id"
+          }
+        ]
+      }
+    ],
+    "footer": {
+      "heading": "Su'aalo Ma Qabta?",
+      "description": "Waxaan diyaar u nahay inaan kaa caawino arrin kasta oo ku saabsan asturnaanta.",
+      "links": [
+        {
+          "label": "Shuruudaha Adeegga",
+          "href": "/terms-of-service",
+          "icon": "📄"
+        },
+        {
+          "label": "La Xiriir Kooxda",
+          "href": "mailto:admin@gabungpdf.id",
+          "icon": "✉️"
+        }
+      ]
+    }
+  },
+  "Terms": {
+    "UpperSec": {
+      "tableOfContents": {
+        "title": "Tusmada Mawduuca",
+        "items": [
+          {
+            "icon": "✅",
+            "label": "Aqbalidda Shuruudaha",
+            "target": "acceptance"
+          },
+          {
+            "icon": "🔧",
+            "label": "Isticmaalka Bogga",
+            "target": "use-of-site"
+          },
+          {
+            "icon": "📁",
+            "label": "Faylasha Isticmaalaha",
+            "target": "user-files"
+          },
+          {
+            "icon": "©️",
+            "label": "Xaqa Hantida Maskaxda",
+            "target": "intellectual-property"
+          },
+          {
+            "icon": "⚠️",
+            "label": "Xaddidaadda Mas'uuliyadda",
+            "target": "limitation-liability"
+          },
+          {
+            "icon": "⚖️",
+            "label": "Magdhawga",
+            "target": "indemnification"
+          },
+          {
+            "icon": "🚫",
+            "label": "Joojinta",
+            "target": "termination"
+          },
+          {
+            "icon": "🏛️",
+            "label": "Sharciga Xukuma",
+            "target": "governing-law"
+          },
+          {
+            "icon": "🔄",
+            "label": "Isbeddelada Shuruudaha",
+            "target": "changes"
+          },
+          {
+            "icon": "📧",
+            "label": "Nala Soo Xiriir",
+            "target": "contact"
+          }
+        ]
+      },
+      "termsSummary": {
+        "title": "Koobanaha Shuruudaha",
+        "points": [
+          "Adeeg bilaash ah oo isku geeya PDF",
+          "Waa in aad tahay 18+ jir si aad u isticmaasho",
+          "Faylasha waa la tirayaa 1 saac gudaheed",
+          "Kaliya u isticmaal si sharci ah"
+        ]
+      }
+    },
+    "sections": [
+      {
+        "id": "acceptance",
+        "icon": "✅",
+        "title": "Aqbalidda Shuruudaha",
+        "content": [
+          {
+            "type": "paragraph",
+            "text": "Ku soo dhawow www.gabungpdf.id (\"Bogga\"), adeeg uu bixiyo Gabung PDF (\"annaga,\" \"annagu,\" ama \"annaga\"). Shuruudahan Adeegga (\"Shuruudaha\") ayaa xukuma isticmaalkaaga Bogga iyo adeegyada isku darka PDF. Adigoo gala ama isticmaalaya Bogga, waxaad oggolaatay inaad u hogaansanto Shuruudahaan."
+          },
+          {
+            "type": "highlight",
+            "title": "Oggolaansho Muhiim Ah:",
+            "text": "Haddii aadan ogolaanin shuruudahaan, fadlan ha isticmaalin Bogga."
+          }
+        ]
+      },
+      {
+        "id": "use-of-site",
+        "icon": "🔧",
+        "title": "Isticmaalka Bogga",
+        "content": [
+          {
+            "type": "subsection",
+            "title": "U-qalmitaanka",
+            "text": "Waa in aad ugu yaraan tahay 18 sano jir ama aad leedahay awood sharciyeed si aad u gasho Shuruudahaan."
+          },
+          {
+            "type": "subsection",
+            "title": "Isticmaalka La Ogol Yahay",
+            "text": "Boggu wuxuu kuu oggolaanayaa inaad soo geliso faylasha PDF, ku darsato hal PDF ah, kadibna soo dejiso natiijada. Kaliya waxaad u isticmaali kartaa si sharci ah oo la jaan qaadaya Shuruudahaan."
+          },
+          {
+            "type": "subsection",
+            "title": "Isticmaalka La Mamnuucay",
+            "text": "Waxaadan sameyn karin:",
+            "list": [
+              "Soo gelinta faylasha xambaarsan fayrasyo, malware, ama koodh waxyeelo leh",
+              "Isticmaalka Bogga si aad u jebiso sharciyada, xeerarka, ama xuquuqda dhinac saddexaad",
+              "Isku day inaad farageliso, carqaladayso, ama dib u burburiso shaqada Bogga",
+              "Isticmaalka ganacsi ee aan oggolaansho qoraal hore laga haysan"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "user-files",
+        "icon": "📁",
+        "title": "Faylasha Isticmaalaha",
+        "content": [
+          {
+            "type": "highlight",
+            "title": "Hawlgelin Kumeelgaar ah",
+            "text": "Faylasha la soo geliyo waxaa loo isticmaalaa in lagu mideeyo PDF waxaana si toos ah loo tirtiraa hal (1) saac gudahood. Annagu kama keydinno faylashaada muddo ka badan intaas."
+          },
+          {
+            "type": "subsection",
+            "title": "Mas'uuliyaddaadu",
+            "text": "Adiga ayaa si buuxda mas'uul uga ah waxyaabaha kujira faylasha aad soo geliso. Waa in aad xaq sharci ah u leedahay faylasha soo gelinta iyo hawlgelintooda, isla markaana aysan jebin xuquuqda dhinac saddexaad (sida xuquuqda daabacaadda, calaamadaha ganacsiga, iwm.)."
+          }
+        ]
+      },
+      {
+        "id": "intellectual-property",
+        "icon": "©️",
+        "title": "Xaqa Hantida Maskaxda",
+        "content": [
+          {
+            "type": "subsection",
+            "title": "Waxyaabaha Bogga",
+            "text": "Dhammaan waxa ku jira Bogga, sida qoraalka, garaafyada, astaamaha, iyo software-ka, annaga ayaa iska leh ama aan ka heysano ogolaansho waxaana ilaaliya sharciga hantida maskaxda."
+          },
+          {
+            "type": "subsection",
+            "title": "Waxyaabaha Isticmaalaha",
+            "text": "Adiga ayaa iska leh faylasha aad soo geliso. Soo gelinta faylasha waxay na siineysaa ogolaansho xaddidan, aan gaar ahayn, bilaash ah si aan u hawlgelino faylashaada uun si aan kuu siino adeegga isku darka PDF."
+          }
+        ]
+      },
+      {
+        "id": "limitation-liability",
+        "icon": "⚠️",
+        "title": "Xaddidaadda Mas'uuliyadda",
+        "content": [
+          {
+            "type": "highlight",
+            "title": "Damaanad Ma Jirto",
+            "text": "Bogga waxaa lagu bixiyaa \"sida uu yahay\" iyadoo aan la bixin wax damaanad ah, cad ama la malayn karo, oo ay ka mid yihiin damaanadaha la xiriira suuqgelin, u habboonaanta ujeeddo gaar ah, ama xadgudub la'aan."
+          },
+          {
+            "type": "subsection",
+            "title": "Xadka Mas'uuliyadda",
+            "text": "Sida uu oggol yahay sharcigu, annagu mas'uul kama nihin waxyeelo toos ah, si dadban, gaar ah, ama cawaaqib leh oo ka dhalata isticmaalkaaga Bogga xitaa haddii lagugu wargeliyay suurtagalnimada waxyeeladaas."
+          },
+          {
+            "type": "subsection",
+            "title": "Hakinta Adeegga",
+            "text": "Ma dammaanad qaadeyno helitaan aan kala go' lahayn ama khalad la'aan ah, annagana mas'uul kama nihin wax dib u dhac, hakad, ama lumin xog ah."
+          }
+        ]
+      },
+      {
+        "id": "indemnification",
+        "icon": "⚖️",
+        "title": "Magdhawga",
+        "content": [
+          {
+            "type": "highlight",
+            "text": "Waxaad oggolaatay inaad nagu magdhawdo oo aad naga difaacdo wax cabasho, khasaare, ama dacwado, oo ay ka mid yihiin kharashyada sharci, oo ka dhalan kara isticmaalkaaga Bogga, faylasha aad soo gelisay, ama jebintaada Shuruudahaan."
+          }
+        ]
+      },
+      {
+        "id": "termination",
+        "icon": "🚫",
+        "title": "Joojinta",
+        "content": [
+          {
+            "type": "paragraph",
+            "text": "Waxaan hakad gelin karnaa ama joojin karnaa gelitaankaaga Bogga sida aan doono, ogeysiis la'aan, haddii aad jebiso Shuruudahaan ama sababo kale dartood."
+          }
+        ]
+      },
+      {
+        "id": "governing-law",
+        "icon": "🏛️",
+        "title": "Sharciga Xukuma",
+        "content": [
+          {
+            "type": "paragraph",
+            "text": "Shuruudahaan waxaa xukuma sharciga Indonesia, iyadoo aan la eegaynin khilaafaadka xeerarka sharciga. Dacwado kasta oo ka yimaada Shuruudahaan waxaa lagu xallinayaa maxkamadaha Indonesia."
+          }
+        ]
+      },
+      {
+        "id": "changes",
+        "icon": "🔄",
+        "title": "Isbeddelada Shuruudaha",
+        "content": [
+          {
+            "type": "paragraph",
+            "text": "Waxaan isbedel ku samayn karnaa Shuruudahaan mar kasta. Isbeddelada waxaa lagu dhajin doonaa boggaan oo leh taariikhda \"La Cusbooneysiiyay\" ee ugu dambeysay."
+          },
+          {
+            "type": "highlight",
+            "text": "Isticmaalkaaga sii socda kadib isbeddelka wuxuu ka dhigan yahay inaad aqbashay Shuruudaha cusub."
+          }
+        ]
+      },
+      {
+        "id": "contact",
+        "icon": "📧",
+        "title": "Nala Soo Xiriir",
+        "content": [
+          {
+            "type": "highlight",
+            "text": "Haddii aad qabto wax su'aalo ah oo la xiriira Shuruudahaan, fadlan nala soo xiriir: admin@gabungpdf.id"
+          }
+        ]
+      }
+    ],
+    "footer": {
+      "heading": "Su'aalo Ma Qabta?",
+      "description": "Waxaan diyaar u nahay inaan kaa caawinno wixii su'aalo ah ee la xiriira shuruudaha ama adeegga.",
+      "links": [
+        {
+          "label": "Siyaasadda Asturnaanta",
+          "href": "/privacy-policy",
+          "icon": "🔒"
+        },
+        {
+          "label": "La Xiriir Kooxda Sharciga",
+          "href": "mailto:admin@gabungpdf.id",
+          "icon": "✉️"
+        }
+      ]
+    }
+  },
+  "Content": {
+    "Policy": {
+      "title": "Nidaamka Asturnaanta",
+      "desc": "Waxaan ka go’an tahay ilaalinta asturnaantaada iyo sugidda ammaanka faylashaada. Baro sida aan u uruurino, u isticmaalno, una ilaalino macluumaadkaaga markaad adeegsanayso adeegga isku-darka PDF-yada.",
+      "Updated": "La cusbooneysiiyay:",
+      "date": "6-da Juun, 2025"
+    },
+    "Terms": {
+      "title": "Shuruudaha Adeegga",
+      "desc": "Shuruudahan ayaa xukuma isticmaalkaaga adeegga isku-darka PDF-yada. Fadlan si taxaddar leh u akhri ka hor intaadan adeegsan boggayaga.",
+      "Updated": "La cusbooneysiiyay:",
+      "date": "6-da Juun, 2025"
+    }
+  },
+  "MiniFooter": {
+    "heading": "Diyaar ma u tahay inaad si ammaan ah u isku darto PDF-yadaada?",
+    "subheading": "Ku raaxayso adeegga isku-darka PDF-yada ee diiradda saaraya asturnaanta iyadoo maskaxda lagu hayo nabadgelyadaada.",
+    "button": "Hadda isku dar PDF-yada"
   }
 }

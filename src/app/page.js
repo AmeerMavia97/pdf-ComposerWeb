@@ -1,11 +1,9 @@
 "use client"
-import { Navbar } from "@/Components/Navbar/Navbar";
+import { useEffect } from "react";
 import { usePathname } from "next/navigation";
 import { useLanguage } from "../../lib/languageContext";
 import HeroSection from "@/Components/Home/HeroSection/HeroSection";
 import Instructions from "@/Components/Home/Instruction/Instructions";
-import { useEffect } from "react";
-import Footer from "@/Components/Footer/Footer";
 
 export default function Home() {
 
@@ -30,6 +28,8 @@ export default function Home() {
       }
     }
   }, [pathname, currentLang, changeLanguage])
+
+  
 
   if (loading || !dict) {
     return (

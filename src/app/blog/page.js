@@ -21,18 +21,18 @@ const BlogPage = () => {
   return (
     <>
       <div className="flex-1">
-        <section className="overflow-hidden relative text-white bg-gradient-to-br from-blue-600 via-purple-600 to-blue-800">
+        <div className="overflow-hidden relative text-white bg-gradient-to-br from-blue-600 via-purple-600 to-blue-800">
           <div className="relative">
             <div className="absolute inset-0 bg-black/20"></div>
             <HeroSection lang={currentLang} dict={dict} />
           </div>
-          <div>
+          <section>
             <FeatureBlogSection lang={currentLang} dict={dict} />
-          </div>
-          <div>
+          </section>
+          <section>
             <BlogsCardSection lang={currentLang} dict={dict} />
-          </div>
-        </section>
+          </section>
+        </div>
       </div>
     </>
   )

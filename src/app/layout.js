@@ -11,9 +11,9 @@ const figtree = Figtree({
 });
 
 export const metadata = {
-  title: "Gabung PDF - Combine PDF Files Online",
+  title: "Combine PDF Files Online - Free, Fast and Secure - GABUNG PDF",
   description:
-    "Combine PDFs easily with GabungPDF.id! Free, fast, secure online tool to merge PDF files in seconds.",
+    "Combine PDFs easily with GabungPDF.id! Free, fast, secure online tool to merge PDF files in seconds. No registration needed.",
 };
 
 export default function RootLayout({ children }) {

@@ -347,7 +347,327 @@
     "mostPopular": "Paling popular minggu ini",
     "readArticle": "Baca Artikel",
     "readFull": "Baca Artikel Penuh",
-    "minRead": "min baca"
+    "minRead": "min baca",
+    "featureblog": {
+      "title": "Paling Popular Minggu Ini",
+      "subtitle": "⭐ Artikel Pilihan",
+      "featuredArticle": {
+        "date": "2 Julai 2025",
+        "author": "Admin User",
+        "category": "Artikel Pilihan",
+        "headline": "GabungPDF.id: Cara Paling Mudah untuk Gabungkan Fail PDF",
+        "excerpt": "Gabungkan fail PDF anda dengan mudah menggunakan GabungPDF.id, alat penggabung PDF dalam talian percuma. Gabungkan PDF dengan selamat dalam beberapa saat, tanpa memerlukan perisian. Tingkatkan produktiviti anda sekarang!",
+        "readTime": "3 minit bacaan",
+        "buttonName": "Baca Artikel Penuh"
+      }
+    },
+    "blogsPage": {
+      "cards": [
+        {
+          "BlogImage": "/Blog1Image.webp",
+          "date": "2 Jun 2025",
+          "author": "Pengguna Admin",
+          "category": null,
+          "headline": "GabungPDF.id: Alat Terbaik untuk Menggabungkan Fail PDF",
+          "headlineLink": "/blog/gabungpdfid-the-ultimate-tool-to-combine-pdf-files",
+          "excerpt": "Gabungkan fail PDF dengan mudah menggunakan GabungPDF.id, penukar PDF percuma atas talian anda. Satukan PDF anda dengan selamat dalam beberapa saat—tanpa perlu perisian. Cuba sekarang!",
+          "readTime": "3 minit bacaan",
+          "readMoreText": "blog.bacaArtikel",
+          "slug": "gabungpdfid-the-ultimate-tool-to-combine-pdf-files",
+          "detail": {
+            "intro": "Di GabungPDF.id, kami telah mereka alat atas talian yang mesra pengguna untuk membantu anda menggabungkan fail PDF dengan mudah. Sama ada anda celik teknologi atau pemula, platform kami dibina untuk semua. Inilah sebabnya GabungPDF.id menjadi pilihan terbaik untuk menggabungkan PDF:",
+            "features": [
+              {
+                "title": "Percuma dan mudah diakses",
+                "description": "Tiada langganan atau caj tersembunyi—hanya muat naik dan gabungkan."
+              },
+              {
+                "title": "Tiada pemasangan perisian",
+                "description": "Alat kami berfungsi sepenuhnya atas talian, menjimatkan ruang peranti anda."
+              },
+              {
+                "title": "Pantas dan selamat",
+                "description": "Gabungkan PDF dalam beberapa saat dengan penyulitan kukuh untuk melindungi fail anda."
+              },
+              {
+                "title": "Antaramuka mesra pengguna",
+                "description": "Seret, lepas, dan gabungkan fail dengan beberapa klik sahaja."
+              }
+            ],
+            "intro2": "Sedia untuk memudahkan pengurusan dokumen anda? Ikuti panduan ini untuk menggabungkan fail PDF menggunakan GabungPDF.id dalam beberapa langkah mudah.",
+            "how_to_use": {
+              "title": "Cara Menggabungkan Fail PDF dengan GabungPDF.id",
+              "paragraph": "Menggabungkan PDF dengan GabungPDF.id semudah 1-2-3. Ikuti langkah berikut untuk mencipta satu dokumen PDF yang lengkap dan kemas:",
+              "steps": [
+                {
+                  "title": "Muat Naik Fail Anda",
+                  "description": "Lawati https://gabungpdf.id/ dan klik butang “Muat Naik”. Pilih fail PDF yang ingin anda gabungkan dari peranti anda. Anda boleh memuat naik beberapa fail sekaligus."
+                },
+                {
+                  "title": "Susun Urutan Fail",
+                  "description": "Seret dan lepas fail mengikut susunan yang anda inginkan. Ini memastikan dokumen akhir anda lebih teratur."
+                },
+                {
+                  "title": "Gabung dan Muat Turun",
+                  "description": "Klik butang “Gabung PDF”, dan alat kami akan menggabungkan fail anda menjadi satu. Setelah selesai, muat turun PDF baru anda dengan segera."
+                }
+              ],
+              "note": "Itu sahaja! Tiada tetapan rumit atau pengetahuan teknikal diperlukan. Sama ada anda menggabungkan dua atau dua puluh fail, GabungPDF.id melakukannya dengan mudah."
+            },
+            "benefits": {
+              "title": "Manfaat Menggunakan Penukar PDF Atas Talian",
+              "paragraph": "Memilih penukar PDF atas talian seperti GabungPDF.id memberikan pelbagai kelebihan berbanding perisian tradisional atau kaedah manual. Inilah sebabnya alat kami sangat berguna:",
+              "items": [
+                {
+                  "title": "Jimat Masa",
+                  "description": "Menggabungkan PDF secara manual menggunakan perisian komputer mengambil masa dan memerlukan lesen mahal. Dengan GabungPDF.id, anda boleh menggabungkan PDF dalam beberapa saat dari mana-mana peranti yang mempunyai sambungan internet—sama ada komputer riba, tablet atau telefon pintar."
+                },
+                {
+                  "title": "Pengendalian Fail Selamat",
+                  "description": "Risau tentang privasi? Platform kami menggunakan penyulitan canggih bagi memastikan fail anda kekal selamat semasa proses penggabungan. Selepas anda memuat turun PDF yang digabungkan, fail anda akan dipadam dari pelayan kami demi perlindungan data."
+                },
+                {
+                  "title": "Penyelesaian Jimat Kos",
+                  "description": "Mengapa bayar untuk perisian PDF mahal? GabungPDF.id adalah percuma sepenuhnya, sesuai untuk pelajar, freelancer, dan perniagaan kecil yang ingin menggabungkan PDF tanpa belanja lebih."
+                },
+                {
+                  "title": "Serasi Merentas Platform",
+                  "description": "Sama ada anda menggunakan Windows, macOS, iOS, atau Android, penukar PDF atas talian kami berfungsi dengan sempurna. Tiada isu keserasian."
+                }
+              ]
+            },
+            "optimization_tips": {
+              "title": "Petua untuk Mengoptimumkan PDF Gabungan Anda",
+              "paragraph": "Untuk mendapatkan hasil terbaik dari PDF yang telah digabungkan, pertimbangkan petua berikut:",
+              "tips": [
+                {
+                  "title": "Semak Susunan Fail",
+                  "description": "Sebelum menggabungkan, susun fail PDF anda mengikut urutan yang dikehendaki bagi mengelakkan kerja semula."
+                },
+                {
+                  "title": "Optimumkan Saiz Fail",
+                  "description": "Jika PDF anda mengandungi imej bersaiz besar, mampatkannya sebelum memuat naik bagi mengurangkan saiz akhir fail."
+                },
+                {
+                  "title": "Namakan Fail dengan Jelas",
+                  "description": "Gunakan nama fail yang jelas supaya mudah dikenal pasti kemudian."
+                },
+                {
+                  "title": "Pratonton Hasil",
+                  "description": "Selepas menggabungkan, semak PDF yang telah digabungkan bagi memastikan semuanya kelihatan sempurna."
+                }
+              ],
+              "paragraph2": "Dengan GabungPDF.id, anda boleh menggabungkan fail PDF dengan yakin sambil mengekalkan kualiti dan susunan."
+            },
+            "audience": {
+              "title": "Siapa Yang Sesuai Menggunakan GabungPDF.id?",
+              "paragraph": "Penukar PDF kami direka untuk pelbagai jenis pengguna, termasuk:",
+              "users": [
+                {
+                  "type": "Pelajar",
+                  "description": "Gabungkan nota kuliah, tugasan, atau kertas penyelidikan dalam satu fail."
+                },
+                {
+                  "type": "Profesional",
+                  "description": "Gabungkan laporan, cadangan, atau kontrak untuk komunikasi yang lebih mudah."
+                },
+                {
+                  "type": "Perniagaan Kecil",
+                  "description": "Susun invois, resit, atau bahan pemasaran dalam satu dokumen."
+                },
+                {
+                  "type": "Freelancer",
+                  "description": "Gabungkan portfolio, invois, atau hasil projek untuk pelanggan."
+                }
+              ],
+              "paragraph2": "Apa pun keperluan anda, GabungPDF.id adalah rakan dipercayai anda untuk semua perkara berkaitan PDF."
+            },
+            "why_choose_us": {
+              "title": "Mengapa Pilih GabungPDF.id Berbanding Penukar PDF Lain?",
+              "paragraph": "Dengan begitu banyak alat yang ada, mengapa GabungPDF.id pilihan terbaik untuk menggabungkan PDF? Inilah kelebihan kami:",
+              "reasons": [
+                {
+                  "title": "Pantas",
+                  "description": "Tiada pembelajaran—hanya muat naik, gabung, dan muat turun."
+                },
+                {
+                  "title": "Boleh Dipercayai",
+                  "description": "Prestasi konsisten tanpa ralat atau gangguan."
+                },
+                {
+                  "title": "Boleh Diakses",
+                  "description": "Boleh digunakan 24/7 dari mana-mana sahaja di seluruh dunia."
+                }
+              ],
+              "paragraph2": "Jangan buang masa dengan perisian rumit atau alat yang tidak stabil. Cuba GabungPDF.id hari ini dan alami cara paling mudah menggabungkan fail PDF."
+            },
+            "conclusion": {
+              "title": "Kesimpulan: Permudahkan Kerja Anda dengan GabungPDF.id",
+              "paragraph": "Menggabungkan PDF tidak perlu lagi menyusahkan. Dengan GabungPDF.id, anda boleh menggabungkan fail PDF dengan mudah, menjimatkan masa dan memastikan dokumen anda lebih teratur. Penukar PDF kami yang percuma, selamat, dan mesra pengguna sangat sesuai bagi sesiapa yang ingin memperkemaskan aliran kerja. Sama ada anda menggabungkan laporan, nota atau kontrak, alat kami memberikan hasil profesional setiap masa. Sedia untuk bermula?",
+              "cta": {
+                "text": "Lawati gabungpdf.id/combine-pdf",
+                "link": "https://gabungpdf.id/combine-pdf"
+              },
+              "Remaingparagraph": "Kini anda boleh menggabungkan fail PDF dalam beberapa klik sahaja. Permudahkan pengurusan dokumen anda hari ini dengan GabungPDF.id—penukar PDF terbaik anda!"
+            }
+          }
+        },
+        {
+          "BlogImage": "/FeatureBlogImage.webp",
+          "date": "2 Julai 2025",
+          "author": "Admin User",
+          "category": "Artikel Pilihan",
+          "headline": "GabungPDF.id: Cara Paling Mudah Gabungkan Fail PDF",
+          "excerpt": "Gabungkan fail PDF dengan mudah menggunakan GabungPDF.id, penukar PDF percuma dalam talian. Gabungkan PDF secara selamat dalam beberapa saat, tanpa perlu pemasangan perisian. Tingkatkan produktiviti anda hari ini!",
+          "readTime": "3 minit bacaan",
+          "buttonName": "Baca Artikel Penuh",
+          "slug": "gabungpdfid-the-easiest-way-to-combine-pdf-files",
+          "detail": {
+            "intro": "Dalam dunia di mana masa adalah wang, pengurusan dokumen secara cekap boleh memberikan perbezaan besar. Sama ada anda menguruskan pelbagai laporan, menyusun kontrak pelanggan, atau menggabungkan fail projek, penukar PDF yang boleh dipercayai mampu mengubah aliran kerja anda. Inilah GabungPDF.id, alat percuma atas talian yang direka untuk menggabungkan fail PDF dengan pantas dan lancar. Dalam artikel ini, kami akan terangkan bagaimana GabungPDF.id membantu anda menggabungkan fail PDF dengan mudah dan kenapa ia adalah penyelesaian terbaik untuk profesional, pelajar dan perniagaan.",
+            "why_merge_pdf": {
+              "title": "Kenapa Perlu Gabungkan Fail PDF?",
+              "paragraph": "PDF ialah format utama untuk berkongsi dokumen profesional, tetapi mengurus banyak fail boleh melambatkan kerja anda. Menggabungkan PDF ke dalam satu dokumen yang lebih teratur menjimatkan masa, mengurangkan kekusutan, dan meningkatkan pengurusan. Berikut beberapa sebab kenapa anda perlu menggabungkan fail PDF:",
+              "reasons": [
+                {
+                  "title": "Mudahkan Perkongsian",
+                  "description": "Hantar satu fail sahaja, bukan banyak lampiran, untuk memudahkan kerjasama."
+                },
+                {
+                  "title": "Susun Dokumen",
+                  "description": "Gabungkan invois, borang atau nota ke dalam satu PDF yang mudah dicapai."
+                },
+                {
+                  "title": "Pembentangan Profesional",
+                  "description": "Gabungkan slaid, nota edaran, dan nota ke dalam satu dokumen yang lebih kemas."
+                },
+                {
+                  "title": "Permudahkan Arkib",
+                  "description": "Gabungkan fail berkaitan untuk penyimpanan dan carian yang lebih cekap."
+                }
+              ],
+              "note": "Dengan GabungPDF.id, anda boleh menggabungkan fail PDF hanya dengan beberapa klik sahaja, menjadikan pengurusan dokumen lebih mudah."
+            },
+            "features": {
+              "title": "Apa Yang Menjadikan GabungPDF Penukar PDF Terbaik?",
+              "paragraph": "Di GabungPDF.id, kami membina alat yang pantas, percuma dan boleh diakses semua orang. Sama ada anda bekerja dari komputer, tablet atau telefon pintar, penukar PDF kami memberikan hasil profesional tanpa sebarang kerumitan. Inilah sebab pengguna menyukai GabungPDF.id:",
+              "items": [
+                {
+                  "title": "100% Percuma",
+                  "description": "Tiada langganan, tiada caj tersembunyi — terus guna."
+                },
+                {
+                  "title": "Tiada Perlu Pemasangan",
+                  "description": "Alat berasaskan web kami berfungsi terus tanpa muat turun."
+                },
+                {
+                  "title": "Pemprosesan Selamat",
+                  "description": "Fail anda dilindungi dengan penyulitan dan dipadam selepas digunakan."
+                },
+                {
+                  "title": "Reka Bentuk Intuitif",
+                  "description": "Antara muka yang mudah membolehkan sesiapa sahaja menggabungkan PDF dengan senang."
+                }
+              ],
+              "next": "Sedia untuk tingkatkan produktiviti? Mari lihat cara menggunakan penukar PDF kami untuk menggabungkan fail dalam beberapa minit."
+            },
+            "how_to_use": {
+              "title": "Cara Menggunakan GabungPDF.id untuk Gabungkan Fail PDF",
+              "paragraph": "Gabungkan PDF dengan GabungPDF adalah mudah dan tidak memerlukan pengetahuan teknikal. Ikuti langkah mudah berikut:",
+              "steps": [
+                {
+                  "title": "Muat Naik Fail PDF Anda",
+                  "description": "Pergi ke https://gabungpdf.id/ dan pilih fail PDF yang ingin digabung. Anda boleh memuat naik banyak fail sekaligus dari peranti anda."
+                },
+                {
+                  "title": "Susun Ikut Kesesuaian",
+                  "description": "Gunakan ciri seret dan lepas untuk menyusun fail mengikut urutan yang anda inginkan."
+                },
+                {
+                  "title": "Gabung dan Simpan",
+                  "description": "Klik “Gabung PDF”, dan alat kami akan menggabungkan fail anda menjadi satu. Muat turun PDF gabungan anda dengan serta-merta."
+                }
+              ],
+              "note": "Semudah itu! Sama ada dua fail atau berpuluh-puluh, GabungPDF.id memastikan pengalaman yang lancar tanpa kerumitan."
+            },
+            "top_benefits": {
+              "title": "Kelebihan Utama Menggunakan GabungPDF.id",
+              "paragraph": "Memilih penukar PDF atas talian seperti GabungPDF.id menawarkan kemudahan dan kecekapan yang tiada tandingan. Inilah sebab alat kami menonjol:",
+              "items": [
+                {
+                  "title": "Jimat Masa & Usaha",
+                  "description": "Menggabungkan PDF secara manual atau dengan perisian rumit boleh memeningkan. GabungPDF.id membolehkan anda menggabungkan fail dalam beberapa saat, membebaskan masa anda untuk tugas lebih penting."
+                },
+                {
+                  "title": "Keselamatan Lebih Terjamin",
+                  "description": "Kami utamakan privasi anda. Platform kami menggunakan penyulitan selamat untuk melindungi fail anda semasa proses gabungan dan dipadam selepas selesai."
+                },
+                {
+                  "title": "Mesra Bajet",
+                  "description": "Kenapa bayar mahal untuk perisian PDF? GabungPDF.id adalah 100% percuma, sesuai untuk pelajar, freelancer, dan perniagaan kecil."
+                },
+                {
+                  "title": "Akses Universal",
+                  "description": "Alat kami berfungsi di mana-mana peranti dengan pelayar, sama ada Windows, macOS, iOS atau Android. Gabungkan PDF bila-bila masa, di mana sahaja."
+                }
+              ]
+            },
+            "audience": {
+              "title": "Siapa Yang Patut Menggunakan GabungPDF.id?",
+              "paragraph": "Penukar PDF kami cukup serba boleh untuk memenuhi pelbagai keperluan:",
+              "users": [
+                {
+                  "type": "Pelajar",
+                  "description": "Gabungkan nota pembelajaran, esei, atau kertas kajian dalam satu fail untuk penghantaran yang mudah."
+                },
+                {
+                  "type": "Profesional Perniagaan",
+                  "description": "Gabungkan kontrak, cadangan atau laporan untuk komunikasi klien yang lebih lancar."
+                },
+                {
+                  "type": "Freelancer",
+                  "description": "Hasilkan portfolio yang profesional atau gabungkan invois untuk dihantar kepada klien."
+                },
+                {
+                  "type": "Perniagaan Kecil",
+                  "description": "Susun resit, bahan pemasaran atau dokumen undang-undang dalam satu PDF."
+                }
+              ],
+              "note": "Apa pun peranan anda, GabungPDF.id memudahkan pengurusan dokumen anda."
+            },
+            "pro_tips": {
+              "title": "Tip Pro Untuk Gabung PDF Secara Efektif",
+              "paragraph": "Untuk hasil maksimum dengan penukar PDF anda, ingat petua ini:",
+              "tips": [
+                {
+                  "title": "Rancang Urutan Fail Anda",
+                  "description": "Susun PDF dengan logik sebelum menggabungkan untuk menjimatkan masa."
+                },
+                {
+                  "title": "Mampatkan Fail Besar",
+                  "description": "Kurangkan saiz fail sebelum muat naik untuk pemprosesan lebih pantas."
+                },
+                {
+                  "title": "Semak Hasil Akhir",
+                  "description": "Pratonton PDF gabungan anda untuk memastikan ia menepati keperluan."
+                },
+                {
+                  "title": "Simpan GabungPDF.id ke Penanda Buku",
+                  "description": "Simpan laman kami untuk akses pantas bila anda perlukan."
+                }
+              ]
+            },
+            "why_stand_out": {
+              "title": "Kenapa GabungPDF.id Menonjol Berbanding Penukar Lain",
+              "paragraph": "Terdapat banyak penukar PDF di luar sana, tetapi GabungPDF.id menonjol kerana kesederhanaan, kepantasan dan kebolehpercayaannya. Tidak seperti alat lain yang memerlukan pendaftaran atau muat turun, platform kami sedia digunakan terus. Tambahan pula, komitmen kami terhadap keselamatan memastikan fail anda sentiasa dilindungi. Jangan biarkan fail PDF berselerak melambatkan anda. Lawati https://gabungpdf.id/ hari ini dan rasai cara paling mudah untuk menggabungkan fail PDF."
+            },
+            "conclusion": {
+              "title": "Kesimpulan: Mudahkan Pengurusan Dokumen Dengan GabungPDF.id",
+              "paragraph": "Mengurus banyak fail PDF tidak perlu menjadi beban. Dengan GabungPDF.id, anda boleh menggabungkan fail dengan pantas, selamat dan percuma. Penukar PDF mesra pengguna kami direka untuk meningkatkan produktiviti sama ada anda pelajar, profesional atau pemilik perniagaan. Katakan selamat tinggal kepada kekacauan dokumen dan sambut PDF yang teratur dan profesional. Cuba GabungPDF.id sekarang di gabungpdf.id/combine-pdf dan alami cara paling pantas untuk menggabungkan PDF. Mudahkan aliran kerja anda hari ini!"
+            }
+          }
+        }
+      ]
+    }
   },
   "footer": {
     "description": "Cara termudah untuk menggabungkan beberapa fail PDF menjadi satu dokumen. Pantas, selamat dan percuma sepenuhnya untuk digunakan.",
@@ -356,5 +676,555 @@
     "privacyPolicy": "Dasar Privasi",
     "termsOfService": "Terma Perkhidmatan",
     "allRights": "Semua hak terpelihara"
+  },
+  "privacy": {
+    "UpperSec": {
+      "tableOfContents": {
+        "title": "Kandungan",
+        "items": [
+          {
+            "icon": "👁️",
+            "label": "Gambaran Keseluruhan",
+            "target": "Overview"
+          },
+          {
+            "icon": "📊",
+            "label": "Maklumat yang Kami Kumpul",
+            "target": "information-collection"
+          },
+          {
+            "icon": "🔧",
+            "label": "Bagaimana Kami Menggunakan Maklumat Anda",
+            "target": "how-we-use"
+          },
+          {
+            "icon": "🗄️",
+            "label": "Pengekalan dan Pemadaman Data",
+            "target": "data-retention"
+          },
+          {
+            "icon": "🤝",
+            "label": "Perkongsian Data",
+            "target": "data-sharing"
+          },
+          {
+            "icon": "🔒",
+            "label": "Keselamatan Data",
+            "target": "data-security"
+          },
+          {
+            "icon": "🌍",
+            "label": "Pemindahan Data Antarabangsa",
+            "target": "international-transfers"
+          },
+          {
+            "icon": "⚖️",
+            "label": "Hak Anda",
+            "target": "your-rights"
+          },
+          {
+            "icon": "🔗",
+            "label": "Pautan Pihak Ketiga",
+            "target": "third-party-links"
+          },
+          {
+            "icon": "👶",
+            "label": "Privasi Kanak-Kanak",
+            "target": "children"
+          },
+          {
+            "icon": "🔄",
+            "label": "Perubahan Polisi Ini",
+            "target": "changes"
+          },
+          {
+            "icon": "📧",
+            "label": "Hubungi Kami",
+            "target": "contact"
+          }
+        ]
+      },
+      "privacySummary": {
+        "title": "Ringkasan Privasi",
+        "points": [
+          "Fail dipadam dalam masa 1 jam",
+          "Kami tidak menyimpan dokumen anda",
+          "Pengumpulan data minimum",
+          "Penyulitan hujung ke hujung"
+        ]
+      }
+    },
+    "sections": [
+      {
+        "id": "Overview",
+        "icon": "👁️",
+        "title": "Gambaran Keseluruhan",
+        "content": [
+          {
+            "type": "paragraph",
+            "text": "Di www.gabungpdf.id (\"Laman Web\"), dikendalikan oleh Gabung PDF (\"kami\"), kami komited untuk melindungi privasi anda. Polisi Privasi ini menerangkan bagaimana kami mengumpul, menggunakan, dan melindungi maklumat anda apabila anda menggunakan perkhidmatan gabungan PDF kami. Dengan menggunakan Laman Web ini, anda bersetuju dengan Polisi Privasi ini."
+          },
+          {
+            "type": "highlight",
+            "title": "Prinsip Utama Kami:",
+            "text": "Kami memproses fail anda semata-mata untuk menyediakan perkhidmatan kami dan akan memadamkannya secara automatik dalam masa satu jam. Kami tidak mengakses, menyemak atau menyimpan kandungan fail anda melebihi tempoh pemprosesan yang diperlukan."
+          }
+        ]
+      },
+      {
+        "id": "information-collection",
+        "icon": "📊",
+        "title": "Maklumat yang Kami Kumpul",
+        "content": [
+          {
+            "type": "subsection",
+            "title": "Fail Dimuat Naik Pengguna",
+            "text": "Apabila anda menggunakan perkhidmatan kami, anda memuat naik fail PDF untuk digabungkan. Fail ini mungkin mengandungi maklumat peribadi, tetapi kami tidak mengakses, menyemak atau menyimpan kandungan fail anda melebihi tempoh pemprosesan sementara yang diperlukan."
+          },
+          {
+            "type": "subsection",
+            "title": "Data Dikumpul Secara Automatik",
+            "text": "Kami mungkin mengumpul maklumat bukan peribadi, seperti:",
+            "list": [
+              "Maklumat peranti (contoh: jenis pelayar, sistem operasi, alamat IP)",
+              "Data penggunaan (contoh: halaman dilawati, masa diluangkan di Laman Web, dan interaksi dengan perkhidmatan)"
+            ]
+          },
+          {
+            "type": "subsection",
+            "title": "Kuki dan Penjejakan",
+            "text": "Kami mungkin menggunakan kuki atau teknologi serupa untuk menambah baik pengalaman anda dan menganalisis penggunaan Laman Web. Anda boleh mengurus keutamaan kuki melalui tetapan pelayar anda."
+          }
+        ]
+      },
+      {
+        "id": "how-we-use",
+        "icon": "🔧",
+        "title": "Bagaimana Kami Menggunakan Maklumat Anda",
+        "content": [
+          {
+            "type": "subsection",
+            "title": "Penyampaian Perkhidmatan",
+            "text": "Kami memproses fail PDF anda yang dimuat naik hanya untuk menggabungkannya ke dalam satu fail PDF dan menyediakan pautan muat turun."
+          },
+          {
+            "type": "subsection",
+            "title": "Penambahbaikan Laman Web",
+            "text": "Kami menggunakan data bukan peribadi (contoh: statistik penggunaan) untuk menganalisis dan menambah baik kefungsian dan prestasi Laman Web."
+          },
+          {
+            "type": "subsection",
+            "title": "Pematuhan Undang-Undang",
+            "text": "Kami mungkin menggunakan atau mendedahkan maklumat jika dikehendaki oleh undang-undang atau untuk melindungi hak, keselamatan, atau harta kami."
+          }
+        ]
+      },
+      {
+        "id": "data-retention",
+        "icon": "🗄️",
+        "title": "Pengekalan dan Pemadaman Data",
+        "content": [
+          {
+            "type": "highlight",
+            "title": "Fail Dimuat Naik",
+            "text": "Semua fail PDF yang dimuat naik dan fail PDF gabungan akan dipadam secara automatik daripada pelayan kami dalam masa satu (1) jam selepas diproses. Kami tidak menyimpan salinan fail anda."
+          },
+          {
+            "type": "subsection",
+            "title": "Data Lain",
+            "text": "Data bukan peribadi (contoh: statistik penggunaan) mungkin dikekalkan selama yang perlu untuk menambah baik Laman Web atau mematuhi kewajipan undang-undang."
+          }
+        ]
+      },
+      {
+        "id": "data-sharing",
+        "icon": "🤝",
+        "title": "Perkongsian Data",
+        "content": [
+          {
+            "type": "highlight",
+            "title": "Tiada Perkongsian Pihak Ketiga",
+            "text": "Kami tidak menjual, berkongsi atau memindahkan fail yang dimuat naik atau maklumat peribadi anda kepada pihak ketiga, kecuali jika dikehendaki oleh undang-undang atau untuk melindungi hak kami."
+          },
+          {
+            "type": "subsection",
+            "title": "Penyedia Perkhidmatan",
+            "text": "Kami mungkin menggunakan penyedia perkhidmatan pihak ketiga (contoh: hosting atau penyedia analitik) untuk mengendalikan Laman Web. Penyedia ini terikat oleh kewajipan kerahsiaan dan hanya boleh memproses data bagi pihak kami."
+          }
+        ]
+      },
+      {
+        "id": "data-security",
+        "icon": "🔒",
+        "title": "Keselamatan Data",
+        "content": [
+          {
+            "type": "highlight",
+            "text": "Kami melaksanakan langkah teknikal dan organisasi yang munasabah untuk melindungi data anda daripada akses tanpa kebenaran, kehilangan, atau penyalahgunaan. Namun, tiada perkhidmatan dalam talian yang benar-benar selamat, dan kami tidak dapat menjamin keselamatan sepenuhnya."
+          }
+        ]
+      },
+      {
+        "id": "international-transfers",
+        "icon": "🌍",
+        "title": "Pemindahan Data Antarabangsa",
+        "content": [
+          {
+            "type": "highlight",
+            "text": "Jika anda berada di luar Indonesia, data anda mungkin dipindahkan dan diproses di Indonesia atau negara lain di mana pelayan atau penyedia perkhidmatan kami berada. Kami memastikan perlindungan yang sewajarnya untuk pemindahan tersebut."
+          }
+        ]
+      },
+      {
+        "id": "your-rights",
+        "icon": "⚖️",
+        "title": "Hak Anda",
+        "content": [
+          {
+            "type": "paragraph",
+            "text": "Bergantung kepada lokasi anda, anda mungkin mempunyai hak di bawah undang-undang perlindungan data yang terpakai, seperti:"
+          },
+          {
+            "type": "list",
+            "items": [
+              "Mengakses atau memohon pemadaman data anda",
+              "Membantah atau mengehadkan pemprosesan data tertentu"
+            ]
+          },
+          {
+            "type": "highlight",
+            "text": "Untuk melaksanakan hak ini, hubungi kami di admin@gabungpdf.id. Perlu diingat bahawa kerana kami memadam fail dalam masa satu jam, kami mungkin tidak menyimpan sebarang data peribadi untuk diberikan."
+          }
+        ]
+      },
+      {
+        "id": "third-party-links",
+        "icon": "🔗",
+        "title": "Pautan Pihak Ketiga",
+        "content": [
+          {
+            "type": "paragraph",
+            "text": "Laman Web ini mungkin mengandungi pautan ke laman web pihak ketiga. Kami tidak bertanggungjawab ke atas amalan privasi atau kandungan laman tersebut."
+          }
+        ]
+      },
+      {
+        "id": "children",
+        "icon": "👶",
+        "title": "Privasi Kanak-Kanak",
+        "content": [
+          {
+            "type": "highlight",
+            "text": "Laman Web ini tidak ditujukan kepada pengguna di bawah umur 18 tahun. Kami tidak sengaja mengumpul maklumat peribadi daripada kanak-kanak."
+          }
+        ]
+      },
+      {
+        "id": "changes",
+        "icon": "🔄",
+        "title": "Perubahan Polisi Ini",
+        "content": [
+          {
+            "type": "paragraph",
+            "text": "Kami mungkin mengemas kini Polisi Privasi ini dari semasa ke semasa. Perubahan akan dipaparkan di halaman ini dengan tarikh \"Dikemaskini Terakhir\" yang baru."
+          },
+          {
+            "type": "highlight",
+            "text": "Penggunaan berterusan Laman Web selepas perubahan menandakan penerimaan Polisi Privasi yang dikemas kini."
+          }
+        ]
+      },
+      {
+        "id": "contact",
+        "icon": "📧",
+        "title": "Hubungi Kami",
+        "content": [
+          {
+            "type": "highlight",
+            "text": "Jika anda mempunyai soalan tentang Polisi Privasi ini, sila hubungi kami di admin@gabungpdf.id"
+          }
+        ]
+      }
+    ],
+    "footer": {
+      "heading": "Ada Soalan?",
+      "description": "Kami sedia membantu sekiranya anda mempunyai sebarang kebimbangan atau pertanyaan tentang privasi.",
+      "links": [
+        {
+          "label": "Terma Perkhidmatan",
+          "href": "/terms-of-service",
+          "icon": "📄"
+        },
+        {
+          "label": "Hubungi Pasukan Kami",
+          "href": "mailto:admin@gabungpdf.id",
+          "icon": "✉️"
+        }
+      ]
+    }
+  },
+  "Terms": {
+    "UpperSec": {
+      "tableOfContents": {
+        "title": "Kandungan",
+        "items": [
+          {
+            "icon": "✅",
+            "label": "Penerimaan Terma",
+            "target": "acceptance"
+          },
+          {
+            "icon": "🔧",
+            "label": "Penggunaan Laman Web",
+            "target": "use-of-site"
+          },
+          {
+            "icon": "📁",
+            "label": "Fail Pengguna",
+            "target": "user-files"
+          },
+          {
+            "icon": "©️",
+            "label": "Harta Intelek",
+            "target": "intellectual-property"
+          },
+          {
+            "icon": "⚠️",
+            "label": "Had Liabiliti",
+            "target": "limitation-liability"
+          },
+          {
+            "icon": "⚖️",
+            "label": "Tanggungjawab Pengguna",
+            "target": "indemnification"
+          },
+          {
+            "icon": "🚫",
+            "label": "Penamatan",
+            "target": "termination"
+          },
+          {
+            "icon": "🏛️",
+            "label": "Undang-Undang Yang Mentadbir",
+            "target": "governing-law"
+          },
+          {
+            "icon": "🔄",
+            "label": "Perubahan Terma",
+            "target": "changes"
+          },
+          {
+            "icon": "📧",
+            "label": "Hubungi Kami",
+            "target": "contact"
+          }
+        ]
+      },
+      "termsSummary": {
+        "title": "Ringkasan Terma",
+        "points": [
+          "Perkhidmatan menggabungkan PDF percuma",
+          "Pengguna mestilah berumur 18 tahun ke atas",
+          "Fail dipadamkan dalam masa 1 jam",
+          "Hanya untuk tujuan yang sah sahaja"
+        ]
+      }
+    },
+    "sections": [
+      {
+        "id": "acceptance",
+        "icon": "✅",
+        "title": "Penerimaan Terma",
+        "content": [
+          {
+            "type": "paragraph",
+            "text": "Selamat datang ke www.gabungpdf.id (\"Laman Web\"), perkhidmatan yang disediakan oleh Gabung PDF (\"kami\"). Terma Perkhidmatan ini (\"Terma\") mengawal penggunaan anda ke atas laman web ini dan perkhidmatan gabungan PDF. Dengan mengakses atau menggunakan laman ini, anda bersetuju untuk terikat dengan Terma ini."
+          },
+          {
+            "type": "highlight",
+            "title": "Perjanjian Penting:",
+            "text": "Jika anda tidak bersetuju dengan Terma ini, sila jangan gunakan laman web ini."
+          }
+        ]
+      },
+      {
+        "id": "use-of-site",
+        "icon": "🔧",
+        "title": "Penggunaan Laman Web",
+        "content": [
+          {
+            "type": "subsection",
+            "title": "Kelayakan",
+            "text": "Anda mestilah berumur sekurang-kurangnya 18 tahun atau mempunyai keupayaan undang-undang untuk menerima Terma ini untuk menggunakan laman ini."
+          },
+          {
+            "type": "subsection",
+            "title": "Penggunaan Yang Dibenarkan",
+            "text": "Laman ini membolehkan anda memuat naik fail PDF, menggabungkannya menjadi satu PDF, dan memuat turun hasilnya. Anda hanya dibenarkan menggunakan laman ini untuk tujuan yang sah dan selaras dengan Terma ini."
+          },
+          {
+            "type": "subsection",
+            "title": "Penggunaan Yang Dilarang",
+            "text": "Anda dilarang daripada:",
+            "list": [
+              "Muat naik fail yang mengandungi virus, malware, atau kod berbahaya",
+              "Menggunakan laman ini untuk melanggar undang-undang, peraturan atau hak pihak ketiga",
+              "Mencuba mengganggu, mengubah, atau menggodam fungsi laman ini",
+              "Menggunakan laman ini untuk tujuan komersial tanpa kebenaran bertulis daripada kami"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "user-files",
+        "icon": "📁",
+        "title": "Fail Pengguna",
+        "content": [
+          {
+            "type": "highlight",
+            "title": "Pemprosesan Sementara",
+            "text": "Fail yang dimuat naik akan diproses untuk menggabungkan PDF dan akan dipadam secara automatik dari pelayan kami dalam masa satu (1) jam selepas diproses. Kami tidak akan menyimpan atau mengekalkan fail anda selepas tempoh ini."
+          },
+          {
+            "type": "subsection",
+            "title": "Tanggungjawab Anda",
+            "text": "Anda bertanggungjawab sepenuhnya ke atas kandungan fail yang anda muat naik. Anda mesti memastikan bahawa anda mempunyai hak yang sah untuk memuat naik dan memproses fail tersebut, serta ia tidak melanggar mana-mana hak pihak ketiga (seperti hak cipta, tanda dagangan)."
+          }
+        ]
+      },
+      {
+        "id": "intellectual-property",
+        "icon": "©️",
+        "title": "Harta Intelek",
+        "content": [
+          {
+            "type": "subsection",
+            "title": "Kandungan Laman",
+            "text": "Semua kandungan di laman ini termasuk teks, grafik, logo, dan perisian adalah milik atau dilesenkan kepada kami dan dilindungi oleh undang-undang harta intelek."
+          },
+          {
+            "type": "subsection",
+            "title": "Kandungan Pengguna",
+            "text": "Anda mengekalkan pemilikan fail yang anda muat naik. Dengan memuat naik fail, anda memberikan kami lesen terhad, tidak eksklusif dan bebas royalti untuk memproses fail anda semata-mata bagi menyediakan perkhidmatan gabungan PDF."
+          }
+        ]
+      },
+      {
+        "id": "limitation-liability",
+        "icon": "⚠️",
+        "title": "Had Liabiliti",
+        "content": [
+          {
+            "type": "highlight",
+            "title": "Tanpa Jaminan",
+            "text": "Laman ini disediakan \"sebagaimana adanya\" tanpa sebarang jaminan nyata atau tersirat termasuk jaminan kebolehdagangan, kesesuaian untuk tujuan tertentu atau tiada pelanggaran hak."
+          },
+          {
+            "type": "subsection",
+            "title": "Had Tanggungan",
+            "text": "Setakat yang dibenarkan oleh undang-undang, kami tidak akan bertanggungjawab atas apa-apa kerosakan tidak langsung, khas, sampingan atau berbangkit daripada penggunaan laman ini walaupun telah dimaklumkan tentang kemungkinan kerosakan tersebut."
+          },
+          {
+            "type": "subsection",
+            "title": "Gangguan Perkhidmatan",
+            "text": "Kami tidak menjamin akses yang berterusan atau bebas ralat ke laman ini dan tidak akan bertanggungjawab atas sebarang kelewatan, gangguan atau kehilangan data."
+          }
+        ]
+      },
+      {
+        "id": "indemnification",
+        "icon": "⚖️",
+        "title": "Tanggungjawab Pengguna",
+        "content": [
+          {
+            "type": "highlight",
+            "text": "Anda bersetuju untuk melindungi dan menanggung rugi kami daripada sebarang tuntutan, kerugian atau ganti rugi termasuk yuran guaman yang timbul akibat penggunaan laman ini, fail yang dimuat naik oleh anda, atau pelanggaran Terma ini."
+          }
+        ]
+      },
+      {
+        "id": "termination",
+        "icon": "🚫",
+        "title": "Penamatan",
+        "content": [
+          {
+            "type": "paragraph",
+            "text": "Kami berhak menggantung atau menamatkan akses anda ke laman ini mengikut budi bicara kami tanpa notis sekiranya anda melanggar Terma ini atau atas apa-apa sebab lain."
+          }
+        ]
+      },
+      {
+        "id": "governing-law",
+        "icon": "🏛️",
+        "title": "Undang-Undang Yang Mentadbir",
+        "content": [
+          {
+            "type": "paragraph",
+            "text": "Terma ini ditadbir oleh undang-undang Indonesia tanpa mengambil kira percanggahan prinsip undang-undang. Sebarang pertikaian akan diselesaikan di mahkamah Indonesia."
+          }
+        ]
+      },
+      {
+        "id": "changes",
+        "icon": "🔄",
+        "title": "Perubahan Terma",
+        "content": [
+          {
+            "type": "paragraph",
+            "text": "Kami boleh mengemas kini Terma ini dari semasa ke semasa. Sebarang perubahan akan dipaparkan di halaman ini dengan tarikh \"Terakhir Dikemas Kini\"."
+          },
+          {
+            "type": "highlight",
+            "text": "Dengan terus menggunakan laman ini selepas perubahan dibuat, anda dianggap bersetuju dengan Terma yang dikemas kini."
+          }
+        ]
+      },
+      {
+        "id": "contact",
+        "icon": "📧",
+        "title": "Hubungi Kami",
+        "content": [
+          {
+            "type": "highlight",
+            "text": "Sekiranya anda mempunyai sebarang pertanyaan tentang Terma ini, sila hubungi kami di admin@gabungpdf.id"
+          }
+        ]
+      }
+    ],
+    "footer": {
+      "heading": "Ada Soalan?",
+      "description": "Kami sedia membantu anda berkaitan terma atau perkhidmatan.",
+      "links": [
+        {
+          "label": "Dasar Privasi",
+          "href": "/privacy-policy",
+          "icon": "🔒"
+        },
+        {
+          "label": "Hubungi Pasukan Undang-Undang",
+          "href": "mailto:admin@gabungpdf.id",
+          "icon": "✉️"
+        }
+      ]
+    }
+  },
+  "Content": {
+    "Policy": {
+      "title": "Dasar Privasi",
+      "desc": "Kami komited untuk melindungi privasi anda dan memastikan keselamatan fail anda. Ketahui bagaimana kami mengumpul, menggunakan, dan melindungi maklumat anda apabila anda menggunakan perkhidmatan gabungan PDF kami.",
+      "Updated": "Kemas Kini Terakhir:",
+      "date": "6 Jun 2025"
+    },
+    "Terms": {
+      "title": "Terma Perkhidmatan",
+      "desc": "Terma-terma ini mengawal penggunaan perkhidmatan gabungan PDF kami. Sila baca dengan teliti sebelum menggunakan laman web kami.",
+      "Updated": "Kemas Kini Terakhir:",
+      "date": "6 Jun 2025"
+    }
+  },
+  "MiniFooter": {
+    "heading": "Sedia untuk Menggabungkan PDF Anda dengan Selamat?",
+    "subheading": "Alami perkhidmatan gabungan PDF kami yang menitikberatkan privasi dengan ketenangan minda sepenuhnya.",
+    "button": "Gabungkan PDF Sekarang"
   }
 }

@@ -510,7 +510,7 @@
           }
         },
         {
-           "BlogImage": "/FeatureBlogImage.webp",
+          "BlogImage": "/FeatureBlogImage.webp",
           "date": "Jul 2, 2025",
           "author": "Admin User",
           "category": "Featured Article",
@@ -681,5 +681,599 @@
     "privacyPolicy": "Privacy Policy",
     "termsOfService": "Terms of Service",
     "allRights": "All rights reserved"
+  },
+  "privacy": {
+    "UpperSec": {
+      "tableOfContents": {
+        "title": "Table of Contents",
+        "items": [
+          {
+            "icon": "👁️",
+            "label": "Overview",
+            "target": "Overview"
+          },
+          {
+            "icon": "📊",
+            "label": "Information We Collect",
+            "target": "information-collection"
+          },
+          {
+            "icon": "🔧",
+            "label": "How We Use Your Information",
+            "target": "how-we-use"
+          },
+          {
+            "icon": "🗄️",
+            "label": "Data Retention and Deletion",
+            "target": "data-retention"
+          },
+          {
+            "icon": "🤝",
+            "label": "Data Sharing",
+            "target": "data-sharing"
+          },
+          {
+            "icon": "🔒",
+            "label": "Data Security",
+            "target": "data-security"
+          },
+          {
+            "icon": "🌍",
+            "label": "International Data Transfers",
+            "target": "international-transfers"
+          },
+          {
+            "icon": "⚖️",
+            "label": "Your Rights",
+            "target": "your-rights"
+          },
+          {
+            "icon": "🔗",
+            "label": "Third-Party Links",
+            "target": "third-party-links"
+          },
+          {
+            "icon": "👶",
+            "label": "Children's Privacy",
+            "target": "children"
+          },
+          {
+            "icon": "🔄",
+            "label": "Changes to This Policy",
+            "target": "changes"
+          },
+          {
+            "icon": "📧",
+            "label": "Contact Us",
+            "target": "contact"
+          }
+        ]
+      },
+      "privacySummary": {
+        "title": "Privacy Summary",
+        "points": [
+          "Files deleted within 1 hour",
+          "We don't store your documents",
+          "Minimal data collection",
+          "End-to-end encryption"
+        ]
+      }
+    },
+    "sections": [
+      {
+        "id": "Overview",
+        "icon": "👁️",
+        "title": "Overview",
+        "content": [
+          {
+            "type": "paragraph",
+            "text": "At www.gabungpdf.id (\"the Site\"), operated by Gabung PDF (\"we,\" \"us,\" or \"our\"), we are committed to protecting your privacy. This Privacy Policy explains how we collect, use, and protect your information when you use our PDF combining service. By using the Site, you agree to this Privacy Policy."
+          },
+          {
+            "type": "highlight",
+            "title": "Our Key Principle:",
+            "text": "We process your files solely to provide our service and automatically delete them within one hour. We do not access, review, or store the content of your files beyond this necessary processing period."
+          }
+        ]
+      },
+      {
+        "id": "information-collection",
+        "icon": "📊",
+        "title": "Information We Collect",
+        "content": [
+          {
+            "type": "subsection",
+            "title": "User-Uploaded Files",
+            "text": "When you use our service, you upload PDF files to combine them. These files may contain personal information, but we do not access, review, or store the content of your files beyond the period necessary for temporary processing."
+          },
+          {
+            "type": "subsection",
+            "title": "Automatically Collected Data",
+            "text": "We may collect non-personal information, such as:",
+            "list": [
+              "Device information (e.g., browser type, operating system, IP address)",
+              "Usage data (e.g., pages visited, time spent on the Site, and interactions with the service)"
+            ]
+          },
+          {
+            "type": "subsection",
+            "title": "Cookies and Tracking",
+            "text": "We may use cookies or similar technologies to improve your experience and analyze Site usage. You can manage cookie preferences through your browser settings."
+          }
+        ]
+      },
+      {
+        "id": "how-we-use",
+        "icon": "🔧",
+        "title": "How We Use Your Information",
+        "content": [
+          {
+            "type": "subsection",
+            "title": "Service Delivery",
+            "text": "We process your uploaded PDF files solely to combine them into a single PDF and provide the download link."
+          },
+          {
+            "type": "subsection",
+            "title": "Site Improvement",
+            "text": "We use non-personal data (e.g., usage statistics) to analyze and improve the Site's functionality and performance."
+          },
+          {
+            "type": "subsection",
+            "title": "Legal Compliance",
+            "text": "We may use or disclose information if required by law or to protect our rights, safety, or property."
+          }
+        ]
+      },
+      {
+        "id": "data-retention",
+        "icon": "🗄️",
+        "title": "Data Retention and Deletion",
+        "content": [
+          {
+            "type": "highlight",
+            "title": "Uploaded Files",
+            "text": "All uploaded PDF files and the resulting combined PDF are automatically deleted from our servers within one (1) hour of processing. We do not retain copies of your files."
+          },
+          {
+            "type": "subsection",
+            "title": "Other Data",
+            "text": "Non-personal data (e.g., usage statistics) may be retained for as long as necessary to improve the Site or comply with legal obligations."
+          }
+        ]
+      },
+      {
+        "id": "data-sharing",
+        "icon": "🤝",
+        "title": "Data Sharing",
+        "content": [
+          {
+            "type": "highlight",
+            "title": "No Third-Party Sharing",
+            "text": "We do not sell, share, or transfer your uploaded files or personal information to third parties, except as required by law or to protect our rights."
+          },
+          {
+            "type": "subsection",
+            "title": "Service Providers",
+            "text": "We may use third-party service providers (e.g., hosting or analytics providers) to operate the Site. Confidentiality obligations bind these providers and may only process data on our behalf."
+          }
+        ]
+      },
+      {
+        "id": "data-security",
+        "icon": "🔒",
+        "title": "Data Security",
+        "content": [
+          {
+            "type": "highlight",
+            "text": "We implement reasonable technical and organizational measures to protect your data from unauthorized access, loss, or misuse. However, no online service is completely secure, and we cannot guarantee absolute security."
+          }
+        ]
+      },
+      {
+        "id": "international-transfers",
+        "icon": "🌍",
+        "title": "International Data Transfers",
+        "content": [
+          {
+            "type": "highlight",
+            "text": "If you are outside Indonesia, your data may be transferred to and processed in Indonesia or other countries where our servers or service providers are located. We ensure appropriate safeguards are in place for such transfers."
+          }
+        ]
+      },
+      {
+        "id": "your-rights",
+        "icon": "⚖️",
+        "title": "Your Rights",
+        "content": [
+          {
+            "type": "paragraph",
+            "text": "Depending on your location, you may have rights under applicable data protection laws, such as:"
+          },
+          {
+            "type": "list",
+            "items": [
+              "Accessing or requesting the deletion of your data",
+              "Objecting to or restricting certain data processing"
+            ]
+          },
+          {
+            "type": "highlight",
+            "text": "To exercise these rights, contact us at admin@gabungpdf.id. Note that because we delete files within one hour, we may not retain any personal data to provide."
+          }
+        ]
+      },
+      {
+        "id": "third-party-links",
+        "icon": "🔗",
+        "title": "Third-Party Links",
+        "content": [
+          {
+            "type": "paragraph",
+            "text": "The Site may contain links to third-party websites. We are not responsible for the privacy practices or content of those sites."
+          }
+        ]
+      },
+      {
+        "id": "children",
+        "icon": "👶",
+        "title": "Children's Privacy",
+        "content": [
+          {
+            "type": "highlight",
+            "text": "The Site is not intended for users under 18 years old. We do not knowingly collect personal information from children."
+          }
+        ]
+      },
+      {
+        "id": "changes",
+        "icon": "🔄",
+        "title": "Changes to This Policy",
+        "content": [
+          {
+            "type": "paragraph",
+            "text": "We may update this Privacy Policy from time to time. Changes will be posted on this page with an updated \"Last Updated\" date."
+          },
+          {
+            "type": "highlight",
+            "text": "Your continued use of the Site after changes constitutes acceptance of the updated Privacy Policy."
+          }
+        ]
+      },
+      {
+        "id": "contact",
+        "icon": "📧",
+        "title": "Contact Us",
+        "content": [
+          {
+            "type": "highlight",
+            "text": "If you have questions about this Privacy Policy, please contact us at admin@gabungpdf.id"
+          }
+        ]
+      }
+    ],
+    "sections2": {
+      "title": "Our Privacy Commitment",
+      "desc": "We take your privacy seriously. Here's what makes our service trustworthy",
+      "points": [
+        {
+          "title": "Auto-Delete",
+          "desc": "Files automatically deleted within 1 hour"
+        },
+        {
+          "title": "Encrypted Transfer",
+          "desc": "All uploads use secure HTTPS encryption"
+        },
+        {
+          "title": "No File Reading",
+          "desc": "We never access or read your file contents"
+        },
+        {
+          "title": "No Sharing",
+          "desc": "Your files are never shared with third parties"
+        }
+      ]
+    },
+    "footer": {
+      "heading": "Have Questions?",
+      "description": "We're here to help with any privacy concerns or questions.",
+      "links": [
+        {
+          "label": "Terms of Service",
+          "href": "/terms-of-service",
+          "icon": "📄"
+        },
+        {
+          "label": "Contact Our Team",
+          "href": "mailto:admin@gabungpdf.id",
+          "icon": "✉️"
+        }
+      ]
+    }
+  },
+  "Terms": {
+    "UpperSec": {
+      "tableOfContents": {
+        "title": "Table of Contents",
+        "items": [
+          {
+            "icon": "✅",
+            "label": "Acceptance of Terms",
+            "target": "acceptance"
+          },
+          {
+            "icon": "🔧",
+            "label": "Use of the Site",
+            "target": "use-of-site"
+          },
+          {
+            "icon": "📁",
+            "label": "User Files",
+            "target": "user-files"
+          },
+          {
+            "icon": "©️",
+            "label": "Intellectual Property",
+            "target": "intellectual-property"
+          },
+          {
+            "icon": "⚠️",
+            "label": "Limitation of Liability",
+            "target": "limitation-liability"
+          },
+          {
+            "icon": "⚖️",
+            "label": "Indemnification",
+            "target": "indemnification"
+          },
+          {
+            "icon": "🚫",
+            "label": "Termination",
+            "target": "termination"
+          },
+          {
+            "icon": "🏛️",
+            "label": "Governing Law",
+            "target": "governing-law"
+          },
+          {
+            "icon": "🔄",
+            "label": "Changes to Terms",
+            "target": "changes"
+          },
+          {
+            "icon": "📧",
+            "label": "Contact Us",
+            "target": "contact"
+          }
+        ]
+      },
+      "termsSummary": {
+        "title": "Terms Summary",
+        "points": [
+          "Free PDF combining service",
+          "Must be 18+ years old to use",
+          "Files deleted within 1 hour",
+          "Use only for lawful purposes"
+        ]
+      }
+    },
+    "sections": [
+      {
+        "id": "acceptance",
+        "icon": "✅",
+        "title": "Acceptance of Terms",
+        "content": [
+          {
+            "type": "paragraph",
+            "text": "Welcome to www.gabungpdf.id (\"the Site\"), a service provided by Gabung PDF (\"we,\" \"us,\" or \"our\"). These Terms of Service (\"Terms\") govern your use of the Site and its PDF combining services. By accessing or using the Site, you agree to be bound by these Terms."
+          },
+          {
+            "type": "highlight",
+            "title": "Important Agreement:",
+            "text": "If you do not agree to these Terms, please do not use the Site."
+          }
+        ]
+      },
+      {
+        "id": "use-of-site",
+        "icon": "🔧",
+        "title": "Use of the Site",
+        "content": [
+          {
+            "type": "subsection",
+            "title": "Eligibility",
+            "text": "You must be at least 18 years old or have the legal capacity to enter into these Terms to use the Site."
+          },
+          {
+            "type": "subsection",
+            "title": "Permitted Use",
+            "text": "The Site allows you to upload PDF files, combine them into a single PDF, and download the result. You may only use the Site for lawful purposes and in accordance with these Terms."
+          },
+          {
+            "type": "subsection",
+            "title": "Prohibited Use",
+            "text": "You may not:",
+            "list": [
+              "Upload files containing viruses, malware, or other harmful code",
+              "Use the Site to violate any applicable laws, regulations, or third-party rights",
+              "Attempt to interfere with, disrupt, or reverse-engineer the Site's functionality",
+              "Use the Site for commercial purposes without our prior written consent"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "user-files",
+        "icon": "📁",
+        "title": "User Files",
+        "content": [
+          {
+            "type": "highlight",
+            "title": "Temporary Processing",
+            "text": "Uploaded files are processed to combine PDFs and are automatically deleted from our servers within one (1) hour of processing. We do not store or retain your files beyond this period."
+          },
+          {
+            "type": "subsection",
+            "title": "Your Responsibility",
+            "text": "You are solely responsible for the content of the files you upload. You must ensure that you have the right to upload and process these files and that they do not infringe on any third-party rights (e.g., copyrights, trademarks)."
+          }
+        ]
+      },
+      {
+        "id": "intellectual-property",
+        "icon": "©️",
+        "title": "Intellectual Property",
+        "content": [
+          {
+            "type": "subsection",
+            "title": "Site Content",
+            "text": "All content on the Site, including text, graphics, logos, and software, is owned by or licensed to us and is protected by intellectual property laws."
+          },
+          {
+            "type": "subsection",
+            "title": "User Content",
+            "text": "You retain ownership of the files you upload. By uploading files, you grant us a limited, non-exclusive, royalty-free license to process your files solely to provide the PDF combining service."
+          }
+        ]
+      },
+      {
+        "id": "limitation-liability",
+        "icon": "⚠️",
+        "title": "Limitation of Liability",
+        "content": [
+          {
+            "type": "highlight",
+            "title": "No Warranty",
+            "text": "The Site is provided \"as is\" without warranties of any kind, express or implied, including warranties of merchantability, fitness for a particular purpose, or non-infringement."
+          },
+          {
+            "type": "subsection",
+            "title": "Liability Cap",
+            "text": "To the fullest extent permitted by law, we are not liable for any indirect, incidental, special, or consequential damages arising from your use of the Site, even if advised of the possibility of such damages."
+          },
+          {
+            "type": "subsection",
+            "title": "Service Interruptions",
+            "text": "We do not guarantee uninterrupted or error-free access to the Site and are not liable for any delays, downtime, or data loss."
+          }
+        ]
+      },
+      {
+        "id": "indemnification",
+        "icon": "⚖️",
+        "title": "Indemnification",
+        "content": [
+          {
+            "type": "highlight",
+            "text": "You agree to indemnify and hold us harmless from any claims, losses, or damages, including legal fees, arising from your use of the Site, your uploaded files, or your violation of these Terms."
+          }
+        ]
+      },
+      {
+        "id": "termination",
+        "icon": "🚫",
+        "title": "Termination",
+        "content": [
+          {
+            "type": "paragraph",
+            "text": "We may suspend or terminate your access to the Site at our sole discretion, without notice, if you violate these Terms or for any other reason."
+          }
+        ]
+      },
+      {
+        "id": "governing-law",
+        "icon": "🏛️",
+        "title": "Governing Law",
+        "content": [
+          {
+            "type": "paragraph",
+            "text": "These Terms are governed by the laws of Indonesia, without regard to conflict of law principles. Any disputes arising from these Terms will be resolved in the courts of Indonesia."
+          }
+        ]
+      },
+      {
+        "id": "changes",
+        "icon": "🔄",
+        "title": "Changes to Terms",
+        "content": [
+          {
+            "type": "paragraph",
+            "text": "We may update these Terms from time to time. Changes will be posted on this page with an updated \"Last Updated\" date."
+          },
+          {
+            "type": "highlight",
+            "text": "Your continued use of the Site after changes constitutes acceptance of the updated Terms."
+          }
+        ]
+      },
+      {
+        "id": "contact",
+        "icon": "📧",
+        "title": "Contact Us",
+        "content": [
+          {
+            "type": "highlight",
+            "text": "If you have questions about these Terms, please contact us at admin@gabungpdf.id"
+          }
+        ]
+      }
+    ],
+    "sections2": {
+      "title": "Key Agreement Points",
+      "desc": "Understanding your rights and responsibilities when using our service.",
+      "points": [
+        {
+          "title": "Fair Use",
+          "desc": "Use our service responsibly and lawfully"
+        },
+        {
+          "title": "Your Files",
+          "desc": "You retain ownership of all uploaded files"
+        },
+        {
+          "title": "No Abuse",
+          "desc": "Prohibited uses will result in termination"
+        },
+        {
+          "title": "Limited Liability",
+          "desc": "Service provided \"as is\" without warranties"
+        }
+      ]
+    },
+    "footer": {
+      "heading": "Have Questions?",
+      "description": "We're here to help with any terms or service concerns.",
+      "links": [
+        {
+          "label": "Privacy Policy",
+          "href": "/privacy-policy",
+          "icon": "🔒"
+        },
+        {
+          "label": "Contact Legal Team",
+          "href": "mailto:admin@gabungpdf.id",
+          "icon": "✉️"
+        }
+      ]
+    }
+  },
+  "Content": {
+    "Policy": {
+      "title": "Privacy Policy",
+      "desc": "We are committed to protecting your privacy and ensuring the security of your files. Learn how we collect, use, and protect your information when you use our PDF combining service.",
+      "Updated": "Last Updated:",
+      "date": "June 6, 2025"
+    },
+    "Terms": {
+      "title": "Terms of Service",
+      "desc": "These terms govern your use of our PDF combining service. Please read them carefully before using our site.",
+      "Updated": "Last Updated:",
+      "date": "June 6, 2025"
+    }
+  },
+  "MiniFooter": {
+    "heading": "Ready to Combine Your PDFs Securely?",
+    "subheading": "Experience our privacy-focused PDF combining service with complete peace of mind.",
+    "button": "Combine PDFs Now"
   }
 }
