@@ -886,7 +886,10 @@
           },
           {
             "type": "list",
-            "items": ["查詢或請求刪除您的資料", "反對或限制某些數據處理"]
+            "items": [
+              "查詢或請求刪除您的資料",
+              "反對或限制某些數據處理"
+            ]
           },
           {
             "type": "highlight",
@@ -1267,5 +1270,9 @@
     "heading": "準備好安全合併您的 PDF 嗎？",
     "subheading": "體驗我們以隱私為重點的 PDF 合併服務，讓您安心無憂。",
     "button": "立即合併 PDF"
+  },
+  "metadata": {
+    "title": "線上合併 PDF 檔案 - 免費、快速且安全 - GABUNG PDF",
+    "description": "使用 GabungPDF.id 輕鬆合併 PDF 檔案！免費、快速且安全的線上工具，可在數秒內合併 PDF 檔案。無需註冊。"
   }
 }

@@ -968,7 +968,6 @@
         }
       ]
     },
-
     "footer": {
       "heading": "Su'aalo Ma Qabta?",
       "description": "Waxaan diyaar u nahay inaan kaa caawino arrin kasta oo ku saabsan asturnaanta.",
@@ -1236,7 +1235,6 @@
         }
       ]
     },
-
     "footer": {
       "heading": "Su'aalo Ma Qabta?",
       "description": "Waxaan diyaar u nahay inaan kaa caawinno wixii su'aalo ah ee la xiriira shuruudaha ama adeegga.",
@@ -1272,5 +1270,9 @@
     "heading": "Diyaar ma u tahay inaad si ammaan ah u isku darto PDF-yadaada?",
     "subheading": "Ku raaxayso adeegga isku-darka PDF-yada ee diiradda saaraya asturnaanta iyadoo maskaxda lagu hayo nabadgelyadaada.",
     "button": "Hadda isku dar PDF-yada"
+  },
+  "metadata": {
+    "title": "Ku Biiri Faylasha PDF Online - Bilaash, Degdeg ah oo Ammaan ah - GABUNG PDF",
+    "description": "Si fudud u mido PDF-yada adoo adeegsanaya GabungPDF.id! Qalab online ah oo bilaash ah, degdeg ah oo ammaan ah si loo mideeyo faylasha PDF-ga daqiiqado gudahood. Isdiiwaangelin looma baahna."
   }
 }

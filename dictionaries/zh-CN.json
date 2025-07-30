@@ -887,7 +887,10 @@
           },
           {
             "type": "list",
-            "items": ["访问或请求删除您的数据", "反对或限制某些数据处理活动"]
+            "items": [
+              "访问或请求删除您的数据",
+              "反对或限制某些数据处理活动"
+            ]
           },
           {
             "type": "highlight",
@@ -1268,5 +1271,9 @@
     "heading": "准备好安全合并您的PDF了吗？",
     "subheading": "体验我们注重隐私的PDF合并服务，安心无忧。",
     "button": "立即合并PDF"
+  },
+  "metadata": {
+    "title": "在线合并PDF文件 - 免费、快速且安全 - GABUNG PDF",
+    "description": "使用 GabungPDF.id 轻松合并PDF文件！免费、快速、安全的在线工具，几秒钟内合并PDF文件。无需注册。"
   }
 }

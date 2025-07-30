@@ -5,6 +5,8 @@ import { useLanguage } from "../../lib/languageContext";
 import HeroSection from "@/Components/Home/HeroSection/HeroSection";
 import Instructions from "@/Components/Home/Instruction/Instructions";
 
+
+
 export default function Home() {
 
   const { currentLang, dict, loading, changeLanguage } = useLanguage()

@@ -948,27 +948,27 @@
       }
     ],
     "sections2": {
-  "title": "Komitmen Privasi Kami",
-  "desc": "Kami sangat menjaga privasi Anda. Berikut adalah alasan mengapa layanan kami dapat dipercaya",
-  "points": [
-    {
-      "title": "Penghapusan Otomatis",
-      "desc": "File secara otomatis dihapus dalam waktu 1 jam"
+      "title": "Komitmen Privasi Kami",
+      "desc": "Kami sangat menjaga privasi Anda. Berikut adalah alasan mengapa layanan kami dapat dipercaya",
+      "points": [
+        {
+          "title": "Penghapusan Otomatis",
+          "desc": "File secara otomatis dihapus dalam waktu 1 jam"
+        },
+        {
+          "title": "Transfer Terenkripsi",
+          "desc": "Semua unggahan menggunakan enkripsi HTTPS yang aman"
+        },
+        {
+          "title": "Tanpa Pembacaan File",
+          "desc": "Kami tidak pernah mengakses atau membaca isi file Anda"
+        },
+        {
+          "title": "Tanpa Berbagi",
+          "desc": "File Anda tidak pernah dibagikan dengan pihak ketiga"
+        }
+      ]
     },
-    {
-      "title": "Transfer Terenkripsi",
-      "desc": "Semua unggahan menggunakan enkripsi HTTPS yang aman"
-    },
-    {
-      "title": "Tanpa Pembacaan File",
-      "desc": "Kami tidak pernah mengakses atau membaca isi file Anda"
-    },
-    {
-      "title": "Tanpa Berbagi",
-      "desc": "File Anda tidak pernah dibagikan dengan pihak ketiga"
-    }
-  ]
-},
     "footer": {
       "heading": "Punya Pertanyaan?",
       "description": "Kami siap membantu Anda dengan pertanyaan atau kekhawatiran terkait privasi.",
@@ -1215,27 +1215,27 @@
       }
     ],
     "sections2": {
-  "title": "Poin-Poin Utama Perjanjian",
-  "desc": "Memahami hak dan kewajiban Anda saat menggunakan layanan kami.",
-  "points": [
-    {
-      "title": "Penggunaan yang Adil",
-      "desc": "Gunakan layanan kami secara bertanggung jawab dan sah"
+      "title": "Poin-Poin Utama Perjanjian",
+      "desc": "Memahami hak dan kewajiban Anda saat menggunakan layanan kami.",
+      "points": [
+        {
+          "title": "Penggunaan yang Adil",
+          "desc": "Gunakan layanan kami secara bertanggung jawab dan sah"
+        },
+        {
+          "title": "File Anda",
+          "desc": "Anda mempertahankan kepemilikan atas semua file yang diunggah"
+        },
+        {
+          "title": "Tanpa Penyalahgunaan",
+          "desc": "Penggunaan yang dilarang akan mengakibatkan penghentian layanan"
+        },
+        {
+          "title": "Tanggung Jawab Terbatas",
+          "desc": "Layanan disediakan 'sebagaimana adanya' tanpa jaminan"
+        }
+      ]
     },
-    {
-      "title": "File Anda",
-      "desc": "Anda mempertahankan kepemilikan atas semua file yang diunggah"
-    },
-    {
-      "title": "Tanpa Penyalahgunaan",
-      "desc": "Penggunaan yang dilarang akan mengakibatkan penghentian layanan"
-    },
-    {
-      "title": "Tanggung Jawab Terbatas",
-      "desc": "Layanan disediakan 'sebagaimana adanya' tanpa jaminan"
-    }
-  ]
-},
     "footer": {
       "heading": "Ada Pertanyaan?",
       "description": "Kami siap membantu jika ada pertanyaan tentang syarat atau layanan.",
@@ -1271,5 +1271,9 @@
     "heading": "Siap Menggabungkan PDF Anda dengan Aman?",
     "subheading": "Rasakan layanan penggabungan PDF kami yang fokus pada privasi dengan ketenangan penuh.",
     "button": "Gabungkan PDF Sekarang"
+  },
+  "metadata": {
+    "title": "Gabungkan File PDF Online - Gratis, Cepat, dan Aman - GABUNG PDF",
+    "description": "Gabungkan file PDF dengan mudah menggunakan GabungPDF.id! Alat online yang gratis, cepat, dan aman untuk menggabungkan file PDF dalam hitungan detik. Tidak perlu registrasi."
   }
 }

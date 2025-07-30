@@ -948,27 +948,27 @@
       }
     ],
     "sections2": {
-  "title": "Notre engagement en matière de confidentialité",
-  "desc": "Nous prenons votre confidentialité au sérieux. Voici ce qui rend notre service digne de confiance",
-  "points": [
-    {
-      "title": "Suppression automatique",
-      "desc": "Les fichiers sont automatiquement supprimés dans l'heure"
+      "title": "Notre engagement en matière de confidentialité",
+      "desc": "Nous prenons votre confidentialité au sérieux. Voici ce qui rend notre service digne de confiance",
+      "points": [
+        {
+          "title": "Suppression automatique",
+          "desc": "Les fichiers sont automatiquement supprimés dans l'heure"
+        },
+        {
+          "title": "Transfert chiffré",
+          "desc": "Tous les téléchargements utilisent un chiffrement HTTPS sécurisé"
+        },
+        {
+          "title": "Aucune lecture des fichiers",
+          "desc": "Nous n'accédons jamais au contenu de vos fichiers ni ne les lisons"
+        },
+        {
+          "title": "Aucun partage",
+          "desc": "Vos fichiers ne sont jamais partagés avec des tiers"
+        }
+      ]
     },
-    {
-      "title": "Transfert chiffré",
-      "desc": "Tous les téléchargements utilisent un chiffrement HTTPS sécurisé"
-    },
-    {
-      "title": "Aucune lecture des fichiers",
-      "desc": "Nous n'accédons jamais au contenu de vos fichiers ni ne les lisons"
-    },
-    {
-      "title": "Aucun partage",
-      "desc": "Vos fichiers ne sont jamais partagés avec des tiers"
-    }
-  ]
-},
     "footer": {
       "heading": "Des questions ?",
       "description": "Nous sommes là pour répondre à toutes vos questions ou préoccupations concernant la confidentialité.",
@@ -1215,27 +1215,27 @@
       }
     ],
     "sections2": {
-  "title": "Points clés de l’accord",
-  "desc": "Comprendre vos droits et responsabilités lors de l’utilisation de notre service.",
-  "points": [
-    {
-      "title": "Usage équitable",
-      "desc": "Utilisez notre service de manière responsable et légale"
+      "title": "Points clés de l’accord",
+      "desc": "Comprendre vos droits et responsabilités lors de l’utilisation de notre service.",
+      "points": [
+        {
+          "title": "Usage équitable",
+          "desc": "Utilisez notre service de manière responsable et légale"
+        },
+        {
+          "title": "Vos fichiers",
+          "desc": "Vous conservez la propriété de tous les fichiers téléchargés"
+        },
+        {
+          "title": "Aucun abus",
+          "desc": "Les usages interdits entraîneront la résiliation du service"
+        },
+        {
+          "title": "Responsabilité limitée",
+          "desc": "Le service est fourni « tel quel » sans garanties"
+        }
+      ]
     },
-    {
-      "title": "Vos fichiers",
-      "desc": "Vous conservez la propriété de tous les fichiers téléchargés"
-    },
-    {
-      "title": "Aucun abus",
-      "desc": "Les usages interdits entraîneront la résiliation du service"
-    },
-    {
-      "title": "Responsabilité limitée",
-      "desc": "Le service est fourni « tel quel » sans garanties"
-    }
-  ]
-},
     "footer": {
       "heading": "Vous avez des questions ?",
       "description": "Nous sommes là pour vous aider concernant toute question liée aux conditions ou au service.",
@@ -1271,5 +1271,9 @@
     "heading": "Prêt à fusionner vos PDF en toute sécurité ?",
     "subheading": "Découvrez notre service de fusion de PDF axé sur la confidentialité avec une tranquillité d'esprit totale.",
     "button": "Fusionner les PDF maintenant"
+  },
+  "metadata": {
+    "title": "Combiner des fichiers PDF en ligne - Gratuit, Rapide et Sécurisé - GABUNG PDF",
+    "description": "Combinez facilement des fichiers PDF avec GabungPDF.id ! Outil en ligne gratuit, rapide et sécurisé pour fusionner des fichiers PDF en quelques secondes. Aucune inscription requise."
   }
 }

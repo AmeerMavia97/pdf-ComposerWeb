@@ -1,7 +1,7 @@
-import { Figtree } from "next/font/google"
+import { Figtree } from "next/font/google";
 import "./globals.css";
 import { ThemeProvider } from "@/Components/ThemeProvider/theme-provider";
-import { LanguageProvider } from "../../lib/languageContext";
+import { LanguageProvider, useLanguage } from "../../lib/languageContext";
 import { Navbar } from "@/Components/Navbar/Navbar";
 import Footer from "@/Components/Footer/Footer";
 
@@ -17,6 +17,7 @@ export const metadata = {
 };
 
 export default function RootLayout({ children }) {
+
   return (
     <html lang="en" className={figtree.variable} suppressHydrationWarning>
       <body suppressHydrationWarning>
@@ -24,7 +25,7 @@ export default function RootLayout({ children }) {
           <LanguageProvider>
             <Navbar />
             {children}
-            <Footer/>
+            <Footer />
           </LanguageProvider>
         </ThemeProvider>
       </body>

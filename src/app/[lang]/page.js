@@ -4,6 +4,9 @@ import HeroSection from "@/Components/Home/HeroSection/HeroSection"
 import Instructions from "@/Components/Home/Instruction/Instructions"
 import { useLanguage } from "../../../lib/languageContext.js"
 
+
+
+
 const LangPage = ({ params }) => {
   const { currentLang, dict, loading, changeLanguage } = useLanguage()
 
