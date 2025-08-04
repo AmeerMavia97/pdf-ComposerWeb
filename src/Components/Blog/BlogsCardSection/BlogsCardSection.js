@@ -8,6 +8,7 @@ import { useLanguage } from "../../../../lib/languageContext";
 
 const BlogsCardSection = ({ dict }) => {
   const card = dict.blog.blogsPage.cards[0];
+  const card1 = dict.blog.blogsPage.cards[1];
   const { currentLang, loading } = useLanguage();
 
   return (
@@ -35,14 +36,14 @@ const BlogsCardSection = ({ dict }) => {
                 <span>{card.author}</span>
               </div>
               <h3 className="mb-3 text-xl font-bold leading-tight !text-gray-900 transition-colors group-hover:text-blue-600 line-clamp-2">
-                <Link href={card.headlineLink}>{card.headline}</Link>
+                <Link href={currentLang ? `/${currentLang}/blog/gabungpdfid-the-ultimate-tool-to-combine-pdf-files` : `/blog/gabungpdfid-the-ultimate-tool-to-combine-pdf-files`} >{card.headline}</Link>
               </h3>
               <p className="mb-6 text-sm leading-relaxed !text-gray-600 line-clamp-3">
                 {card.excerpt}
               </p>
               <div className="flex justify-between items-center">
                 <Link href={currentLang ? `/${currentLang}/blog/gabungpdfid-the-ultimate-tool-to-combine-pdf-files` : `/blog/gabungpdfid-the-ultimate-tool-to-combine-pdf-files`} className="inline-flex items-center text-sm font-semibold !text-blue-600 hover:!text-blue-700 group-hover:underline">
-                {card.readMoreText}
+                {card1.buttonName}
                 <svg
                   className="ml-1 w-4 h-4 transition-transform group-hover:translate-x-1"
                   fill="none"
