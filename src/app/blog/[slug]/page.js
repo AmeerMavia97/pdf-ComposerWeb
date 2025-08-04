@@ -1,5 +1,5 @@
 import React from 'react'
-import BlogDetail from './blogDetail'
+import BlogDetail from './BlogDetail'
 const layout = () => {
     return (
         <BlogDetail></BlogDetail>
