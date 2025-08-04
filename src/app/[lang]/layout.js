@@ -6,8 +6,8 @@ import { ThemeProvider } from "@/Components/ThemeProvider/theme-provider";
 export async function generateMetadata({ params }) {
   const dict = await getDictionary(params.lang);
   return {
-    title: dict.metadata?.title || "Default Title",
-    description: dict.metadata?.description || "Default description",
+    title: dict.Seo.Home?.title || "Default Title",
+    description: dict.Seo.Home?.description || "Default description",
   };
 }
 

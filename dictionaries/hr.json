@@ -1271,8 +1271,30 @@
     "subheading": "Iskusite našu uslugu spajanja PDF datoteka s naglaskom na privatnost i potpunim mirom.",
     "button": "Spoji PDF sada"
   },
-  "metadata": {
-    "title": "Spajanje PDF datoteka online – Besplatno, Brzo i Sigurno – GABUNG PDF",
-    "description": "Jednostavno spojite PDF datoteke pomoću GabungPDF.id! Besplatan, brz i siguran online alat za spajanje PDF datoteka u nekoliko sekundi. Nije potrebna registracija."
+  "Seo": {
+    "Home": {
+      "title": "Kombiniraj PDF Online Besplatno - Jednostavno i Brzo Spajanje PDF Datoteka",
+      "description": "Kombinirajte PDF dokumente besplatno online s GabungPDF.id. Jednostavan za korištenje, bez instalacije i registracije. Spojite PDF-ove odmah!"
+    },
+    "CombinePdf": {
+      "title": "Spoji PDF Datoteke Online Besplatno - Brz i Jednostavan PDF Spajač",
+      "description": "Kombinirajte PDF-ove besplatno online s GabungPDF.id. Brz i jednostavan alat za spajanje PDF-ova, bez potrebe za registracijom ili instalacijom. Spojite PDF-ove sada!"
+    },
+    "Blog1": {
+      "title": "Najlakši Način za Spajanje PDF Datoteka | Spoji PDF-ove",
+      "description": "Otkrijte najlakši način za spajanje PDF datoteka uz Gabung PDF. Besplatan, brz i jednostavan alat za besprijekorno spajanje PDF-ova. Isprobajte sada!"
+    },
+    "Blog2": {
+      "title": "Vrhovni Alat za Spajanje PDF-ova | Spoji PDF-ove",
+      "description": "Gabung PDF je vrhovni alat za spajanje PDF datoteka online. Brz, siguran i besplatan. Spojite PDF-ove bez napora danas!"
+    },
+    "privacyPolicy": {
+      "title": "Gabung PDF Pravila Privatnosti | Sigurno Spajanje PDF-ova",
+      "description": "Pročitajte pravila privatnosti Gabung PDF-a kako biste razumjeli kako štitimo vaše podatke tijekom sigurnog online spajanja PDF-ova. Saznajte više sada."
+    },
+    "TermsAndCondition": {
+      "title": "Gabung PDF Uvjeti Usluge | Spajanje PDF-ova",
+      "description": "Pregledajte Gabung PDF uvjete korištenja za naš besplatan i siguran alat za online spajanje PDF-ova. Upoznajte se s našim pravilima danas."
+    }
   }
 }

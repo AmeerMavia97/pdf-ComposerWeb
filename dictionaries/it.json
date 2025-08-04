@@ -1270,8 +1270,30 @@
     "subheading": "Prova il nostro servizio di unione PDF incentrato sulla privacy con la massima tranquillità.",
     "button": "Unisci PDF ora"
   },
-  "metadata": {
-    "title": "Unisci file PDF online - Gratis, Veloce e Sicuro - GABUNG PDF",
-    "description": "Unisci facilmente i PDF con GabungPDF.id! Strumento online gratuito, veloce e sicuro per unire file PDF in pochi secondi. Nessuna registrazione richiesta."
+  "Seo": {
+    "Home": {
+      "title": "Unisci PDF Online Gratis - Unisci File PDF Facilmente e Velocemente",
+      "description": "Unisci documenti PDF online gratis con GabungPDF.id. Strumento per unire PDF facile da usare, senza installazione né registrazione. Unisci subito i tuoi PDF!"
+    },
+    "CombinePdf": {
+      "title": "Unisci File PDF Online Gratis - Fusione PDF Veloce e Facile",
+      "description": "Unisci PDF online gratuitamente con GabungPDF.id. Strumento veloce e facile da usare, senza bisogno di registrazione o installazione. Unisci i tuoi PDF ora!"
+    },
+    "Blog1": {
+      "title": "Il Modo Più Facile per Unire File PDF | Unisci PDF",
+      "description": "Scopri il modo più semplice per unire file PDF con Gabung PDF. Strumento gratuito, veloce e facile da usare per unire PDF senza sforzi. Provalo!"
+    },
+    "Blog2": {
+      "title": "Lo Strumento Definitivo per Unire PDF | Unisci PDF",
+      "description": "Gabung PDF è lo strumento definitivo per unire file PDF online. Veloce, sicuro e gratuito. Unisci i tuoi PDF facilmente oggi stesso!"
+    },
+    "privacyPolicy": {
+      "title": "Privacy Policy di Gabung PDF | Fusione PDF Sicura",
+      "description": "Leggi l’informativa sulla privacy di Gabung PDF per capire come proteggiamo i tuoi dati durante la fusione sicura dei PDF online. Scopri di più ora."
+    },
+    "TermsAndCondition": {
+      "title": "Termini di Servizio di Gabung PDF | Unione PDF",
+      "description": "Consulta i termini di servizio di Gabung PDF per utilizzare il nostro strumento gratuito e sicuro per unire PDF online. Comprendi le nostre politiche oggi."
+    }
   }
 }

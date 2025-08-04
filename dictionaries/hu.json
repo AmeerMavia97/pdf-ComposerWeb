@@ -1271,8 +1271,30 @@
     "subheading": "Tapasztalja meg adatvédelem-központú PDF egyesítő szolgáltatásunkat teljes nyugalommal.",
     "button": "PDF-ek egyesítése most"
   },
-  "metadata": {
-    "title": "PDF fájlok egyesítése online – Ingyenes, Gyors és Biztonságos – GABUNG PDF",
-    "description": "Egyszerűen egyesítheti a PDF fájlokat a GabungPDF.id segítségével! Ingyenes, gyors és biztonságos online eszköz PDF fájlok másodpercek alatti egyesítésére. Nincs szükség regisztrációra."
+  "Seo": {
+    "Home": {
+      "title": "PDF Egyesítése Online Ingyen – PDF Fájlok Gyors és Egyszerű Összefűzése",
+      "description": "Egyesítse PDF dokumentumait ingyenesen online a GabungPDF.id segítségével. Könnyen használható PDF egyesítő, nincs szükség telepítésre vagy regisztrációra. Fűzze össze PDF-jeit most!"
+    },
+    "CombinePdf": {
+      "title": "PDF Fájlok Egyesítése Online Ingyen – Gyors és Egyszerű PDF Összefűző",
+      "description": "PDF-ek egyesítése ingyenesen online a GabungPDF.id segítségével. Gyors és egyszerűen használható PDF egyesítő, regisztráció vagy telepítés nélkül. Egyesítse most PDF-jeit!"
+    },
+    "Blog1": {
+      "title": "A Legkönnyebb Mód PDF Fájlok Egyesítésére | PDF Összefűzés",
+      "description": "Fedezze fel a legegyszerűbb módját a PDF fájlok egyesítésének a Gabung PDF segítségével. Ingyenes, gyors és felhasználóbarát eszköz a zökkenőmentes PDF egyesítéshez. Próbálja ki!"
+    },
+    "Blog2": {
+      "title": "A Végső Eszköz PDF-ek Egyesítéséhez | PDF Összefűzés",
+      "description": "A Gabung PDF a végső eszköz PDF fájlok online egyesítésére. Gyors, biztonságos és ingyenes. Egyesítse PDF-jeit könnyedén még ma!"
+    },
+    "privacyPolicy": {
+      "title": "Gabung PDF Adatvédelmi Szabályzat | Biztonságos PDF Összefűzés",
+      "description": "Olvassa el a Gabung PDF adatvédelmi szabályzatát, hogy megtudja, hogyan védjük adatait a PDF-ek biztonságos online egyesítése során. Tudjon meg többet most!"
+    },
+    "TermsAndCondition": {
+      "title": "Gabung PDF Felhasználási Feltételek | PDF Egyesítés",
+      "description": "Tekintse át a Gabung PDF felhasználási feltételeit, hogy megismerje ingyenes és biztonságos PDF egyesítő eszközünk szabályait. Ismerje meg szabályzatainkat még ma!"
+    }
   }
 }

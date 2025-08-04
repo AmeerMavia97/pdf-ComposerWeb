@@ -1272,8 +1272,30 @@
     "subheading": "Experimentați serviciul nostru de combinare PDF, axat pe confidențialitate, cu liniște deplină.",
     "button": "Combinați PDF-urile acum"
   },
-  "metadata": {
-    "title": "Combină fișiere PDF online - Gratuit, Rapid și Securizat - GABUNG PDF",
-    "description": "Combină fișiere PDF cu ușurință folosind GabungPDF.id! Instrument online gratuit, rapid și sigur pentru unirea fișierelor PDF în câteva secunde. Nu este necesară înregistrarea."
+  "Seo": {
+    "Home": {
+      "title": "Combină PDF Online Gratuit - Unește Fișiere PDF Ușor și Rapid",
+      "description": "Combină documente PDF online gratuit cu GabungPDF.id. Combinație de PDF ușor de utilizat, fără instalare, fără înregistrare. Unește fișiere PDF acum!"
+    },
+    "CombinePdf": {
+      "title": "Combină Fișiere PDF Online Gratuit - Îmbinare Rapidă și Ușoară",
+      "description": "Combină PDF-uri online gratuit cu GabungPDF.id. Combinație de PDF rapidă și ușor de utilizat, fără înregistrare sau instalare. Începe să unești PDF-uri acum!"
+    },
+    "Blog1": {
+      "title": "Cea Mai Ușoară Metodă de a Combina Fișiere PDF | Unește PDF-uri",
+      "description": "Descoperă cea mai ușoară modalitate de a combina fișiere PDF cu Gabung PDF. Instrument gratuit, rapid și ușor de utilizat pentru îmbinarea PDF-urilor. Încearcă acum!"
+    },
+    "Blog2": {
+      "title": "Instrumentul Suprem pentru Combinarea PDF-urilor | Unește PDF-uri",
+      "description": "Gabung PDF este instrumentul suprem pentru combinarea fișierelor PDF online. Rapid, sigur și gratuit. Combină PDF-uri fără efort chiar acum!"
+    },
+    "privacyPolicy": {
+      "title": "Politica de Confidențialitate Gabung PDF | Îmbinare Sigură PDF",
+      "description": "Citește politica de confidențialitate Gabung PDF pentru a înțelege cum îți protejăm datele în timp ce combini fișiere PDF online în siguranță. Află mai multe acum."
+    },
+    "TermsAndCondition": {
+      "title": "Termeni și Condiții Gabung PDF | Îmbinare PDF",
+      "description": "Consultă termenii și condițiile de utilizare a instrumentului nostru online gratuit și sigur pentru combinarea fișierelor PDF. Înțelege politicile noastre astăzi."
+    }
   }
 }

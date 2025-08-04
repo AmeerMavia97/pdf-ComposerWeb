@@ -1271,8 +1271,30 @@
     "subheading": "Ervaar onze privacygerichte PDF samenvoegservice met volledige gemoedsrust.",
     "button": "PDF's nu samenvoegen"
   },
-  "metadata": {
-    "title": "PDF-bestanden online samenvoegen - Gratis, Snel en Veilig - GABUNG PDF",
-    "description": "Voeg PDF-bestanden eenvoudig samen met GabungPDF.id! Gratis, snel en veilig online hulpmiddel om PDF-bestanden in enkele seconden samen te voegen. Geen registratie nodig."
+  "Seo": {
+    "Home": {
+      "title": "Combineer PDF Online Gratis - PDF-bestanden Snel & Eenvoudig Samenvoegen",
+      "description": "Combineer PDF-documenten gratis online met GabungPDF.id. Gebruiksvriendelijke PDF-combineerder, geen installatie of registratie nodig. Voeg nu eenvoudig je PDF's samen!"
+    },
+    "CombinePdf": {
+      "title": "Combineer PDF-bestanden Online Gratis - Snelle & Eenvoudige PDF-samenvoeging",
+      "description": "Combineer PDF’s online gratis met GabungPDF.id. Snelle en gebruiksvriendelijke PDF-combineerder zonder registratie of installatie. Voeg nu je PDF’s samen!"
+    },
+    "Blog1": {
+      "title": "De Eenvoudigste Manier om PDF-bestanden te Combineren | PDF’s Samenvoegen",
+      "description": "Ontdek de eenvoudigste manier om PDF-bestanden te combineren met Gabung PDF. Gratis, snel en gebruiksvriendelijk hulpmiddel voor moeiteloos PDF’s samenvoegen. Probeer het nu!"
+    },
+    "Blog2": {
+      "title": "Het Ultieme Hulpmiddel om PDF’s te Combineren | PDF’s Samenvoegen",
+      "description": "Gabung PDF is het ultieme hulpmiddel om PDF-bestanden online samen te voegen. Snel, veilig en gratis. Combineer vandaag nog moeiteloos je PDF’s!"
+    },
+    "privacyPolicy": {
+      "title": "Gabung PDF Privacybeleid | Veilige PDF-samenvoeging",
+      "description": "Lees het privacybeleid van Gabung PDF om te begrijpen hoe wij jouw gegevens beschermen tijdens het veilig samenvoegen van PDF’s online. Lees nu meer."
+    },
+    "TermsAndCondition": {
+      "title": "Gabung PDF Gebruiksvoorwaarden | PDF-samenvoeging",
+      "description": "Bekijk de gebruiksvoorwaarden van Gabung PDF voor het gebruik van onze gratis, veilige online PDF-samenvoegtool. Begrijp vandaag nog ons beleid."
+    }
   }
 }

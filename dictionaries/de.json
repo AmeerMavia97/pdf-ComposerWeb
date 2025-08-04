@@ -1272,8 +1272,30 @@
     "subheading": "Erleben Sie unseren datenschutzorientierten PDF-Zusammenführungsdienst mit vollständiger Sicherheit.",
     "button": "PDFs jetzt zusammenführen"
   },
-  "metadata": {
-    "title": "PDF-Dateien online zusammenfügen – kostenlos, schnell und sicher – GABUNG PDF",
-    "description": "PDFs ganz einfach mit GabungPDF.id zusammenfügen! Kostenloses, schnelles und sicheres Online-Tool zum Zusammenführen von PDF-Dateien in Sekunden. Keine Registrierung erforderlich."
+  "Seo": {
+    "Home": {
+      "title": "PDFs online kostenlos zusammenführen – PDF-Dateien einfach & schnell zusammenfügen",
+      "description": "Kombinieren Sie PDF-Dokumente online kostenlos mit GabungPDF.id. Einfach zu bedienendes PDF-Tool, keine Installation, keine Registrierung erforderlich. Jetzt PDFs zusammenführen!"
+    },
+    "CombinePdf": {
+      "title": "PDF-Dateien online kostenlos zusammenführen – Schnelles & einfaches PDF-Tool",
+      "description": "Kombinieren Sie PDFs online kostenlos mit GabungPDF.id. Schnelles und benutzerfreundliches Tool ohne Registrierung oder Installation. PDFs jetzt zusammenführen!"
+    },
+    "Blog1": {
+      "title": "Der einfachste Weg, PDF-Dateien zu kombinieren | PDFs zusammenführen",
+      "description": "Entdecken Sie den einfachsten Weg, PDF-Dateien mit Gabung PDF zu kombinieren. Kostenloses, schnelles und benutzerfreundliches Tool für nahtloses PDF-Zusammenführen. Jetzt ausprobieren!"
+    },
+    "Blog2": {
+      "title": "Das ultimative Tool zum Kombinieren von PDFs | PDFs zusammenführen",
+      "description": "Gabung PDF ist das ultimative Tool zum Online-Zusammenführen von PDF-Dateien. Schnell, sicher und kostenlos. Führen Sie PDFs noch heute mühelos zusammen!"
+    },
+    "privacyPolicy": {
+      "title": "Gabung PDF Datenschutzrichtlinie | Sicheres PDF-Zusammenführen",
+      "description": "Lesen Sie die Datenschutzrichtlinie von Gabung PDF, um zu erfahren, wie wir Ihre Daten beim sicheren Online-Zusammenführen von PDFs schützen. Jetzt mehr erfahren."
+    },
+    "TermsAndCondition": {
+      "title": "Gabung PDF Nutzungsbedingungen | PDF-Zusammenführung",
+      "description": "Lesen Sie die Nutzungsbedingungen von Gabung PDF für die Nutzung unseres kostenlosen, sicheren Online-Tools zur PDF-Zusammenführung. Verstehen Sie noch heute unsere Richtlinien."
+    }
   }
 }

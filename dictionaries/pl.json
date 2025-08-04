@@ -1263,8 +1263,30 @@
     "subheading": "Skorzystaj z naszej usługi łączenia PDF z pełnym poszanowaniem prywatności i spokojem ducha.",
     "button": "Połącz pliki PDF teraz"
   },
-  "metadata": {
-    "title": "Łączenie plików PDF online – za darmo, szybko i bezpiecznie – GABUNG PDF",
-    "description": "Łącz pliki PDF łatwo z GabungPDF.id! Darmowe, szybkie i bezpieczne narzędzie online do łączenia plików PDF w kilka sekund. Bez rejestracji."
+  "Seo": {
+    "Home": {
+      "title": "Łączenie PDF Online za Darmo - Scal Pliki PDF Łatwo i Szybko",
+      "description": "Łącz dokumenty PDF online za darmo z GabungPDF.id. Łatwy w użyciu łącznik PDF, bez instalacji, bez rejestracji. Połącz PDF-y już teraz!"
+    },
+    "CombinePdf": {
+      "title": "Łączenie Plików PDF Online za Darmo - Szybki i Łatwy Łącznik PDF",
+      "description": "Scalaj pliki PDF online za darmo z GabungPDF.id. Szybki i prosty w obsłudze łącznik PDF bez potrzeby rejestracji czy instalacji. Połącz PDF-y teraz!"
+    },
+    "Blog1": {
+      "title": "Najłatwiejszy Sposób na Łączenie Plików PDF | Scalanie PDF",
+      "description": "Odkryj najłatwiejszy sposób na łączenie plików PDF z Gabung PDF. Darmowe, szybkie i przyjazne dla użytkownika narzędzie do płynnego scalania PDF. Wypróbuj teraz!"
+    },
+    "Blog2": {
+      "title": "Najlepsze Narzędzie do Łączenia PDF | Scalanie PDF",
+      "description": "Gabung PDF to najlepsze narzędzie do łączenia plików PDF online. Szybkie, bezpieczne i darmowe. Scalaj PDF-y bez wysiłku już dziś!"
+    },
+    "privacyPolicy": {
+      "title": "Polityka Prywatności Gabung PDF | Bezpieczne Scalanie PDF",
+      "description": "Przeczytaj politykę prywatności Gabung PDF, aby dowiedzieć się, jak chronimy Twoje dane podczas bezpiecznego łączenia plików PDF online. Dowiedz się więcej już teraz."
+    },
+    "TermsAndCondition": {
+      "title": "Regulamin Usługi Gabung PDF | Scalanie PDF",
+      "description": "Zapoznaj się z regulaminem usługi Gabung PDF dotyczącym korzystania z naszego darmowego i bezpiecznego narzędzia do łączenia plików PDF online. Poznaj nasze zasady już dziś."
+    }
   }
 }

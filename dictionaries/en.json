@@ -1276,8 +1276,31 @@
     "subheading": "Experience our privacy-focused PDF combining service with complete peace of mind.",
     "button": "Combine PDFs Now"
   },
-  "metadata": {
-    "title": "Combine PDF Files Online - Free, Fast and Secure - GABUNG PDF",
-    "description": "Combine PDFs easily with GabungPDF.id! Free, fast, secure online tool to merge PDF files in seconds. No registration needed."
+  "Seo": {
+    "Home": {
+      "title": "Combine PDF Online Free - Merge PDF Files Easily & Quickly ",
+      "description": "Combine PDF documents online for free with GabungPDF.id. Easy-to-use PDF combiner, no installation, no registration. Easily merge PDFs now!"
+    },
+    "CombinePdf": {
+      "title": "Combine PDF Files Online Free - Fast & Easy PDFs Merger ",
+      "description": "Combine PDFs online for free with GabungPDF.id. Fast and easy to use PDF combiner with no registration or installation needed. Merge PDFs now!"
+    },
+    "Blog1": {
+      "title": "Easiest Way to Combine PDF Files | Merge PDFs",
+      "description": "Discover the easiest way to combine PDF files with Gabung PDF. Free, fast, and user-friendly tool for seamless PDF merging. Try it!"
+    },
+    "Blog2": {
+      "title": "Ultimate Tool to Combine PDFs | Merge PDFs",
+      "description": "Gabung PDF is the ultimate tool to combine PDF files online. Fast, secure, and free. Merge PDFs effortlessly today!"
+    },
+    "privacyPolicy": {
+      "title": "Gabung PDF Privacy Policy | Secure PDF Merging",
+      "description": "Read Gabung PDF’s privacy policy to understand how we protect your data while merging PDFs securely online. Learn more now.  "
+    },
+     "TermsAndCondition": {
+      "title": "Gabung PDF Terms of Service | PDF Merging  ",
+      "description": "Review Gabung PDF’s terms of service for using our free, secure online PDF merging tool. Understand our policies today."
+    }
+ 
   }
 }

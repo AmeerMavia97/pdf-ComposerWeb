@@ -1271,8 +1271,30 @@
     "subheading": "Mararanasan mo ang aming serbisyo sa pagsasama ng PDF na nakatuon sa privacy nang may ganap na kapanatagan ng loob.",
     "button": "Pagsamahin ang mga PDF Ngayon"
   },
-  "metadata": {
-    "title": "Pagsamahin ang mga PDF File Online - Libre, Mabilis at Ligtas - GABUNG PDF",
-    "description": "Madaling pagsamahin ang mga PDF gamit ang GabungPDF.id! Libreng, mabilis, at ligtas na online na tool para pagsamahin ang mga PDF file sa loob ng ilang segundo. Walang kinakailangang rehistrasyon."
+  "Seo": {
+    "Home": {
+      "title": "Pagsamahin ang PDF Online nang Libre - Madali at Mabilis na Pagsasama ng PDF",
+      "description": "Pagsamahin ang mga dokumentong PDF online nang libre gamit ang GabungPDF.id. Madaling gamitin na tagapagsama ng PDF, walang kailangang i-install, walang rehistrasyon. Pagsamahin agad ang mga PDF!"
+    },
+    "CombinePdf": {
+      "title": "Pagsamahin ang mga PDF Online nang Libre - Mabilis at Madaling Tagapagsama ng PDF",
+      "description": "Pagsamahin ang mga PDF online nang libre gamit ang GabungPDF.id. Mabilis at madaling gamitin na tagapagsama ng PDF na walang kailangang rehistro o pag-install. Pagsamahin ang mga PDF ngayon!"
+    },
+    "Blog1": {
+      "title": "Pinakamadaling Paraan para Pagsamahin ang mga PDF | Pagsamahin ang PDF",
+      "description": "Alamin ang pinakamadaling paraan para pagsamahin ang mga PDF gamit ang Gabung PDF. Libre, mabilis, at user-friendly na tool para sa tuluy-tuloy na pagsasama ng PDF. Subukan na!"
+    },
+    "Blog2": {
+      "title": "Pinakamahusay na Tool para Pagsamahin ang mga PDF | Pagsamahin ang PDF",
+      "description": "Ang Gabung PDF ang pinakamahusay na tool para pagsamahin ang mga PDF online. Mabilis, ligtas, at libre. Pagsamahin ang mga PDF nang madali ngayon!"
+    },
+    "privacyPolicy": {
+      "title": "Patakaran sa Privacy ng Gabung PDF | Ligtas na Pagsasama ng PDF",
+      "description": "Basahin ang patakaran sa privacy ng Gabung PDF upang maunawaan kung paano namin pinoprotektahan ang iyong data habang ligtas na pinagsasama ang mga PDF online. Alamin pa ngayon."
+    },
+    "TermsAndCondition": {
+      "title": "Mga Tuntunin ng Serbisyo ng Gabung PDF | Pagsasama ng PDF",
+      "description": "Suriin ang mga tuntunin ng serbisyo ng Gabung PDF para sa paggamit ng aming libreng, ligtas na online na tool sa pagsasama ng PDF. Unawain ang aming mga patakaran ngayon."
+    }
   }
 }

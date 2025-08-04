@@ -1271,8 +1271,30 @@
     "subheading": "體驗我們以隱私為重點的 PDF 合併服務，讓您安心無憂。",
     "button": "立即合併 PDF"
   },
-  "metadata": {
-    "title": "線上合併 PDF 檔案 - 免費、快速且安全 - GABUNG PDF",
-    "description": "使用 GabungPDF.id 輕鬆合併 PDF 檔案！免費、快速且安全的線上工具，可在數秒內合併 PDF 檔案。無需註冊。"
+  "Seo": {
+    "Home": {
+      "title": "免費線上合併PDF - 輕鬆快速合併PDF檔案",
+      "description": "使用 GabungPDF.id 免費線上合併PDF文件。簡單易用的PDF合併工具，無需安裝，無需註冊。立即輕鬆合併PDF！"
+    },
+    "CombinePdf": {
+      "title": "免費線上合併PDF檔案 - 快速又簡單的PDF合併器",
+      "description": "使用 GabungPDF.id 免費線上合併PDF。快速且易於使用的PDF合併工具，無需註冊或安裝。立即合併PDF檔案！"
+    },
+    "Blog1": {
+      "title": "最簡單的合併PDF方法｜合併PDF",
+      "description": "使用 Gabung PDF 發現最簡單的合併PDF方法。免費、快速、使用者友善的PDF合併工具。快來試試看！"
+    },
+    "Blog2": {
+      "title": "終極PDF合併工具｜合併PDF",
+      "description": "Gabung PDF 是線上合併PDF檔案的終極工具。快速、安全、免費。立即輕鬆合併PDF！"
+    },
+    "privacyPolicy": {
+      "title": "Gabung PDF 隱私政策｜安全的PDF合併",
+      "description": "閱讀 Gabung PDF 的隱私政策，了解我們如何在安全合併PDF時保護您的資料。立即了解更多。"
+    },
+    "TermsAndCondition": {
+      "title": "Gabung PDF 服務條款｜PDF合併",
+      "description": "查看 Gabung PDF 的服務條款，了解如何使用我們免費且安全的線上PDF合併工具。立即瞭解我們的政策。"
+    }
   }
 }

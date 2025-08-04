@@ -1270,8 +1270,30 @@
     "subheading": "プライバシーを重視したPDF結合サービスを安心してご利用ください。",
     "button": "今すぐPDFを結合"
   },
-  "metadata": {
-    "title": "PDFファイルをオンラインで結合 - 無料、高速、安全 - GABUNG PDF",
-    "description": "GabungPDF.idで簡単にPDFを結合！無料で高速かつ安全なオンラインツールで、数秒でPDFファイルを結合できます。登録不要。"
+  "Seo": {
+    "Home": {
+      "title": "PDFを無料でオンライン結合 - 簡単かつ迅速にPDFをマージ",
+      "description": "GabungPDF.idでPDFドキュメントを無料でオンライン結合。使いやすいPDF結合ツール、インストール不要、登録不要。今すぐ簡単にPDFを結合しましょう！"
+    },
+    "CombinePdf": {
+      "title": "PDFファイルを無料でオンライン結合 - 高速＆簡単なPDFマージツール",
+      "description": "GabungPDF.idでPDFを無料でオンライン結合。登録やインストール不要の、迅速で使いやすいPDF結合ツールです。今すぐPDFをマージしよう！"
+    },
+    "Blog1": {
+      "title": "PDFファイルを結合する最も簡単な方法｜PDFマージ",
+      "description": "Gabung PDFでPDFファイルを結合する最も簡単な方法をご紹介。無料、迅速、そしてユーザーフレンドリーなPDF結合ツールをお試しください！"
+    },
+    "Blog2": {
+      "title": "究極のPDF結合ツール｜PDFマージ",
+      "description": "Gabung PDFは、オンラインでPDFファイルを結合するための究極のツールです。高速、安全、そして無料で、今すぐ簡単にPDFをマージしましょう！"
+    },
+    "privacyPolicy": {
+      "title": "Gabung PDFプライバシーポリシー｜安全なPDF結合",
+      "description": "Gabung PDFのプライバシーポリシーをお読みいただき、PDFを安全にオンラインで結合する際に、どのようにデータを保護しているかをご確認ください。詳しくはこちら。"
+    },
+    "TermsAndCondition": {
+      "title": "Gabung PDF利用規約｜PDF結合",
+      "description": "Gabung PDFの無料で安全なPDF結合ツールをご利用いただくための利用規約をご確認ください。今すぐ当社のポリシーをご理解ください。"
+    }
   }
 }

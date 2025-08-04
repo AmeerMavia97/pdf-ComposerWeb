@@ -1274,8 +1274,30 @@
     "subheading": "개인정보 보호에 중점을 둔 PDF 병합 서비스를 안심하고 경험해 보세요.",
     "button": "지금 PDF 병합하기"
   },
-  "metadata": {
-    "title": "PDF 파일 온라인 병합 - 무료, 빠르고 안전함 - GABUNG PDF",
-    "description": "GabungPDF.id로 쉽게 PDF를 병합하세요! 무료이면서 빠르고 안전한 온라인 도구로 몇 초 만에 PDF 파일을 병합할 수 있습니다. 회원가입 필요 없음."
+  "Seo": {
+    "Home": {
+      "title": "PDF 온라인 무료 병합 - 쉽고 빠르게 PDF 파일 병합하기",
+      "description": "GabungPDF.id를 사용하여 PDF 문서를 온라인에서 무료로 병합하세요. 설치나 가입 없이 사용 가능한 간편한 PDF 병합 도구입니다. 지금 바로 PDF를 병합해보세요!"
+    },
+    "CombinePdf": {
+      "title": "PDF 파일 온라인 무료 병합 - 빠르고 쉬운 PDF 병합 도구",
+      "description": "GabungPDF.id에서 PDF를 무료로 온라인 병합하세요. 설치나 가입이 필요 없는 빠르고 사용하기 쉬운 PDF 병합기입니다. 지금 PDF를 병합해보세요!"
+    },
+    "Blog1": {
+      "title": "PDF 파일을 병합하는 가장 쉬운 방법 | PDF 병합",
+      "description": "Gabung PDF로 PDF 파일을 병합하는 가장 쉬운 방법을 확인해보세요. 무료, 빠르고 사용자 친화적인 도구로 간편하게 PDF를 병합해보세요!"
+    },
+    "Blog2": {
+      "title": "궁극의 PDF 병합 도구 | PDF 병합",
+      "description": "Gabung PDF는 온라인에서 PDF 파일을 병합할 수 있는 궁극의 도구입니다. 빠르고 안전하며 무료입니다. 지금 간편하게 PDF를 병합해보세요!"
+    },
+    "privacyPolicy": {
+      "title": "Gabung PDF 개인정보 보호정책 | 안전한 PDF 병합",
+      "description": "Gabung PDF의 개인정보 보호정책을 읽고 온라인에서 안전하게 PDF를 병합할 때 귀하의 데이터를 어떻게 보호하는지 알아보세요. 지금 자세히 알아보세요."
+    },
+    "TermsAndCondition": {
+      "title": "Gabung PDF 이용약관 | PDF 병합",
+      "description": "Gabung PDF의 무료이면서도 안전한 온라인 PDF 병합 도구를 사용할 때의 이용약관을 확인하세요. 지금 당사의 정책을 이해해보세요."
+    }
   }
 }

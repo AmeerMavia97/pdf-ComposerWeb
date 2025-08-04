@@ -1272,8 +1272,30 @@
     "subheading": "体验我们注重隐私的PDF合并服务，安心无忧。",
     "button": "立即合并PDF"
   },
-  "metadata": {
-    "title": "在线合并PDF文件 - 免费、快速且安全 - GABUNG PDF",
-    "description": "使用 GabungPDF.id 轻松合并PDF文件！免费、快速、安全的在线工具，几秒钟内合并PDF文件。无需注册。"
+  "Seo": {
+    "Home": {
+      "title": "免费在线合并PDF - 轻松快速地合并PDF文件",
+      "description": "使用 GabungPDF.id 免费在线合并PDF文档。易于使用的PDF合并工具，无需安装，无需注册。立即轻松合并PDF！"
+    },
+    "CombinePdf": {
+      "title": "免费在线合并PDF文件 - 快速简便的PDF合并器",
+      "description": "使用 GabungPDF.id 免费在线合并PDF。快速、易用的PDF合并工具，无需注册或安装。立即合并PDF文件！"
+    },
+    "Blog1": {
+      "title": "合并PDF文件最简单的方法 | 合并PDF",
+      "description": "通过 Gabung PDF 发现合并PDF文件最简单的方法。免费、快速、用户友好的无缝PDF合并工具。快来试试！"
+    },
+    "Blog2": {
+      "title": "终极PDF合并工具 | 合并PDF",
+      "description": "Gabung PDF 是在线合并PDF文件的终极工具。快速、安全、免费。今天就轻松合并PDF！"
+    },
+    "privacyPolicy": {
+      "title": "Gabung PDF隐私政策 | 安全的PDF合并",
+      "description": "阅读 Gabung PDF 的隐私政策，了解我们如何在安全合并PDF文件时保护您的数据。立即了解更多。"
+    },
+    "TermsAndCondition": {
+      "title": "Gabung PDF服务条款 | PDF合并",
+      "description": "查看 Gabung PDF 的服务条款，了解如何使用我们免费、安全的在线PDF合并工具。立即了解我们的政策。"
+    }
   }
 }

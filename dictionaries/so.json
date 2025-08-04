@@ -1271,8 +1271,30 @@
     "subheading": "Ku raaxayso adeegga isku-darka PDF-yada ee diiradda saaraya asturnaanta iyadoo maskaxda lagu hayo nabadgelyadaada.",
     "button": "Hadda isku dar PDF-yada"
   },
-  "metadata": {
-    "title": "Ku Biiri Faylasha PDF Online - Bilaash, Degdeg ah oo Ammaan ah - GABUNG PDF",
-    "description": "Si fudud u mido PDF-yada adoo adeegsanaya GabungPDF.id! Qalab online ah oo bilaash ah, degdeg ah oo ammaan ah si loo mideeyo faylasha PDF-ga daqiiqado gudahood. Isdiiwaangelin looma baahna."
+  "Seo": {
+    "Home": {
+      "title": "Isku dar PDF Online Bilaash - Si Fudud oo Degdeg ah U Isku Biiri PDF-yada",
+      "description": "Isku dar dukumentiyada PDF online bilaash adigoo isticmaalaya GabungPDF.id. Isku-daraha PDF-ga oo sahlan, uma baahna rakibid ama isdiiwaan gelin. Isku dar PDF-yada hadda!"
+    },
+    "CombinePdf": {
+      "title": "Isku Biiri PDF Bilaash Online - Isku-dar Degdeg ah oo Fudud",
+      "description": "Isku biiri PDF-yada online bilaash adigoo isticmaalaya GabungPDF.id. Isku-dar PDF oo degdeg ah, fudud in la isticmaalo, mana ubaahna isdiiwaan gelin ama rakibid. Ku biiri PDF-yada hadda!"
+    },
+    "Blog1": {
+      "title": "Habka Ugu Fudud ee Loo Isku Daro PDF | Ku Biir PDF",
+      "description": "Ka ogow habka ugu fudud ee lagu isku daro PDF-yada adigoo isticmaalaya Gabung PDF. Bilaash, degdeg ah, una sahlan dadka isticmaala. Isku day hadda!"
+    },
+    "Blog2": {
+      "title": "Qalabka Ugu Fiican ee Lagu Isku Daro PDF | Ku Biir PDF",
+      "description": "Gabung PDF waa qalabka ugu fiican ee lagu isku daro PDF-yada online. Degdeg ah, ammaan ah, oo bilaash ah. Ku biir PDF-yada si fudud maanta!"
+    },
+    "privacyPolicy": {
+      "title": "Gabung PDF Siyaasadda Asturnaanta | Isku-dar PDF Ammaan ah",
+      "description": "Akhri siyaasadda asturnaanta ee Gabung PDF si aad u fahanto sida aan u ilaalinno xogtaada markaad online-ka ku isku darayso PDF-yada si ammaan ah. Baro wax badan hadda."
+    },
+    "TermsAndCondition": {
+      "title": "Shuruudaha Adeegga Gabung PDF | Isku-darka PDF",
+      "description": "Dib u eeg shuruudaha adeegga ee Gabung PDF si aad u fahanto sida loo isticmaalo qalabkayaga isku-darka PDF ee online-ka ah, bilaashka ah, oo ammaan ah. Faham siyaasaddayada maanta."
+    }
   }
 }

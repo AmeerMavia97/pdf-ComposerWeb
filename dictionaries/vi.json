@@ -1272,8 +1272,30 @@
     "subheading": "Trải nghiệm dịch vụ kết hợp PDF tập trung vào quyền riêng tư với sự an tâm hoàn toàn.",
     "button": "Kết hợp PDF ngay"
   },
-  "metadata": {
-    "title": "Kết hợp các tệp PDF trực tuyến - Miễn phí, Nhanh chóng và An toàn - GABUNG PDF",
-    "description": "Dễ dàng kết hợp các tệp PDF với GabungPDF.id! Công cụ trực tuyến miễn phí, nhanh chóng và an toàn để hợp nhất các tệp PDF trong vài giây. Không cần đăng ký."
+  "Seo": {
+    "Home": {
+      "title": "Kết hợp PDF Trực tuyến Miễn phí - Ghép các Tệp PDF Dễ Dàng & Nhanh Chóng",
+      "description": "Kết hợp tài liệu PDF trực tuyến miễn phí với GabungPDF.id. Công cụ kết hợp PDF dễ sử dụng, không cần cài đặt, không cần đăng ký. Ghép PDF ngay bây giờ!"
+    },
+    "CombinePdf": {
+      "title": "Ghép các Tệp PDF Trực tuyến Miễn phí - Công cụ Kết hợp PDF Nhanh & Dễ dàng",
+      "description": "Ghép PDF trực tuyến miễn phí với GabungPDF.id. Công cụ kết hợp PDF nhanh chóng và dễ sử dụng, không cần đăng ký hay cài đặt. Ghép PDF ngay!"
+    },
+    "Blog1": {
+      "title": "Cách Dễ Nhất Để Ghép Các Tệp PDF | Kết hợp PDF",
+      "description": "Khám phá cách dễ nhất để kết hợp các tệp PDF với Gabung PDF. Miễn phí, nhanh chóng và thân thiện với người dùng. Hãy thử ngay!"
+    },
+    "Blog2": {
+      "title": "Công Cụ Tối Ưu Để Kết Hợp PDF | Ghép PDF",
+      "description": "Gabung PDF là công cụ tối ưu để kết hợp các tệp PDF trực tuyến. Nhanh chóng, an toàn và miễn phí. Ghép PDF dễ dàng ngay hôm nay!"
+    },
+    "privacyPolicy": {
+      "title": "Chính Sách Bảo Mật Gabung PDF | Kết hợp PDF An Toàn",
+      "description": "Đọc chính sách bảo mật của Gabung PDF để hiểu cách chúng tôi bảo vệ dữ liệu của bạn khi kết hợp PDF trực tuyến một cách an toàn. Tìm hiểu thêm ngay."
+    },
+    "TermsAndCondition": {
+      "title": "Điều Khoản Dịch Vụ Gabung PDF | Kết hợp PDF",
+      "description": "Xem điều khoản dịch vụ của Gabung PDF để sử dụng công cụ kết hợp PDF trực tuyến miễn phí và an toàn của chúng tôi. Hiểu rõ chính sách của chúng tôi ngay hôm nay."
+    }
   }
 }

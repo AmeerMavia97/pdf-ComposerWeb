@@ -1271,8 +1271,30 @@
     "subheading": "Vyzkoušejte naši službu sloučení PDF zaměřenou na ochranu soukromí s naprostým klidem.",
     "button": "Sloučit PDF nyní"
   },
-  "metadata": {
-    "title": "Sloučit PDF soubory online – zdarma, rychle a bezpečně – GABUNG PDF",
-    "description": "Snadno sloučte PDF soubory pomocí GabungPDF.id! Zdarma, rychlý a bezpečný online nástroj pro sloučení PDF souborů během několika sekund. Není nutná žádná registrace."
+  "Seo": {
+    "Home": {
+      "title": "Spojit PDF online zdarma – Sloučit soubory PDF snadno a rychle",
+      "description": "Spojte PDF dokumenty online zdarma s GabungPDF.id. Snadno použitelný slučovač PDF, bez instalace, bez registrace. Sloučte PDF hned teď!"
+    },
+    "CombinePdf": {
+      "title": "Spojte soubory PDF online zdarma – Rychlý a snadný slučovač PDF",
+      "description": "Spojte PDF online zdarma s GabungPDF.id. Rychlý a snadný slučovač PDF bez nutnosti registrace nebo instalace. Sloučte PDF hned!"
+    },
+    "Blog1": {
+      "title": "Nejjednodušší způsob, jak sloučit soubory PDF | Sloučit PDF",
+      "description": "Objevte nejjednodušší způsob, jak sloučit soubory PDF s Gabung PDF. Zdarma, rychlý a uživatelsky přívětivý nástroj pro bezproblémové slučování PDF. Vyzkoušejte to!"
+    },
+    "Blog2": {
+      "title": "Nejlepší nástroj pro slučování PDF | Sloučit PDF",
+      "description": "Gabung PDF je nejlepší nástroj pro online slučování souborů PDF. Rychlý, bezpečný a zdarma. Sloučte PDF snadno ještě dnes!"
+    },
+    "privacyPolicy": {
+      "title": "Zásady ochrany osobních údajů Gabung PDF | Bezpečné slučování PDF",
+      "description": "Přečtěte si zásady ochrany osobních údajů Gabung PDF a zjistěte, jak chráníme vaše data při bezpečném online slučování PDF. Zjistěte více nyní."
+    },
+    "TermsAndCondition": {
+      "title": "Podmínky služby Gabung PDF | Slučování PDF",
+      "description": "Přečtěte si podmínky služby Gabung PDF pro použití našeho bezplatného a bezpečného online nástroje pro slučování PDF. Seznamte se s našimi zásadami ještě dnes."
+    }
   }
 }

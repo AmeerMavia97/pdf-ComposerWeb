@@ -1272,8 +1272,30 @@
     "subheading": "Experimente nosso serviço de combinação de PDFs focado em privacidade com total tranquilidade.",
     "button": "Combine PDFs Agora"
   },
-  "metadata": {
-    "title": "Combinar arquivos PDF online - Grátis, Rápido e Seguro - GABUNG PDF",
-    "description": "Combine arquivos PDF facilmente com o GabungPDF.id! Ferramenta online gratuita, rápida e segura para mesclar arquivos PDF em segundos. Nenhum registro necessário."
+  "Seo": {
+    "Home": {
+      "title": "Combinar PDF Online Grátis - Una Arquivos PDF Fácil e Rapidamente",
+      "description": "Combine documentos PDF online gratuitamente com o GabungPDF.id. Ferramenta de combinação de PDF fácil de usar, sem instalação e sem registro. Una seus PDFs agora mesmo!"
+    },
+    "CombinePdf": {
+      "title": "Combinar Arquivos PDF Online Grátis - Rápido e Fácil",
+      "description": "Combine PDFs online gratuitamente com o GabungPDF.id. Ferramenta rápida e fácil de usar, sem necessidade de registro ou instalação. Una seus PDFs agora!"
+    },
+    "Blog1": {
+      "title": "A Maneira Mais Fácil de Combinar Arquivos PDF | Unir PDFs",
+      "description": "Descubra a maneira mais fácil de combinar arquivos PDF com o Gabung PDF. Ferramenta gratuita, rápida e amigável para uma fusão de PDF sem complicações. Experimente!"
+    },
+    "Blog2": {
+      "title": "A Melhor Ferramenta para Combinar PDFs | Unir PDFs",
+      "description": "O Gabung PDF é a ferramenta definitiva para combinar arquivos PDF online. Rápido, seguro e gratuito. Una seus PDFs com facilidade hoje mesmo!"
+    },
+    "privacyPolicy": {
+      "title": "Política de Privacidade do Gabung PDF | Combinação Segura de PDFs",
+      "description": "Leia a política de privacidade do Gabung PDF para entender como protegemos seus dados durante a combinação segura de PDFs online. Saiba mais agora."
+    },
+    "TermsAndCondition": {
+      "title": "Termos de Serviço do Gabung PDF | Combinação de PDFs",
+      "description": "Consulte os termos de serviço do Gabung PDF para utilizar nossa ferramenta gratuita e segura de combinação de PDFs online. Entenda nossas políticas hoje mesmo."
+    }
   }
 }

@@ -1272,8 +1272,30 @@
     "subheading": "Rasakan layanan penggabungan PDF kami yang fokus pada privasi dengan ketenangan penuh.",
     "button": "Gabungkan PDF Sekarang"
   },
-  "metadata": {
-    "title": "Gabungkan File PDF Online - Gratis, Cepat, dan Aman - GABUNG PDF",
-    "description": "Gabungkan file PDF dengan mudah menggunakan GabungPDF.id! Alat online yang gratis, cepat, dan aman untuk menggabungkan file PDF dalam hitungan detik. Tidak perlu registrasi."
+  "Seo": {
+    "Home": {
+      "title": "Gabungkan PDF Online Gratis - Satukan File PDF dengan Mudah & Cepat",
+      "description": "Gabungkan dokumen PDF secara online gratis dengan GabungPDF.id. Penggabung PDF yang mudah digunakan, tanpa instalasi, tanpa registrasi. Gabungkan PDF Anda sekarang!"
+    },
+    "CombinePdf": {
+      "title": "Gabungkan File PDF Online Gratis - Penggabung PDF Cepat & Mudah",
+      "description": "Gabungkan PDF secara online gratis dengan GabungPDF.id. Penggabung PDF yang cepat dan mudah digunakan tanpa registrasi atau instalasi. Gabungkan PDF sekarang!"
+    },
+    "Blog1": {
+      "title": "Cara Termudah Menggabungkan File PDF | Gabungkan PDF",
+      "description": "Temukan cara termudah untuk menggabungkan file PDF dengan Gabung PDF. Alat gratis, cepat, dan ramah pengguna untuk menggabungkan PDF dengan lancar. Coba sekarang!"
+    },
+    "Blog2": {
+      "title": "Alat Terbaik untuk Menggabungkan PDF | Gabungkan PDF",
+      "description": "Gabung PDF adalah alat terbaik untuk menggabungkan file PDF secara online. Cepat, aman, dan gratis. Gabungkan PDF Anda dengan mudah hari ini!"
+    },
+    "privacyPolicy": {
+      "title": "Kebijakan Privasi Gabung PDF | Penggabungan PDF yang Aman",
+      "description": "Baca kebijakan privasi Gabung PDF untuk memahami bagaimana kami melindungi data Anda saat menggabungkan PDF secara online dengan aman. Pelajari lebih lanjut sekarang!"
+    },
+    "TermsAndCondition": {
+      "title": "Syarat Layanan Gabung PDF | Penggabungan PDF",
+      "description": "Tinjau syarat layanan Gabung PDF untuk menggunakan alat penggabung PDF online kami yang gratis dan aman. Pahami kebijakan kami hari ini!"
+    }
   }
 }

@@ -1271,8 +1271,30 @@
     "subheading": "Gizliliğe odaklanan PDF birleştirme hizmetimizin tadını çıkarın ve içiniz rahat olsun.",
     "button": "Şimdi PDF'leri Birleştir"
   },
-  "metadata": {
-    "title": "PDF Dosyalarını Çevrimiçi Birleştir - Ücretsiz, Hızlı ve Güvenli - GABUNG PDF",
-    "description": "PDF dosyalarını GabungPDF.id ile kolayca birleştirin! PDF dosyalarını saniyeler içinde birleştirmek için ücretsiz, hızlı ve güvenli bir çevrimiçi araç. Kayıt gerekmez."
+  "Seo": {
+    "Home": {
+      "title": "PDF'leri Çevrimiçi Ücretsiz Birleştir - PDF Dosyalarını Kolayca ve Hızlıca Birleştir",
+      "description": "GabungPDF.id ile PDF belgelerini çevrimiçi olarak ücretsiz birleştirin. Kullanımı kolay PDF birleştirici, kurulum yok, kayıt gerekmez. PDF'leri hemen birleştirin!"
+    },
+    "CombinePdf": {
+      "title": "PDF Dosyalarını Çevrimiçi Ücretsiz Birleştir - Hızlı ve Kolay PDF Birleştirici",
+      "description": "GabungPDF.id ile PDF dosyalarını çevrimiçi olarak ücretsiz birleştirin. Kayıt veya kurulum gerektirmeyen hızlı ve kolay PDF birleştirici. Hemen PDF'leri birleştirin!"
+    },
+    "Blog1": {
+      "title": "PDF Dosyalarını Birleştirmenin En Kolay Yolu | PDF Birleştir",
+      "description": "Gabung PDF ile PDF dosyalarını birleştirmenin en kolay yolunu keşfedin. Ücretsiz, hızlı ve kullanıcı dostu araç ile sorunsuz PDF birleştirme. Hemen deneyin!"
+    },
+    "Blog2": {
+      "title": "PDF Birleştirmek İçin En İyi Araç | PDF Birleştir",
+      "description": "Gabung PDF, çevrimiçi PDF dosyalarını birleştirmek için en iyi araçtır. Hızlı, güvenli ve ücretsiz. PDF'leri zahmetsizce bugün birleştirin!"
+    },
+    "privacyPolicy": {
+      "title": "Gabung PDF Gizlilik Politikası | Güvenli PDF Birleştirme",
+      "description": "Gabung PDF’in gizlilik politikasını okuyarak verilerinizi çevrimiçi PDF birleştirirken nasıl koruduğumuzu öğrenin. Daha fazla bilgi edinin."
+    },
+    "TermsAndCondition": {
+      "title": "Gabung PDF Hizmet Şartları | PDF Birleştirme",
+      "description": "Ücretsiz ve güvenli çevrimiçi PDF birleştirme aracımızı kullanmadan önce Gabung PDF’in hizmet şartlarını inceleyin. Politikalarımızı şimdi anlayın."
+    }
   }
 }

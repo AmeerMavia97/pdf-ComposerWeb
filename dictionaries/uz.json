@@ -1273,8 +1273,30 @@
     "subheading": "Maxfiylikka urg‘u berilgan PDF birlashtirish xizmatimizdan to‘liq ishonch bilan foydalaning.",
     "button": "PDF fayllarni hoziroq birlashtiring"
   },
-  "metadata": {
-    "title": "PDF fayllarni onlayn birlashtiring – Bepul, Tez va Xavfsiz – GABUNG PDF",
-    "description": "PDF fayllarni GabungPDF.id yordamida osongina birlashtiring! PDF fayllarni bir necha soniya ichida birlashtirish uchun bepul, tez va xavfsiz onlayn vosita. Ro‘yxatdan o‘tish shart emas."
+  "Seo": {
+    "Home": {
+      "title": "PDF fayllarni bepul onlayn birlashtiring - Tez va oson PDF birlashtirish",
+      "description": "PDF hujjatlarni GabungPDF.id yordamida bepul onlayn birlashtiring. Oson foydalaniladigan PDF birlashtirgich, o‘rnatish va ro‘yxatdan o‘tish shart emas. Endi PDF fayllarni osongina birlashtiring!"
+    },
+    "CombinePdf": {
+      "title": "PDF fayllarni bepul onlayn birlashtiring - Tez va oson PDF birlashtirgich",
+      "description": "GabungPDF.id bilan PDF fayllarni onlayn bepul birlashtiring. Ro‘yxatdan o‘tmasdan va dastur o‘rnatmasdan foydalanish uchun tez va qulay PDF birlashtirgich. Endi birlashtiring!"
+    },
+    "Blog1": {
+      "title": "PDF fayllarni birlashtirishning eng oson yo‘li | PDF birlashtiring",
+      "description": "Gabung PDF bilan PDF fayllarni birlashtirishning eng oson usulini kashf eting. Bepul, tez va foydalanuvchi uchun qulay vosita. Sinab ko‘ring!"
+    },
+    "Blog2": {
+      "title": "PDF fayllarni birlashtirish uchun eng zo'r vosita | PDF birlashtiring",
+      "description": "Gabung PDF — bu PDF fayllarni onlayn birlashtirish uchun mukammal vosita. Tez, xavfsiz va bepul. Bugunoq osongina PDF fayllarni birlashtiring!"
+    },
+    "privacyPolicy": {
+      "title": "Gabung PDF Maxfiylik Siyosati | Xavfsiz PDF birlashtirish",
+      "description": "PDF fayllarni xavfsiz birlashtirayotganimizda sizning ma'lumotlaringizni qanday himoya qilishimizni tushunish uchun Gabung PDF’ning maxfiylik siyosatini o‘qing. Hozir ko‘proq bilib oling."
+    },
+    "TermsAndCondition": {
+      "title": "Gabung PDF Xizmat Ko‘rsatish Shartlari | PDF birlashtirish",
+      "description": "Bizning bepul va xavfsiz onlayn PDF birlashtirish vositamizdan foydalanish uchun Gabung PDF xizmat ko‘rsatish shartlarini ko‘rib chiqing. Siyosatlarimizni bugunoq tushuning."
+    }
   }
 }

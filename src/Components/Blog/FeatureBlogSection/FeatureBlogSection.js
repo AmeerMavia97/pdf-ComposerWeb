@@ -4,8 +4,11 @@ import React from "react";
 import FeatureBlogImage from "../../../../public/FeatureBlogImage.webp";
 import Image from "next/image";
 import Link from "next/link";
+import { useLanguage } from "../../../../lib/languageContext";
 
 const FeatureBlogSection = ({ dict }) => {
+ const {currentLang , loading } = useLanguage();
+
   const fb = dict.blog.featureblog;
 
   return (
@@ -40,7 +43,7 @@ const FeatureBlogSection = ({ dict }) => {
                 {fb.featuredArticle.excerpt}
               </p>
               <div className="flex items-center space-x-4">
-                <Link href={`/blog/gabungpdfid-the-easiest-way-to-combine-pdf-files`} className="inline-flex items-center px-8 py-4 font-semibold text-white bg-gradient-to-r from-blue-600 to-purple-600 rounded-xl shadow-lg transition-all duration-200 transform hover:from-blue-700 hover:to-purple-700 hover:shadow-xl hover:-translate-y-1">
+                <Link href={currentLang ? `/${currentLang}/blog/gabungpdfid-the-easiest-way-to-combine-pdf-files` :  `/blog/gabungpdfid-the-easiest-way-to-combine-pdf-files`} className="inline-flex items-center px-8 py-4 font-semibold text-white bg-gradient-to-r from-blue-600 to-purple-600 rounded-xl shadow-lg transition-all duration-200 transform hover:from-blue-700 hover:to-purple-700 hover:shadow-xl hover:-translate-y-1">
                   {fb.featuredArticle.buttonName}
                   <svg className="ml-2 w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                     <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2"

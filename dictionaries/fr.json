@@ -1272,8 +1272,30 @@
     "subheading": "Découvrez notre service de fusion de PDF axé sur la confidentialité avec une tranquillité d'esprit totale.",
     "button": "Fusionner les PDF maintenant"
   },
-  "metadata": {
-    "title": "Combiner des fichiers PDF en ligne - Gratuit, Rapide et Sécurisé - GABUNG PDF",
-    "description": "Combinez facilement des fichiers PDF avec GabungPDF.id ! Outil en ligne gratuit, rapide et sécurisé pour fusionner des fichiers PDF en quelques secondes. Aucune inscription requise."
+  "Seo": {
+    "Home": {
+      "title": "Combiner des PDF en Ligne Gratuitement - Fusionnez des Fichiers PDF Facilement et Rapidement",
+      "description": "Combinez des documents PDF en ligne gratuitement avec GabungPDF.id. Un outil de fusion de PDF facile à utiliser, sans installation ni inscription. Fusionnez vos PDF dès maintenant !"
+    },
+    "CombinePdf": {
+      "title": "Combiner des Fichiers PDF en Ligne Gratuitement - Fusion Rapide et Facile de PDF",
+      "description": "Combinez vos fichiers PDF en ligne gratuitement avec GabungPDF.id. Un outil de fusion rapide et facile à utiliser, sans inscription ni installation requise. Fusionnez vos PDF maintenant !"
+    },
+    "Blog1": {
+      "title": "La Façon la Plus Simple de Combiner des Fichiers PDF | Fusion de PDF",
+      "description": "Découvrez la manière la plus simple de combiner des fichiers PDF avec Gabung PDF. Un outil gratuit, rapide et convivial pour une fusion de PDF fluide. Essayez-le !"
+    },
+    "Blog2": {
+      "title": "L'Outil Ultime pour Combiner des PDF | Fusion de PDF",
+      "description": "Gabung PDF est l'outil ultime pour combiner des fichiers PDF en ligne. Rapide, sécurisé et gratuit. Fusionnez vos PDF sans effort dès aujourd'hui !"
+    },
+    "privacyPolicy": {
+      "title": "Politique de Confidentialité de Gabung PDF | Fusion de PDF Sécurisée",
+      "description": "Lisez la politique de confidentialité de Gabung PDF pour comprendre comment nous protégeons vos données lors de la fusion sécurisée de fichiers PDF en ligne. En savoir plus maintenant."
+    },
+    "TermsAndCondition": {
+      "title": "Conditions d'Utilisation de Gabung PDF | Fusion de PDF",
+      "description": "Consultez les conditions d'utilisation de Gabung PDF pour utiliser notre outil de fusion de PDF en ligne, gratuit et sécurisé. Comprenez nos politiques dès aujourd'hui."
+    }
   }
 }

@@ -1272,10 +1272,30 @@
     "subheading": "Məxfiliyə önəm verən PDF birləşdirmə xidmətimizi tam rahatlıqla sınaqdan keçirin.",
     "button": "PDF-ləri İndi Birləşdirin"
   },
-  
-  "metadata": {
-    "title": "PDF Fayllarını Onlayn Birləşdirin - Pulsuz, Sürətli və Təhlükəsiz - GABUNG PDF",
-    "description": "PDF fayllarını GabungPDF.id ilə asanlıqla birləşdirin! Pulsuz, sürətli və təhlükəsiz onlayn alət saniyələr içində PDF fayllarını birləşdirir. Qeydiyyat tələb olunmur."
+  "Seo": {
+    "Home": {
+      "title": "PDF Fayllarını Onlayn Birləşdirin Pulsuz - Asan və Sürətli Birləşdirmə",
+      "description": "PDF sənədlərini onlayn və pulsuz olaraq GabungPDF.id ilə birləşdirin. Quraşdırma və qeydiyyat tələb etməyən, istifadəsi asan PDF birləşdirici. İndi PDF-ləri asanlıqla birləşdirin!"
+    },
+    "CombinePdf": {
+      "title": "PDF Fayllarını Onlayn Birləşdirin Pulsuz - Sürətli və Asan PDF Birləşdirici",
+      "description": "GabungPDF.id ilə PDF-ləri onlayn və pulsuz birləşdirin. Qeydiyyat və ya quraşdırma olmadan sürətli və istifadəsi asan PDF birləşdirici. İndi PDF-ləri birləşdirin!"
+    },
+    "Blog1": {
+      "title": "PDF Fayllarını Birləşdirməyin Ən Asan Yolu | PDF Birləşdirin",
+      "description": "Gabung PDF ilə PDF fayllarını birləşdirməyin ən asan yolunu kəşf edin. Pulsuz, sürətli və istifadəçi dostu vasitə ilə problemsiz PDF birləşdirmə. İndi sınayın!"
+    },
+    "Blog2": {
+      "title": "PDF-ləri Birləşdirmək üçün Ən Yaxşı Alət | PDF Birləşdirin",
+      "description": "Gabung PDF PDF fayllarını onlayn birləşdirmək üçün ən mükəmməl vasitədir. Sürətli, təhlükəsiz və pulsuz. Bu gün PDF fayllarınızı asanlıqla birləşdirin!"
+    },
+    "privacyPolicy": {
+      "title": "Gabung PDF Məxfilik Siyasəti | Təhlükəsiz PDF Birləşdirilməsi",
+      "description": "PDF-ləri təhlükəsiz şəkildə onlayn birləşdirərkən məlumatlarınızı necə qoruduğumuzu başa düşmək üçün Gabung PDF-in məxfilik siyasətini oxuyun. Ətraflı məlumat alın."
+    },
+    "TermsAndCondition": {
+      "title": "Gabung PDF Xidmət Şərtləri | PDF Birləşdirmə",
+      "description": "Pulsuz və təhlükəsiz PDF birləşdirmə vasitəmizdən istifadə qaydalarını öyrənmək üçün Gabung PDF-in xidmət şərtlərini nəzərdən keçirin. Siyasətimizi bu gün anlayın."
+    }
   }
-
 }
