@@ -7,7 +7,7 @@ import { useLanguage } from "../../../../lib/languageContext"
 const CombinePdfPage = () => {
   const { currentLang, dict, loading } = useLanguage()
 
-  if (loading || !dict) {
+  if (loading || !currentLang) {
     return (
       <div className="min-h-screen flex items-center justify-center bg-gray-50">
         <div className="text-center">

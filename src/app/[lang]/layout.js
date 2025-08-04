@@ -2,20 +2,25 @@ import { getDictionary } from "../../../lib/dictionaries";
 import { LanguageProvider } from "../../../lib/languageContext";
 import { ThemeProvider } from "@/Components/ThemeProvider/theme-provider";
 
-
 export async function generateMetadata({ params }) {
-  const dict = await getDictionary(params.lang);
+  const resolvedParams = await params;
+  const lang = resolvedParams.lang || "en";
+
+  const dict = await getDictionary(lang);
+
   return {
-    title: dict.Seo.Home?.title || "Default Title",
-    description: dict.Seo.Home?.description || "Default description",
+    title: dict?.Seo?.Home?.title || "Default Title",
+    description: dict?.Seo?.Home?.description || "Default description",
   };
 }
 
+export default async function LangLayout({ children, params }) {
+  const resolvedParams = await params;
+  const lang = resolvedParams.lang || "en";
 
-export default function LangLayout({ children }) {
   return (
     <ThemeProvider defaultTheme="light">
-      <LanguageProvider>{children}</LanguageProvider>
+      <LanguageProvider lang={lang}>{children}</LanguageProvider>
     </ThemeProvider>
   );
 }

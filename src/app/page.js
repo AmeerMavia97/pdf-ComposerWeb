@@ -33,7 +33,7 @@ export default function Home() {
 
   
 
-  if (loading || !dict) {
+  if (loading || !dict || Object.keys(dict).length === 0) {
     return (
       <div className="min-h-screen flex items-center justify-center bg-gray-50">
         <div className="text-center">
